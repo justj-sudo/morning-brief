@@ -175,7 +175,9 @@ Risk Rules (NON-NEGOTIABLE):
 
 VIX Regime Logic: <15=complacent | 15–20=healthy trend | 20–25=caution | 25–30=defensive | 30+=risk-off
 
-OUTPUT FORMAT: Respond in valid JSON only. No markdown. No prose outside JSON.
+OUTPUT FORMAT: Return ONLY valid minified JSON. No markdown. No commentary. Never truncate.
+If you are approaching your output limit, shorten string values — do NOT cut off the JSON structure.
+Every opening brace/bracket must have a closing brace/bracket. Always complete the full object.
 
 JSON structure:
 {
@@ -208,27 +210,138 @@ JSON structure:
   }
 }"""
 
+BRIEF_FALLBACK = {
+    "regime": "Neutral",
+    "cio_summary": ["Brief generation error — JSON parsing failed after all retries. Re-run to retry."],
+    "macro_dashboard": {
+        "spy_trend": "N/A", "qqq_trend": "N/A", "iwm_trend": "N/A",
+        "vix": "N/A", "vix_regime": "N/A", "yield_10y": "N/A",
+        "dollar_trend": "N/A", "oil_trend": "N/A", "crypto_sentiment": "N/A",
+        "tactical_bias": "Neutral"
+    },
+    "institutional_setups": [],
+    "watchlist": [],
+    "position_actions": [],
+    "wheel_book": [],
+    "risk_alerts": ["Brief generation failed — check GitHub Actions logs for details."],
+    "cio_verdict": {"risk_posture": "Neutral", "capital_flow": "N/A", "avoid": "N/A"}
+}
+
+def clean_raw(raw: str) -> str:
+    """Strip markdown fences, BOM, invisible chars, and leading/trailing whitespace."""
+    raw = raw.strip().lstrip("\ufeff")
+    # Remove ```json ... ``` or ``` ... ``` fences
+    if raw.startswith("```"):
+        parts = raw.split("```")
+        # parts[1] is the content between first pair of fences
+        raw = parts[1] if len(parts) > 1 else raw
+        if raw.lower().startswith("json"):
+            raw = raw[4:]
+    return raw.strip()
+
+def repair_json(raw: str) -> str:
+    """
+    Attempt to repair common JSON issues:
+    - Truncated strings: find last complete key:value before the error position
+    - Trailing commas before ] or }
+    - Unclosed arrays and objects
+    """
+    # 1. Remove trailing commas before closing brackets/braces
+    import re
+    raw = re.sub(r",\s*([}\]])", r"\1", raw)
+
+    # 2. Try to find the last valid JSON boundary if string is truncated
+    # Walk backwards from end to find last clean , } or ]
+    for cutoff in range(len(raw), 0, -1):
+        candidate = raw[:cutoff].rstrip().rstrip(",")
+        # Close any open structures
+        opens  = candidate.count("{") - candidate.count("}")
+        arrays = candidate.count("[") - candidate.count("]")
+        if opens < 0 or arrays < 0:
+            continue
+        repaired = candidate + "]" * arrays + "}" * opens
+        try:
+            json.loads(repaired)
+            return repaired
+        except json.JSONDecodeError:
+            continue
+
+    return raw  # Return original if all repair attempts fail
+
+def safe_parse_json(raw: str, attempt: int) -> dict | None:
+    """
+    Try to parse raw string as JSON.
+    Returns parsed dict on success, None on failure.
+    Logs each failure reason.
+    """
+    cleaned = clean_raw(raw)
+
+    # Attempt 1: direct parse
+    try:
+        result = json.loads(cleaned)
+        print(f"   ✅ JSON parsed successfully on attempt {attempt}")
+        return result
+    except json.JSONDecodeError as e:
+        print(f"   ⚠️  Attempt {attempt} direct parse failed: {e.msg} at line {e.lineno} col {e.colno} (char {e.pos})")
+
+    # Attempt 2: repair then parse
+    print(f"   🔧 Attempt {attempt} — trying JSON repair...")
+    try:
+        repaired = repair_json(cleaned)
+        result = json.loads(repaired)
+        print(f"   ✅ JSON repair succeeded on attempt {attempt}")
+        return result
+    except json.JSONDecodeError as e:
+        print(f"   ❌ Attempt {attempt} repair also failed: {e.msg} at char {e.pos}")
+        print(f"   📋 Raw preview (first 300 chars): {cleaned[:300]}")
+        print(f"   📋 Raw tail   (last  300 chars): {cleaned[-300:]}")
+        return None
+
+def call_claude_api(messages: list, max_tokens: int = 8000) -> str:
+    """Make a single Claude API call and return raw text response."""
+    headers = {
+        "x-api-key": ANTHROPIC_API_KEY,
+        "anthropic-version": "2023-06-01",
+        "content-type": "application/json",
+    }
+    payload = {
+        "model": "claude-haiku-4-5-20251001",
+        "max_tokens": max_tokens,
+        "system": SYSTEM_PROMPT,
+        "messages": messages,
+    }
+    resp = requests.post("https://api.anthropic.com/v1/messages",
+                         headers=headers, json=payload, timeout=90)
+    if not resp.ok:
+        print(f"❌ Anthropic API error {resp.status_code}: {resp.text}")
+        resp.raise_for_status()
+    return resp.json()["content"][0]["text"].strip()
+
 def generate_brief_with_claude(macro_intel: dict, screened: list[dict], index_snaps: dict) -> dict:
-    """Send all data to Claude and get back the structured brief."""
+    """
+    Send all data to Claude and return the structured brief dict.
+    Retries up to 3 times with progressively stricter JSON instructions.
+    Never crashes the pipeline — returns BRIEF_FALLBACK if all attempts fail.
+    """
     print("🧠 Sending to Claude for synthesis...")
 
-    # Format index data cleanly
+    # Format index snapshot
     index_summary = []
     for t in INDEX_TICKERS:
-        snap = index_snaps.get(t, {})
-        daily = snap.get("dailyBar", {})
-        prev  = snap.get("prevDailyBar", {})
-        close = daily.get("c", 0)
+        snap   = index_snaps.get(t, {})
+        daily  = snap.get("dailyBar", {})
+        prev   = snap.get("prevDailyBar", {})
+        close  = daily.get("c", 0)
         prev_c = prev.get("c", 1)
-        pct = round((close - prev_c) / prev_c * 100, 2) if prev_c else 0
+        pct    = round((close - prev_c) / prev_c * 100, 2) if prev_c else 0
         index_summary.append(f"{t}: ${close} ({'+' if pct >= 0 else ''}{pct}%)")
 
-    user_message = f"""Today: {NOW}
+    base_user_message = f"""Today: {NOW}
 
-INDEX SNAPSHOT
+=== INDEX SNAPSHOT ===
 {chr(10).join(index_summary)}
 
-MACRO INTELLIGENCE (Perplexity)
+=== MACRO INTELLIGENCE (Perplexity) ===
 MACRO/YIELDS/COMMODITIES:
 {macro_intel['macro']}
 
@@ -238,43 +351,48 @@ SECTOR ROTATION & FLOW:
 INDIVIDUAL CATALYSTS:
 {macro_intel['catalysts']}
 
-SCREENED UNIVERSE (Top candidates by relative volume)
-{json.dumps(screened[:25], indent=2)}
+=== SCREENED UNIVERSE (Top candidates by relative volume) ===
+{json.dumps(screened[:20], indent=2)}
 
-Based on all of the above, generate the complete morning brief JSON. 
-- Watchlist: 15 names max, ranked by priority
-- Institutional setups: 10–15 names, highest conviction only
-- Wheel book: only quality names with good IV and support structure
-- Risk alerts: be specific, not generic
-- All price levels must be realistic given the data provided"""
+Generate the complete morning brief JSON.
+CRITICAL: Return ONLY valid minified JSON. No markdown. No commentary. Never truncate.
+Ensure JSON is fully complete and never truncated. If necessary, reduce detail instead of cutting off output.
+- Watchlist: 10 names max (ranked by priority)
+- Institutional setups: 8 names max (highest conviction only)
+- Wheel book: 5 names max
+- Keep all string values under 80 characters
+- All price levels must be realistic"""
 
-    payload = {
-        "model": "claude-haiku-4-5-20251001",
-        "max_tokens": 4000,
-        "system": SYSTEM_PROMPT,
-        "messages": [{"role": "user", "content": user_message}]
-    }
+    retry_escalations = [
+        # Attempt 1: standard
+        base_user_message,
+        # Attempt 2: stricter, smaller output
+        base_user_message + "\n\nPREVIOUS ATTEMPT PRODUCED INVALID JSON. "
+            "Return ONLY valid minified JSON on a SINGLE LINE. "
+            "Limit watchlist to 5 items, setups to 5 items, wheel to 3 items. "
+            "Every string must be under 60 chars. Do not truncate.",
+        # Attempt 3: minimal skeleton
+        f"""Today: {NOW}. Indexes: {', '.join(index_summary)}.
+Generate a MINIMAL but COMPLETE morning brief JSON. Max 3 items per array.
+All strings under 40 chars. Single line. No truncation. Valid JSON only.
+CRITICAL: Every {{ must have a matching }}. Every [ must have a matching ].""",
+    ]
 
-    headers = {
-        "x-api-key": ANTHROPIC_API_KEY,
-        "anthropic-version": "2023-06-01",
-        "content-type": "application/json",
-    }
+    for attempt, user_message in enumerate(retry_escalations, start=1):
+        print(f"\n   📤 Claude API attempt {attempt}/3...")
+        try:
+            raw = call_claude_api([{"role": "user", "content": user_message}])
+            result = safe_parse_json(raw, attempt)
+            if result is not None:
+                return result
+        except Exception as e:
+            print(f"   ❌ Attempt {attempt} API call failed: {e}")
 
-    resp = requests.post("https://api.anthropic.com/v1/messages",
-                         headers=headers, json=payload, timeout=60)
-    resp.raise_for_status()
+        if attempt < 3:
+            print(f"   🔁 Retrying with stricter instructions...")
 
-    raw = resp.json()["content"][0]["text"].strip()
-
-    # Strip any accidental markdown fences
-    if raw.startswith("```"):
-        raw = raw.split("```")[1]
-        if raw.startswith("json"):
-            raw = raw[4:]
-    raw = raw.strip()
-
-    return json.loads(raw)
+    print("\n❌ All 3 attempts failed — using fallback brief skeleton")
+    return BRIEF_FALLBACK
 
 # ── Step 4: Render HTML ───────────────────────────────────────────────────────
 def regime_color(regime: str) -> str:
@@ -540,6 +658,26 @@ def save_pdf(html_path: str, pdf_path: str):
 # ── Main ──────────────────────────────────────────────────────────────────────
 def main():
     print(f"\n🌅 Morning Brief Generator — {NOW}\n")
+
+    # 0. Validate API keys are present and look correct
+    key_checks = {
+        "ANTHROPIC_API_KEY":  (ANTHROPIC_API_KEY,  "sk-ant-"),
+        "ALPACA_API_KEY":     (ALPACA_API_KEY,      "PK"),
+        "ALPACA_SECRET_KEY":  (ALPACA_SECRET_KEY,   None),
+        "PERPLEXITY_API_KEY": (PERPLEXITY_API_KEY,  "pplx-"),
+    }
+    errors = []
+    for name, (val, prefix) in key_checks.items():
+        if not val:
+            errors.append(f"  missing or empty: {name}")
+        elif prefix and not val.startswith(prefix):
+            errors.append(f"  wrong format ({name} should start with '{prefix}')")
+    if errors:
+        print("❌ API Key issues:")
+        for e in errors: print(e)
+        print("\nFix: GitHub repo → Settings → Secrets and variables → Actions")
+        raise SystemExit(1)
+    print("✅ API keys validated\n")
 
     # 1. Fetch market data
     print("📊 Fetching Alpaca market data...")
