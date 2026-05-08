@@ -249,7 +249,7 @@ Based on all of the above, generate the complete morning brief JSON.
 - All price levels must be realistic given the data provided"""
 
     payload = {
-        "model": "claude-sonnet-4-20250514",
+        "model": "claude-haiku-4-5-20251001",
         "max_tokens": 4000,
         "system": SYSTEM_PROMPT,
         "messages": [{"role": "user", "content": user_message}]
