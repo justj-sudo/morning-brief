@@ -225,10 +225,10 @@ def generate_brief_with_claude(macro_intel: dict, screened: list[dict], index_sn
 
     user_message = f"""Today: {NOW}
 
-=== INDEX SNAPSHOT ===
+INDEX SNAPSHOT
 {chr(10).join(index_summary)}
 
-=== MACRO INTELLIGENCE (Perplexity) ===
+MACRO INTELLIGENCE (Perplexity)
 MACRO/YIELDS/COMMODITIES:
 {macro_intel['macro']}
 
@@ -238,7 +238,7 @@ SECTOR ROTATION & FLOW:
 INDIVIDUAL CATALYSTS:
 {macro_intel['catalysts']}
 
-=== SCREENED UNIVERSE (Top candidates by relative volume) ===
+SCREENED UNIVERSE (Top candidates by relative volume)
 {json.dumps(screened[:25], indent=2)}
 
 Based on all of the above, generate the complete morning brief JSON. 
