@@ -1,0 +1,64 @@
+name: Morning Brief
+
+on:
+  schedule:
+    # 6:00 AM Mountain = 12:00 UTC (MST) / 13:00 UTC (MDT)
+    # Using 12:00 UTC to hit ~6 AM MT year-round (adjust for DST manually if needed)
+    - cron: '0 12 * * 1-5'   # Weekdays only
+
+  workflow_dispatch:            # Manual trigger from GitHub UI or CLI
+    inputs:
+      reason:
+        description: 'Reason for manual run (optional)'
+        required: false
+        default: 'Manual trigger'
+
+permissions:
+  contents: write               # Needed to push output/ to gh-pages branch
+
+jobs:
+  generate-brief:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Cache pip
+        uses: actions/cache@v4
+        with:
+          path: ~/.cache/pip
+          key: ${{ runner.os }}-pip-${{ hashFiles('requirements.txt') }}
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Generate Morning Brief
+        env:
+          ANTHROPIC_API_KEY:  ${{ secrets.ANTHROPIC_API_KEY }}
+          ALPACA_API_KEY:     ${{ secrets.ALPACA_API_KEY }}
+          ALPACA_SECRET_KEY:  ${{ secrets.ALPACA_SECRET_KEY }}
+          PERPLEXITY_API_KEY: ${{ secrets.PERPLEXITY_API_KEY }}
+        run: python scripts/generate_brief.py
+
+      - name: Deploy to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./output
+          publish_branch: gh-pages
+          keep_files: true          # Preserve past briefs (archived by date)
+          commit_message: "Brief ${{ env.TODAY || 'latest' }}"
+
+      - name: Upload brief as artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: morning-brief-${{ github.run_id }}
+          path: output/
+          retention-days: 30
