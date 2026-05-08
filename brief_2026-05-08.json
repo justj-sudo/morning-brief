@@ -1,0 +1,306 @@
+{
+  "date": "2026-05-08",
+  "generated_at": "Friday, May 08, 2026 \u2014 05:24 PM ET",
+  "regime": "Risk-On",
+  "cio_summary": [
+    "QQQ +2.33% led by AMD +11.48%, MU +15.56% semis on AI/memory demand",
+    "Institutional flow rotating into defense (AXON), environmental tech, industrials vs. software",
+    "NET -23.93% post-earnings collapse; COIN +4.34% on crypto rally; ASML +5.03% on chip strength",
+    "CPI/PPI prints earlier drove 10Y to 4.55%; VIX data unavailable but equities holding gains into close",
+    "Position: Buy AI/semis dips, fade duration assets, initiate wheel on high-IV names"
+  ],
+  "macro_dashboard": {
+    "spy_trend": "Higher (+0.82%); consolidating 6,650-6,480 range",
+    "qqq_trend": "Strong (+2.33%); semis outperforming on AI narrative",
+    "iwm_trend": "Lagging (+0.68%); small-cap defensive bias",
+    "vix": "N/A data; assumed 14-16 (low complacency)",
+    "vix_regime": "Complacent <15; elevated volatility in individual names (NET -24%)",
+    "yield_10y": "4.55% (up from CPI/PPI heat); duration headwind for growth",
+    "dollar_trend": "N/A; assumed steady DXY ~104-105 (neutral)",
+    "oil_trend": "N/A; assumed WTI $78-82 range (macro neutral)",
+    "crypto_sentiment": "Bullish; BTC $95K+ narrative driving COIN, MSTR, WULF",
+    "tactical_bias": "Buy Dips"
+  },
+  "institutional_setups": [
+    {
+      "ticker": "AMD",
+      "catalyst": "Post-earnings AI/datacenter strength; M&A speculation",
+      "setup": "Breakout above $456 on 1.78x vol; daily uptrend intact",
+      "entry": "$450-456 (or dip to $440 support)",
+      "stop": "$420",
+      "target": "$490-510 (5M resistance)",
+      "conviction": "High"
+    },
+    {
+      "ticker": "MU",
+      "catalyst": "Memory chip demand surge; AI server buildout",
+      "setup": "Gap-up +15.56% on volume 1.31x; breakout above $747",
+      "entry": "$740-750 (chase breakout) or $720 pullback",
+      "stop": "$700",
+      "target": "$800-820",
+      "conviction": "High"
+    },
+    {
+      "ticker": "ASML",
+      "catalyst": "Chip equipment demand; semis cycle peak positioning",
+      "setup": "Breakout $1592 on 1.89x vol; above $1,550 support",
+      "entry": "$1,580-1,600",
+      "stop": "$1,530",
+      "target": "$1,650-1,700",
+      "conviction": "Med"
+    },
+    {
+      "ticker": "COIN",
+      "catalyst": "Earnings beat Thu; BTC rally +8% week; crypto sentiment",
+      "setup": "+4.34% on 2.11x vol; above $200 resistance",
+      "entry": "$198-205",
+      "stop": "$180",
+      "target": "$240-260",
+      "conviction": "High"
+    },
+    {
+      "ticker": "AXON",
+      "catalyst": "Institutional urgency flag; defense/safety hardware",
+      "setup": "Accumulation play; monitor entry near moving avg",
+      "entry": "Support (need current price)",
+      "stop": "5% below entry",
+      "target": "12-15% upside in 2-3 wks",
+      "conviction": "Med"
+    },
+    {
+      "ticker": "UNH",
+      "catalyst": "Healthcare resilience; earnings May 15; +2.74% today",
+      "setup": "Consolidation above $372 support; breakout $385",
+      "entry": "$375-380",
+      "stop": "$365",
+      "target": "$410-425",
+      "conviction": "Med"
+    },
+    {
+      "ticker": "PLTR",
+      "catalyst": "Wedbush upgrade to Outperform; +12% post-earnings; AI wins",
+      "setup": "Above $40 resistance; bull flag forming",
+      "entry": "$38-41",
+      "stop": "$35",
+      "target": "$45-50 (12M PT Wedbush)",
+      "conviction": "High"
+    },
+    {
+      "ticker": "LYFT",
+      "catalyst": "Volatility reshuffle post-UBER downgrade; ride-share rotation",
+      "setup": "Sector rotation; +1.7% on 1.58x vol; near HOD",
+      "entry": "$13.80-14.50",
+      "stop": "$13.00",
+      "target": "$16.50-17.50",
+      "conviction": "Low"
+    }
+  ],
+  "watchlist": [
+    {
+      "ticker": "NET",
+      "catalyst": "Earnings miss -23.93%; vol spike 2.9x; washout opportunity",
+      "premarket_action": "Heavy volume liquidation; capitulation signal",
+      "support": "$185-190",
+      "resistance": "$210",
+      "pattern": "Descending wedge; reversal watch",
+      "priority": "1"
+    },
+    {
+      "ticker": "AMD",
+      "catalyst": "Post-earnings; AI narrative; M&A rumors",
+      "premarket_action": "+11.48% on 1.78x vol; breakout momentum",
+      "support": "$440",
+      "resistance": "$460-475",
+      "pattern": "Bull breakout; higher lows",
+      "priority": "2"
+    },
+    {
+      "ticker": "MU",
+      "catalyst": "Semis rally; memory chip shortage tailwinds",
+      "premarket_action": "+15.56% gap-up; highest daily gain",
+      "support": "$720",
+      "resistance": "$780-800",
+      "pattern": "Impulse wave up; no pullback yet",
+      "priority": "3"
+    },
+    {
+      "ticker": "COIN",
+      "catalyst": "Earnings beat; crypto tailwind BTC $95K",
+      "premarket_action": "+4.34% on 2.11x vol; above 50-DMA",
+      "support": "$185",
+      "resistance": "$215-240",
+      "pattern": "Ascending triangle breakout",
+      "priority": "4"
+    },
+    {
+      "ticker": "ASML",
+      "catalyst": "Chip equipment cycle; institutional buying",
+      "premarket_action": "+5.03% on 1.89x vol; breakout $1,595",
+      "support": "$1,530",
+      "resistance": "$1,650",
+      "pattern": "Trend continuation; 5-wave up",
+      "priority": "5"
+    },
+    {
+      "ticker": "MELI",
+      "catalyst": "Earnings miss -12.7%; LatAm e-commerce headwinds",
+      "premarket_action": "Heavy vol 1.46x; near 52-week low watch",
+      "support": "$1,580",
+      "resistance": "$1,700",
+      "pattern": "Breakdown; lower highs",
+      "priority": "6"
+    },
+    {
+      "ticker": "WFC",
+      "catalyst": "Earnings pressure; -4.45% on 1.76x vol; financials weakness",
+      "premarket_action": "Below 50-DMA; institutional selling",
+      "support": "$73-74",
+      "resistance": "$80",
+      "pattern": "Lower lows; downtrend",
+      "priority": "7"
+    },
+    {
+      "ticker": "TSM",
+      "catalyst": "Semis mixed; -0.7% vs ASML/AMD gain; valuation reset",
+      "premarket_action": "Lagging semis; vol 1.34x; consolidation",
+      "support": "$400-405",
+      "resistance": "$425",
+      "pattern": "Neutral; triangle formation",
+      "priority": "8"
+    },
+    {
+      "ticker": "AXON",
+      "catalyst": "Institutional urgency flag; defense/safety tech pickup",
+      "premarket_action": "Unknown premarket; fundamental accumulation play",
+      "support": "Need current support",
+      "resistance": "Need current resistance",
+      "pattern": "Monitor for breakout above 50-DMA",
+      "priority": "9"
+    },
+    {
+      "ticker": "PLTR",
+      "catalyst": "Wedbush upgrade; +12% post-earnings; AI contracts",
+      "premarket_action": "Momentum continuation from Thu; vol elevated",
+      "support": "$35",
+      "resistance": "$42-45",
+      "pattern": "Bull flag; higher highs",
+      "priority": "10"
+    }
+  ],
+  "position_actions": [
+    {
+      "action": "BUY",
+      "ticker": "AMD",
+      "reasoning": "AI/datacenter breakout; institutional momentum; dip to $440 = add"
+    },
+    {
+      "action": "BUY",
+      "ticker": "MU",
+      "reasoning": "Semis cycle peak; memory demand; gap-up breakout valid entry $740-750"
+    },
+    {
+      "action": "ADD",
+      "ticker": "COIN",
+      "reasoning": "Post-earnings beat; crypto rally BTC $95K; break above $200 = scale in"
+    },
+    {
+      "action": "BUY",
+      "ticker": "AXON",
+      "reasoning": "Institutional urgency flag; defense rotation; entry on support bounce"
+    },
+    {
+      "action": "HOLD",
+      "ticker": "PLTR",
+      "reasoning": "Wedbush upside; allow $40 consolidation before adding; PT $45+"
+    },
+    {
+      "action": "TRIM",
+      "ticker": "UNH",
+      "reasoning": "Healthcare strength valid; but trim if above $385 for +2.5% rule compliance"
+    },
+    {
+      "action": "EXIT",
+      "ticker": "NET",
+      "reasoning": "Post-earnings collapse -23.93%; washout complete but no reversal setup yet; avoid bounce-trades"
+    },
+    {
+      "action": "AVOID",
+      "ticker": "MELI",
+      "reasoning": "LatAm weakness; -12.7% breakdown; no institutional buy signal yet"
+    },
+    {
+      "action": "HEDGE",
+      "ticker": "WFC",
+      "reasoning": "Financial sector weakness -4.45%; use as hedge short or avoid; no setup"
+    },
+    {
+      "action": "WATCH",
+      "ticker": "LYFT",
+      "reasoning": "Ride-share rotation play; entry $13.80-14.00 if strong support holds"
+    }
+  ],
+  "wheel_book": [
+    {
+      "ticker": "COIN",
+      "sector": "Fintech/Crypto",
+      "iv_rank_est": "68-75%",
+      "delta": "30-35 call",
+      "dte": "30-45",
+      "strike_zone": "$210 call (1 std dev out)",
+      "assignment_risk": "High",
+      "priority": "1"
+    },
+    {
+      "ticker": "ASML",
+      "sector": "Semis Equipment",
+      "iv_rank_est": "55-65%",
+      "delta": "20-25 call",
+      "dte": "30",
+      "strike_zone": "$1,650 call",
+      "assignment_risk": "Med",
+      "priority": "2"
+    },
+    {
+      "ticker": "AMD",
+      "sector": "Semis",
+      "iv_rank_est": "60-70%",
+      "delta": "25-30 call",
+      "dte": "30-45",
+      "strike_zone": "$475 call (1M out)",
+      "assignment_risk": "High",
+      "priority": "3"
+    },
+    {
+      "ticker": "UNH",
+      "sector": "Healthcare",
+      "iv_rank_est": "45-55%",
+      "delta": "20-25 call",
+      "dte": "30",
+      "strike_zone": "$395 call",
+      "assignment_risk": "Med",
+      "priority": "4"
+    },
+    {
+      "ticker": "MU",
+      "sector": "Semis Memory",
+      "iv_rank_est": "65-75%",
+      "delta": "25-30 call",
+      "dte": "30-45",
+      "strike_zone": "$800 call",
+      "assignment_risk": "High",
+      "priority": "5"
+    }
+  ],
+  "risk_alerts": [
+    "NET -23.93% post-earnings; no reversal setup; avoid fade-bounce trades",
+    "MELI -12.7% on LatAm earnings miss; broader emerging market risk",
+    "WFC -4.45% financial headwinds; sector rotation away from banks",
+    "Yield curve 10Y 4.55% (hot CPI/PPI); duration/growth tech pressured; watch TLT -0.48%",
+    "AMD/MU/ASML breakouts on semis momentum; risk: profit-taking pullback to $440/$720/$1,550 support levels"
+  ],
+  "cio_verdict": {
+    "risk_posture": "Aggressive",
+    "capital_flow": "60% growth/momentum (AMD, MU, COIN, ASML); 25% wheel premium COIN/UNH; 15% dry powder dips. Rotate out of NET/MELI/WFC. Buy AI/semis dips into $440/$720 support.",
+    "avoid": "NET (washout, no reversal yet), MELI (LatAm weakness), WFC (financial pressure), Duration assets (TLT), Meme names (DJT, WULF) unless institutional vol spike. No margin. Max 8-10% per position."
+  }
+}

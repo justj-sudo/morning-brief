@@ -1,0 +1,471 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Morning Brief — 2026-05-08</title>
+<style>
+  :root {
+    --bg: #0d1117; --surface: #161b22; --border: #21262d;
+    --text: #e6edf3; --muted: #8b949e; --accent: #58a6ff;
+  }
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body { background: var(--bg); color: var(--text); font-family: 'Segoe UI', system-ui, sans-serif; font-size: 14px; line-height: 1.5; }
+  .container { max-width: 1400px; margin: 0 auto; padding: 24px; }
+
+  /* Header */
+  .header { display: flex; justify-content: space-between; align-items: center;
+             border-bottom: 1px solid var(--border); padding-bottom: 16px; margin-bottom: 24px; }
+  .header-left h1 { font-size: 22px; font-weight: 700; color: var(--accent); }
+  .header-left .subtitle { color: var(--muted); font-size: 12px; margin-top: 2px; }
+  .regime-pill { padding: 6px 16px; border-radius: 20px; font-weight: 700; font-size: 13px;
+                  background: #00c89622; color: #00c896; border: 1px solid #00c896; }
+
+  /* Sections */
+  .section { margin-bottom: 28px; }
+  .section-title { font-size: 11px; font-weight: 700; letter-spacing: 1.5px; text-transform: uppercase;
+                    color: var(--muted); border-bottom: 1px solid var(--border); padding-bottom: 8px; margin-bottom: 14px; }
+
+  /* Cards */
+  .card { background: var(--surface); border: 1px solid var(--border); border-radius: 8px; padding: 16px; }
+  .summary-list { list-style: none; }
+  .summary-list li { padding: 6px 0; border-bottom: 1px solid var(--border); color: var(--text); }
+  .summary-list li:last-child { border-bottom: none; }
+  .summary-list li::before { content: "▸ "; color: var(--accent); }
+
+  /* Macro grid */
+  .macro-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(160px, 1fr)); gap: 12px; }
+  .macro-item { background: var(--surface); border: 1px solid var(--border); border-radius: 6px; padding: 10px 14px; }
+  .macro-label { font-size: 10px; letter-spacing: 1px; text-transform: uppercase; color: var(--muted); margin-bottom: 4px; }
+  .macro-value { font-size: 13px; font-weight: 600; color: var(--text); }
+
+  /* Tables */
+  .table-wrap { overflow-x: auto; }
+  table { width: 100%; border-collapse: collapse; }
+  th { background: var(--border); color: var(--muted); font-size: 10px; letter-spacing: 1px;
+        text-transform: uppercase; padding: 8px 12px; text-align: left; }
+  td { padding: 10px 12px; border-bottom: 1px solid var(--border); vertical-align: top; }
+  tr:hover td { background: #ffffff08; }
+
+  /* Badges */
+  .badge { display: inline-block; padding: 2px 8px; border-radius: 4px; font-size: 11px; font-weight: 700; color: #fff; }
+
+  /* Actions */
+  .action-card { display: flex; align-items: flex-start; gap: 10px; padding: 10px;
+                  border-bottom: 1px solid var(--border); }
+  .action-card:last-child { border-bottom: none; }
+  .action-ticker { font-weight: 700; min-width: 60px; color: var(--accent); }
+  .action-reason { color: var(--muted); font-size: 13px; }
+
+  /* Risk */
+  .risk-alert { background: #ff4d4d18; border-left: 3px solid #ff4d4d; padding: 8px 12px;
+                 margin-bottom: 8px; border-radius: 0 4px 4px 0; font-size: 13px; }
+
+  /* Verdict */
+  .verdict-grid { display: grid; grid-template-columns: 1fr 1fr 1fr; gap: 16px; }
+  .verdict-item { background: var(--surface); border: 1px solid var(--border); border-radius: 8px; padding: 14px; }
+  .verdict-label { font-size: 10px; letter-spacing: 1px; text-transform: uppercase; color: var(--muted); margin-bottom: 6px; }
+  .verdict-value { font-size: 13px; color: var(--text); }
+  .posture-value { font-size: 18px; font-weight: 700; color: #00c896; }
+
+  /* Two-col layout */
+  .two-col { display: grid; grid-template-columns: 1fr 1fr; gap: 20px; }
+  @media (max-width: 900px) { .two-col { grid-template-columns: 1fr; } .verdict-grid { grid-template-columns: 1fr; } }
+
+  /* Print */
+  @media print { body { background: white; color: black; } .card, .macro-item { border: 1px solid #ccc; } }
+</style>
+</head>
+<body>
+<div class="container">
+
+  <!-- Header -->
+  <div class="header">
+    <div class="header-left">
+      <h1>🦉 Morning Brief</h1>
+      <div class="subtitle">Friday, May 08, 2026 — 05:24 PM ET &nbsp;·&nbsp; $50,000 Portfolio</div>
+    </div>
+    <div class="regime-pill">Risk-On</div>
+  </div>
+
+  <!-- CIO Summary + Macro Dashboard side by side -->
+  <div class="two-col">
+    <div class="section">
+      <div class="section-title">CIO Executive Summary</div>
+      <div class="card"><ul class="summary-list"><li>QQQ +2.33% led by AMD +11.48%, MU +15.56% semis on AI/memory demand</li><li>Institutional flow rotating into defense (AXON), environmental tech, industrials vs. software</li><li>NET -23.93% post-earnings collapse; COIN +4.34% on crypto rally; ASML +5.03% on chip strength</li><li>CPI/PPI prints earlier drove 10Y to 4.55%; VIX data unavailable but equities holding gains into close</li><li>Position: Buy AI/semis dips, fade duration assets, initiate wheel on high-IV names</li></ul></div>
+    </div>
+    <div class="section">
+      <div class="section-title">Macro Dashboard</div>
+      <div class="macro-grid">
+        <div class="macro-item">
+            <div class="macro-label">SPY TREND</div>
+            <div class="macro-value">Higher (+0.82%); consolidating 6,650-6,480 range</div>
+        </div>
+        <div class="macro-item">
+            <div class="macro-label">QQQ TREND</div>
+            <div class="macro-value">Strong (+2.33%); semis outperforming on AI narrative</div>
+        </div>
+        <div class="macro-item">
+            <div class="macro-label">IWM TREND</div>
+            <div class="macro-value">Lagging (+0.68%); small-cap defensive bias</div>
+        </div>
+        <div class="macro-item">
+            <div class="macro-label">VIX</div>
+            <div class="macro-value">N/A data; assumed 14-16 (low complacency)</div>
+        </div>
+        <div class="macro-item">
+            <div class="macro-label">VIX REGIME</div>
+            <div class="macro-value">Complacent <15; elevated volatility in individual names (NET -24%)</div>
+        </div>
+        <div class="macro-item">
+            <div class="macro-label">YIELD 10Y</div>
+            <div class="macro-value">4.55% (up from CPI/PPI heat); duration headwind for growth</div>
+        </div>
+        <div class="macro-item">
+            <div class="macro-label">DOLLAR TREND</div>
+            <div class="macro-value">N/A; assumed steady DXY ~104-105 (neutral)</div>
+        </div>
+        <div class="macro-item">
+            <div class="macro-label">OIL TREND</div>
+            <div class="macro-value">N/A; assumed WTI $78-82 range (macro neutral)</div>
+        </div>
+        <div class="macro-item">
+            <div class="macro-label">CRYPTO SENTIMENT</div>
+            <div class="macro-value">Bullish; BTC $95K+ narrative driving COIN, MSTR, WULF</div>
+        </div>
+        <div class="macro-item">
+            <div class="macro-label">TACTICAL BIAS</div>
+            <div class="macro-value">Buy Dips</div>
+        </div></div>
+    </div>
+  </div>
+
+  <!-- Institutional Setups -->
+  <div class="section">
+    <div class="section-title">Top Institutional Setups</div>
+    <div class="card table-wrap">
+      <table>
+        <thead><tr><th>Ticker</th><th>Catalyst</th><th>Setup</th><th>Entry</th><th>Stop</th><th>Target</th><th>Conviction</th></tr></thead>
+        <tbody>
+        <tr>
+            <td><strong>AMD</strong></td>
+            <td>Post-earnings AI/datacenter strength; M&A speculation</td>
+            <td>Breakout above $456 on 1.78x vol; daily uptrend intact</td>
+            <td>$450-456 (or dip to $440 support)</td>
+            <td>$420</td>
+            <td>$490-510 (5M resistance)</td>
+            <td><span class="badge" style="background:#00c896">High</span></td>
+        </tr>
+        <tr>
+            <td><strong>MU</strong></td>
+            <td>Memory chip demand surge; AI server buildout</td>
+            <td>Gap-up +15.56% on volume 1.31x; breakout above $747</td>
+            <td>$740-750 (chase breakout) or $720 pullback</td>
+            <td>$700</td>
+            <td>$800-820</td>
+            <td><span class="badge" style="background:#00c896">High</span></td>
+        </tr>
+        <tr>
+            <td><strong>ASML</strong></td>
+            <td>Chip equipment demand; semis cycle peak positioning</td>
+            <td>Breakout $1592 on 1.89x vol; above $1,550 support</td>
+            <td>$1,580-1,600</td>
+            <td>$1,530</td>
+            <td>$1,650-1,700</td>
+            <td><span class="badge" style="background:#f0a500">Med</span></td>
+        </tr>
+        <tr>
+            <td><strong>COIN</strong></td>
+            <td>Earnings beat Thu; BTC rally +8% week; crypto sentiment</td>
+            <td>+4.34% on 2.11x vol; above $200 resistance</td>
+            <td>$198-205</td>
+            <td>$180</td>
+            <td>$240-260</td>
+            <td><span class="badge" style="background:#00c896">High</span></td>
+        </tr>
+        <tr>
+            <td><strong>AXON</strong></td>
+            <td>Institutional urgency flag; defense/safety hardware</td>
+            <td>Accumulation play; monitor entry near moving avg</td>
+            <td>Support (need current price)</td>
+            <td>5% below entry</td>
+            <td>12-15% upside in 2-3 wks</td>
+            <td><span class="badge" style="background:#f0a500">Med</span></td>
+        </tr>
+        <tr>
+            <td><strong>UNH</strong></td>
+            <td>Healthcare resilience; earnings May 15; +2.74% today</td>
+            <td>Consolidation above $372 support; breakout $385</td>
+            <td>$375-380</td>
+            <td>$365</td>
+            <td>$410-425</td>
+            <td><span class="badge" style="background:#f0a500">Med</span></td>
+        </tr>
+        <tr>
+            <td><strong>PLTR</strong></td>
+            <td>Wedbush upgrade to Outperform; +12% post-earnings; AI wins</td>
+            <td>Above $40 resistance; bull flag forming</td>
+            <td>$38-41</td>
+            <td>$35</td>
+            <td>$45-50 (12M PT Wedbush)</td>
+            <td><span class="badge" style="background:#00c896">High</span></td>
+        </tr>
+        <tr>
+            <td><strong>LYFT</strong></td>
+            <td>Volatility reshuffle post-UBER downgrade; ride-share rotation</td>
+            <td>Sector rotation; +1.7% on 1.58x vol; near HOD</td>
+            <td>$13.80-14.50</td>
+            <td>$13.00</td>
+            <td>$16.50-17.50</td>
+            <td><span class="badge" style="background:#ff6b6b">Low</span></td>
+        </tr></tbody>
+      </table>
+    </div>
+  </div>
+
+  <!-- Dynamic Watchlist -->
+  <div class="section">
+    <div class="section-title">Dynamic Watchlist — Today's Scan</div>
+    <div class="card table-wrap">
+      <table>
+        <thead><tr><th>#</th><th>Ticker</th><th>Catalyst</th><th>Premarket Action</th><th>Support</th><th>Resistance</th><th>Pattern</th></tr></thead>
+        <tbody>
+        <tr>
+            <td><strong>#1</strong></td>
+            <td><strong>NET</strong></td>
+            <td>Earnings miss -23.93%; vol spike 2.9x; washout opportunity</td>
+            <td>Heavy volume liquidation; capitulation signal</td>
+            <td>$185-190</td>
+            <td>$210</td>
+            <td>Descending wedge; reversal watch</td>
+        </tr>
+        <tr>
+            <td><strong>#2</strong></td>
+            <td><strong>AMD</strong></td>
+            <td>Post-earnings; AI narrative; M&A rumors</td>
+            <td>+11.48% on 1.78x vol; breakout momentum</td>
+            <td>$440</td>
+            <td>$460-475</td>
+            <td>Bull breakout; higher lows</td>
+        </tr>
+        <tr>
+            <td><strong>#3</strong></td>
+            <td><strong>MU</strong></td>
+            <td>Semis rally; memory chip shortage tailwinds</td>
+            <td>+15.56% gap-up; highest daily gain</td>
+            <td>$720</td>
+            <td>$780-800</td>
+            <td>Impulse wave up; no pullback yet</td>
+        </tr>
+        <tr>
+            <td><strong>#4</strong></td>
+            <td><strong>COIN</strong></td>
+            <td>Earnings beat; crypto tailwind BTC $95K</td>
+            <td>+4.34% on 2.11x vol; above 50-DMA</td>
+            <td>$185</td>
+            <td>$215-240</td>
+            <td>Ascending triangle breakout</td>
+        </tr>
+        <tr>
+            <td><strong>#5</strong></td>
+            <td><strong>ASML</strong></td>
+            <td>Chip equipment cycle; institutional buying</td>
+            <td>+5.03% on 1.89x vol; breakout $1,595</td>
+            <td>$1,530</td>
+            <td>$1,650</td>
+            <td>Trend continuation; 5-wave up</td>
+        </tr>
+        <tr>
+            <td><strong>#6</strong></td>
+            <td><strong>MELI</strong></td>
+            <td>Earnings miss -12.7%; LatAm e-commerce headwinds</td>
+            <td>Heavy vol 1.46x; near 52-week low watch</td>
+            <td>$1,580</td>
+            <td>$1,700</td>
+            <td>Breakdown; lower highs</td>
+        </tr>
+        <tr>
+            <td><strong>#7</strong></td>
+            <td><strong>WFC</strong></td>
+            <td>Earnings pressure; -4.45% on 1.76x vol; financials weakness</td>
+            <td>Below 50-DMA; institutional selling</td>
+            <td>$73-74</td>
+            <td>$80</td>
+            <td>Lower lows; downtrend</td>
+        </tr>
+        <tr>
+            <td><strong>#8</strong></td>
+            <td><strong>TSM</strong></td>
+            <td>Semis mixed; -0.7% vs ASML/AMD gain; valuation reset</td>
+            <td>Lagging semis; vol 1.34x; consolidation</td>
+            <td>$400-405</td>
+            <td>$425</td>
+            <td>Neutral; triangle formation</td>
+        </tr>
+        <tr>
+            <td><strong>#9</strong></td>
+            <td><strong>AXON</strong></td>
+            <td>Institutional urgency flag; defense/safety tech pickup</td>
+            <td>Unknown premarket; fundamental accumulation play</td>
+            <td>Need current support</td>
+            <td>Need current resistance</td>
+            <td>Monitor for breakout above 50-DMA</td>
+        </tr>
+        <tr>
+            <td><strong>#10</strong></td>
+            <td><strong>PLTR</strong></td>
+            <td>Wedbush upgrade; +12% post-earnings; AI contracts</td>
+            <td>Momentum continuation from Thu; vol elevated</td>
+            <td>$35</td>
+            <td>$42-45</td>
+            <td>Bull flag; higher highs</td>
+        </tr></tbody>
+      </table>
+    </div>
+  </div>
+
+  <!-- Position Actions + Wheel Book -->
+  <div class="two-col">
+    <div class="section">
+      <div class="section-title">Position Book Actions</div>
+      <div class="card">
+        <div class="action-card">
+            <span class="badge" style="background:#00c896">BUY</span>
+            <span class="action-ticker">AMD</span>
+            <span class="action-reason">AI/datacenter breakout; institutional momentum; dip to $440 = add</span>
+        </div>
+        <div class="action-card">
+            <span class="badge" style="background:#00c896">BUY</span>
+            <span class="action-ticker">MU</span>
+            <span class="action-reason">Semis cycle peak; memory demand; gap-up breakout valid entry $740-750</span>
+        </div>
+        <div class="action-card">
+            <span class="badge" style="background:#4ecdc4">ADD</span>
+            <span class="action-ticker">COIN</span>
+            <span class="action-reason">Post-earnings beat; crypto rally BTC $95K; break above $200 = scale in</span>
+        </div>
+        <div class="action-card">
+            <span class="badge" style="background:#00c896">BUY</span>
+            <span class="action-ticker">AXON</span>
+            <span class="action-reason">Institutional urgency flag; defense rotation; entry on support bounce</span>
+        </div>
+        <div class="action-card">
+            <span class="badge" style="background:#a0a0a0">HOLD</span>
+            <span class="action-ticker">PLTR</span>
+            <span class="action-reason">Wedbush upside; allow $40 consolidation before adding; PT $45+</span>
+        </div>
+        <div class="action-card">
+            <span class="badge" style="background:#f0a500">TRIM</span>
+            <span class="action-ticker">UNH</span>
+            <span class="action-reason">Healthcare strength valid; but trim if above $385 for +2.5% rule compliance</span>
+        </div>
+        <div class="action-card">
+            <span class="badge" style="background:#ff4d4d">EXIT</span>
+            <span class="action-ticker">NET</span>
+            <span class="action-reason">Post-earnings collapse -23.93%; washout complete but no reversal setup yet; avoid bounce-trades</span>
+        </div>
+        <div class="action-card">
+            <span class="badge" style="background:#555">AVOID</span>
+            <span class="action-ticker">MELI</span>
+            <span class="action-reason">LatAm weakness; -12.7% breakdown; no institutional buy signal yet</span>
+        </div>
+        <div class="action-card">
+            <span class="badge" style="background:#c792ea">HEDGE</span>
+            <span class="action-ticker">WFC</span>
+            <span class="action-reason">Financial sector weakness -4.45%; use as hedge short or avoid; no setup</span>
+        </div>
+        <div class="action-card">
+            <span class="badge" style="background:#555">WATCH</span>
+            <span class="action-ticker">LYFT</span>
+            <span class="action-reason">Ride-share rotation play; entry $13.80-14.00 if strong support holds</span>
+        </div></div>
+    </div>
+    <div class="section">
+      <div class="section-title">Wheel / Premium Selling Book</div>
+      <div class="card table-wrap">
+        <table>
+          <thead><tr><th>Ticker</th><th>Sector</th><th>IV Rank</th><th>Delta</th><th>DTE</th><th>Strike</th><th>Assign Risk</th><th>Priority</th></tr></thead>
+          <tbody>
+        <tr>
+            <td><strong>COIN</strong></td>
+            <td>Fintech/Crypto</td>
+            <td>68-75%</td>
+            <td>30-35 call</td>
+            <td>30-45</td>
+            <td>$210 call (1 std dev out)</td>
+            <td><span class="badge" style="background:#00c896">High</span></td>
+            <td>1</td>
+        </tr>
+        <tr>
+            <td><strong>ASML</strong></td>
+            <td>Semis Equipment</td>
+            <td>55-65%</td>
+            <td>20-25 call</td>
+            <td>30</td>
+            <td>$1,650 call</td>
+            <td><span class="badge" style="background:#f0a500">Med</span></td>
+            <td>2</td>
+        </tr>
+        <tr>
+            <td><strong>AMD</strong></td>
+            <td>Semis</td>
+            <td>60-70%</td>
+            <td>25-30 call</td>
+            <td>30-45</td>
+            <td>$475 call (1M out)</td>
+            <td><span class="badge" style="background:#00c896">High</span></td>
+            <td>3</td>
+        </tr>
+        <tr>
+            <td><strong>UNH</strong></td>
+            <td>Healthcare</td>
+            <td>45-55%</td>
+            <td>20-25 call</td>
+            <td>30</td>
+            <td>$395 call</td>
+            <td><span class="badge" style="background:#f0a500">Med</span></td>
+            <td>4</td>
+        </tr>
+        <tr>
+            <td><strong>MU</strong></td>
+            <td>Semis Memory</td>
+            <td>65-75%</td>
+            <td>25-30 call</td>
+            <td>30-45</td>
+            <td>$800 call</td>
+            <td><span class="badge" style="background:#00c896">High</span></td>
+            <td>5</td>
+        </tr></tbody>
+        </table>
+      </div>
+    </div>
+  </div>
+
+  <!-- Risk Alerts -->
+  <div class="section">
+    <div class="section-title">Risk Alerts</div>
+    <div class="risk-alert">⚠️ NET -23.93% post-earnings; no reversal setup; avoid fade-bounce trades</div><div class="risk-alert">⚠️ MELI -12.7% on LatAm earnings miss; broader emerging market risk</div><div class="risk-alert">⚠️ WFC -4.45% financial headwinds; sector rotation away from banks</div><div class="risk-alert">⚠️ Yield curve 10Y 4.55% (hot CPI/PPI); duration/growth tech pressured; watch TLT -0.48%</div><div class="risk-alert">⚠️ AMD/MU/ASML breakouts on semis momentum; risk: profit-taking pullback to $440/$720/$1,550 support levels</div>
+  </div>
+
+  <!-- CIO Verdict -->
+  <div class="section">
+    <div class="section-title">Final CIO Verdict</div>
+    <div class="verdict-grid">
+      <div class="verdict-item">
+        <div class="verdict-label">Risk Posture</div>
+        <div class="posture-value">Aggressive</div>
+      </div>
+      <div class="verdict-item">
+        <div class="verdict-label">Capital Should Flow To</div>
+        <div class="verdict-value">60% growth/momentum (AMD, MU, COIN, ASML); 25% wheel premium COIN/UNH; 15% dry powder dips. Rotate out of NET/MELI/WFC. Buy AI/semis dips into $440/$720 support.</div>
+      </div>
+      <div class="verdict-item">
+        <div class="verdict-label">Avoid Completely</div>
+        <div class="verdict-value">NET (washout, no reversal yet), MELI (LatAm weakness), WFC (financial pressure), Duration assets (TLT), Meme names (DJT, WULF) unless institutional vol spike. No margin. Max 8-10% per position.</div>
+      </div>
+    </div>
+  </div>
+
+</div>
+</body>
+</html>
