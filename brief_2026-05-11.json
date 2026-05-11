@@ -1,0 +1,297 @@
+{
+  "date": "2026-05-11",
+  "generated_at": "Monday, May 11, 2026 \u2014 02:23 PM ET",
+  "regime": "Risk-On",
+  "cio_summary": [
+    "SPY/QQQ resilient +0.4% despite geopolitical oil premium; 67% Polymarket bullish bias",
+    "Institutional rotation: Protection/Pollution/Electronics URGENTLY bought vs. software selloff",
+    "US CPI (2:30 PM) critical pivot; bond yields 4.3%+ signal rate-cut odds compression to 65%",
+    "Options flow: Heavy straddle/call buying in MARA/PLUG/RRGB; crypto/hydrogen vol elevated",
+    "Iran tensions + earnings tailwind = shallow pullback risk; defend breakouts above 7,425 SPX"
+  ],
+  "macro_dashboard": {
+    "spy_trend": "Bullish, 7,410-7,425 baseline, +0.4%",
+    "qqq_trend": "Bullish, +0.4% on AI adjacency strength",
+    "iwm_trend": "Bullish micro-cap, +0.84% (small-cap vol spike)",
+    "vix": "Est. 12-13 (muted premarket, spot likely <13)",
+    "vix_regime": "Complacent (<15), oil risk premium embedded",
+    "yield_10y": "4.3%+ (climbing pre-CPI, +10bps overnight)",
+    "dollar_trend": "Stable; USD index flat awaiting macro print",
+    "oil_trend": "Rising (Iran peace rejection); WTI implied +3-5%",
+    "crypto_sentiment": "Bullish BTC >$95K; MARA/BTCS vol spike +200%",
+    "tactical_bias": "Buy Dips into CPI; fade 7,450+ unless break sustained"
+  },
+  "institutional_setups": [
+    {
+      "ticker": "AXON",
+      "catalyst": "Protection/Safety urgency (Inst. buying +25% QoQ); drone/TASER adoption cycle",
+      "setup": "Breakout above 52W high; post-earnings confirmation",
+      "entry": "$285-292 (await pullback from premarket pop)",
+      "stop": "$273",
+      "target": "$320-335 (+12-17% from entry)",
+      "conviction": "High"
+    },
+    {
+      "ticker": "EVLV",
+      "catalyst": "AI security screening; mgmt 11% hold, EPS swing +35% growth FY27",
+      "setup": "Institutional accumulation signal; vol compression breakout",
+      "entry": "$18.50-19.20",
+      "stop": "$16.80",
+      "target": "$24-26 (+28-38%)",
+      "conviction": "High"
+    },
+    {
+      "ticker": "BW",
+      "catalyst": "Electronics subsector urgency rank #5/45; inst. buying flagged",
+      "setup": "Accumulation phase; oversold bounce potential",
+      "entry": "$24-25",
+      "stop": "$22.10",
+      "target": "$29-31 (+20-28%)",
+      "conviction": "Med"
+    },
+    {
+      "ticker": "IONQ",
+      "catalyst": "Quantum computing buzz post-GTC 2026 (100% NVIDIA sales growth FY27)",
+      "setup": "+18% premarket breakout; 2.48x vol ratio; risk/reward asymmetric short-term",
+      "entry": "$56-57 (take profit breakout retest)",
+      "stop": "$51.50",
+      "target": "$62-65 (+9-14% from 56)",
+      "conviction": "Med"
+    },
+    {
+      "ticker": "MA",
+      "catalyst": "CPI-sensitive fintech; +0.78% today; payment flow post-rate stability",
+      "setup": "Consolidation breakout above $501; vol ratio 1.64",
+      "entry": "$499-502",
+      "stop": "$489",
+      "target": "$520-530 (+4-6%)",
+      "conviction": "Med"
+    },
+    {
+      "ticker": "HIMS",
+      "catalyst": "Needham analyst upgrade Buy, $35 PT; +4% premarket telehealth tailwind",
+      "setup": "Breakout above $22 daily resistance; 5x call vol",
+      "entry": "$21.50-22.50",
+      "stop": "$19.80",
+      "target": "$28-31 (+28-41%)",
+      "conviction": "High"
+    },
+    {
+      "ticker": "SLV",
+      "catalyst": "Commodity hedge vs. inflation/geopolitical; +6.11% vol spike 2.5x",
+      "setup": "Breakout above $77.80; precious metal flight-to-quality play",
+      "entry": "$77.20-78.00",
+      "stop": "$75.50",
+      "target": "$82-85 (+6-10%)",
+      "conviction": "Med"
+    },
+    {
+      "ticker": "RRGB",
+      "catalyst": "Earnings today; est. EPS 0.26 beat likelihood; 10x call vol (straddle)",
+      "setup": "Premarket flat; vol crush setup post-report (short call spreads)",
+      "entry": "Short $27.50 call / Long $30 call (earn strangle)",
+      "stop": "$31",
+      "target": "$3-4 premium (100% RoI on 1:4 spread)",
+      "conviction": "Med"
+    }
+  ],
+  "watchlist": [
+    {
+      "ticker": "MARA",
+      "catalyst": "Bitcoin miner earnings; est. EPS -0.45; 45K Jun $25 calls (hedge against BTC dip)",
+      "premarket_action": "Vol +150%; BTC >$95K tailwind",
+      "support": "$22.00",
+      "resistance": "$27.50",
+      "pattern": "Breakout above $25 on earnings beat",
+      "priority": "1"
+    },
+    {
+      "ticker": "PLUG",
+      "catalyst": "Hydrogen energy; est. EPS -0.15; 30K puts indicate downside hedging",
+      "premarket_action": "Oil rise supportive but earnings risk",
+      "support": "$18.50",
+      "resistance": "$21.50",
+      "pattern": "Consolidation; breakdown if earnings miss",
+      "priority": "2"
+    },
+    {
+      "ticker": "GPRO",
+      "catalyst": "GoPro consumer tech; est. EPS -0.15; +3% premarket short squeeze signal",
+      "premarket_action": "Short interest coverage play; vol elevated",
+      "support": "$9.20",
+      "resistance": "$11.50",
+      "pattern": "Bounce off support; short-term pop",
+      "priority": "3"
+    },
+    {
+      "ticker": "CLSK",
+      "catalyst": "CleanSpark data center M&A rumors; Thu earnings; vol +200% premarket",
+      "premarket_action": "Institutional pre-earnings accumulation",
+      "support": "$24.50",
+      "resistance": "$30.00",
+      "pattern": "Breakout above $28 post-announcement",
+      "priority": "4"
+    },
+    {
+      "ticker": "ASTS",
+      "catalyst": "AST SpaceMobile partnership buzz; +6% premarket; satellite comms bet",
+      "premarket_action": "Sector rotation into obscure tech adjacents",
+      "support": "$26.00",
+      "resistance": "$32.50",
+      "pattern": "Higher high breakout; momentum continuation",
+      "priority": "5"
+    },
+    {
+      "ticker": "WMT",
+      "catalyst": "Retail CPI sensitivity; -2.59% premarket (inflation hedge confusion)",
+      "premarket_action": "Rare weakness; defensive pivot signal",
+      "support": "$125.00",
+      "resistance": "$131.00",
+      "pattern": "Retest of support; reversal watch",
+      "priority": "6"
+    },
+    {
+      "ticker": "LQDA",
+      "catalyst": "FDA PDUFA May 23 (YUTREPIA sNDA); options vol building pre-decision",
+      "premarket_action": "Binary catalyst; watch vol crush post-decision",
+      "support": "$8.50",
+      "resistance": "$11.00",
+      "pattern": "Consolidation; breakout/breakdown post-FDA",
+      "priority": "7"
+    },
+    {
+      "ticker": "XLK",
+      "catalyst": "Tech electronics subsector +1.44%; rotation into semiconductors/components",
+      "premarket_action": "Outperforming SPY; sector rotation signal",
+      "support": "$176.50",
+      "resistance": "$180.00",
+      "pattern": "Breakout above $179 sustained",
+      "priority": "8"
+    },
+    {
+      "ticker": "SQ",
+      "catalyst": "Fintech; CPI pivot sensitive; sector rotation from mega-cap SaaS",
+      "premarket_action": "Watch 2:30 PM CPI reaction; fade if yields jump",
+      "support": "$185.00",
+      "resistance": "$210.00",
+      "pattern": "Consolidation above 200-day MA",
+      "priority": "9"
+    },
+    {
+      "ticker": "BTCS",
+      "catalyst": "Crypto/blockchain; vol spike 3x; mcap $209M speculative play",
+      "premarket_action": "BTC >$95K tailwind; vol crush risk post-pop",
+      "support": "$3.50",
+      "resistance": "$5.50",
+      "pattern": "Volatility breakout; quick scalp only",
+      "priority": "10"
+    }
+  ],
+  "position_actions": [
+    {
+      "action": "BUY",
+      "ticker": "AXON",
+      "reasoning": "Institutional urgency +25% QoQ; protection sector rotation; $285-292 entry post-pullback; 12% upside target"
+    },
+    {
+      "action": "BUY",
+      "ticker": "EVLV",
+      "reasoning": "AI security AI 35% EPS growth; mgmt aligned; inst. accumulation; $18.50-19.20 entry; 28% target"
+    },
+    {
+      "action": "BUY",
+      "ticker": "HIMS",
+      "reasoning": "Analyst upgrade Buy $35 PT; +4% premarket; 5x call vol; telehealth momentum; $21.50-22 entry"
+    },
+    {
+      "action": "ADD",
+      "ticker": "MA",
+      "reasoning": "Fintech consolidation breakout; post-CPI rate clarity; $499-502 entry; 4-6% tactical gain"
+    },
+    {
+      "action": "HOLD",
+      "ticker": "SLV",
+      "reasoning": "Commodity hedge; geopolitical premium; +6% pop; take half at $80.50; let half run to $83+"
+    },
+    {
+      "action": "HEDGE",
+      "ticker": "SPY",
+      "reasoning": "Sell 1x $740 call / Buy 1x $750 call (risk-defined CPI volatility); VIX <13 means premium cheap"
+    },
+    {
+      "action": "FADE",
+      "ticker": "WMT",
+      "reasoning": "-2.59% premarket suggests inflation fear; retail weakness; avoid below $125 support; monitor reversal"
+    },
+    {
+      "action": "TRIM",
+      "ticker": "IONQ",
+      "reasoning": "+18% pop is overextended; take 50% at $58; stop remaining at $55 (avoid vol crush)"
+    }
+  ],
+  "wheel_book": [
+    {
+      "ticker": "MA",
+      "sector": "Fintech",
+      "iv_rank_est": "42%",
+      "delta": "-0.30",
+      "dte": "30",
+      "strike_zone": "Sell $510 puts / Own at $495 avg",
+      "assignment_risk": "Med",
+      "priority": "1"
+    },
+    {
+      "ticker": "AXON",
+      "sector": "Defense/Security",
+      "iv_rank_est": "58%",
+      "delta": "-0.25",
+      "dte": "45",
+      "strike_zone": "Sell $290 puts / Own at $285 avg",
+      "assignment_risk": "Med",
+      "priority": "2"
+    },
+    {
+      "ticker": "WMT",
+      "sector": "Retail",
+      "iv_rank_est": "28%",
+      "delta": "-0.35",
+      "dte": "30",
+      "strike_zone": "Sell $125 puts / Own at $121 avg cost",
+      "assignment_risk": "High",
+      "priority": "3"
+    },
+    {
+      "ticker": "HIMS",
+      "sector": "Fintech/Telehealth",
+      "iv_rank_est": "65%",
+      "delta": "-0.20",
+      "dte": "20",
+      "strike_zone": "Sell $24 calls / Own at $22 / Short premium $2",
+      "assignment_risk": "Med",
+      "priority": "4"
+    },
+    {
+      "ticker": "SLV",
+      "sector": "Commodities/Precious Metals",
+      "iv_rank_est": "55%",
+      "delta": "-0.28",
+      "dte": "30",
+      "strike_zone": "Sell $79 puts / Own at $77 avg",
+      "assignment_risk": "Low",
+      "priority": "5"
+    }
+  ],
+  "risk_alerts": [
+    "CPI print 2:30 PM: 2.4% YoY (exp) vs 2.5% prior; breakeven +10bps on yields; SPY 7,425 support critical",
+    "Iran geopolitical premium embedded in oil; WTI up +3-5% overnight; tail-risk if escalation; monitor vol regime",
+    "VIX 12-13 complacency masks tail hedging; Polymarket 67% bullish; aggressive positioning warns of 2-3% drawdown",
+    "WMT -2.59% unusual; retail weakness or inflation signal? If breaks $125, defensive cascade possible",
+    "IONQ +18% premarket: momentum overdrive; vol crush risk post-4PM lockup; trim 50% at open"
+  ],
+  "cio_verdict": {
+    "risk_posture": "Aggressive",
+    "capital_flow": "Deploy 60% ($30K) into AXON/EVLV/HIMS breakouts; hold 20% ($10K) cash for CPI dip-buy; hedge 20% ($10K) SPY calls vs Iran vol",
+    "avoid": "Naked puts below $1 stock price (BTCS/RRGB unless wheel); SaaS mega-cap (CRWD/SNOW) in rotation; WMT unless support holds; over-extended momentum >+15% premarket (IONQ trim)"
+  },
+  "end": "valid_json"
+}
