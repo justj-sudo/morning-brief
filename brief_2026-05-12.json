@@ -1,0 +1,296 @@
+{
+  "date": "2026-05-12",
+  "generated_at": "Tuesday, May 12, 2026 \u2014 02:25 PM ET",
+  "regime": "Neutral",
+  "cio_summary": [
+    "Tech selloff (-2.47% XLK) masks institutional rotation INTO safety/defense (AXON, EVLV, ARKX +$45M)",
+    "FOMC minutes 2PM catalyst: hawkish tilt expected; futures muted (+0.10% SPX) = contained risk",
+    "Trump-Xi summit geopolitical overhang priced in; no panic puts; net bullish skew industrials/electronics",
+    "177 earnings today (UAA, QBTS, CEG vol spike); small-cap biotech/quantum momentum but low conviction",
+    "Capital deployment: Fade XLK weakness, rotate into XLI/electronics (BW +4.1%, 500K block premarket)"
+  ],
+  "macro_dashboard": {
+    "spy_trend": "Neutral; -0.47% intraday, futures +0.10%; support 7,380",
+    "qqq_trend": "Weakness -1.61%; tech rotation underway; resistance 710, support 690",
+    "iwm_trend": "Small-cap selloff -1.39%; IWM lacks conviction; watch 280 support",
+    "vix": "Data unavailable; inferred 16-18 range (muted futures, no panic)",
+    "vix_regime": "Healthy Trend (15-20 inferred)",
+    "yield_10y": "Data unavailable; FOMC minutes 2PM expected hawkish tilt",
+    "dollar_trend": "Data unavailable; geopolitical bid typical",
+    "oil_trend": "Data unavailable; energy +26.54% YTD outperformance intact",
+    "crypto_sentiment": "Mixed; BTCS earnings noise, no directional flow",
+    "tactical_bias": "Fade Strength in mega-tech; Buy Dips in safety/industrials"
+  },
+  "institutional_setups": [
+    {
+      "ticker": "EVLV",
+      "catalyst": "Institutional sweep 150K @ $5.75; IV vol 3x avg; mkt cap recovery play",
+      "setup": "Dark pool accumulation + premarket +2.8%; pullback from $8 = capitulation buy",
+      "entry": "$5.60-$5.80 on dip",
+      "stop": "$5.20",
+      "target": "$7.50-$8.00",
+      "conviction": "High"
+    },
+    {
+      "ticker": "BW",
+      "catalyst": "500K block trade premarket @ $1.92; +4.1% sector leader; electronics urgency #1",
+      "setup": "Off-exchange print = institutional positioning; vol expansion into close",
+      "entry": "$1.90-$2.00",
+      "stop": "$1.70",
+      "target": "$2.50-$3.00",
+      "conviction": "High"
+    },
+    {
+      "ticker": "AXON",
+      "catalyst": "75K dark pool @ $425; MS upgrade CEG spillover; law enforcement budget tailwind",
+      "setup": "+3.2% YTD; $450C Jun vol spike; institutional ownership rising Q/Q",
+      "entry": "$420-$428",
+      "stop": "$410",
+      "target": "$480-$500",
+      "conviction": "Med"
+    },
+    {
+      "ticker": "CEG",
+      "catalyst": "MS OW rating $280 PT (+15%); nuclear/AI power play; options vol 10x avg",
+      "setup": "Pre-earnings positioning; $450C heavily bought; technical breakout setup",
+      "entry": "$240-$250",
+      "stop": "$230",
+      "target": "$280-$295",
+      "conviction": "Med"
+    },
+    {
+      "ticker": "BW",
+      "catalyst": "Electronics subsector rotation; safety/pollution control institutional pivot",
+      "setup": "XLI inflow +$28M; dark block confirms algo urgency; vol expansion",
+      "entry": "$1.85-$1.95",
+      "stop": "$1.65",
+      "target": "$2.40",
+      "conviction": "High"
+    },
+    {
+      "ticker": "SBSP",
+      "catalyst": "Pollution control catalyst + privatization headlines; institutional accum",
+      "setup": "Heavy accumulation pattern; +1.9% intraday; PHO ETF +$15M inflow",
+      "entry": "$2.10-$2.25",
+      "stop": "$1.95",
+      "target": "$3.00",
+      "conviction": "Med"
+    },
+    {
+      "ticker": "ARKX",
+      "catalyst": "+$45M inflow into security/defense ETF; $15C vol spike; geopolitical bid",
+      "setup": "ETF-level accumulation = basked long exposure; low friction entry",
+      "entry": "$14.80-$15.10",
+      "stop": "$14.30",
+      "target": "$16.50",
+      "conviction": "Med"
+    },
+    {
+      "ticker": "UAA",
+      "catalyst": "Earnings 2026; -$0.02 EPS est; vol +12% premarket; Wells Fargo UW $32 PT",
+      "setup": "Retail interest spike but margin pressure narrative; earnings binary",
+      "entry": "$33.50-$34.50 post-earnings dip",
+      "stop": "$31.50",
+      "target": "$37.00",
+      "conviction": "Low"
+    }
+  ],
+  "watchlist": [
+    {
+      "ticker": "EVLV",
+      "catalyst": "Dark pool 150K @ $5.75; IV vol 3x; institutional sweep",
+      "premarket_action": "+2.8%; pullback from $8 capitulation signal",
+      "support": "$5.20-$5.40",
+      "resistance": "$7.00-$7.50",
+      "pattern": "Accumulation; IV expansion breakout",
+      "priority": "1"
+    },
+    {
+      "ticker": "BW",
+      "catalyst": "500K premarket block @ $1.92; electronics urgency #1; sector leader",
+      "premarket_action": "+12% gap; off-exchange print",
+      "support": "$1.70-$1.80",
+      "resistance": "$2.30-$2.60",
+      "pattern": "Gap-up continuation; volume surge",
+      "priority": "2"
+    },
+    {
+      "ticker": "CEG",
+      "catalyst": "MS OW upgrade $280 PT; nuclear/AI power; $450C vol 10x",
+      "premarket_action": "Overnight positioning; no gap data",
+      "support": "$235-$245",
+      "resistance": "$270-$280",
+      "pattern": "Pre-earnings breakout setup",
+      "priority": "3"
+    },
+    {
+      "ticker": "AXON",
+      "catalyst": "Dark pool 75K @ $425; law enforcement budget; $450C calls",
+      "premarket_action": "+3.2% intraday",
+      "support": "$410-$420",
+      "resistance": "$450-$470",
+      "pattern": "Consolidation into earnings vol",
+      "priority": "4"
+    },
+    {
+      "ticker": "SBSP",
+      "catalyst": "Pollution control rotation; +$15M PHO ETF inflow; privatization bid",
+      "premarket_action": "+1.9% intraday; weak vol",
+      "support": "$2.00-$2.10",
+      "resistance": "$2.50-$2.70",
+      "pattern": "Steady accumulation; low float",
+      "priority": "5"
+    },
+    {
+      "ticker": "XLI",
+      "catalyst": "+$28M inflow; sector rotation from tech; industrial ETF strength",
+      "premarket_action": "Stabilizing vs XLK -2.47% decay",
+      "support": "$110-$112",
+      "resistance": "$118-$120",
+      "pattern": "Trend reversal; rotation confirmation",
+      "priority": "6"
+    },
+    {
+      "ticker": "ARKX",
+      "catalyst": "+$45M inflow security/defense; $15C vol spike; geopolitical hedge",
+      "premarket_action": "Muted intraday; overnight accumulation signal",
+      "support": "$14.50-$14.80",
+      "resistance": "$15.50-$16.00",
+      "pattern": "ETF-level accumulation breakout",
+      "priority": "7"
+    },
+    {
+      "ticker": "GLD",
+      "catalyst": "Vol ratio 1.3x; -1.07% defensive bid; FOMC minutes 2PM",
+      "premarket_action": "Slight weakness; safety flow into bonds vs metals",
+      "support": "$425-$428",
+      "resistance": "$432-$435",
+      "pattern": "Consolidation; no trend conviction",
+      "priority": "8"
+    },
+    {
+      "ticker": "QBTS",
+      "catalyst": "Earnings today; quantum momentum; vol 5x avg; retail/algo interest",
+      "premarket_action": "+8% premarket; low float momentum play",
+      "support": "$7.50-$8.00",
+      "resistance": "$10.00-$11.00",
+      "pattern": "Parabolic momentum; earnings binary",
+      "priority": "9"
+    },
+    {
+      "ticker": "UAA",
+      "catalyst": "Earnings 2026; Wells Fargo UW $32; margin pressure narrative",
+      "premarket_action": "Vol +12% premarket; retail attention",
+      "support": "$31.50-$32.50",
+      "resistance": "$35.00-$36.50",
+      "pattern": "Earnings-driven volatility; no trend",
+      "priority": "10"
+    }
+  ],
+  "position_actions": [
+    {
+      "action": "BUY",
+      "ticker": "EVLV",
+      "reasoning": "Institutional dark pool sweep + IV vol expansion = high-conviction micro-cap accumulation; $5.60-$5.80 entry; risk 8% to $5.20"
+    },
+    {
+      "action": "BUY",
+      "ticker": "BW",
+      "reasoning": "500K block + electronics urgency #1 = rotation confirmation; $1.90-$2.00 entry; max 5% port risk"
+    },
+    {
+      "action": "ADD",
+      "ticker": "CEG",
+      "reasoning": "MS OW upgrade + nuclear/AI tailwind + options vol surge = pre-earnings positioning; scale in $240-$250"
+    },
+    {
+      "action": "BUY",
+      "ticker": "ARKX",
+      "reasoning": "ETF-level +$45M accumulation + geopolitical hedge = low-friction basket; $14.80-$15.10 entry; $16.50 target"
+    },
+    {
+      "action": "HOLD",
+      "ticker": "SPY",
+      "reasoning": "Neutral regime; -0.47% contains; FOMC 2PM catalyst; trim if +8% above +10% gain threshold hit"
+    },
+    {
+      "action": "TRIM",
+      "ticker": "XLK",
+      "reasoning": "-2.47% decay; rotation OUT of software confirmed; reduce 25% position; redeploy to XLI"
+    },
+    {
+      "action": "FADE",
+      "ticker": "QQQ",
+      "reasoning": "-1.61% tech weakness; mega-cap selloff vs. small-cap strength = sector rotation signal; underweight"
+    },
+    {
+      "action": "HEDGE",
+      "ticker": "SPY",
+      "reasoning": "FOMC hawkish risk 2PM; deploy $500-$750 into SHY or $720 SPY puts 2-week DTE as tail hedge"
+    }
+  ],
+  "wheel_book": [
+    {
+      "ticker": "EVLV",
+      "sector": "Safety/Defense",
+      "iv_rank_est": "85-90",
+      "delta": "0.35-0.40",
+      "dte": "30-45",
+      "strike_zone": "$6.00-$6.50 puts",
+      "assignment_risk": "Med",
+      "priority": "Sell $6.00 30DTE puts; high vol capture; assign into $5.80 if exercised"
+    },
+    {
+      "ticker": "CEG",
+      "sector": "Energy/Nuclear",
+      "iv_rank_est": "75-80",
+      "delta": "0.40-0.45",
+      "dte": "30-45",
+      "strike_zone": "$240-$250 calls",
+      "assignment_risk": "High",
+      "priority": "Roll $250C if challenged; nuclear/AI thesis intact; assign risk manageable at $240"
+    },
+    {
+      "ticker": "BW",
+      "sector": "Electronics",
+      "iv_rank_est": "65-70",
+      "delta": "0.30-0.35",
+      "dte": "30-45",
+      "strike_zone": "$2.25-$2.50 calls",
+      "assignment_risk": "Med",
+      "priority": "Sell $2.50 30DTE calls post-breakout; high assignment risk; roll if assigned"
+    },
+    {
+      "ticker": "AXON",
+      "sector": "Safety/Defense",
+      "iv_rank_est": "70-75",
+      "delta": "0.35-0.40",
+      "dte": "30-45",
+      "strike_zone": "$450-$475 calls",
+      "assignment_risk": "Med",
+      "priority": "Sell $475 45DTE calls; takeaway vol; decent theta decay; assignment = profit"
+    },
+    {
+      "ticker": "SBSP",
+      "sector": "Utilities",
+      "iv_rank_est": "55-60",
+      "delta": "0.25-0.30",
+      "dte": "30-45",
+      "strike_zone": "$2.40-$2.60 puts",
+      "assignment_risk": "Low",
+      "priority": "Sell $2.40 45DTE puts; low float = wide bid/ask; low theta but safe assignment"
+    }
+  ],
+  "risk_alerts": [
+    "FOMC minutes 2 PM ET: hawkish tilt expected; SPX futures already -0.3% on premarket hawkish whispers; monitor 2-3PM market dislocation risk",
+    "Tech selloff (-2.47% XLK) masking rotation; SOXL -14.66% intraday = semiconductor decay; exposure concentration risk in ARKK -2.83%",
+    "Trump-Xi summit geopolitical overhang; AI chip restrictions / trade war escalation priced in but tail risk remains; no panic puts = complacency signal",
+    "Small-cap earnings noise (177 reports today); QBTS +8%, UAA vol +12% = binary catalysts; avoid undefined risk on micro-caps <$2 entry",
+    "Portfolio at +6% drawdown trigger threshold if XLK/QQQ momentum reverses; trim 2.5% per +8% above +10% gain rule = enforce discipline"
+  ],
+  "cio_verdict": {
+    "risk_posture": "Neutral",
+    "capital_flow": "Deploy 60% into EVLV/BW/ARKX rotation plays ($3,000-$4,000); hold 20% cash for FOMC dislocation hedge; reserve 20% for wheel premium income (CEG/AXON calls)",
+    "avoid": "Mega-cap tech (AAPL/MSFT/NVDA) into FOMC; avoid QBTS/SLS binary earnings without defined risk structure; skip XLK sector; skip UAA on Wells Fargo downgrade; no naked options; no margin"
+  }
+}
