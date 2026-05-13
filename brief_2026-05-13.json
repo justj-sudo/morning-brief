@@ -1,0 +1,291 @@
+{
+  "date": "2026-05-13",
+  "generated_at": "Wednesday, May 13, 2026 \u2014 02:28 PM ET",
+  "regime": "Risk-On",
+  "cio_summary": [
+    "SPY +0.74%, QQQ +1.31% \u2014 tech strength masks oil/inflation headwinds; VIX elevated ~15-16 range (caution threshold)",
+    "Earnings flow concentrated: CSCO after-close (call 3x avg), biotech microcaps (INO, MVIS, BNGO) premarket spikes 5-15%",
+    "Institutional rotation: CEG upgrade +4% premarket (UBS Buy on nuclear/AI), OKLO +8% (Morgan Stanley Overweight initiate)",
+    "Max pain SPX $7,270 with 1\u03c3 range $7,381-$7,445; gamma flip active \u2014 defend lower range, fade strength above $7,445",
+    "Energy/commodity pressure persists (Tue SPX -0.44% on oil); watch 3-5 PM ET macro catalysts before close"
+  ],
+  "macro_dashboard": {
+    "spy_trend": "Bullish intraday (+0.74%); range-bound $7,381-$7,445 1\u03c3",
+    "qqq_trend": "Strong outperformance +1.31%; tech leading amid AI rotation",
+    "iwm_trend": "Lagging +0.16%; small-cap underperformance continues",
+    "vix": "~15-16 inferred (elevated from macro data)",
+    "vix_regime": "Healthy trend / caution threshold (15-20 range)",
+    "yield_10y": "Monitor Fed signals; no live data available",
+    "dollar_trend": "No live data; monitor DXY for commodity pressure",
+    "oil_trend": "Pressuring equities; Tue driver of SPX -0.44% decline",
+    "crypto_sentiment": "No live data; monitor risk-on flows",
+    "tactical_bias": "Fade Strength above $7,445; Buy Dips $7,380-$7,400"
+  },
+  "institutional_setups": [
+    {
+      "ticker": "CEG",
+      "catalyst": "UBS upgrade to Buy, PT $280 (+15% upside from $244); nuclear/AI power demand",
+      "setup": "Breakout above $244 resistance on institutional accumulation; premarket +4%",
+      "entry": "$246-$250 (support break confirmation)",
+      "stop": "$240",
+      "target": "$265-$280 (PT target)",
+      "conviction": "High"
+    },
+    {
+      "ticker": "OKLO",
+      "catalyst": "Morgan Stanley initiate Overweight, PT $25; SMR (small modular reactor) hype",
+      "setup": "Breakout premarket +8%; momentum setup into earnings week",
+      "entry": "$22.50-$23.50 (support hold)",
+      "stop": "$21.00",
+      "target": "$25.00-$27.00 (PT + hype premium)",
+      "conviction": "High"
+    },
+    {
+      "ticker": "ENPH",
+      "catalyst": "Solar rotation + grid demand; vol spike 1.27x, +12.46% intraday",
+      "setup": "Breakout above $42.26 high; institutional accumulation signal",
+      "entry": "$41.50-$42.00 (support + momentum)",
+      "stop": "$39.50",
+      "target": "$45.00-$47.00 (resistance + 10% target)",
+      "conviction": "Med"
+    },
+    {
+      "ticker": "LLY",
+      "catalyst": "Tech/pharma rotation; +3.05% on earnings flow, vol 1.6x avg",
+      "setup": "Consolidation near $1,020; institutional buyers enter on dips",
+      "entry": "$1,015-$1,020 (support confirmation)",
+      "stop": "$1,000",
+      "target": "$1,050-$1,080 (resistance + momentum)",
+      "conviction": "Med"
+    },
+    {
+      "ticker": "ZS",
+      "catalyst": "Cybersecurity strength; +3.93% on vol spike 1.3x; earnings strength",
+      "setup": "Breakout $151.81 from $143.645 base",
+      "entry": "$150-$152 (momentum entry)",
+      "stop": "$147.00",
+      "target": "$158-$162 (10% target + resistance)",
+      "conviction": "Med"
+    },
+    {
+      "ticker": "SEDG",
+      "catalyst": "Energy transition + grid demand; +7.3% on vol 1.67x spike",
+      "setup": "Breakout $43.37 from $39.78 base; renewable rotation signal",
+      "entry": "$42.50-$43.50 (strength confirmation)",
+      "stop": "$40.00",
+      "target": "$46-$48 (10%+ target)",
+      "conviction": "Med"
+    },
+    {
+      "ticker": "SHOP",
+      "catalyst": "Earnings pressure; -4.55% on vol 1.29x; technical breakdown",
+      "setup": "Support breakdown $94.81; institutional exits signal",
+      "entry": "$94.00-$95.00 (support retest entry, fade)",
+      "stop": "$98.60",
+      "target": "$90-$92 (downside 3-5% target, trim on recovery)",
+      "conviction": "Med"
+    },
+    {
+      "ticker": "CSCO",
+      "catalyst": "After-close earnings EPS $1.04 (+8.3% YoY); call vol 3x avg (\u00b16% IV)",
+      "setup": "Straddle opportunity; premarket vol spike into print",
+      "entry": "Iron condor $55 put / $60 call OR call credit spread post-print",
+      "stop": "Defined by spread risk",
+      "target": "Theta decay + pin risk management",
+      "conviction": "Med"
+    }
+  ],
+  "watchlist": [
+    {
+      "ticker": "INO",
+      "catalyst": "Biotech earnings; vaccine readthrough catalyst",
+      "premarket_action": "+12% on 8x vol spike",
+      "support": "$3.50-$4.00",
+      "resistance": "$5.50-$6.00",
+      "pattern": "Breakout + earnings momentum",
+      "priority": "1"
+    },
+    {
+      "ticker": "MVIS",
+      "catalyst": "Holographics hype; earnings premarket",
+      "premarket_action": "+7% on 5x vol; unusual puts active",
+      "support": "$2.80-$3.00",
+      "resistance": "$4.00-$4.50",
+      "pattern": "Volatile microcap; watch iv crush post-earnings",
+      "priority": "2"
+    },
+    {
+      "ticker": "BNGO",
+      "catalyst": "Biotech leading premarket; earnings/biotech rotation",
+      "premarket_action": "Premarket buzz leader (StockTwits)",
+      "support": "$3.00-$3.25",
+      "resistance": "$4.50-$5.00",
+      "pattern": "Microcap momentum play; high risk",
+      "priority": "3"
+    },
+    {
+      "ticker": "SPCE",
+      "catalyst": "Virgin Galactic buyout speculation pre-earnings Thu",
+      "premarket_action": "+6% on 3x vol; M&A rumor driver",
+      "support": "$8.00-$8.50",
+      "resistance": "$10.00-$10.50",
+      "pattern": "Speculation play; earnings volatility expected",
+      "priority": "4"
+    },
+    {
+      "ticker": "LQDA",
+      "catalyst": "Liquidia PDUFA May 14 (tomorrow); late-stage biotech event",
+      "premarket_action": "Vol spike expected into decision",
+      "support": "$2.50-$3.00",
+      "resistance": "$4.00-$4.50",
+      "pattern": "Binary event risk; high gamma",
+      "priority": "5"
+    },
+    {
+      "ticker": "CATX",
+      "catalyst": "Earnings premarket; est. EPS -$0.29; short interest risk",
+      "premarket_action": "+9% on 6x vol; low-float squeeze potential",
+      "support": "$1.50-$2.00",
+      "resistance": "$3.00-$3.50",
+      "pattern": "Microcap earnings reversal; high volatility",
+      "priority": "6"
+    },
+    {
+      "ticker": "NEON",
+      "catalyst": "Earnings; est. miss -$0.12 vs -$0.08; earnings volatility",
+      "premarket_action": "Premarket activity trending",
+      "support": "$0.80-$1.00",
+      "resistance": "$1.50-$2.00",
+      "pattern": "Microcap; watch for short covering",
+      "priority": "7"
+    },
+    {
+      "ticker": "XLK",
+      "catalyst": "Tech sector strength; QQQ +1.31% outperformance",
+      "premarket_action": "+1.38% sector rotation into tech",
+      "support": "$175.00-$176.00",
+      "resistance": "$179.00-$180.00",
+      "pattern": "Sector strength continuation; AI/semiconductor rotation",
+      "priority": "8"
+    },
+    {
+      "ticker": "XLE",
+      "catalyst": "Oil pressure; Tue drag on SPX (-0.44%)",
+      "premarket_action": "Monitor for energy sector reversal or breakdown",
+      "support": "$92.00-$93.00",
+      "resistance": "$96.00-$97.00",
+      "pattern": "Headwind sector; defensive hedge setup",
+      "priority": "9"
+    },
+    {
+      "ticker": "GLD",
+      "catalyst": "Inflation hedge; macro uncertainty driver",
+      "premarket_action": "Monitor commodity flows; inflation proxy",
+      "support": "$183.00-$184.00",
+      "resistance": "$188.00-$190.00",
+      "pattern": "Risk-off hedge accumulation signal",
+      "priority": "10"
+    }
+  ],
+  "position_actions": [
+    {
+      "action": "BUY",
+      "ticker": "CEG",
+      "reasoning": "UBS upgrade +15% PT; institutional momentum on nuclear/AI; breakout above $244 support"
+    },
+    {
+      "action": "ADD",
+      "ticker": "ENPH",
+      "reasoning": "Solar rotation +12.46%; breakout momentum; grid demand thesis intact"
+    },
+    {
+      "action": "HOLD",
+      "ticker": "LLY",
+      "reasoning": "Tech/pharma rotation intact; support $1,015 holds; trim if +8% above entry"
+    },
+    {
+      "action": "TRIM",
+      "ticker": "SHOP",
+      "reasoning": "Earnings breakdown -4.55%; technical support $94.81 failed; exit 50% position at $95-$96 retest"
+    },
+    {
+      "action": "FADE",
+      "ticker": "CSCO",
+      "reasoning": "After-close earnings; vol spike 3x; sell call spreads $58/$62 or iron condor $55/$60; theta decay play"
+    },
+    {
+      "action": "HEDGE",
+      "ticker": "XLE",
+      "reasoning": "Oil pressure persists; consider energy sector PUT hedge (XLE) for macro tail risk"
+    },
+    {
+      "action": "WATCH",
+      "ticker": "LQDA",
+      "reasoning": "PDUFA binary event May 14 tomorrow; monitor implied move; high gamma risk \u2014 avoid naked entries"
+    }
+  ],
+  "wheel_book": [
+    {
+      "ticker": "CEG",
+      "sector": "Utilities/Energy",
+      "iv_rank_est": "65-75%",
+      "delta": "0.30-0.35",
+      "dte": "30-45",
+      "strike_zone": "$235-$240 puts",
+      "assignment_risk": "Med",
+      "priority": "Sell $235 put May 30 exp; collect 2.5-3% premium; accept assignment at $235 (strong thesis)"
+    },
+    {
+      "ticker": "ENPH",
+      "sector": "Renewables",
+      "iv_rank_est": "55-65%",
+      "delta": "0.30-0.35",
+      "dte": "30-45",
+      "strike_zone": "$39-$41 puts",
+      "assignment_risk": "Med",
+      "priority": "Sell $40 put May 30 exp; 2% premium target; wheel if assigned into strength"
+    },
+    {
+      "ticker": "LLY",
+      "sector": "Healthcare/Pharma",
+      "iv_rank_est": "45-55%",
+      "delta": "0.25-0.30",
+      "dte": "30-45",
+      "strike_zone": "$1,000-$1,010 puts",
+      "assignment_risk": "Low",
+      "priority": "Sell $1,005 put Jun 13 exp; 1.5% premium; low risk given institutional support"
+    },
+    {
+      "ticker": "ZS",
+      "sector": "Cybersecurity",
+      "iv_rank_est": "50-60%",
+      "delta": "0.30-0.35",
+      "dte": "30-45",
+      "strike_zone": "$145-$150 puts",
+      "assignment_risk": "Med",
+      "priority": "Sell $148 put May 30 exp; 2% target; strong tech sector support"
+    },
+    {
+      "ticker": "CSCO",
+      "sector": "Tech/Networking",
+      "iv_rank_est": "70-80%",
+      "delta": "0.35-0.40",
+      "dte": "7-14",
+      "strike_zone": "$55-$57 puts; $58-$60 calls",
+      "assignment_risk": "High",
+      "priority": "Post-earnings: Sell $55 put / $60 call iron condor; collect 3-4% premium over 30 days; high vol collapse risk"
+    }
+  ],
+  "risk_alerts": [
+    "Oil/inflation pressure persists (Tue SPX -0.44% driver); monitor 3-5 PM ET macro catalysts before close",
+    "CSCO after-close earnings: call vol 3x avg implies \u00b16% move; manage straddle/condor risk post-print IV crush",
+    "Microcap biotech (INO +12%, MVIS +7%, BNGO) premarket spikes 5-15% \u2014 high short-squeeze risk; avoid naked puts",
+    "VIX elevated ~15-16 range near caution threshold (20); if breaks above 18, shift to defensive posture (reduce size, add hedges)",
+    "Portfolio max ticker exposure: CEG 5%, ENPH 5%, LLY 4% = 14% total concentration; rebalance if any position gains >8% above entry"
+  ],
+  "cio_verdict": {
+    "risk_posture": "Neutral (bias Aggressive on selected breakouts; defensive hedge on energy sector)",
+    "capital_flow": "Deploy 40% into CEG/ENPH/LLY breakouts; reserve 30% for dips $7,380-$7,400; hold 30% dry powder for tail-risk hedges (GLD, XLE puts) if VIX >18",
+    "avoid": "Naked options on CSCO earnings; microcap biotech naked puts (INO, MVIS, BNGO); SHOP short squeeze recovery plays (vol too high); energy sector longs (headwind thesis); speculative M&A plays (SPCE) without defined risk"
+  }
+}
