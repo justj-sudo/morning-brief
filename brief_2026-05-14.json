@@ -1,0 +1,308 @@
+{
+  "date": "2026-05-14",
+  "generated_at": "Thursday, May 14, 2026 \u2014 02:21 PM ET",
+  "regime": "Risk-On",
+  "cio_summary": [
+    "VIX <18 signals complacency amid record highs; 235 new lows vs 120 highs = dangerous breadth divergence",
+    "Tech mega-caps driving 1/3 YTD earnings; rotation into obscure defensives (AXON, EVLV) + infrastructure flagged",
+    "PPI inflation scare (May 13) + geopolitical tension = tape fragility; watch 7,460 SPX resistance",
+    "Earnings flow: WKHS +12%, SPCE, BTCS vol spikes; microcap options premiums elevated\u2014wheel opportunity",
+    "CMS hospice freeze + fraud probes = healthcare headwind; sector lagging; avoid MLPs until clarity"
+  ],
+  "macro_dashboard": {
+    "spy_trend": "Records near 7,484; narrow breadth rally (tech-led); trendline intact but fatigue evident",
+    "qqq_trend": "AI mega-caps (+3-4%) masking semiconductor/semis lag; Mag 7 bubble risk rising",
+    "iwm_trend": "Small-cap lag (-0.18% vs +0.79% SPY); rotation away from economically sensitive names",
+    "vix": "17.79 (below 18)",
+    "vix_regime": "Complacent\u2014ignoring geopolitical/inflation risks; vol sellers in control",
+    "yield_10y": "No fresh data; prior mixed on hot PPI; expect 4.0-4.3% range hold",
+    "dollar_trend": "Stable on inflation watch; DXY flat; commodity weakness (oil down)",
+    "oil_trend": "WTI edging lower pre-PPI; geopolitical premium partially priced but fragile",
+    "crypto_sentiment": "Bitcoin decoupled; COIN +8.28% on retail euphoria; crypto vol elevated",
+    "tactical_bias": "Fade Strength\u2014breadth failure + complacent VIX + narrow rally = short-term pullback risk"
+  },
+  "institutional_setups": [
+    {
+      "ticker": "AXON",
+      "catalyst": "Protection/safety equipment demand surge on geo-tensions; top institutional urgency",
+      "setup": "Accumulation breakout; insto buying flagged; break prior resistance",
+      "entry": "Market order above $320 or $5K dip buy on 1% pullback",
+      "stop": "$305 (2%)",
+      "target": "$345\u2013$365 (8\u201312%)",
+      "conviction": "High"
+    },
+    {
+      "ticker": "EVLV",
+      "catalyst": "AI touchless screening; insto ownership \u2191 QoQ; mgmt 11% stake; est. swing to +35% EPS growth",
+      "setup": "Post-pullback reversal; insto accumulation; rebound from $5s underway",
+      "entry": "$6.50\u2013$7.00 (max $4K position)",
+      "stop": "$5.80 (risk 1.5%)",
+      "target": "$10\u2013$12 (50\u201380% microcap)",
+      "conviction": "High"
+    },
+    {
+      "ticker": "SMCI",
+      "catalyst": "AI server demand; Asia hardware capex; semis leadership play; vol 1.21x",
+      "setup": "Consolidation breakout; +2.28% today; near-term 50-day MA hold",
+      "entry": "$33.50\u2013$34.20 or $4K dip buy",
+      "stop": "$31.00 (3%)",
+      "target": "$38\u2013$42 (15\u201330%)",
+      "conviction": "Med"
+    },
+    {
+      "ticker": "ENPH",
+      "catalyst": "Solar/renewable energy; earnings upgrade potential; +13.12% vol spike; breadth leader",
+      "setup": "Breakout above $49.34; sentiment pivot; institutional accumulation likely",
+      "entry": "$48\u2013$49 (limit order) or add $4K on dip to $47",
+      "stop": "$45.50 (3%)",
+      "target": "$54\u2013$58 (12\u201322%)",
+      "conviction": "Med"
+    },
+    {
+      "ticker": "HOOD",
+      "catalyst": "Retail trading surge; +5.87% on vol spike (1.36x); options euphoria play",
+      "setup": "Gap fill from $76 to $81; breakout potential; options vol >100%",
+      "entry": "$81.00\u2013$82.50 (max $3K; high beta/leverage)",
+      "stop": "$78.00 (3%)",
+      "target": "$88\u2013$92 (8\u201313%)",
+      "conviction": "Med"
+    },
+    {
+      "ticker": "COIN",
+      "catalyst": "Bitcoin +8.28% overnight; crypto sentiment pivot; retail euphoria; vol 1.64x",
+      "setup": "Gap continuation; $199.88 open to $222.16 high; near-term resistance test",
+      "entry": "$215\u2013$220 (limit); avoid chasing above $222",
+      "stop": "$205 (3%)",
+      "target": "$235\u2013$250 (7\u201314%)",
+      "conviction": "Med"
+    },
+    {
+      "ticker": "BA",
+      "catalyst": "Defense/aerospace rotation; sector tailwinds; -3.31% = dip opportunity",
+      "setup": "Gap down to $227.50; reversal setup if holds $227; insto accumulation likely",
+      "entry": "$230\u2013$232 (dip buy); $4K position max",
+      "stop": "$225 (2%)",
+      "target": "$240\u2013$250 (4\u20138%)",
+      "conviction": "Low"
+    },
+    {
+      "ticker": "CEG",
+      "catalyst": "UBS upgrade to Buy; nuclear/AI power play; PT $250 (+15%); May 15 $2.54 EPS est",
+      "setup": "Premarket +3%; breakout candidate; call vol 10x normal",
+      "entry": "$215\u2013$218 (limit before earnings)",
+      "stop": "$210 (2%)",
+      "target": "$240\u2013$250 (11\u201315%)",
+      "conviction": "Med"
+    }
+  ],
+  "watchlist": [
+    {
+      "ticker": "AXON",
+      "catalyst": "Protection/safety; top institutional urgency",
+      "premarket_action": "Stable; insto accumulation; no gap",
+      "support": "$310\u2013$315",
+      "resistance": "$330\u2013$340",
+      "pattern": "Ascending triangle; breakout imminent",
+      "priority": "1"
+    },
+    {
+      "ticker": "EVLV",
+      "catalyst": "AI screening; insto ownership \u2191; +35% EPS growth swing",
+      "premarket_action": "Rebounding from $5s; vol picking up",
+      "support": "$5.80\u2013$6.00",
+      "resistance": "$7.50\u2013$8.00",
+      "pattern": "V-recovery; insto accumulation",
+      "priority": "2"
+    },
+    {
+      "ticker": "ENPH",
+      "catalyst": "Renewable energy rotation; +13.12% vol surge; earnings upgrade",
+      "premarket_action": "Breakout above $49; strong momentum",
+      "support": "$45.00\u2013$46.50",
+      "resistance": "$50\u2013$52",
+      "pattern": "Cup-and-handle; breakout confirmed",
+      "priority": "3"
+    },
+    {
+      "ticker": "SMCI",
+      "catalyst": "AI server demand; semis leadership; Asia capex tailwind",
+      "premarket_action": "+2.28%; vol 1.21x; consolidation hold",
+      "support": "$31.00\u2013$32.00",
+      "resistance": "$34\u2013$36",
+      "pattern": "Breakout setup; MA convergence",
+      "priority": "4"
+    },
+    {
+      "ticker": "HOOD",
+      "catalyst": "Retail flow surge; options euphoria; +5.87%",
+      "premarket_action": "+5.87%; gap fill from $76 to $81; vol spike",
+      "support": "$78\u2013$80",
+      "resistance": "$82\u2013$85",
+      "pattern": "Gap fill + breakout potential",
+      "priority": "5"
+    },
+    {
+      "ticker": "COIN",
+      "catalyst": "Bitcoin momentum; retail crypto euphoria; +8.28%",
+      "premarket_action": "Gap up from $199.88 to $222.16 high; vol 1.64x",
+      "support": "$210\u2013$215",
+      "resistance": "$225\u2013$235",
+      "pattern": "Gap continuation; breakout test",
+      "priority": "6"
+    },
+    {
+      "ticker": "CEG",
+      "catalyst": "UBS Buy; nuclear/AI power; May 15 $2.54 EPS; call vol 10x",
+      "premarket_action": "+3% premarket; breakout alert",
+      "support": "$210\u2013$212",
+      "resistance": "$220\u2013$225",
+      "pattern": "Ascending; pre-earnings setup",
+      "priority": "7"
+    },
+    {
+      "ticker": "BA",
+      "catalyst": "Defense rotation; dip opportunity; -3.31% gap down",
+      "premarket_action": "Gap down from $243.24 to $227.50; reversal setup",
+      "support": "$225\u2013$228",
+      "resistance": "$238\u2013$243",
+      "pattern": "Dip-buy setup; reversal potential",
+      "priority": "8"
+    },
+    {
+      "ticker": "OXY",
+      "catalyst": "Energy upgrade on ME conflict; +1.34%; inflation hedge",
+      "premarket_action": "+1.34%; stable; vol 1.54x",
+      "support": "$55\u2013$56",
+      "resistance": "$58\u2013$60",
+      "pattern": "Consolidation; breakout candidate",
+      "priority": "9"
+    },
+    {
+      "ticker": "IBB",
+      "catalyst": "Biotech rotation; healthcare headwind (CMS freeze); vol 1.85x",
+      "premarket_action": "-0.61%; vol spike on earnings flow",
+      "support": "$170\u2013$171",
+      "resistance": "$173\u2013$175",
+      "pattern": "Sideways consolidation; watch for breakout",
+      "priority": "10"
+    }
+  ],
+  "position_actions": [
+    {
+      "action": "BUY",
+      "ticker": "AXON",
+      "reasoning": "Top insto urgency; protection/defense sector rotation; breakout setup; max $4.5K (9% port)"
+    },
+    {
+      "action": "BUY",
+      "ticker": "EVLV",
+      "reasoning": "Insto accumulation; +35% EPS swing; microcap leverage; $4K dip buy; high conviction"
+    },
+    {
+      "action": "ADD",
+      "ticker": "ENPH",
+      "reasoning": "Breakout confirmation; renewable energy tailwind; add $3.5K to existing or initiate"
+    },
+    {
+      "action": "BUY",
+      "ticker": "SMCI",
+      "reasoning": "AI server demand; semis leadership; $34K dip buy; $4K position max"
+    },
+    {
+      "action": "BUY",
+      "ticker": "HOOD",
+      "reasoning": "Retail flow surge; options vol premium wheel candidate; $4K max (leverage note)"
+    },
+    {
+      "action": "BUY",
+      "ticker": "COIN",
+      "reasoning": "Bitcoin momentum; avoid chase >$222; $4K limit order $215\u2013$220"
+    },
+    {
+      "action": "HOLD",
+      "ticker": "BA",
+      "reasoning": "Defense rotation; dip setup; monitor reversal at $227.50; add on hold"
+    },
+    {
+      "action": "WATCH",
+      "ticker": "CEG",
+      "reasoning": "UBS upgrade; pre-earnings; hold cash; enter if pulls back $210\u2013$212"
+    },
+    {
+      "action": "TRIM",
+      "ticker": "XLK",
+      "reasoning": "Tech overbought; breadth divergence; trim 2.5% if +8% from entry; lock 1/3 gains"
+    },
+    {
+      "action": "HEDGE",
+      "ticker": "SPY",
+      "reasoning": "VIX <18 complacency; 235 new lows; breadth failure risk; consider 0.5% SDS hedge"
+    }
+  ],
+  "wheel_book": [
+    {
+      "ticker": "HOOD",
+      "sector": "Fintech/Retail",
+      "iv_rank_est": "92%",
+      "delta": "30 (calls) / -30 (puts)",
+      "dte": "21",
+      "strike_zone": "Put sell $76\u2013$78 / Call sell $88\u2013$90",
+      "assignment_risk": "Med",
+      "priority": "1\u2014euphoria premium; high theta decay"
+    },
+    {
+      "ticker": "COIN",
+      "sector": "Crypto/Digital Assets",
+      "iv_rank_est": "85%",
+      "delta": "35 (calls) / -35 (puts)",
+      "dte": "21",
+      "strike_zone": "Put sell $205\u2013$210 / Call sell $240\u2013$250",
+      "assignment_risk": "High",
+      "priority": "2\u2014vol crush risk; retail bubble"
+    },
+    {
+      "ticker": "ENPH",
+      "sector": "Renewable/Solar",
+      "iv_rank_est": "72%",
+      "delta": "25 (calls) / -25 (puts)",
+      "dte": "21",
+      "strike_zone": "Put sell $44\u2013$46 / Call sell $54\u2013$56",
+      "assignment_risk": "Low",
+      "priority": "3\u2014stable theta; earnings tail risk May 22"
+    },
+    {
+      "ticker": "SMCI",
+      "sector": "Semiconductors/AI",
+      "iv_rank_est": "68%",
+      "delta": "30 (calls) / -30 (puts)",
+      "dte": "21",
+      "strike_zone": "Put sell $31\u2013$32 / Call sell $38\u2013$40",
+      "assignment_risk": "Med",
+      "priority": "4\u2014semis vol; tech sector leverage"
+    },
+    {
+      "ticker": "BA",
+      "sector": "Aerospace/Defense",
+      "iv_rank_est": "65%",
+      "delta": "25 (calls) / -25 (puts)",
+      "dte": "21",
+      "strike_zone": "Put sell $228\u2013$230 / Call sell $240\u2013$245",
+      "assignment_risk": "Low",
+      "priority": "5\u2014stable wheel; geo tailwind"
+    }
+  ],
+  "risk_alerts": [
+    "Breadth divergence critical: 235 new lows vs 120 highs on S&P record = distribution flag",
+    "VIX <18 ignores geopolitical risk; vol sellers congested; expect 1\u20132% pullback reversals",
+    "Tech mega-cap concentration (Mag 7) = 1/3 YTD earnings; rotation risk if Mag 7 stumbles",
+    "PPI inflation scare lingers; 10Y yield risk 4.3%+; rate-sensitive sectors vulnerable",
+    "CMS hospice freeze + fraud probes = healthcare sector headwind; avoid MLPs/pharma names",
+    "Small-cap lag (IWM) signals risk-off building; rotate to large-cap quality on dips",
+    "Microcap earnings vol (WKHS +12%, SPCE, BTCS) = pin risk; manage wheel position sizing"
+  ],
+  "cio_verdict": {
+    "risk_posture": "Neutral-to-Aggressive (50/20/30 rebalance)",
+    "capital_flow": "Allocate $25K to institutional setups (AXON, EVLV, SMCI, ENPH, HOOD, COIN) with 8\u201310% position caps. Reserve $15K for dips (BA, CEG, OXY). Run $10K wheel premium on HOOD/COIN/ENPH calls (21 DTE); put-sell HOOD $76\u2013$78 (cap loss $3.8K max). Monitor 7,460 SPX resistance; exit 1/3 long on break above +12% gain. SDS hedge 0.5% if VIX fails to spike on 2% pullback.",
+    "avoid": "Healthcare (CMS freeze, fraud risk). Naked options (rule breach). Margin (rule breach). Stocks <$10 (exclude EVLV microcap once >$10). Chasing COIN above $222. Over-sizing HOOD beta (max $3K). Tech mega-cap shorts (Mag 7 momentum intact, short squeeze risk)."
+  }
+}
