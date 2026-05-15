@@ -1,0 +1,296 @@
+{
+  "date": "2026-05-15",
+  "generated_at": "Friday, May 15, 2026 \u2014 01:16 PM ET",
+  "regime": "Risk-Off",
+  "cio_summary": [
+    "Oil spike overnight driving inflation shock; yields elevated, AI rally reversal",
+    "SPY -0.9%, QQQ -1.1%, IWM -2.29% \u2014 small caps hardest hit; below support 7,390",
+    "DXY bullish at 98.85 target 99.50; gold bearish below 4,500 targeting 4,300",
+    "Tech/Fin/Industrials under pressure; defensive rotation emerging (Healthcare/Utilities bid)",
+    "73 earnings today; major reports next week (CEG, CSCO workforce cut, CPA, TNK after-hours)"
+  ],
+  "macro_dashboard": {
+    "spy_trend": "Down -0.9%; Below 7,390 support targeting 7,300",
+    "qqq_trend": "Down -1.1%; Tech weakness from yield spike",
+    "iwm_trend": "Down -2.29%; Small-cap capitulation signal",
+    "vix": "Likely elevated from oil shock (est 18-20)",
+    "vix_regime": "Caution (15-20 healthy \u2192 20-25 caution threshold)",
+    "yield_10y": "Elevated from oil-driven spike; rate-sensitive sectors under pressure",
+    "dollar_trend": "DXY bullish above 98.85; targeting 99.50",
+    "oil_trend": "Sharp spike overnight; primary risk driver; inflation concern",
+    "crypto_sentiment": "Neutral to defensive; risk-off bias limits upside",
+    "tactical_bias": "Fade Strength \u2014 oil shock + yield elevation warrant caution on bounces"
+  },
+  "institutional_setups": [
+    {
+      "ticker": "XLU",
+      "catalyst": "Defensive rotation from tech/fin weakness; yield spike supports utilities",
+      "setup": "Daily VWAP support holding; relative strength vs SPY improving",
+      "entry": "176.50-177.25 (dip buy into sector weakness)",
+      "stop": "175.80",
+      "target": "179.50 (near-term); 182.00 (extended)",
+      "conviction": "High"
+    },
+    {
+      "ticker": "XLV",
+      "catalyst": "Healthcare outperforming on defensive rotation; staples/defensive bid",
+      "setup": "Momentum building into risk-off session; relative strength breakout setup",
+      "entry": "189.75-190.50",
+      "stop": "188.90",
+      "target": "193.50",
+      "conviction": "High"
+    },
+    {
+      "ticker": "KRE",
+      "catalyst": "Regional bank dislocation from yield spike; potential oversold bounce",
+      "setup": "Breadth weak but recovery setups forming on technicals",
+      "entry": "82.00-82.75 (support test)",
+      "stop": "80.90",
+      "target": "85.50",
+      "conviction": "Med"
+    },
+    {
+      "ticker": "QQQ",
+      "catalyst": "Tech capitulation creating tradeable bounce; oversold intraday",
+      "setup": "Below 711 support; potential reversal Friday afternoon (options expiry)",
+      "entry": "710.00-710.75 (intraday support)",
+      "stop": "707.50",
+      "target": "716.50",
+      "conviction": "Med"
+    },
+    {
+      "ticker": "XLRE",
+      "catalyst": "Rates overshoot on oil shock; likely to stabilize into EOW",
+      "setup": "XLRE weak but potential mean-revert if yields stabilize",
+      "entry": "69.50-70.00 (dip support)",
+      "stop": "68.75",
+      "target": "72.00",
+      "conviction": "Med"
+    },
+    {
+      "ticker": "GDX",
+      "catalyst": "Gold weakness (4,500 target 4,300) pressuring miners; relief trade setup",
+      "setup": "Down -6.62% on high volume; technical oversold; support 86.50",
+      "entry": "86.75-87.00 (oversold bounce)",
+      "stop": "85.90",
+      "target": "89.75",
+      "conviction": "Med"
+    },
+    {
+      "ticker": "SLV",
+      "catalyst": "Silver capitulation (-8.05%); commodity washout attracting dip buyers",
+      "setup": "High volume 1.38x; support forming 68.50-69.00",
+      "entry": "68.75-69.00 (intraday dip)",
+      "stop": "68.00",
+      "target": "70.50",
+      "conviction": "Low"
+    },
+    {
+      "ticker": "SPY",
+      "catalyst": "Oil shock reversal creating tactical bounce; Friday opex support",
+      "setup": "Below 741 near-term resistance; 740.50 intraday pivot",
+      "entry": "740.00-740.50",
+      "stop": "738.50",
+      "target": "742.50",
+      "conviction": "Med"
+    }
+  ],
+  "watchlist": [
+    {
+      "ticker": "XLK",
+      "catalyst": "Semiconductor/software weakness from yield spike; watch for hold",
+      "premarket_action": "Down -1.19%; below 177 support level",
+      "support": "176.50",
+      "resistance": "178.25",
+      "pattern": "Lower high pattern; risk of further breakdown",
+      "priority": "1"
+    },
+    {
+      "ticker": "FTEC",
+      "catalyst": "Fidelity Tech ETF showing institutional unwind; sentiment barometer",
+      "premarket_action": "Following QQQ weakness; relative underperformance",
+      "support": "285.00",
+      "resistance": "290.50",
+      "pattern": "Breakdown below 5-day MA",
+      "priority": "2"
+    },
+    {
+      "ticker": "XLF",
+      "catalyst": "Financials under yield pressure; rate curve implications",
+      "premarket_action": "Mixed with small caps; banks lagging",
+      "support": "41.50",
+      "resistance": "42.25",
+      "pattern": "Choppy; waiting for curve stability signal",
+      "priority": "3"
+    },
+    {
+      "ticker": "SOXX",
+      "catalyst": "Semis capitulating on tech selloff; foundational weakness signal",
+      "premarket_action": "Heavy selling; support test at 4,500 level",
+      "support": "4480.00",
+      "resistance": "4550.00",
+      "pattern": "Break below 50-day MA",
+      "priority": "4"
+    },
+    {
+      "ticker": "KBE",
+      "catalyst": "Regional banks under stress; opex support matters today",
+      "premarket_action": "Following market weakness; IV expansion",
+      "support": "94.50",
+      "resistance": "96.00",
+      "pattern": "2-day lower low setup",
+      "priority": "5"
+    },
+    {
+      "ticker": "GDXJ",
+      "catalyst": "Junior miners worse than GDX; risk-off sentiment indicator",
+      "premarket_action": "Down -6.79%; high vol ratio 1.69",
+      "support": "115.50",
+      "resistance": "119.00",
+      "pattern": "Breakdown from 120 level",
+      "priority": "6"
+    },
+    {
+      "ticker": "CEG",
+      "catalyst": "Constellation Energy earnings Monday; nuclear AI narrative play",
+      "premarket_action": "Holding up relatively; AI sponsorship remains",
+      "support": "189.00",
+      "resistance": "193.50",
+      "pattern": "Consolidation; waiting for earnings clarity",
+      "priority": "7"
+    },
+    {
+      "ticker": "IYW",
+      "catalyst": "iShares US Tech ETF; broad tech sentiment gauge vs mega-cap lag",
+      "premarket_action": "Following XLK weakness; mid-cap tech exposed",
+      "support": "262.00",
+      "resistance": "266.00",
+      "pattern": "Consolidation into opex",
+      "priority": "8"
+    },
+    {
+      "ticker": "USO",
+      "catalyst": "Oil strength driver of entire market; support level watch",
+      "premarket_action": "Up on commodity spike; inverse equity correlation",
+      "support": "73.50",
+      "resistance": "75.00",
+      "pattern": "Breakout from recent range",
+      "priority": "9"
+    },
+    {
+      "ticker": "GLD",
+      "catalyst": "Gold bearish (4,500 target 4,300); inverse equity pressure",
+      "premarket_action": "Down with commodities; inflation expectations",
+      "support": "183.50",
+      "resistance": "186.00",
+      "pattern": "Lower lows forming",
+      "priority": "10"
+    }
+  ],
+  "position_actions": [
+    {
+      "action": "HEDGE",
+      "ticker": "QQQ",
+      "reasoning": "Tech exposure large; VIX expansion likely; consider 1-2% QQQ put hedge or reduce 3-5%"
+    },
+    {
+      "action": "TRIM",
+      "ticker": "FTEC",
+      "reasoning": "Tech premium at risk from yield elevation; trim 50% if held above cost"
+    },
+    {
+      "action": "HOLD",
+      "ticker": "XLU",
+      "reasoning": "Defensive bid intact; accumulate on dips into 176.50"
+    },
+    {
+      "action": "HOLD",
+      "ticker": "XLV",
+      "reasoning": "Healthcare relative strength holding; core defensive position maintain"
+    },
+    {
+      "action": "EXIT",
+      "ticker": "XLE",
+      "reasoning": "Energy leadership fading despite oil strength; lack of follow-through signal"
+    },
+    {
+      "action": "BUY",
+      "ticker": "GDX",
+      "reasoning": "Oversold setup (vol ratio 1.74, -6.62%) creates 4-6% bounce potential"
+    },
+    {
+      "action": "ADD",
+      "ticker": "KRE",
+      "reasoning": "Regional bank dislocation; opex support Friday; tactical accumulation 82-83"
+    },
+    {
+      "action": "MONITOR",
+      "ticker": "SPY",
+      "reasoning": "Opex support; watch for bounce Friday PM; no new longs until 741.50 clear"
+    }
+  ],
+  "wheel_book": [
+    {
+      "ticker": "XLU",
+      "sector": "Utilities",
+      "iv_rank_est": "65",
+      "delta": "30 call",
+      "dte": "21",
+      "strike_zone": "179-181 (2-3 std dev OTM)",
+      "assignment_risk": "Low",
+      "priority": "Sell 179c (premium capture; defensive unwind profit)"
+    },
+    {
+      "ticker": "XLV",
+      "sector": "Healthcare",
+      "iv_rank_est": "62",
+      "delta": "30 call",
+      "dte": "21",
+      "strike_zone": "192-194",
+      "assignment_risk": "Low",
+      "priority": "Sell 193c (premium income; strong relative setup)"
+    },
+    {
+      "ticker": "KRE",
+      "sector": "Financials",
+      "iv_rank_est": "58",
+      "delta": "30 call",
+      "dte": "21",
+      "strike_zone": "83.50-84.50 (1.5-2 std dev)",
+      "assignment_risk": "Med",
+      "priority": "Sell 84c (recovery trade premium)"
+    },
+    {
+      "ticker": "GDX",
+      "sector": "Materials",
+      "iv_rank_est": "72",
+      "delta": "25 call",
+      "dte": "21",
+      "strike_zone": "89-91 (elevated IV from vol shock)",
+      "assignment_risk": "Med",
+      "priority": "Sell puts 86/85 (cash-secured; dip accumulation)"
+    },
+    {
+      "ticker": "CEG",
+      "sector": "Energy/Utilities",
+      "iv_rank_est": "68",
+      "delta": "30 call",
+      "dte": "21",
+      "strike_zone": "191-193 (pre-earnings caution)",
+      "assignment_risk": "Med",
+      "priority": "Monitor; hold before Monday earnings; reassess after"
+    }
+  ],
+  "risk_alerts": [
+    "Oil shock driving yield elevation; inflation concern overrides AI momentum narrative",
+    "Gold breakdown below 4,500 signals risk-off escalation; commodities washout underway",
+    "Small-cap capitulation (IWM -2.29%) suggests institutional risk-off; breadth deteriorating",
+    "Yield-sensitive sectors (REITs, Utilities) under pressure; 10Y spike limiting duration exposure",
+    "SPY below 7,390 support; opex Friday offers tactical bounce but bears in control"
+  ],
+  "cio_verdict": {
+    "risk_posture": "Defensive",
+    "capital_flow": "Rotate into defensive sectors (XLU, XLV, Healthcare); reduce tech/fin exposure; hold cash for bounce entry",
+    "avoid": "Energy (XLE, XEO) lacks follow-through; Tech megacaps (FTEC, SOXX) under distribution; Growth with weak breadth; REIT/Duration positions in yield spike regime"
+  }
+}
