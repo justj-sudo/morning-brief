@@ -1,0 +1,296 @@
+{
+  "date": "2026-05-18",
+  "generated_at": "Monday, May 18, 2026 \u2014 02:22 PM ET",
+  "regime": "Risk-Off",
+  "cio_summary": [
+    "Oil spike + Iran geopolitical tension driving premarket weakness; VIX elevated, rates sticky",
+    "Tech leading decline (-2.21% XLK) as duration assets repriced; semis most vulnerable into NVDA earnings",
+    "Institutions rotating defensively: utilities + healthcare outperform; small-cap cyclicals lagging hard",
+    "Pre-earnings hedging active in NVDA complex; wheel sellers elevated on VIX; ADI/WMT/TGT pre-open catalysts",
+    "Capital raise mode: trim strength in overweight longs; build dry powder for dip-buy entries sub-SPY support"
+  ],
+  "macro_dashboard": {
+    "spy_trend": "Down 0.61% | Support 730 | Resistance 738",
+    "qqq_trend": "Down 1.23% | Tech sector pressure | Growth duration selling",
+    "iwm_trend": "Down 1.18% | Small-cap lagging | Yield-sensitive",
+    "vix": "Elevated/Firm | Premarket bidding VIX futures higher",
+    "vix_regime": "20-25 CAUTION | Geopolitical + rates uncertainty",
+    "yield_10y": "Rising | Bond selling pressure | Rate-sensitive equities under fire",
+    "dollar_trend": "No live print | DXY likely stable on safe-haven bid",
+    "oil_trend": "Rising sharply | Iran geopolitical impasse cited | Inflation concerns",
+    "crypto_sentiment": "No live BTC | Likely risk-off tone",
+    "tactical_bias": "Fade Strength | Build hedges | Trim into weakness"
+  },
+  "institutional_setups": [
+    {
+      "ticker": "NVDA",
+      "catalyst": "Post-close earnings + guidance | Blackwell ramp | China commentary",
+      "setup": "Straddle/strangle setup; large dealer short vega into close; expect vol crush or gap",
+      "entry": "Scale short puts 140-145 strike (post-earnings if IV rank spikes >80)",
+      "stop": "Close above 155 OR below 125 post-earnings",
+      "target": "Sell OTM puts 142 (capture theta + assignment upside)",
+      "conviction": "High"
+    },
+    {
+      "ticker": "WMT",
+      "catalyst": "Post-close earnings | Consumer spending + margin resilience read",
+      "setup": "Institutional hedging active; call spreads vs puts suggest bullish lean",
+      "entry": "Short 85 puts / long 82 puts (0.30 wide credit on 45 DTE)",
+      "stop": "SPY closes below 720 OR WMT closes below 80",
+      "target": "Collect 0.25 credit; 50% of max profit at 45 DTE",
+      "conviction": "High"
+    },
+    {
+      "ticker": "TGT",
+      "catalyst": "Pre-open earnings | Retail health + traffic + margins",
+      "setup": "High vol expected | Premarket volume elevated 1.5x normal",
+      "entry": "Buy 65 calls / sell 70 calls (bull call spread, 0.40 debit)",
+      "stop": "TGT closes below 62 OR SPY breaks 720",
+      "target": "62.5-65 entry; exit at 68 for profit",
+      "conviction": "Med"
+    },
+    {
+      "ticker": "RBLX",
+      "catalyst": "Momentum catalyst + user growth trend | Post-earnings bounce setup",
+      "setup": "Up 9.29% on volume 1.35x ratio | Breakout above 47.5 resistance",
+      "entry": "Buy 48 calls (Sep) on any dip to 46.50 | Ride the trend",
+      "stop": "Close below 45 | Stop loss 1.50 wide",
+      "target": "52-55 on sustained user/engagement growth",
+      "conviction": "Med"
+    },
+    {
+      "ticker": "PLTR",
+      "catalyst": "Rotation into defense from growth | Earnings density upcoming",
+      "setup": "Down 0.3% on 1.81x vol | Accumulation likely; support at 131",
+      "entry": "Scale into 132-131 on weakness | Sell 130 puts (30 DTE, 0.35 delta)",
+      "stop": "Close below 128 | SPY closes below 715",
+      "target": "Assign at 130 | Roll up on spike",
+      "conviction": "Med"
+    },
+    {
+      "ticker": "SMH",
+      "catalyst": "Semiconductor sector rotation | ADI + NVDA earnings week catalyst",
+      "setup": "ETF call skew bullish; dark pool accumulation on dips likely",
+      "entry": "Sell 45 puts (monthly, 0.35 delta) | Collect premium into volatility",
+      "stop": "SPY closes below 715 | SMH closes below 43",
+      "target": "Theta decay + assignment on strength",
+      "conviction": "Med"
+    },
+    {
+      "ticker": "XLU",
+      "catalyst": "Defensive rotation + data center power demand | Utilities outperform",
+      "setup": "Call buying in XLU vs SPY; institutional hedge bid",
+      "entry": "Buy 85 calls (Sep, 0.40 delta) | Upside participation on dip-buying",
+      "stop": "Close below 82 OR SPY below 715",
+      "target": "88-90 on sustained risk-off tone",
+      "conviction": "Med"
+    },
+    {
+      "ticker": "ADI",
+      "catalyst": "Pre-open earnings | Industrial/auto demand + inventory digest",
+      "setup": "Analog semi; margin guidance critical | Options vol spike expected",
+      "entry": "Sell 175 puts (45 DTE, 0.30 delta) | Assign on dip",
+      "stop": "SPY closes below 710 OR ADI below 170",
+      "target": "Collect 2.5-3.0 premium; 50% at 45 DTE",
+      "conviction": "Low"
+    }
+  ],
+  "watchlist": [
+    {
+      "ticker": "NVDA",
+      "catalyst": "Post-close earnings + Blackwell ramp + China",
+      "premarket_action": "Normal volume | Dealers hedging shorts",
+      "support": "140 (key technical) | 135 (breakdown level)",
+      "resistance": "155 | 160 (options barrier)",
+      "pattern": "Bull flag into earnings | Elevated implied vol",
+      "priority": "1"
+    },
+    {
+      "ticker": "WMT",
+      "catalyst": "Post-close earnings | Consumer spend + margins",
+      "premarket_action": "Flat to slightly up | Institutional bid in calls",
+      "support": "82.5 | 80 (multi-week low)",
+      "resistance": "87 | 90 (52-week trend)",
+      "pattern": "Consolidation breakout setup | Call skew bullish",
+      "priority": "2"
+    },
+    {
+      "ticker": "TGT",
+      "catalyst": "Pre-open earnings | Retail health + traffic read",
+      "premarket_action": "Vol elevated 1.5x | Awaiting open",
+      "support": "62 | 60 (breakdown risk)",
+      "resistance": "68 | 70 (trend line)",
+      "pattern": "Risk/reward skewed | Gap risk high",
+      "priority": "3"
+    },
+    {
+      "ticker": "ADI",
+      "catalyst": "Pre-open earnings | Margin + industrial demand",
+      "premarket_action": "Vol expanding | Normal pre-earnings flow",
+      "support": "170 | 165 (technical floor)",
+      "resistance": "180 | 185 (supply zone)",
+      "pattern": "Consolidation | Binary earnings setup",
+      "priority": "4"
+    },
+    {
+      "ticker": "RBLX",
+      "catalyst": "User growth trend + engagement | Momentum extended",
+      "premarket_action": "Strong volume 1.35x | Breakout above 47.5",
+      "support": "46 | 44.5 (key technical)",
+      "resistance": "50 | 52.5 (extended target)",
+      "pattern": "Breakout continuation | Bullish momentum",
+      "priority": "5"
+    },
+    {
+      "ticker": "PLTR",
+      "catalyst": "Rotation into defense | Institutional accumulation",
+      "premarket_action": "Slight weakness -0.3% | Vol 1.81x normal",
+      "support": "131 | 128.5 (key support)",
+      "resistance": "135.9 (intraday high) | 138",
+      "pattern": "Dip-buy setup | Support accumulation",
+      "priority": "6"
+    },
+    {
+      "ticker": "SMH",
+      "catalyst": "Semiconductor sector | ADI + NVDA earnings week",
+      "premarket_action": "Tech sector weakness | ETF call accumulation",
+      "support": "44.5 | 43 (key technical)",
+      "resistance": "46.5 | 48 (resistance zone)",
+      "pattern": "Call skew bullish vs SPY | Rotation target",
+      "priority": "7"
+    },
+    {
+      "ticker": "XLU",
+      "catalyst": "Defensive rotation | Data center power demand",
+      "premarket_action": "Outperform vs broad market | Call buying signal",
+      "support": "84 | 82.5 (key level)",
+      "resistance": "87.5 | 90 (extended target)",
+      "pattern": "Uptrend continuation | Hedge proxy",
+      "priority": "8"
+    },
+    {
+      "ticker": "GOOGL",
+      "catalyst": "Tech rebound setup | Post-weakness accumulation",
+      "premarket_action": "Up 0.44% on 1.33x vol | Relative strength",
+      "support": "394 | 390 (technical floor)",
+      "resistance": "410 | 415 (52-week high)",
+      "pattern": "Consolidation | Call skew improving",
+      "priority": "9"
+    },
+    {
+      "ticker": "ZM",
+      "catalyst": "Post-close earnings | Enterprise demand + AI",
+      "premarket_action": "Tech sector pressure | Vol expanding",
+      "support": "160 | 155 (key technical)",
+      "resistance": "175 | 180 (extended target)",
+      "pattern": "Earnings binary | High IV rank",
+      "priority": "10"
+    }
+  ],
+  "position_actions": [
+    {
+      "action": "TRIM",
+      "ticker": "QQQ",
+      "reasoning": "Down 1.23% | Tech duration repricing | Lock in prior week gains; reduce to 40% target"
+    },
+    {
+      "action": "TRIM",
+      "ticker": "XLK",
+      "reasoning": "Sector down 2.21% | Duration selling | Cut to underweight; rotate to defensive"
+    },
+    {
+      "action": "HOLD",
+      "ticker": "PLTR",
+      "reasoning": "Vol elevated 1.81x | Support at 131 firm | Accumulation spot; do not panic sell"
+    },
+    {
+      "action": "ADD",
+      "ticker": "XLU",
+      "reasoning": "Defensive rotation signal | Call skew bullish | Build position into weakness"
+    },
+    {
+      "action": "ADD",
+      "ticker": "SMH",
+      "reasoning": "ETF call accumulation | ADI earnings upcoming | Sell puts into vol spike"
+    },
+    {
+      "action": "HEDGE",
+      "ticker": "SPY",
+      "reasoning": "VIX 20-25 caution regime | Oil/rates pressure | Buy 730 puts (5-10% portfolio hedge)"
+    },
+    {
+      "action": "BUY",
+      "ticker": "SHY",
+      "reasoning": "Short duration treasury ETF | Vol rising | Dry powder proxy; 3-5% allocation"
+    },
+    {
+      "action": "EXIT",
+      "ticker": "Any underwater positions below -8%",
+      "reasoning": "Risk-off trigger active | No margin; raise cash for dip buys"
+    }
+  ],
+  "wheel_book": [
+    {
+      "ticker": "NVDA",
+      "sector": "Semiconductors",
+      "iv_rank_est": "85-90 (earnings)",
+      "delta": "0.35",
+      "dte": "30-45",
+      "strike_zone": "140-145 (short puts post-earnings)",
+      "assignment_risk": "Med",
+      "priority": "Sell 142 puts post-close | High premium"
+    },
+    {
+      "ticker": "WMT",
+      "sector": "Retail",
+      "iv_rank_est": "60-70",
+      "delta": "0.30-0.35",
+      "dte": "45",
+      "strike_zone": "82-85 (short puts)",
+      "assignment_risk": "Med",
+      "priority": "Sell 85 puts | Collect 2.5-3.0 credit"
+    },
+    {
+      "ticker": "PLTR",
+      "sector": "Software/Defense",
+      "iv_rank_est": "55-65",
+      "delta": "0.35",
+      "dte": "45-60",
+      "strike_zone": "130-132 (short puts)",
+      "assignment_risk": "Low-Med",
+      "priority": "Sell 131 puts | Roll on spike"
+    },
+    {
+      "ticker": "ADI",
+      "sector": "Semiconductors",
+      "iv_rank_est": "65-75",
+      "delta": "0.30",
+      "dte": "45",
+      "strike_zone": "172-175 (short puts)",
+      "assignment_risk": "Med",
+      "priority": "Post-earnings short puts | Collect 2.5-3.0"
+    },
+    {
+      "ticker": "SMH",
+      "sector": "Semiconductor ETF",
+      "iv_rank_est": "60-70",
+      "delta": "0.35",
+      "dte": "45",
+      "strike_zone": "44.5-45.5 (short puts)",
+      "assignment_risk": "Low",
+      "priority": "ETF put selling | Vol expansion setup"
+    }
+  ],
+  "risk_alerts": [
+    "Oil spike + Iran geopolitical risk cited as key overnight catalyst; monitor for widening spreads",
+    "VIX elevated 20-25 regime; risk-off posture active; tighten stops on momentum names",
+    "Earnings week density: NVDA post-close (largest vol impact), WMT post-close, TGT/ADI pre-open",
+    "Rate sensitivity high: 10Y yield rising pressure on duration assets; tech/growth most vulnerable",
+    "Tech sector down 2.21% (XLK); duration selling active; small-cap (IWM -1.18%) lagging; rotation underway"
+  ],
+  "cio_verdict": {
+    "risk_posture": "Defensive",
+    "capital_flow": "Trim tech overweight to 40% QQQ; rotate 10% into XLU/utilities; hold 15-20% dry powder in SHY for dip-buys; cut margin exposure to zero",
+    "avoid": "Avoid new long positions in unprofitable software, commercial real estate, broad small-cap cyclicals; do not chase momentum names above resistance; avoid naked short calls into NVDA earnings"
+  }
+}
