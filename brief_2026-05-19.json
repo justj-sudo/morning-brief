@@ -1,0 +1,296 @@
+{
+  "date": "2026-05-19",
+  "generated_at": "Tuesday, May 19, 2026 \u2014 02:27 PM ET",
+  "regime": "Risk-Off",
+  "cio_summary": [
+    "SPX futures -39bps; macro tape: inflation anxiety + geopolitical oil bid (WTI +115bps) + USD strength suppressing equities",
+    "Sector rotation LIVE: growth/AI under pressure; XLI/XLB/XLE/PAVE accumulation patterns suggest institutional shift to hard assets/infrastructure",
+    "HD earnings TODAY; NVDA Wednesday = largest vol magnets this week; watch for call flow & block accumulation in cyclical/value proxies",
+    "VIX likely firmed (not quoted but defensive bid in gold +40bps, oil bid, DXY strength all consistent with 18-22 regime)",
+    "Portfolio stance: NEUTRAL-to-DEFENSIVE; trim growth; rotate to value/cyclicals/energy; premium selling in high-IV names; avoid new longs in unprofitable tech"
+  ],
+  "macro_dashboard": {
+    "spy_trend": "Lower; -24bps; consolidating near support",
+    "qqq_trend": "Flat to negative; -10bps; underperforming SPY = tech rotation confirmation",
+    "iwm_trend": "Weakest: -63bps; small-cap underperformance = risk-off bias",
+    "vix": "Estimated 18-22 (firming)",
+    "vix_regime": "Healthy trend shifting to caution; inflation/supply anxiety dominant",
+    "yield_10y": "Not quoted; likely stable-to-firm on oil/inflation bid",
+    "dollar_trend": "Firmer; EUR/USD 1.1556, USD/JPY 159.70 = DXY bid",
+    "oil_trend": "WTI +115bps to 113.70; geopolitical premium + inflation expectation",
+    "crypto_sentiment": "Not quoted; likely neutral-to-soft on macro headwinds",
+    "tactical_bias": "Fade Strength in growth; Buy Dips in cyclicals/value/energy"
+  },
+  "institutional_setups": [
+    {
+      "ticker": "XLI",
+      "catalyst": "Sector rotation out of growth; industrial/capex cycle tailwinds",
+      "setup": "Daily breakout above 200MA; institutional accumulation in blocks",
+      "entry": "$123.50-$124.20",
+      "stop": "$121.80",
+      "target": "$128.50",
+      "conviction": "High"
+    },
+    {
+      "ticker": "XLB",
+      "catalyst": "Materials bid on geopolitical supply/reshoring narrative",
+      "setup": "Above 50MA; relative strength vs QQQ firming",
+      "entry": "$92.80-$93.40",
+      "stop": "$91.20",
+      "target": "$97.50",
+      "conviction": "High"
+    },
+    {
+      "ticker": "XLE",
+      "catalyst": "Oil strength WTI 113.70; geopolitical risk premium; energy exports",
+      "setup": "Breakout above resistance; block volume accumulation",
+      "entry": "$117.50-$118.50",
+      "stop": "$114.80",
+      "target": "$125.00",
+      "conviction": "High"
+    },
+    {
+      "ticker": "PAVE",
+      "catalyst": "Infrastructure/reshoring mega-trend; active institutional flows",
+      "setup": "Above 200MA; ETF inflow tracking positive",
+      "entry": "$76.80-$77.50",
+      "stop": "$75.20",
+      "target": "$82.00",
+      "conviction": "Med"
+    },
+    {
+      "ticker": "URA",
+      "catalyst": "Nuclear power/AI data center demand; geopolitical supply risk",
+      "setup": "Early breakout; institutional rotation theme",
+      "entry": "$28.50-$29.00",
+      "stop": "$27.20",
+      "target": "$33.50",
+      "conviction": "Med"
+    },
+    {
+      "ticker": "HD",
+      "catalyst": "Earnings TODAY; housing/consumer bellwether; large options vol",
+      "setup": "Support at $438; watch for post-earnings breakout or dump",
+      "entry": "$438.00-$442.00 (post-earnings)",
+      "stop": "$432.00",
+      "target": "$455.00",
+      "conviction": "Med"
+    },
+    {
+      "ticker": "JPM",
+      "catalyst": "Financials bid on rates/net interest margin; dividend yield",
+      "setup": "Down -88bps today but strong relative to QQQ; accumulation zone",
+      "entry": "$296.00-$299.00",
+      "stop": "$293.50",
+      "target": "$315.00",
+      "conviction": "Med"
+    },
+    {
+      "ticker": "AMD",
+      "catalyst": "Semis weakness = buying opportunity if AI thesis intact; vol spike",
+      "setup": "Down -38bps; large vol spike (1.23x); watch for reversal",
+      "entry": "$418.00-$422.00",
+      "stop": "$410.00",
+      "target": "$440.00",
+      "conviction": "Low"
+    }
+  ],
+  "watchlist": [
+    {
+      "ticker": "HD",
+      "catalyst": "Earnings TODAY 4:00pm ET; home improvement/consumer read",
+      "premarket_action": "Flat to +30bps expected; wide earnings range; monitor call flow post-bell",
+      "support": "$438.00",
+      "resistance": "$455.00",
+      "pattern": "Consolidating; volume set to spike",
+      "priority": "1"
+    },
+    {
+      "ticker": "NVDA",
+      "catalyst": "Earnings WEDNESDAY; largest AI stock; typically massive vol/gamma event",
+      "premarket_action": "Monitor overnight sentiment; tech sector barometer",
+      "support": "$142.50",
+      "resistance": "$158.00",
+      "pattern": "Above 200MA; key technical test",
+      "priority": "2"
+    },
+    {
+      "ticker": "WMT",
+      "catalyst": "Earnings THURSDAY; retail giant; inflation/spending bellwether",
+      "premarket_action": "Strong relative performance; accumulation in blocks likely",
+      "support": "$105.00",
+      "resistance": "$115.00",
+      "pattern": "Uptrend intact; watch for gap-up or dump",
+      "priority": "3"
+    },
+    {
+      "ticker": "GDX",
+      "catalyst": "Miners bid on gold strength +40bps & USD strength tailwinds",
+      "premarket_action": "Down -319bps but high vol (1.34x); reversal setup",
+      "support": "$83.36",
+      "resistance": "$87.00",
+      "pattern": "Oversold; watch for capitulation bounce",
+      "priority": "4"
+    },
+    {
+      "ticker": "TGT",
+      "catalyst": "Earnings WEDNESDAY; retail/margin/traffic key read",
+      "premarket_action": "Monitor tape for call flow; consumer discretionary test",
+      "support": "$72.50",
+      "resistance": "$82.00",
+      "pattern": "Consolidation; watch for reversal",
+      "priority": "5"
+    },
+    {
+      "ticker": "LOW",
+      "catalyst": "Earnings WEDNESDAY; housing/consumer capex gauge",
+      "premarket_action": "Elevated vol expected; options activity rising",
+      "support": "$115.00",
+      "resistance": "$128.00",
+      "pattern": "Above MA; uptrend bias",
+      "priority": "6"
+    },
+    {
+      "ticker": "IWM",
+      "catalyst": "Small-cap underperformance; possible relief rally into end of week",
+      "premarket_action": "Weak at -63bps; watch for institutional step-in",
+      "support": "$272.00",
+      "resistance": "$280.00",
+      "pattern": "Below 50MA; risk-off signal",
+      "priority": "7"
+    },
+    {
+      "ticker": "QQQ",
+      "catalyst": "Tech weakness as rotation accelerates; NVDA event risk Wed",
+      "premarket_action": "Flat -10bps but relative underperformance vs SPY = concern",
+      "support": "$700.00",
+      "resistance": "$720.00",
+      "pattern": "Consolidation; watch for breakdown",
+      "priority": "8"
+    },
+    {
+      "ticker": "VTV",
+      "catalyst": "Value rotation; relative strength vs growth; dividend yields",
+      "premarket_action": "Likely bid; institutional flows inbound",
+      "support": "$165.00",
+      "resistance": "$175.00",
+      "pattern": "Above 200MA; uptrend bias",
+      "priority": "9"
+    },
+    {
+      "ticker": "SHOP",
+      "catalyst": "E-commerce; earnings sensitivity; AI capex narrative",
+      "premarket_action": "Down -17bps; vol spike (1.23x); watch for post-earnings",
+      "support": "$100.73",
+      "resistance": "$108.00",
+      "pattern": "Consolidation; wide range",
+      "priority": "10"
+    }
+  ],
+  "position_actions": [
+    {
+      "action": "TRIM",
+      "ticker": "QQQ",
+      "reasoning": "Underperforming SPY -14bps; rotation out of growth live; trim 25% into strength if +2% intraday"
+    },
+    {
+      "action": "TRIM",
+      "ticker": "ARKK",
+      "reasoning": "Growth/unprofitable tech under pressure; harvest gains if any; rebuild on dip"
+    },
+    {
+      "action": "ADD",
+      "ticker": "XLI",
+      "reasoning": "Institutional accumulation confirmed; sector rotation thesis high conviction; build to 5-6% position"
+    },
+    {
+      "action": "ADD",
+      "ticker": "XLB",
+      "reasoning": "Materials bid; reshoring/geopolitical theme; add on dips; target 5% position"
+    },
+    {
+      "action": "ADD",
+      "ticker": "XLE",
+      "reasoning": "Oil strength +115bps; energy exports/geopolitical premium; add on support; target 5% position"
+    },
+    {
+      "action": "BUY",
+      "ticker": "VTV",
+      "reasoning": "Value rotation; div yields attractive; add 4-5% for long-term hold"
+    },
+    {
+      "action": "HOLD",
+      "ticker": "SPY",
+      "reasoning": "Core holding; consolidating; stay fully invested; nibble weakness"
+    },
+    {
+      "action": "HEDGE",
+      "ticker": "QQQ",
+      "reasoning": "Consider tight put spreads (720/710 or equiv) for Wed NVDA event; hedge portfolio downside at 2% cost"
+    }
+  ],
+  "wheel_book": [
+    {
+      "ticker": "HD",
+      "sector": "Consumer/Retail",
+      "iv_rank_est": "High (75%+)",
+      "delta": "0.35-0.40 put",
+      "dte": "21",
+      "strike_zone": "$430-$438 (7-8% OTM)",
+      "assignment_risk": "Med",
+      "priority": "Sell puts after earnings vol spike; collect high premium"
+    },
+    {
+      "ticker": "JPM",
+      "sector": "Financials",
+      "iv_rank_est": "Med-High (55%)",
+      "delta": "0.30-0.35 put",
+      "dte": "35",
+      "strike_zone": "$290-$296",
+      "assignment_risk": "Low-Med",
+      "priority": "Consistent wheel candidate; strong div; sell 30-45 DTE"
+    },
+    {
+      "ticker": "WMT",
+      "sector": "Consumer/Retail",
+      "iv_rank_est": "Med (50%)",
+      "delta": "0.35 put",
+      "dte": "21",
+      "strike_zone": "$103-$107",
+      "assignment_risk": "Low",
+      "priority": "Post-earnings; build shares on wheels; high div"
+    },
+    {
+      "ticker": "XLE",
+      "sector": "Energy",
+      "iv_rank_est": "Med-High (60%)",
+      "delta": "0.40 put",
+      "dte": "35",
+      "strike_zone": "$112-$117",
+      "assignment_risk": "Med",
+      "priority": "Trend is strong; sell puts on dips; covered calls on strength"
+    },
+    {
+      "ticker": "SCHD",
+      "sector": "Dividend ETF",
+      "iv_rank_est": "Low (35%)",
+      "delta": "0.25-0.30 put",
+      "dte": "45",
+      "strike_zone": "$80-$83",
+      "assignment_risk": "Low",
+      "priority": "Ultra-safe wheel; boring premium; hold long-term shares"
+    }
+  ],
+  "risk_alerts": [
+    "SPX futures -39bps in premarket; macro headwinds (inflation anxiety, geopolitical oil bid, USD strength) are real; be ready for -2 to -3% day if news breaks",
+    "NVDA event WEDNESDAY is major gamma catalyst; expect vol expansion; tail-risk hedges pay here; manage leverage now",
+    "HD earnings TODAY after hours; wide vol envelope; monitor gap risk; have stop orders in place; retail earnings week = binary outcomes",
+    "VIX likely 18-22 (estimated from macro tape); healthy trend but edge toward caution; trim leverage; no naked short positions",
+    "Small-cap (IWM) down -63bps = breadth warning; Russell 2000 weakness often precedes broader selloffs; de-risk if IWM breaks 272"
+  ],
+  "cio_verdict": {
+    "risk_posture": "Defensive",
+    "capital_flow": "Rotate from unprofitable growth (QQQ, ARKK) into value/cyclicals/energy (XLI, XLB, XLE, VTV); reallocate 20-30% of growth portfolio into hard assets; raise cash by 5-10% if -2% intraday hit",
+    "avoid": "New longs in high-multiple software, unprofitable biotech, low-IV tech names; avoid shorting XLI/XLB/XLE (institutional bid too strong); avoid naked puts in NVDA pre-Wed event; avoid margin/leverage into earnings"
+  }
+}
