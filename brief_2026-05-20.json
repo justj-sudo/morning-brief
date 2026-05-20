@@ -1,0 +1,297 @@
+{
+  "date": "2026-05-20",
+  "generated_at": "Wednesday, May 20, 2026 \u2014 03:55 PM ET",
+  "regime": "Risk-On",
+  "cio_summary": [
+    "NVDA earnings after close = largest vol catalyst; QQQ +1.55% leads on tech strength",
+    "Yields retreated AM, supporting equities; oil +1.15% on geopolitical risk (US-Iran)",
+    "Institutional rotation flagged in defense/safety, pollution control, electronics/components",
+    "WMT premarket Thu critical for consumer/tariff read; massive vol ratio 1.91 today",
+    "GS +5.62% on elevated vol (2.02x); financials bid but energy/oil complex pressured"
+  ],
+  "macro_dashboard": {
+    "spy_trend": "Positive; +0.98% on yield relief; consolidating near 740",
+    "qqq_trend": "Strong; +1.55% tech/semi bid; NVDA catalyst overhanging",
+    "iwm_trend": "Outperforming; +2.36% small-cap risk appetite",
+    "vix": "Est. 16-18 range (elevated vs. early month but manageable)",
+    "vix_regime": "Healthy Trend (15-20); earnings volatility priced in",
+    "yield_10y": "Retreated AM after backing up to multiyear high; supporting equities",
+    "dollar_trend": "Steady to slightly softer on yield easing",
+    "oil_trend": "WTI $113.70 +1.15%; Brent $110.25; geopolitical bid via US-Iran",
+    "crypto_sentiment": "No live BTC data; assume cautious pending macro clarity",
+    "tactical_bias": "Buy Dips on yield support; fade broad strength post-NVDA"
+  },
+  "institutional_setups": [
+    {
+      "ticker": "NVDA",
+      "catalyst": "Earnings after close; street $1.78 EPS, $78.98B revenue",
+      "setup": "Largest options flow event; data-center secular growth catalyst; semis/AI read-through",
+      "entry": "Below 1240 on dip; watch 1230 support",
+      "stop": "1215",
+      "target": "1310 (bull case) / 1180 (bear case on miss)",
+      "conviction": "High"
+    },
+    {
+      "ticker": "WMT",
+      "catalyst": "Earnings premarket Thu; street $0.66 EPS, $174.62B revenue",
+      "setup": "Consumer spending + tariff/inflation proxy; vol ratio 1.91 today (pressured -2.31%)",
+      "entry": "130.50 on stabilization; watch 130 support",
+      "stop": "128.50",
+      "target": "134 (beat case) / 127 (miss)",
+      "conviction": "High"
+    },
+    {
+      "ticker": "GS",
+      "catalyst": "Financials momentum; vol ratio 2.02; +5.62% strength",
+      "setup": "Banking cyclical outperform; Q2 earnings near; institutional accumulation likely",
+      "entry": "980 (current); add on dip to 965",
+      "stop": "945",
+      "target": "1010",
+      "conviction": "Med"
+    },
+    {
+      "ticker": "ASML",
+      "catalyst": "Semiconductor equipment; +6.09% on chip strength; vol ratio 1.31",
+      "setup": "Capex cycle play; structural AI/data-center supply chain bid",
+      "entry": "1540 (dip); follow through above 1550",
+      "stop": "1510",
+      "target": "1600",
+      "conviction": "Med"
+    },
+    {
+      "ticker": "SEDG",
+      "catalyst": "Clean energy/solar; +2.97% on grid modernization theme; vol 1.56",
+      "setup": "Institutional rotation into environmental equipment sector",
+      "entry": "56 support; add on breaks above 57.50",
+      "stop": "54.50",
+      "target": "62",
+      "conviction": "Med"
+    },
+    {
+      "ticker": "CELH",
+      "catalyst": "Consumer discretionary; -1.6% pressured; vol ratio 2.09 (elevated)",
+      "setup": "Earnings catalyst or sector rotation pressure; watch for institutional exit",
+      "entry": "Monitor 27.50 support for wheel entry",
+      "stop": "26.50",
+      "target": "30 (recovery) / 26 (breakdown)",
+      "conviction": "Low"
+    },
+    {
+      "ticker": "RBLX",
+      "catalyst": "Gaming/metaverse; +3.09% on sector rotation; vol 1.52",
+      "setup": "Niche tech outperform; institutional play into electronics/components theme",
+      "entry": "45.50 on hold; add on dip to 44",
+      "stop": "43",
+      "target": "48",
+      "conviction": "Med"
+    },
+    {
+      "ticker": "IBB",
+      "catalyst": "Biotech ETF; +2.17% outperform; vol ratio 1.39",
+      "setup": "Defensive quality + niche rotation; biotech earnings season",
+      "entry": "167 on hold; add dip to 165.50",
+      "stop": "164",
+      "target": "172",
+      "conviction": "Med"
+    }
+  ],
+  "watchlist": [
+    {
+      "ticker": "NVDA",
+      "catalyst": "Earnings 5/20 AH; street $1.78 EPS",
+      "premarket_action": "Core tech leadership; massive options interest expected",
+      "support": "1230",
+      "resistance": "1255",
+      "pattern": "Consolidation into event; potential gap on results",
+      "priority": "1"
+    },
+    {
+      "ticker": "WMT",
+      "catalyst": "Earnings 5/21 premarket; $0.66 EPS street",
+      "premarket_action": "Pressured -2.31% today on vol; consumer sentiment risk",
+      "support": "130",
+      "resistance": "133.50",
+      "pattern": "Breakdown risk below 130; watch for Thu premarket reversal",
+      "priority": "2"
+    },
+    {
+      "ticker": "GS",
+      "catalyst": "Financial cyclical; +5.62% institutional accumulation",
+      "premarket_action": "Strong relative strength; Q2 earnings approach",
+      "support": "965",
+      "resistance": "1000",
+      "pattern": "Breakout above 985; potential run to 1010",
+      "priority": "3"
+    },
+    {
+      "ticker": "ASML",
+      "catalyst": "Semiconductor equipment capex; +6.09%",
+      "premarket_action": "Chip uptrend confirmation; structural AI demand",
+      "support": "1510",
+      "resistance": "1560",
+      "pattern": "Breakout above 1550 potential; data-center cycle",
+      "priority": "4"
+    },
+    {
+      "ticker": "SEDG",
+      "catalyst": "Clean energy rotation; +2.97% institutional bid",
+      "premarket_action": "Pollution control theme flows; grid modernization capex",
+      "support": "54.50",
+      "resistance": "58",
+      "pattern": "Higher lows; breakout attempt",
+      "priority": "5"
+    },
+    {
+      "ticker": "AAPL",
+      "catalyst": "Tech leadership; +0.93% modest; QQQ strength",
+      "premarket_action": "Vol ratio 1.48; holding key support near 301",
+      "support": "298",
+      "resistance": "305",
+      "pattern": "Consolidation; watch for NVDA reaction spillover",
+      "priority": "6"
+    },
+    {
+      "ticker": "XOM",
+      "catalyst": "Energy pullback; -3.37% despite oil +1.15%",
+      "premarket_action": "Divergence = profit-taking or broader energy weakness",
+      "support": "155",
+      "resistance": "162",
+      "pattern": "Breakdown risk; watch for institutional repositioning",
+      "priority": "7"
+    },
+    {
+      "ticker": "WFC",
+      "catalyst": "Bank strength; +1.7% outperform; vol 1.47",
+      "premarket_action": "Financials sector rotation; rate/yield sensitive",
+      "support": "74.50",
+      "resistance": "76.50",
+      "pattern": "Higher highs; potential GS correlation trade",
+      "priority": "8"
+    },
+    {
+      "ticker": "HAL",
+      "catalyst": "Energy services; -1.42% despite oil bid; vol 1.87",
+      "premarket_action": "Sector weakness/profit-taking; watch entry near 42",
+      "support": "42",
+      "resistance": "43.50",
+      "pattern": "Consolidation; breakout opportunity if oil holds",
+      "priority": "9"
+    },
+    {
+      "ticker": "RBLX",
+      "catalyst": "Gaming/niche tech; +3.09%; vol 1.52",
+      "premarket_action": "Electronics/components institutional rotation theme",
+      "support": "44",
+      "resistance": "46",
+      "pattern": "Uptrend; potential swing long target 48",
+      "priority": "10"
+    }
+  ],
+  "position_actions": [
+    {
+      "action": "BUY",
+      "ticker": "NVDA",
+      "reasoning": "Earnings event is largest options catalyst; dip to 1240 = add for core position"
+    },
+    {
+      "action": "HOLD",
+      "ticker": "AAPL",
+      "reasoning": "Tech strength confirmed; maintain; trim +10% if NVDA gap up >3%"
+    },
+    {
+      "action": "HOLD",
+      "ticker": "ASML",
+      "reasoning": "Breakout +6.09%; semiconductor capex play intact; stop 1510"
+    },
+    {
+      "action": "MONITOR",
+      "ticker": "WMT",
+      "reasoning": "Premarket Thu earnings critical consumer read; avoid entry until clarity post-NVDA"
+    },
+    {
+      "action": "ADD",
+      "ticker": "GS",
+      "reasoning": "Financials outperform; vol ratio 2.02 + institutional accumulation; entry 980"
+    },
+    {
+      "action": "HEDGE",
+      "ticker": "XOM",
+      "reasoning": "Energy divergence (oil up but XOM -3.37%); trim 2.5% to lock gains before report noise"
+    },
+    {
+      "action": "BUY",
+      "ticker": "SEDG",
+      "reasoning": "Clean energy rotation theme; institutional environmental equipment bid; entry 56"
+    },
+    {
+      "action": "WHEEL",
+      "ticker": "CELH",
+      "reasoning": "Elevated vol 2.09; -1.60% pressure = premium entry for cash-secured put wheel"
+    }
+  ],
+  "wheel_book": [
+    {
+      "ticker": "CELH",
+      "sector": "Consumer Discretionary",
+      "iv_rank_est": "65-70",
+      "delta": "0.35-0.40",
+      "dte": "30-45",
+      "strike_zone": "26.50-27.00 puts",
+      "assignment_risk": "Med",
+      "priority": "1-Buy 26.50 CSP, collect 18-22% annual if assigned"
+    },
+    {
+      "ticker": "WMT",
+      "sector": "Consumer Staples",
+      "iv_rank_est": "45-50",
+      "delta": "0.25-0.30",
+      "dte": "30-45",
+      "strike_zone": "128-129 puts pre-earnings",
+      "assignment_risk": "High",
+      "priority": "2-Wait post-Thu earnings for wheel entry"
+    },
+    {
+      "ticker": "ANET",
+      "sector": "Information Technology",
+      "iv_rank_est": "55-60",
+      "delta": "0.30-0.35",
+      "dte": "30-45",
+      "strike_zone": "137-138 puts",
+      "assignment_risk": "Med",
+      "priority": "3-Cloud/AI infrastructure; monitor post-NVDA"
+    },
+    {
+      "ticker": "GS",
+      "sector": "Financials",
+      "iv_rank_est": "50-55",
+      "delta": "0.28-0.32",
+      "dte": "30-45",
+      "strike_zone": "960-970 puts",
+      "assignment_risk": "Med",
+      "priority": "4-Financials cyclical; strong technicals"
+    },
+    {
+      "ticker": "HAL",
+      "sector": "Energy",
+      "iv_rank_est": "48-52",
+      "delta": "0.32-0.38",
+      "dte": "30-45",
+      "strike_zone": "41-42 puts",
+      "assignment_risk": "Med",
+      "priority": "5-Oil services; breakout watch; entry post-consolidation"
+    }
+  ],
+  "risk_alerts": [
+    "NVDA earnings after close = max intraday vol; broad semis/AI read-through risk",
+    "WMT earnings Thu premarket = consumer sentiment / tariff inflection point",
+    "Oil geo risk (US-Iran) can spike without warning; monitor headline flow",
+    "Energy complex divergence (oil +1.15% but XOM -3.37%, HAL -1.42%) = institutional rotation underway",
+    "Yields retreated AM but multiyear highs remain; watch 10Y retest as macro headwind",
+    "VIX elevated vs. early month (est. 16-18); position sizing critical into earnings"
+  ],
+  "cio_verdict": {
+    "risk_posture": "Neutral-to-Aggressive on dips; earnings event volatility managed via position sizing",
+    "capital_flow": "50% dry powder post-NVDA for WMT/earnings cascade; 20% premium income (wheel); 30% tactical setups",
+    "avoid": "XOM/energy longs into geo headlines; avoid broad small-cap momentum pre-NVDA; avoid naked calls"
+  }
+}
