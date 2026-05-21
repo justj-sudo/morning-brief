@@ -1,0 +1,296 @@
+{
+  "date": "2026-05-21",
+  "generated_at": "Thursday, May 21, 2026 \u2014 02:27 PM ET",
+  "regime": "Neutral",
+  "cio_summary": [
+    "Premarket risk-off: ES -0.40%, NQ -0.55% on Iran geopolitical escalation + oil bid",
+    "Oil +1.15% (WTI 113.70) driving stagflation impulse; yields climbing; gold +0.40%",
+    "Small-cap rotation live (IWM +1.23%); institutional bid for industrials/infrastructure/energy",
+    "Major earnings tonight: NVDA, WMT, HD\u2014expect 30-35 ES handle expected move",
+    "Sector rotation confirmed: out of unprofitable AI/growth, into real assets + income overlays"
+  ],
+  "macro_dashboard": {
+    "spy_trend": "Consolidation +0.29%; minor weakness in overnight futures",
+    "qqq_trend": "Mild weakness -0.55% ES premarket; tech selective pressure",
+    "iwm_trend": "Outperforming +1.23%; small-cap value/industrial rotation alive",
+    "vix": "Est. 16-17 (not live quoted; implied vol elevated on earnings risk)",
+    "vix_regime": "Healthy trend to caution",
+    "yield_10y": "Rising (not live quoted; bond market firm on geopolitical bid)",
+    "dollar_trend": "Likely firm on risk-off; not live quoted",
+    "oil_trend": "Bullish +1.15% WTI 113.70; Iran/geopolitical premium embedded",
+    "crypto_sentiment": "Not live quoted; likely defensive on equities weakness",
+    "tactical_bias": "Fade Strength\u2014take risk-off dips in high-beta; scale into quality/income"
+  },
+  "institutional_setups": [
+    {
+      "ticker": "PAVE",
+      "catalyst": "Industrial reshoring rotation; infrastructure bill deployment",
+      "setup": "Breakout above 50-MA on volume; institutional bid for real assets",
+      "entry": "58.20-58.80",
+      "stop": "56.40",
+      "target": "62.50",
+      "conviction": "High"
+    },
+    {
+      "ticker": "XLE",
+      "catalyst": "Geopolitical crude bid; energy cash flow re-rating",
+      "setup": "Breakout on Iran escalation; oversold mean-reversion play",
+      "entry": "79.50-80.20",
+      "stop": "77.80",
+      "target": "84.30",
+      "conviction": "High"
+    },
+    {
+      "ticker": "XLI",
+      "catalyst": "Industrial capex reshoring; earnings season momentum",
+      "setup": "Higher lows on breadth; vs. QQQ outperformance signal",
+      "entry": "103.80-104.50",
+      "stop": "102.10",
+      "target": "109.20",
+      "conviction": "High"
+    },
+    {
+      "ticker": "JEPI",
+      "catalyst": "Earnings vol spike; income overlay demand",
+      "setup": "Vol crush post-earnings; theta premium expansion",
+      "entry": "64.10-64.60",
+      "stop": "62.80",
+      "target": "66.40",
+      "conviction": "Med"
+    },
+    {
+      "ticker": "MU",
+      "catalyst": "Semis demand re-rate; memory cycle uptick; AI capex rotation",
+      "setup": "+3.21% on volume 1.33x; above 750 technical; earnings watch",
+      "entry": "755.00-758.00",
+      "stop": "738.00",
+      "target": "775.00",
+      "conviction": "Med"
+    },
+    {
+      "ticker": "ENPH",
+      "catalyst": "Solar/renewable energy structural bid; rate environment",
+      "setup": "Extreme +15.66% move; potential single-day spike top or breakout",
+      "entry": "60.20-61.50 (wait for consolidation)",
+      "stop": "57.50",
+      "target": "66.80",
+      "conviction": "Med"
+    },
+    {
+      "ticker": "DE",
+      "catalyst": "Farm economy / ag capex cycle; machinery demand",
+      "setup": "-4.38% gap; institutional dip-buy in machinery/capex theme",
+      "entry": "520.00-525.00",
+      "stop": "512.00",
+      "target": "545.00",
+      "conviction": "Med"
+    },
+    {
+      "ticker": "IONQ",
+      "catalyst": "Quantum computing narrative; speculative tech rotation",
+      "setup": "+10.95% on 2.54x vol; extended; wait for consolidation",
+      "entry": "56.50-57.80 (pull-back trade)",
+      "stop": "54.00",
+      "target": "62.50",
+      "conviction": "Low"
+    }
+  ],
+  "watchlist": [
+    {
+      "ticker": "NVDA",
+      "catalyst": "Q1 FY2027 earnings tonight; consensus EPS $1.78 rev $78.98B",
+      "premarket_action": "Likely consolidation; light before storm",
+      "support": "710.00",
+      "resistance": "745.00",
+      "pattern": "Wedge into earnings; implied move 30-35 pts",
+      "priority": "1"
+    },
+    {
+      "ticker": "WMT",
+      "catalyst": "Q1 FY2027 earnings tonight; consensus EPS $0.66 rev $174.62B",
+      "premarket_action": "Steady retail strength",
+      "support": "92.50",
+      "resistance": "96.80",
+      "pattern": "Steady uptrend; buy-dip signal",
+      "priority": "2"
+    },
+    {
+      "ticker": "HD",
+      "catalyst": "Q1 FY2027 earnings; housing/consumer spend bellwether",
+      "premarket_action": "Awaiting tape; housing sentiment key",
+      "support": "415.00",
+      "resistance": "435.00",
+      "pattern": "Consolidation above 200-MA",
+      "priority": "3"
+    },
+    {
+      "ticker": "TJX",
+      "catalyst": "Earnings catalyst; off-price retail consumer trade-down read",
+      "premarket_action": "Light flow; watch for short covering post-open",
+      "support": "88.00",
+      "resistance": "93.50",
+      "pattern": "Weekly breakout attempt",
+      "priority": "4"
+    },
+    {
+      "ticker": "XOP",
+      "catalyst": "Geopolitical oil bid; upstream beneficiary",
+      "premarket_action": "Strong crude bid carrying sector",
+      "support": "109.50",
+      "resistance": "118.00",
+      "pattern": "Uptrend on Iran headline",
+      "priority": "5"
+    },
+    {
+      "ticker": "COPX",
+      "catalyst": "Copper cycle + industrial capex rotation + EV demand",
+      "premarket_action": "Modest outperformance on reopening bid",
+      "support": "25.80",
+      "resistance": "27.50",
+      "pattern": "Higher lows on breadth",
+      "priority": "6"
+    },
+    {
+      "ticker": "KEYS",
+      "catalyst": "Semiconductor/electronic test demand; earnings watch",
+      "premarket_action": "Semis sector watch; may gap earnings",
+      "support": "158.00",
+      "resistance": "168.00",
+      "pattern": "Wedge; breakout setup",
+      "priority": "7"
+    },
+    {
+      "ticker": "TOL",
+      "catalyst": "Housing/construction earnings; macro capex cycle",
+      "premarket_action": "Homebuilder sector consolidation",
+      "support": "118.00",
+      "resistance": "128.00",
+      "pattern": "Above 50-MA; breakout-ready",
+      "priority": "8"
+    },
+    {
+      "ticker": "BILI",
+      "catalyst": "China ADR earnings; reopening/consumer sentiment",
+      "premarket_action": "China ADRs typically volatile on earnings",
+      "support": "23.50",
+      "resistance": "27.00",
+      "pattern": "Speculative play; wide range",
+      "priority": "9"
+    },
+    {
+      "ticker": "VFC",
+      "catalyst": "Turnaround narrative; guidance surprise potential",
+      "premarket_action": "Watch for activist/restructuring flow",
+      "support": "28.00",
+      "resistance": "32.50",
+      "pattern": "Rebound play from lows",
+      "priority": "10"
+    }
+  ],
+  "position_actions": [
+    {
+      "action": "BUY",
+      "ticker": "PAVE",
+      "reasoning": "Institutional bid for infrastructure on real-asset rotation; breakout setup; 5% position"
+    },
+    {
+      "action": "BUY",
+      "ticker": "XLE",
+      "reasoning": "Geopolitical oil bid + energy cash-flow re-rating; institutional inflow; 5% position"
+    },
+    {
+      "action": "ADD",
+      "ticker": "XLI",
+      "reasoning": "Breadth + industrial reshoring confirm; higher lows; 4% position"
+    },
+    {
+      "action": "BUY",
+      "ticker": "MU",
+      "reasoning": "Semis outperform on AI capex cycle; +3.21% on volume; 4% position"
+    },
+    {
+      "action": "HOLD",
+      "ticker": "SPY",
+      "reasoning": "Consolidation mode; trim if +8% above +10% gain not yet triggered"
+    },
+    {
+      "action": "HEDGE",
+      "ticker": "QQQ",
+      "reasoning": "Premarket -0.55% ES; tech-heavy; consider collar or short call hedge; 2% hedge"
+    },
+    {
+      "action": "TRIM",
+      "ticker": "ENPH",
+      "reasoning": "Extreme +15.66% single-day move; take 50% profits; lock in gains; hold 2.5%"
+    },
+    {
+      "action": "WATCH",
+      "ticker": "NVDA",
+      "reasoning": "Hold core; earnings tonight huge catalyst; no new entry; manage sizing"
+    }
+  ],
+  "wheel_book": [
+    {
+      "ticker": "JEPI",
+      "sector": "Income/Options",
+      "iv_rank_est": "72",
+      "delta": "-0.30 (short call)",
+      "dte": "7",
+      "strike_zone": "64.50-65.00",
+      "assignment_risk": "Med",
+      "priority": "Sell 65 call; roll on assignment"
+    },
+    {
+      "ticker": "XLE",
+      "sector": "Energy",
+      "iv_rank_est": "68",
+      "delta": "-0.25",
+      "dte": "14",
+      "strike_zone": "80.00-81.00",
+      "assignment_risk": "High",
+      "priority": "Sell 81 call; take assignment + re-entry"
+    },
+    {
+      "ticker": "PAVE",
+      "sector": "Infrastructure",
+      "iv_rank_est": "65",
+      "delta": "-0.28",
+      "dte": "21",
+      "strike_zone": "59.50-60.00",
+      "assignment_risk": "Med",
+      "priority": "Sell 60 call; collect 2-3% theta"
+    },
+    {
+      "ticker": "MU",
+      "sector": "Semis",
+      "iv_rank_est": "71",
+      "delta": "-0.32",
+      "dte": "14",
+      "strike_zone": "765.00-770.00",
+      "assignment_risk": "High",
+      "priority": "Sell 770 call; take assignment + reload"
+    },
+    {
+      "ticker": "TOL",
+      "sector": "Homebuilders",
+      "iv_rank_est": "66",
+      "delta": "-0.29",
+      "dte": "21",
+      "strike_zone": "128.00-130.00",
+      "assignment_risk": "Med",
+      "priority": "Sell 130 call; roll for 2-3% premium"
+    }
+  ],
+  "risk_alerts": [
+    "Iran geopolitical escalation: crude bid +1.15% intraday; stagflation impulse; watch yield + dollar",
+    "Earnings night: NVDA, WMT, HD massive catalysts; 30-35 ES expected move; position sizing critical",
+    "Tech high-beta at risk: NQ -0.55% premarket; QQQ vulnerable to fade strength; consider hedges",
+    "Extreme single-day moves (IONQ +10.95%, ENPH +15.66%): profit-take volatility spike risk; no new entry",
+    "Sector rotation away from unprofitable AI: crowded growth exit signal; take profits in high-beta names"
+  ],
+  "cio_verdict": {
+    "risk_posture": "Neutral\u2014lean defensive into earnings; reduce high-beta tech exposure; rotate into real assets + income",
+    "capital_flow": "70% deployed into PAVE/XLE/XLI (real assets rotation); 20% JEPI/FEPI (income overlays); 10% dry powder for dips post-earnings",
+    "avoid": "Unprofitable thematic growth; crowded AI momentum; rate-sensitive real estate; excessive leverage into earnings night"
+  }
+}
