@@ -1,0 +1,321 @@
+{
+  "date": "2026-05-22",
+  "generated_at": "Friday, May 22, 2026 \u2014 02:20 PM ET",
+  "regime": "Risk-On",
+  "cio_summary": [
+    "SPY +0.63%, QQQ +0.79%, IWM +1.11% \u2014 small-cap leadership signals risk-on bias",
+    "VIX futures contained, oil $113.70 +1.15% on Iran/geopolitical premium \u2014 energy bid",
+    "Fed neutral-to-hawkish: June cut unlikely, next move slightly higher probability",
+    "Sector rotation: AI/unprofitable tech OUT, infrastructure/reshoring/value IN \u2014 active ETF momentum strong",
+    "NVDA/WMT/HD earnings this week \u2014 bellwether setups for semis, retail, consumer; high options flow expected"
+  ],
+  "macro_dashboard": {
+    "spy_trend": "+0.63% | Near resistance | Risk-on bias intact",
+    "qqq_trend": "+0.79% | Tech holding | Defensive shine fading",
+    "iwm_trend": "+1.11% | Small-cap outperform | Value rotation active",
+    "vix": "Est. 14-15 | Futures soft/contained",
+    "vix_regime": "Complacent to healthy (15-20 likely by Monday)",
+    "yield_10y": "Firm | Recent highs holding pressure | Fed neutral bias",
+    "dollar_trend": "USD firm vs EUR/GBP/JPY | Safe-haven bid easing",
+    "oil_trend": "$113.70 +1.15% | Geopolitical premium (Iran/ME) | Risk asset headwind",
+    "crypto_sentiment": "Not quoted | Assume neutral/risk-on correlation",
+    "tactical_bias": "Buy Dips | Small-cap/value leadership intact | Fade extreme strength in mega-cap tech"
+  },
+  "institutional_setups": [
+    {
+      "ticker": "NVDA",
+      "catalyst": "Earnings this week | AI semis read-through | Guidance is key",
+      "setup": "Momentum name in trend | Options flow elevated | Sympathy trigger for AMD, AVGO, MU",
+      "entry": "$127.50-130.50 on dip | Breakout $135+",
+      "stop": "$124.00",
+      "target": "$140.00-145.00",
+      "conviction": "High"
+    },
+    {
+      "ticker": "WMT",
+      "catalyst": "Earnings/guidance | Consumer/inflation read-through | Major options name",
+      "setup": "Bellwether retail | Rising volume | VIX containment supports dips",
+      "entry": "$92.50-95.00 on weakness",
+      "stop": "$90.00",
+      "target": "$102.00-105.00",
+      "conviction": "High"
+    },
+    {
+      "ticker": "MRK",
+      "catalyst": "Pharma strength +5.47% | Volume spike 1.5x avg | Likely earnings/news driven",
+      "setup": "Mid-cap pharma outperform | Defensive pivot | Momentum setup",
+      "entry": "$121.50-122.50 (hold dips near open)",
+      "stop": "$119.50",
+      "target": "$128.00-130.00",
+      "conviction": "Med"
+    },
+    {
+      "ticker": "HD",
+      "catalyst": "Housing-sensitive | Earnings week | Rate/consumer discretionary proxy",
+      "setup": "Consumer discretionary test | Key yield sensitivity | Major options flow expected",
+      "entry": "$408.00-412.00 on dip",
+      "stop": "$404.00",
+      "target": "$425.00-430.00",
+      "conviction": "Med"
+    },
+    {
+      "ticker": "V",
+      "catalyst": "Payments processor | Volume spike 1.57x | Trend-following name | Relative weakness -0.56%",
+      "setup": "Small dip into demand | Cyclical exposure | Earnings support",
+      "entry": "$327.00-329.00 (accumulate near support)",
+      "stop": "$323.00",
+      "target": "$338.00-342.00",
+      "conviction": "Med"
+    },
+    {
+      "ticker": "JNJ",
+      "catalyst": "Healthcare defensive | +1.32% on steady volume 1.28x | Pharma tailwind from MRK",
+      "setup": "Defensive quality trade | Lower volatility support | Income play setup",
+      "entry": "$233.00-234.50 on dips",
+      "stop": "$230.00",
+      "target": "$242.00-245.00",
+      "conviction": "Med"
+    },
+    {
+      "ticker": "DAL",
+      "catalyst": "Travel/earnings week | High-beta carrier for guidance | Oil sensitivity +1.15%",
+      "setup": "Commodity-linked upside | Earnings event risk | Options flow likely elevated",
+      "entry": "$48.50-50.00",
+      "stop": "$46.50",
+      "target": "$55.00-58.00",
+      "conviction": "Med"
+    },
+    {
+      "ticker": "ADI",
+      "catalyst": "Semis analog cycle | Industrial/auto/comms exposure | Earnings week catalyst",
+      "setup": "Sympathy to NVDA | Industrial leading edge | Trend-following",
+      "entry": "$220.00-225.00",
+      "stop": "$216.00",
+      "target": "$238.00-242.00",
+      "conviction": "Med"
+    }
+  ],
+  "watchlist": [
+    {
+      "ticker": "NVDA",
+      "catalyst": "Earnings | AI semis guidance | Mega-cap momentum",
+      "premarket_action": "Watch for gap up or dip-buy setup on FOMC neutrality",
+      "support": "$127.50 | $124.00",
+      "resistance": "$135.00 | $140.00+",
+      "pattern": "Breakout attempt | Sympathy volume leader",
+      "priority": "1"
+    },
+    {
+      "ticker": "WMT",
+      "catalyst": "Earnings/guidance | Consumer bellwether | Retail rotation leader",
+      "premarket_action": "Monitor opening gap | Retail inflows likely",
+      "support": "$92.50 | $90.00",
+      "resistance": "$99.00 | $105.00",
+      "pattern": "Dip-buy into strength | Defensive play",
+      "priority": "2"
+    },
+    {
+      "ticker": "MRK",
+      "catalyst": "Pharma strength | Earnings/news driven +5.47%",
+      "premarket_action": "High volume spike 1.5x | Trend may continue",
+      "support": "$121.00 | $119.50",
+      "resistance": "$124.00 | $128.00",
+      "pattern": "Breakout above 20-day MA | Momentum buy",
+      "priority": "3"
+    },
+    {
+      "ticker": "HD",
+      "catalyst": "Housing/earnings | Rate sensitivity | Consumer discretionary test",
+      "premarket_action": "Open near highs | Watch for fade or hold",
+      "support": "$408.00 | $404.00",
+      "resistance": "$418.00 | $425.00",
+      "pattern": "Sideways trending | Earnings catalyst key",
+      "priority": "4"
+    },
+    {
+      "ticker": "V",
+      "catalyst": "Payments | Earnings week | Relative weakness -0.56% likely overstated",
+      "premarket_action": "Dip accumulation likely | Volume support exists",
+      "support": "$327.00 | $323.00",
+      "resistance": "$335.00 | $342.00",
+      "pattern": "Consolidation into strength | Buy weakness",
+      "priority": "5"
+    },
+    {
+      "ticker": "DAL",
+      "catalyst": "Travel/earnings | Oil sensitivity | Guidance event risk",
+      "premarket_action": "Oil bid $113.70 | Carrier upside likely",
+      "support": "$48.50 | $46.50",
+      "resistance": "$53.00 | $58.00",
+      "pattern": "Breakout attempt | High-beta earnings play",
+      "priority": "6"
+    },
+    {
+      "ticker": "ADI",
+      "catalyst": "Semis analog | Industrial/auto cycle | Earnings week",
+      "premarket_action": "Sympathy to NVDA | Watch for Tech sector continuation",
+      "support": "$220.00 | $216.00",
+      "resistance": "$232.00 | $242.00",
+      "pattern": "Trend-following | Momentum into earnings",
+      "priority": "7"
+    },
+    {
+      "ticker": "AMD",
+      "catalyst": "Semis complex | NVDA sympathy | Competitive read-through",
+      "premarket_action": "Watch for gap up on NVDA strength | Options flow elevated",
+      "support": "$195.00 | $190.00",
+      "resistance": "$210.00 | $218.00",
+      "pattern": "Correlated breakout | Tech rotation driver",
+      "priority": "8"
+    },
+    {
+      "ticker": "JNJ",
+      "catalyst": "Pharma defensive | Healthcare strength | MRK tailwind",
+      "premarket_action": "Steady accumulation | Defensive quality bid",
+      "support": "$233.00 | $230.00",
+      "resistance": "$242.00 | $245.00",
+      "pattern": "Quality dip-buy | Lower vol support",
+      "priority": "9"
+    },
+    {
+      "ticker": "BILI",
+      "catalyst": "China tech earnings | High-beta event risk | Earnings week",
+      "premarket_action": "Volatile opener expected | Watch for post-print options flow",
+      "support": "$18.50 | $17.00",
+      "resistance": "$22.00 | $25.00",
+      "pattern": "Earnings breakout candidate | Speculative flow likely",
+      "priority": "10"
+    }
+  ],
+  "position_actions": [
+    {
+      "action": "BUY",
+      "ticker": "WMT",
+      "reasoning": "Bellwether retail setup | Earnings event | VIX complacency allows dips | 4-6% initial target"
+    },
+    {
+      "action": "BUY",
+      "ticker": "MRK",
+      "reasoning": "Pharma breakout +5.47% | Volume confirmation 1.5x | Defensive pivot + momentum"
+    },
+    {
+      "action": "BUY",
+      "ticker": "NVDA",
+      "reasoning": "Earnings catalyst week | AI semis leadership | Sympathy flow into AMD, AVGO, MU | Risk-on bias supports"
+    },
+    {
+      "action": "ADD",
+      "ticker": "HD",
+      "reasoning": "Consumer discretionary test | Rate sensitivity key | Earnings week volatility setup"
+    },
+    {
+      "action": "BUY",
+      "ticker": "DAL",
+      "reasoning": "Oil tailwind +1.15% | Travel earnings week | High-beta upside on guidance beat"
+    },
+    {
+      "action": "HOLD",
+      "ticker": "V",
+      "reasoning": "Payments volume spike but down -0.56% | Accumulate dips | Earnings support underlying"
+    },
+    {
+      "action": "HOLD",
+      "ticker": "JNJ",
+      "reasoning": "Defensive quality | Pharma sector strength | Wait for clear dip-buy into $230-232"
+    },
+    {
+      "action": "MONITOR",
+      "ticker": "BILI",
+      "reasoning": "High-beta China earnings event | Speculative flow play | High volatility expected | Hold until post-earnings clarity"
+    }
+  ],
+  "wheel_book": [
+    {
+      "ticker": "WMT",
+      "sector": "Consumer Discretionary",
+      "iv_rank_est": "65-72 (post-earnings elevated)",
+      "delta": "30-35 (OTM puts attractive)",
+      "dte": "21-35 (post-earnings window)",
+      "strike_zone": "$90.00-92.50 (sell puts) | $99.00-102.00 (call ladder above)",
+      "assignment_risk": "Med (earnings volatility post-print)",
+      "priority": "Sell $92 puts 28 DTE | Wheel cycle 2-3 weeks"
+    },
+    {
+      "ticker": "V",
+      "sector": "Financials",
+      "iv_rank_est": "58-65 (vol expansion cycle)",
+      "delta": "25-32 (OTM puts)",
+      "dte": "21-35",
+      "strike_zone": "$325.00-327.00 (sell puts) | $338.00+ (call rolls)",
+      "assignment_risk": "Low-Med (steady card payment cycle)",
+      "priority": "Sell $327 puts 28 DTE | Premium income focus"
+    },
+    {
+      "ticker": "NVDA",
+      "sector": "Technology",
+      "iv_rank_est": "72-80 (post-earnings hot)",
+      "delta": "20-28 (far OTM puts only)",
+      "dte": "35-42 (avoid near-term gamma)",
+      "strike_zone": "$124.00-127.00 (put selling risky near earnings)",
+      "assignment_risk": "High (post-earnings vol / momentum whips)",
+      "priority": "Avoid until post-earnings clarity | Then $125 puts for premium"
+    },
+    {
+      "ticker": "HD",
+      "sector": "Consumer Discretionary",
+      "iv_rank_est": "62-70 (earnings window)",
+      "delta": "30-35 (OTM puts)",
+      "dte": "21-28 (post-print window)",
+      "strike_zone": "$405.00-408.00 (sell puts) | $420.00+ (call layers)",
+      "assignment_risk": "Med (housing cycle + rate sensitivity)",
+      "priority": "Sell $408 puts 28 DTE post-earnings | Wheel setup"
+    },
+    {
+      "ticker": "MRK",
+      "sector": "Healthcare",
+      "iv_rank_est": "68-75 (breakout cycle)",
+      "delta": "25-32 (OTM puts)",
+      "dte": "28-35 (capture breakout premium)",
+      "strike_zone": "$120.00-121.50 (sell puts) | $130.00+ (call rolls)",
+      "assignment_risk": "Med (pharma vol, but trend-following)",
+      "priority": "Sell $121 puts 28 DTE | Early-stage wheel candidate"
+    }
+  ],
+  "risk_alerts": [
+    "NVDA/semis earnings this week \u2014 expect gamma/theta whips; hold core, trim extremes on +8% | WMT/HD/MRK earnings volume will test small position liquidity; respect 8% trim rule",
+    "Oil $113.70 on Iran/geopolitical premium \u2014 watch for sudden reversal if tensions ease (downside tail risk to energy, upside risk to defensives)",
+    "Fed neutral-to-hawkish tone = rate cuts off table; long-duration / unprofitable tech at structural risk; favor value/infrastructure rotation",
+    "VIX est. 14-15 (complacent zone) \u2014 options premium is compressing; wheel strategies face lower capture; be selective on selling puts until vol reprices",
+    "Small-cap outperforming (IWM +1.11%) on risk-on; if portfolio turns -6%, rotate to large-cap / defensive; monitor SPY breaks below $745 and QQQ below $715 as trend breaks"
+  ],
+  "cio_verdict": {
+    "risk_posture": "Aggressive (risk-on | small-cap leadership | VIX complacent | oil premium offset by Fed neutrality)",
+    "capital_flow": "Deploy 35-40% to earnings setups (WMT, MRK, NVDA, HD, DAL) | Hold 20-25% cash for dips into support | Wheel 20-25% on IV expansion window (post-earnings premium capture) | Swing 15-20% on sympathy plays (AMD, AVGO, BILI)",
+    "avoid": "Unprofitable / high-multiple AI-adjacent spec (except NVDA/AMD on earnings); crowded covered-call ETF thematic trades; extreme small-cap micro-liquidity on geopolitical reversals; naked/margin strategies (market structure risk on sudden Iran escalation)"
+  },
+  "key_levels": {
+    "spy": {
+      "support": "744.00",
+      "resistance": "750.00"
+    },
+    "qqq": {
+      "support": "715.00",
+      "resistance": "725.00"
+    },
+    "iwm": {
+      "support": "283.00",
+      "resistance": "290.00"
+    },
+    "vix": {
+      "est_level": "14.5",
+      "target_zone": "15-20"
+    }
+  },
+  "execution_priorities": [
+    "1. NVDA/AMD/AVGO sympathy plays \u2014 earnings week, high-conviction, options-flow heavy",
+    "2. WMT/HD retail bellwethers \u2014 earnings catalyst, volume confirmation, wheel-setup ready",
+    "3. MRK pharma breakout \u2014 +5.47%, low correlation, defensive-momentum hybrid",
+    "4. DAL travel + oil sensitivity \u2014 geopolitical premium, high-beta event risk",
+    "5. Wheel premium capture \u2014 IV peak post-earnings, 28 DTE puts on WMT/MRK/V/HD"
+  ]
+}
