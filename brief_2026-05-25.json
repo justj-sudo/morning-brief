@@ -1,0 +1,296 @@
+{
+  "date": "2026-05-25",
+  "generated_at": "Monday, May 25, 2026 \u2014 02:10 PM ET",
+  "regime": "Neutral",
+  "cio_summary": [
+    "Small-cap outperform (IWM +0.93%) signals risk-on tilt; oil +1.15% = inflation/geopolitics lens",
+    "Tech holding but selective: AMD/SMCI/ZS rip on volume; growth names (COIN -4.46%, SHOP -1.72%) lag",
+    "Monday earnings slate (10 names) + CRM/SNOW/MRVL/COST later week = volatility driver",
+    "VIX unknown but oil strength + modest breadth suggest 15-18 range (healthy trend, not complacency)",
+    "Rotation thesis confirmed: value/industrial/defense (MRK +5.66%, LLY +2.28%, NOC +0.84%) outpace unprofitable growth"
+  ],
+  "macro_dashboard": {
+    "spy_trend": "Neutral-bullish, +0.4% on light volume; futures +18bps overnight",
+    "qqq_trend": "Slight tech hold, +0.43%; selective strength in AI infra (AMD/SMCI) vs pure growth",
+    "iwm_trend": "Risk-on signal, +0.93% outperform; small-cap leadership intact",
+    "vix": "Not provided; assume 15-18 based on oil spike + tape texture",
+    "vix_regime": "Healthy trend (15-20 band implied)",
+    "yield_10y": "Not provided; track for breakout >4.5% (risk-off trigger)",
+    "dollar_trend": "Mixed-to-firm; USD/JPY 159.70, EUR/USD 1.1556 = safe-haven bid light",
+    "oil_trend": "WTI +1.15% to 113.70 = inflation/geopolitical bid; watch 115 resistance",
+    "crypto_sentiment": "Bearish near-term; COIN -4.46% on likely macro/leverage unwind",
+    "tactical_bias": "Buy Dips in quality; Fade strength in unprofitable growth"
+  },
+  "institutional_setups": [
+    {
+      "ticker": "MRK",
+      "catalyst": "Earnings week; pharma bid on value rotation",
+      "setup": "Break 122.63 high on vol; retest 120.09 = reversal zone",
+      "entry": "123.50",
+      "stop": "119.80",
+      "target": "127.00",
+      "conviction": "High"
+    },
+    {
+      "ticker": "AMD",
+      "catalyst": "AI/data-center demand; positioning squeeze on vol",
+      "setup": "Daily breakout 481.26; above 470 = trend resume",
+      "entry": "469.00",
+      "stop": "461.00",
+      "target": "490.00",
+      "conviction": "High"
+    },
+    {
+      "ticker": "LLY",
+      "catalyst": "Healthcare leadership + earnings slate; GLP-1 narrative",
+      "setup": "Above 1070 consolidation; retest 1047 support hold",
+      "entry": "1071.50",
+      "stop": "1043.00",
+      "target": "1110.00",
+      "conviction": "Med"
+    },
+    {
+      "ticker": "ZS",
+      "catalyst": "Cybersecurity rotation; +6.64% on day signals institutional buy",
+      "setup": "Hold 174.62 support; break 183 = new trend",
+      "entry": "183.50",
+      "stop": "172.50",
+      "target": "195.00",
+      "conviction": "Med"
+    },
+    {
+      "ticker": "SMCI",
+      "catalyst": "AI infrastructure super-cycle; +6.4% on 1.5M shares",
+      "setup": "Retest 35.00 support; hold = buy dip; break 36 = run",
+      "entry": "34.50",
+      "stop": "33.00",
+      "target": "38.50",
+      "conviction": "Med"
+    },
+    {
+      "ticker": "JNJ",
+      "catalyst": "Defensive rotation; +1.11% on earnings week bid",
+      "setup": "Hold 232.85 support; 235.42 resistance breakout",
+      "entry": "235.75",
+      "stop": "231.50",
+      "target": "241.00",
+      "conviction": "Med"
+    },
+    {
+      "ticker": "V",
+      "catalyst": "Payments network; -0.67% = dip into support",
+      "setup": "Hold 328.85 support; bounce to 333.34 high",
+      "entry": "329.50",
+      "stop": "327.00",
+      "target": "336.00",
+      "conviction": "Low"
+    },
+    {
+      "ticker": "NET",
+      "catalyst": "Cloud infrastructure; +1.72% on quiet accumulation",
+      "setup": "Hold 211 support; 217 = supply zone breakout",
+      "entry": "217.50",
+      "stop": "210.00",
+      "target": "225.00",
+      "conviction": "Low"
+    }
+  ],
+  "watchlist": [
+    {
+      "ticker": "CRM",
+      "catalyst": "Wed close earnings; consensus $3.13 EPS / $11.1B rev; watch IV expansion",
+      "premarket_action": "Quiet; likely 2-3% IV crush post-report",
+      "support": "",
+      "resistance": "",
+      "pattern": "Earnings play; IV rank elevated",
+      "priority": "1"
+    },
+    {
+      "ticker": "COST",
+      "catalyst": "Thu earnings; Thursday release; inflation/consumer positioning lens",
+      "premarket_action": "Pre-earnings consolidation likely",
+      "support": "",
+      "resistance": "",
+      "pattern": "CPG/retail proxy; watch guidance",
+      "priority": "2"
+    },
+    {
+      "ticker": "SNOW",
+      "catalyst": "Wed earnings; enterprise SaaS sentiment barometer",
+      "premarket_action": "Options flow tracking needed; IV likely elevated",
+      "support": "",
+      "resistance": "",
+      "pattern": "Data cloud narrative; growth stock risk",
+      "priority": "3"
+    },
+    {
+      "ticker": "MRVL",
+      "catalyst": "Wed earnings; semiconductor cycle/AI data-center exposure",
+      "premarket_action": "Likely tape overlap with AMD; watch vol",
+      "support": "",
+      "resistance": "",
+      "pattern": "Semi cyclical; earnings volatility high",
+      "priority": "4"
+    },
+    {
+      "ticker": "DLTR",
+      "catalyst": "Thu morning; discount retail; inflation hedge",
+      "premarket_action": "Pre-open volume scanner; consumer proxy",
+      "support": "",
+      "resistance": "",
+      "pattern": "Earnings play; consensus $1.56 EPS",
+      "priority": "5"
+    },
+    {
+      "ticker": "COIN",
+      "catalyst": "Macro crypto unwind; -4.46% = cascade sell risk",
+      "premarket_action": "Monitor for capitulation or reversal",
+      "support": "180.00",
+      "resistance": "195.00",
+      "pattern": "Tech/leverage unwind; watch BTC correlation",
+      "priority": "6"
+    },
+    {
+      "ticker": "SHOP",
+      "catalyst": "Retail/e-commerce; -1.72% = dip; watch for reversal",
+      "premarket_action": "Pre-earnings tape quiet; earnings TBA week",
+      "support": "102.50",
+      "resistance": "107.50",
+      "pattern": "Growth stock; IV elevated into events",
+      "priority": "7"
+    },
+    {
+      "ticker": "UBER",
+      "catalyst": "Transport/logistics; -2.42% = sector weakness or macro",
+      "premarket_action": "Monitor ride-share + delivery narratives",
+      "support": "71.00",
+      "resistance": "75.00",
+      "pattern": "Consumer discretionary proxy; earnings later",
+      "priority": "8"
+    },
+    {
+      "ticker": "TTD",
+      "catalyst": "Ad-tech; +5.07% on vol; institutional rotation signal",
+      "premarket_action": "High volume (792K); watch for follow-through",
+      "support": "21.50",
+      "resistance": "22.75",
+      "pattern": "Digital marketing exposure; earnings TBA",
+      "priority": "9"
+    },
+    {
+      "ticker": "CELH",
+      "catalyst": "Beverage/energy; +1.47%; rotation into non-AI growth",
+      "premarket_action": "Consumer staple bid; monitor for chop",
+      "support": "29.50",
+      "resistance": "30.50",
+      "pattern": "Neutral; watch for trend definition",
+      "priority": "10"
+    }
+  ],
+  "position_actions": [
+    {
+      "action": "BUY",
+      "ticker": "AMD",
+      "reasoning": "Breakout above 481 on 812K vol; AI infra demand; trailing stop 461"
+    },
+    {
+      "action": "BUY",
+      "ticker": "MRK",
+      "reasoning": "Pharma rotation leader +5.66%; value bid into earnings; stop 119.80"
+    },
+    {
+      "action": "ADD",
+      "ticker": "LLY",
+      "reasoning": "Healthcare leadership; +2.28% on day; above 1070 = trend resume"
+    },
+    {
+      "action": "HOLD",
+      "ticker": "COIN",
+      "reasoning": "Capitulation risk; -4.46% = macro deleveraging; monitor 180 support"
+    },
+    {
+      "action": "TRIM",
+      "ticker": "ZS",
+      "reasoning": "Up +6.64% on day; take 25% off into 183 resistance; lock gains"
+    },
+    {
+      "action": "HEDGE",
+      "ticker": "SHOP",
+      "reasoning": "Down -1.72% into support; consider 100 / 105 put spread for earnings gamma"
+    },
+    {
+      "action": "WATCH",
+      "ticker": "CRM",
+      "reasoning": "Wed earnings event; do not chase; await volatility spike pre-report"
+    },
+    {
+      "action": "EXIT",
+      "ticker": "GLD",
+      "reasoning": "Macro headwinds; down -0.74%; oil bid suggests inflation not deflationary"
+    }
+  ],
+  "wheel_book": [
+    {
+      "ticker": "SMCI",
+      "sector": "Semiconductors",
+      "iv_rank_est": "72%",
+      "delta": "25-30",
+      "dte": "21",
+      "strike_zone": "33.50-34.00",
+      "assignment_risk": "High",
+      "priority": "Sell 33.50P / Buy 31P bull put spread; +2.5% target return"
+    },
+    {
+      "ticker": "TTD",
+      "sector": "Ad-Tech",
+      "iv_rank_est": "68%",
+      "delta": "30",
+      "dte": "21",
+      "strike_zone": "21.50-22.00",
+      "assignment_risk": "Med",
+      "priority": "Sell 21.50 puts; 1.5% monthly target; low vol assignment risk"
+    },
+    {
+      "ticker": "CELH",
+      "sector": "Beverage",
+      "iv_rank_est": "65%",
+      "delta": "25",
+      "dte": "21",
+      "strike_zone": "29.00-29.50",
+      "assignment_risk": "Med",
+      "priority": "Sell 29.50 puts; consumer staple theta decay; assign OK"
+    },
+    {
+      "ticker": "NET",
+      "sector": "SaaS",
+      "iv_rank_est": "70%",
+      "delta": "28",
+      "dte": "28",
+      "strike_zone": "212.00-214.00",
+      "assignment_risk": "Med",
+      "priority": "Sell 213 puts / Buy 210P bull put; watch earnings flow"
+    },
+    {
+      "ticker": "V",
+      "sector": "Payments",
+      "iv_rank_est": "58%",
+      "delta": "35",
+      "dte": "35",
+      "strike_zone": "327.00-329.00",
+      "assignment_risk": "Low",
+      "priority": "Sell 327.50 puts; defensive core; low volatility expected"
+    }
+  ],
+  "risk_alerts": [
+    "Oil +1.15% to 113.70 = inflation bid; watch 10Y yield for breakout >4.5% risk-off trigger",
+    "Earnings slate (10 Mon + major Wed/Thu names) = elevated gamma/vega risk; reduce position size into events",
+    "COIN -4.46% cascade = crypto/leverage unwind risk; monitor for systemic bleed into equities",
+    "Growth underperformance (SHOP -1.72%, UBER -2.42%) vs value/industrial outperform = rotation structural; trim unprofitable growth exposure",
+    "VIX unknown; if >20 on open, shift to defensive / reduce wheel premium-selling activity"
+  ],
+  "cio_verdict": {
+    "risk_posture": "Neutral",
+    "capital_flow": "60% deployed into quality breakouts (AMD/MRK/LLY); 20% ready for dips (COIN/SHOP support); 20% cash for earnings volatility",
+    "avoid": "Pure-growth / unprofitable SaaS (SHOP near-term); high-beta crypto (COIN); unhedged small-cap into earnings week"
+  }
+}
