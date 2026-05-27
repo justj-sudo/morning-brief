@@ -1,0 +1,296 @@
+{
+  "date": "2026-05-27",
+  "generated_at": "Wednesday, May 27, 2026 \u2014 03:38 PM ET",
+  "regime": "Neutral",
+  "cio_summary": [
+    "Futures flat; Iran geopolitical noise containable; ZS crater (-31%) dominates vol; META/ENPH/TSM/MU leading breadth",
+    "CRM/SNOW/MRVL earnings TODAY; COST/DLTR/ANF/DKS/AZO tomorrow; retail earnings cycle = vol magnet",
+    "Sector rotation = Industrials/Materials/Energy outperforming; Tech momentum narrowing but chip strength (MU/TSM) resilient",
+    "WTI +1.15% (113.70); oil-sensitive names (XLE, IYE) favorable; defensive tilt emerging on macro uncertainty",
+    "Portfolio = neutral; trim winners; use dips into support as ADD opportunity; wheel premium into strength"
+  ],
+  "macro_dashboard": {
+    "spy_trend": "Flat; 750.76 +0.04%; ATH bias intact",
+    "qqq_trend": "Slight underperform -0.06%; tech consolidation",
+    "iwm_trend": "Small-cap lag -0.05%; value catching up",
+    "vix": "Not available; estimate 14-15 (complacent)",
+    "vix_regime": "<15 Complacent",
+    "yield_10y": "Not live; assume 4.25-4.35 range",
+    "dollar_trend": "Not live; assume DXY ~103-104 neutral",
+    "oil_trend": "WTI +1.15% to 113.70; geopolitical premium",
+    "crypto_sentiment": "Bitcoin not quoted; assume cautious on Iran risk",
+    "tactical_bias": "Buy Dips"
+  },
+  "institutional_setups": [
+    {
+      "ticker": "META",
+      "catalyst": "AI strength; oversold technicals",
+      "setup": "Break above 638 = momentum continuation; vol-weighted conviction",
+      "entry": "635-638",
+      "stop": "620",
+      "target": "660-675",
+      "conviction": "High"
+    },
+    {
+      "ticker": "MU",
+      "catalyst": "Chip cycle + AI DRAM demand; vol spike 1.21x",
+      "setup": "Above 940 = retest 955 high; break above = new leg",
+      "entry": "938-945",
+      "stop": "918",
+      "target": "970-995",
+      "conviction": "High"
+    },
+    {
+      "ticker": "TSM",
+      "catalyst": "Semiconductor breadth; +2.96% strength",
+      "setup": "Above 430 = target 450 (gap fill + technical)",
+      "entry": "428-433",
+      "stop": "410",
+      "target": "450-465",
+      "conviction": "High"
+    },
+    {
+      "ticker": "ENPH",
+      "catalyst": "Clean energy rotation; +6.76% outperform",
+      "setup": "Above 72 = breakout; retest 72.5 on pullback",
+      "entry": "71.50-72.50",
+      "stop": "66.50",
+      "target": "82-88",
+      "conviction": "Med"
+    },
+    {
+      "ticker": "BA",
+      "catalyst": "Industrial reshoring bid; +3.23% early",
+      "setup": "Above 226 = institutional entry; target 240 gap",
+      "entry": "226-229",
+      "stop": "219",
+      "target": "240-250",
+      "conviction": "Med"
+    },
+    {
+      "ticker": "ZS",
+      "catalyst": "Earnings miss/guide cut; -31% crater",
+      "setup": "Oversold bounce play if support holds 125",
+      "entry": "126-128",
+      "stop": "123",
+      "target": "140-145",
+      "conviction": "Low"
+    },
+    {
+      "ticker": "JPM",
+      "catalyst": "Bank weakness; -2.51%; vol 1.88x",
+      "setup": "If 296 support fails = test 285; if holds = ADD",
+      "entry": "297-300 (if holds 296)",
+      "stop": "288",
+      "target": "310-320",
+      "conviction": "Med"
+    },
+    {
+      "ticker": "COIN",
+      "catalyst": "Crypto geopolitics; -2.75%; Iran risks",
+      "setup": "Support 174-175; if breaks = flush to 165",
+      "entry": "175-177",
+      "stop": "165",
+      "target": "185-195",
+      "conviction": "Low"
+    }
+  ],
+  "watchlist": [
+    {
+      "ticker": "CRM",
+      "catalyst": "Earnings today AH; $3.13 EPS expected; $11.1B rev",
+      "premarket_action": "Flat; vol spike expected into 4pm ET",
+      "support": "320-325",
+      "resistance": "335-340",
+      "pattern": "Consolidation; earnings binary",
+      "priority": "1"
+    },
+    {
+      "ticker": "SNOW",
+      "catalyst": "Earnings today; AI cloud upside/downside",
+      "premarket_action": "Monitor; data warehouse demand pivotal",
+      "support": "165-170",
+      "resistance": "180-185",
+      "pattern": "Breakout watch pre-earnings",
+      "priority": "2"
+    },
+    {
+      "ticker": "MRVL",
+      "catalyst": "Earnings today; HPC/AI exposure; semi strength",
+      "premarket_action": "Chip strength tailwind; vol 1.39x",
+      "support": "78-80",
+      "resistance": "88-90",
+      "pattern": "Uptrend continuation bias",
+      "priority": "3"
+    },
+    {
+      "ticker": "COST",
+      "catalyst": "Earnings tomorrow; mega-retail bellwether",
+      "premarket_action": "Monitor; guidance = macro indicator",
+      "support": "940-950",
+      "resistance": "975-985",
+      "pattern": "Consolidation pre-earnings",
+      "priority": "4"
+    },
+    {
+      "ticker": "DLTR",
+      "catalyst": "Earnings tomorrow; discount retail; recession gauge",
+      "premarket_action": "Vol priced in; watch guidance tone",
+      "support": "112-115",
+      "resistance": "125-130",
+      "pattern": "Neutral pre-report",
+      "priority": "5"
+    },
+    {
+      "ticker": "XLI",
+      "catalyst": "Industrials; reshoring rotation; infrastructure bid",
+      "premarket_action": "Sector rotation play; +0.50% bias",
+      "support": "253-256",
+      "resistance": "265-270",
+      "pattern": "Breakout tracking",
+      "priority": "6"
+    },
+    {
+      "ticker": "XLE",
+      "catalyst": "Energy; oil +1.15%; geopolitical premium",
+      "premarket_action": "WTI tailwind; vol elevated",
+      "support": "82-84",
+      "resistance": "90-92",
+      "pattern": "Uptrend intact",
+      "priority": "7"
+    },
+    {
+      "ticker": "GLD",
+      "catalyst": "Safe-haven; geopolitical hedge; -1.26%",
+      "premarket_action": "Iran news = backstop demand",
+      "support": "404-406",
+      "resistance": "415-420",
+      "pattern": "Support test; dip buy",
+      "priority": "8"
+    },
+    {
+      "ticker": "SOXL",
+      "catalyst": "3x leverage semi; chip strength BUT volatility risk",
+      "premarket_action": "-3.66% drawdown; momentum fade",
+      "support": "204-210",
+      "resistance": "242-250",
+      "pattern": "Consolidation after surge",
+      "priority": "9"
+    },
+    {
+      "ticker": "BAC",
+      "catalyst": "Bank weakness; -2.07%; technical support watch",
+      "premarket_action": "Vol 1.85x; institutional flush?",
+      "support": "50.76-51.00",
+      "resistance": "52.50-53.00",
+      "pattern": "Support at open low; test",
+      "priority": "10"
+    }
+  ],
+  "position_actions": [
+    {
+      "action": "HOLD",
+      "ticker": "META",
+      "reasoning": "Up 3.6%; momentum intact; trim 1.5% if +8% from entry; let run to 660+"
+    },
+    {
+      "action": "ADD",
+      "ticker": "ENPH",
+      "reasoning": "Sector rotation + breakout; 6.76% strength; buy dip to 71.50; size 6%"
+    },
+    {
+      "action": "ADD",
+      "ticker": "XLE",
+      "reasoning": "Energy/oil bid; real-asset rotation; WTI +1.15%; wheel LEAPS if held"
+    },
+    {
+      "action": "ADD",
+      "ticker": "BA",
+      "reasoning": "Industrial reshoring; +3.23% early; consolidation; entry 226-229; size 5%"
+    },
+    {
+      "action": "HOLD",
+      "ticker": "TSM",
+      "reasoning": "Chip strength; +2.96%; above 430 = momentum; target 450; trim half at +12%"
+    },
+    {
+      "action": "ADD",
+      "ticker": "MU",
+      "reasoning": "Vol spike 1.21x; chip cycle; +3.02%; size 6%; target 970; let run"
+    },
+    {
+      "action": "TRIM",
+      "ticker": "SOXL",
+      "reasoning": "-3.66% today; leverage decay risk; 3x inverse volatility drag; reduce to 2%"
+    },
+    {
+      "action": "EXIT",
+      "ticker": "ZS",
+      "reasoning": "-31% crater; earnings miss; avoid; rebuild on 140+ base case only"
+    }
+  ],
+  "wheel_book": [
+    {
+      "ticker": "ENPH",
+      "sector": "CleanEnergy",
+      "iv_rank_est": "68",
+      "delta": "35",
+      "dte": "45",
+      "strike_zone": "65 CSP|78 CCP",
+      "assignment_risk": "Med",
+      "priority": "Sell 65 puts; collect 1.2-1.5% theta"
+    },
+    {
+      "ticker": "BA",
+      "sector": "Industrials",
+      "iv_rank_est": "62",
+      "delta": "30",
+      "dte": "42",
+      "strike_zone": "220 CSP|235 CCP",
+      "assignment_risk": "Med",
+      "priority": "Wheel 220 puts; assignment likely; roll CCs 235+"
+    },
+    {
+      "ticker": "XLE",
+      "sector": "Energy",
+      "iv_rank_est": "75",
+      "delta": "32",
+      "dte": "49",
+      "strike_zone": "80 CSP|92 CCP",
+      "assignment_risk": "High",
+      "priority": "High vol; sell 80 puts; call wraps at 92"
+    },
+    {
+      "ticker": "META",
+      "sector": "Technology",
+      "iv_rank_est": "55",
+      "delta": "28",
+      "dte": "38",
+      "strike_zone": "620 CSP|670 CCP",
+      "assignment_risk": "Low",
+      "priority": "Covered call 670; momentum play; skim theta"
+    },
+    {
+      "ticker": "MU",
+      "sector": "Semis",
+      "iv_rank_est": "59",
+      "delta": "33",
+      "dte": "44",
+      "strike_zone": "900 CSP|970 CCP",
+      "assignment_risk": "Med",
+      "priority": "CSP 900; vol spike = premium; roll if assigned"
+    }
+  ],
+  "risk_alerts": [
+    "ZS -31% collapse = sector contagion risk; monitor cyber-sec peers (CRWD, NET, PALO)",
+    "Iran geopolitical noise = VIX cap; if escalates above 20 = risk-off trigger activated",
+    "CRM/SNOW earnings binary TODAY; position sizing = 2-3% max per name; stop at -7%",
+    "JPM/BAC -2% down; bank weakness into rate/credit uncertainty; hedge via GLD or TLT",
+    "WTI +1.15% = energy vol play; geopolitical premium unsustainable long-term; take profits 114.50+"
+  ],
+  "cio_verdict": {
+    "risk_posture": "Neutral",
+    "capital_flow": "40% positioned (META, MU, TSM, ENPH, BA, XLE); 10% cash; wheel premium into strength; rotate into cyclicals/real assets vs tech",
+    "avoid": "ZS (crater), COIN (crypto FUD), SOXL (decay risk), unprofitable thematic growth, high-beta speculative names into earnings"
+  }
+}
