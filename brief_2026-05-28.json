@@ -1,0 +1,296 @@
+{
+  "date": "2026-05-28",
+  "generated_at": "Thursday, May 28, 2026 \u2014 03:58 PM ET",
+  "regime": "Risk-On",
+  "cio_summary": [
+    "VIX 17.01: Healthy trend regime; mixed macro (US-Iran headlines + PCE focus) offset by AI/semi strength",
+    "SNOW +36% vol-spike anomaly + SMCI +8.2%, ARM +10.89%, HOOD +11.17% signal rotation into semiconductors & retail vol",
+    "Real assets/infra/industrials outperforming vs growth; value rotation structural but not violent yet",
+    "Premarket S&P futures -0.25%; crude +1.15% on geopolitical bid; bonds stable\u2014consolidation pattern into PCE",
+    "Portfolio positioning: Trim overweight growth (ARKK, QQQ); add tactical value/semis; wheel opportunities in 30+ IV rank names"
+  ],
+  "macro_dashboard": {
+    "spy_trend": "Neutral (754.75 +0.55%, near records but premarket soft)",
+    "qqq_trend": "Positive (735.56 +0.83%; semis strong but growth consolidating)",
+    "iwm_trend": "Neutral (292.09 +0.58%; value rally pausing)",
+    "vix": "17.01 (healthy; below 20 = trend-friendly)",
+    "vix_regime": "Healthy Trend (15\u201320 range)",
+    "yield_10y": "~4.45% est (not live; bond vol muted)",
+    "dollar_trend": "Stable (no live DXY; no major fx pressure)",
+    "oil_trend": "WTI +1.15% to 113.70 (geopolitical bid; structural upside intact)",
+    "crypto_sentiment": "Data unreliable (BTC print suspect); assume neutral",
+    "tactical_bias": "Buy Dips in semis/defensives; fade strength in crowded growth"
+  },
+  "institutional_setups": [
+    {
+      "ticker": "SNOW",
+      "catalyst": "Post-earnings vol normalization; 36% spike likely stalled; reversion likely",
+      "setup": "Support at 229.54; resistance 244.89; 4h overbought RSI",
+      "entry": "Sell 238\u2013242 call spreads (short call 242, long 245); sell puts 235 for wheel",
+      "stop": "Close if SPY -2% or SNOW holds >248 for 2 hrs",
+      "target": "Exit 50% at 232; trail stop at 237",
+      "conviction": "High"
+    },
+    {
+      "ticker": "SMCI",
+      "catalyst": "AI datacenter demand + supply chain healing; +8.2% on broad semi recovery",
+      "setup": "Support 37.62; breakout above 43 targets 48\u201352 on thesis",
+      "entry": "Long 41\u201342 on any dip; sell 44 calls for premium harvest",
+      "stop": "41.00 (below open gap)",
+      "target": "48.50 (+17% for position trade); trim 2.5% every +8%",
+      "conviction": "High"
+    },
+    {
+      "ticker": "ARM",
+      "catalyst": "Semicond cycle + architectural demand post-acquisition updates",
+      "setup": "Major breakout from 310 to 349 high; consolidating 335\u2013349",
+      "entry": "Long 330\u2013335 if bounces; risk/reward 330 stop to 360 target",
+      "stop": "324.00 (invalidates breakout)",
+      "target": "360\u2013370 (10% extension); hold through macro neutral tone",
+      "conviction": "High"
+    },
+    {
+      "ticker": "PLTR",
+      "catalyst": "Defense spending + AI integration; +8.05% part of broader AI trade",
+      "setup": "Broke above 140; now consolidating 140\u2013143 resistance",
+      "entry": "Long 141\u2013142 with 140.50 stop; tight risk (50bp)",
+      "stop": "140.00 (below recent lows)",
+      "target": "150\u2013155 (10% + breakout momentum)",
+      "conviction": "Med"
+    },
+    {
+      "ticker": "NET",
+      "catalyst": "Cybersecurity in AI era; +8.85% vol spike; earnings calendar risk",
+      "setup": "Gapped from 213.92 to 227.74 intraday; at resistance",
+      "entry": "Sell 230 calls (short call; collect premium); buy 225 puts for hedge",
+      "stop": "Exit if closes >232 (invalidates call spread)",
+      "target": "220\u2013224 (revert to support); premium harvest primary",
+      "conviction": "Med"
+    },
+    {
+      "ticker": "HOOD",
+      "catalyst": "Retail options activity surge; +11.17% on VIX normalization + retail enthusiasm",
+      "setup": "Support 73.54; major resistance 85\u201386; high IV (est 65+ rank)",
+      "entry": "Sell 86\u201389 call spreads for theta decay; avoid long into spike",
+      "stop": "Close 100% loss if breaks 86 intraday",
+      "target": "Hold calls for 7\u201310 DTE theta decay; exit 50% at 82",
+      "conviction": "Med"
+    },
+    {
+      "ticker": "RTX",
+      "catalyst": "Defense spending cycle; NOC +1.41% co-move; rotation into value/industrial",
+      "setup": "Support 177.07; resistance 182\u2013183; steady consolidation",
+      "entry": "Long 178\u2013179 for position trade; sell 183 calls for income",
+      "stop": "176.00 (below open)",
+      "target": "190\u2013195 (infrastructure/defense bid intact); 6\u20138 week hold",
+      "conviction": "Med"
+    },
+    {
+      "ticker": "LLY",
+      "catalyst": "Pharma sector rotation; +4.13% on AI/drug discovery narrative; near 1129",
+      "setup": "Resistance at 1148; support 1092; consolidating mid-range",
+      "entry": "Sell 1150 calls; buy 1145 puts (short strangle for premium)",
+      "stop": "Close if LLY closes >1155 or <1080",
+      "target": "Hold for theta; collect 30\u201340% of credit by mid-June",
+      "conviction": "Low"
+    }
+  ],
+  "watchlist": [
+    {
+      "ticker": "CRM",
+      "catalyst": "Post-earnings selloff despite beat ($3.88 vs $3.13 est); guidance risk key",
+      "premarket_action": "Under pressure after strong results; retest 245\u2013250 likely",
+      "support": "243.00",
+      "resistance": "258.00",
+      "pattern": "Post-earnings gap-down consolidation",
+      "priority": "1"
+    },
+    {
+      "ticker": "DLTR",
+      "catalyst": "Retail earnings (EPS $1.56 est, $5.0B rev); forward guidance determines move",
+      "premarket_action": "On earnings calendar; elevated IV expected",
+      "support": "118.50",
+      "resistance": "135.00",
+      "pattern": "Earnings event binary",
+      "priority": "2"
+    },
+    {
+      "ticker": "BOX",
+      "catalyst": "Software earnings; typically high IV into event; post-earnings vol crush likely",
+      "premarket_action": "Awaiting print; watch options skew at open",
+      "support": "44.00",
+      "resistance": "48.50",
+      "pattern": "Pre-earnings vol expansion",
+      "priority": "3"
+    },
+    {
+      "ticker": "SQM",
+      "catalyst": "Lithium/commodity earnings; oil strength (WTI +1.15%) supportive for materials",
+      "premarket_action": "Commodity vol + earnings = potential gapper",
+      "support": "85.00",
+      "resistance": "98.50",
+      "pattern": "Commodity-linked IV spike",
+      "priority": "4"
+    },
+    {
+      "ticker": "MOD",
+      "catalyst": "Modine (EV cooling/industrial); earnings + macro rerating",
+      "premarket_action": "Industrial rotation bid intact",
+      "support": "195.00",
+      "resistance": "218.00",
+      "pattern": "Earnings event; industrial group strength",
+      "priority": "5"
+    },
+    {
+      "ticker": "ZS",
+      "catalyst": "Cybersecurity earnings; elevated IV; post-earnings vol risk/reward asymmetric",
+      "premarket_action": "Typical high-IV cyber name; event risk",
+      "support": "305.00",
+      "resistance": "330.00",
+      "pattern": "Pre-earnings IV expansion",
+      "priority": "6"
+    },
+    {
+      "ticker": "GDXJ",
+      "catalyst": "Junior gold miners; +2.21%; geopolitical bid + inflation hedge resurgence",
+      "premarket_action": "GDX co-move (+2.11%); real assets rotation bid",
+      "support": "109.40",
+      "resistance": "118.00",
+      "pattern": "Trend-following momentum; support hold",
+      "priority": "7"
+    },
+    {
+      "ticker": "ARKK",
+      "catalyst": "Cathie Wood growth vehicle; +4.05% but rotation into value ongoing; overbought RSI",
+      "premarket_action": "Up 4.05% on semis/AI strength; risk of trim",
+      "support": "77.41",
+      "resistance": "83.00",
+      "pattern": "Overbought daily; trim 2.5% if hits +8%",
+      "priority": "8"
+    },
+    {
+      "ticker": "SHOP",
+      "catalyst": "E-commerce/AI narrative; +7.94%; retail sentiment; no specific catalyst today",
+      "premarket_action": "Broad retail/AI tape strength; consolidating gains",
+      "support": "107.04",
+      "resistance": "118.00",
+      "pattern": "Strong trend; watch for -2% flush as entry",
+      "priority": "9"
+    },
+    {
+      "ticker": "DE",
+      "catalyst": "Deere industrial/infrastructure play; +1.82%; farm/construction machinery demand intact",
+      "premarket_action": "Industrials rotation bid; steady accumulation",
+      "support": "522.93",
+      "resistance": "560.00",
+      "pattern": "Value play; constructive; no near-term catalyst",
+      "priority": "10"
+    }
+  ],
+  "position_actions": [
+    {
+      "action": "HOLD",
+      "ticker": "SPY",
+      "reasoning": "754.75 near 52-week highs; premarket futures soft (-0.25%); wait for PCE print (10 AM) before adding; do not chase into close"
+    },
+    {
+      "action": "TRIM",
+      "ticker": "ARKK",
+      "reasoning": "Up 4.05% on growth/AI move; hit trim trigger (+3-4%); sell 2.5% if breaks 82.00 resistance for lock-in of recent gains"
+    },
+    {
+      "action": "ADD",
+      "ticker": "SMCI",
+      "reasoning": "Breakout above 43.55 intraday; add 5% position max on dip to 41.50; risk/reward 41\u201348 favors entry"
+    },
+    {
+      "action": "BUY",
+      "ticker": "ARM",
+      "reasoning": "Semicond cycle intact; 10.89% move validates breakout; BUY if dip to 330\u2013335 (2.5\u20135% position); hold for 8\u201312 week position trade"
+    },
+    {
+      "action": "HOLD",
+      "ticker": "NVDA",
+      "reasoning": "0.77% consolidation; mega-cap semis holding support; do NOT add on flat; wait for 211 support retest or 220 breakout signal"
+    },
+    {
+      "action": "HEDGE",
+      "ticker": "QQQ",
+      "reasoning": "Growth consolidating; VIX 17 = complacent; hedge 15% of QQQ long with OTM puts (728\u2013730 strike, 30 DTE) for portfolio insurance vs Iran escalation"
+    },
+    {
+      "action": "EXIT",
+      "ticker": "TTD",
+      "reasoning": "Down -4.85% (data/adtech lag); exit 100% if breaks 20.82 support; low conviction in this bucket today"
+    },
+    {
+      "action": "WHEEL",
+      "ticker": "LLY",
+      "reasoning": "1129 level rich; sell 1150 calls (30 DTE) + buy 1145 puts for short strangle; 2\u20134% target return on premium"
+    }
+  ],
+  "wheel_book": [
+    {
+      "ticker": "SMCI",
+      "sector": "Semiconductors",
+      "iv_rank_est": "68",
+      "delta": "0.45 (short call)",
+      "dte": "30",
+      "strike_zone": "Short 44\u201345 call; long 42 put (risk-defined)",
+      "assignment_risk": "Med",
+      "priority": "Sell 44.50 call (30 DTE); delta 0.40; collect 15\u201318% annualized; repl at 46"
+    },
+    {
+      "ticker": "LLY",
+      "sector": "Pharmaceuticals",
+      "iv_rank_est": "52",
+      "delta": "0.50 (short call)",
+      "dte": "30",
+      "strike_zone": "Short 1150 call; long 1145 put (strangle)",
+      "assignment_risk": "Low",
+      "priority": "Sell 1150 call + 1145 put; collect 2.5\u20133.0% per 30 days; defensive income"
+    },
+    {
+      "ticker": "ARM",
+      "sector": "Semiconductors",
+      "iv_rank_est": "58",
+      "delta": "0.55 (short call)",
+      "dte": "30",
+      "strike_zone": "Short 360 call; long 350 put (wide collar)",
+      "assignment_risk": "Med",
+      "priority": "If stock holds 340+, sell 360 call (30 DTE); delta 0.35; let ride to assign or roll up"
+    },
+    {
+      "ticker": "NET",
+      "sector": "Cloud/Cybersecurity",
+      "iv_rank_est": "62",
+      "delta": "0.45 (short call)",
+      "dte": "30",
+      "strike_zone": "Short 230 call; long 225 put (defined risk)",
+      "assignment_risk": "Med",
+      "priority": "Sell 230 call on any +2% bounce; collect 12\u201315% annualized; theta decay key driver"
+    },
+    {
+      "ticker": "RTX",
+      "sector": "Defense",
+      "iv_rank_est": "44",
+      "delta": "0.40 (short call)",
+      "dte": "30",
+      "strike_zone": "Short 183\u2013185 call; long 178 put (collar)",
+      "assignment_risk": "Low",
+      "priority": "Sell 183 call (low IV); collect 8\u201310% annualized; position hold for long-term value"
+    }
+  ],
+  "risk_alerts": [
+    "US-Iran headlines driving oil/bonds; monitor for escalation; SPY premarket soft (-0.25%); wait for PCE data 10 AM before major moves",
+    "SNOW +36% anomaly: post-earnings squeeze likely to reverse; short call spreads on any strength; avoid long into spike",
+    "VIX 17.01 = complacent tape; black swan risk (Iran, macro shock); hedge 15% long exposure with OTM puts",
+    "Growth rotation ongoing; ARKK/QQQ near resistance; trim winners (PLTR +8%, SMCI +8.2%, ARM +10.89%) per 2.5% rule on +8% gains",
+    "Earnings calendar heavy (CRM, DLTR, BOX, MOD, ZS, SQM); avoid directional bets into events; use spreads/strangles for theta focus"
+  ],
+  "cio_verdict": {
+    "risk_posture": "Neutral (Slight Bias: Fade Strength; Trim Growth; Build Real Assets)",
+    "capital_flow": "40% deployed (semis, industrials, RTX defense); 20% raised (ARKK trim, QQQ hedge); 40% dry powder for dips on PCE volatility",
+    "avoid": "Unprofitable growth (TTD, CRM post-beat); crowded long NQ hedges; naked short calls; leveraged long into Iran vol; small-cap biotech (event risk); any position >10% ticker exposure"
+  }
+}
