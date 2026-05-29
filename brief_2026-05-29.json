@@ -1,0 +1,296 @@
+{
+  "date": "2026-05-29",
+  "generated_at": "Friday, May 29, 2026 \u2014 04:40 PM ET",
+  "regime": "Neutral",
+  "cio_summary": [
+    "XLK outperforming (+2.23%) on tech strength; CRWD +8.97%, DDOG +9.83%, HOOD +11.22% signal risk-on micro-cap rotation",
+    "Geopolitical escalation (Iran/Strait of Hormuz) supporting energy but WTI -1.93%; oil transmission muted by macro uncertainty",
+    "Sector dispersion extreme: 36 of 45 sectors selling; institutional accumulation in AXON (protection), SBS (pollution), BW (electronics) only",
+    "Vol ratio heat in semis (AVGO +4.89%, TSM -1.45% intraday swing) + cybersecurity (CRWD); earnings calendar dense (22 reporters today)",
+    "Portfolio risk-off trigger (-6%) not engaged; SPY +0.22% neutral; bias = selective long in institutional-favored pockets, avoid broad exposure"
+  ],
+  "macro_dashboard": {
+    "spy_trend": "Flat micro-positive; 7596 resistance holding",
+    "qqq_trend": "+0.35% green; tech leadership intact but narrow",
+    "iwm_trend": "-0.59% red; small-cap lagging; caution signal",
+    "vix": "Est. 16-17 (inferred); geopolitical bid",
+    "vix_regime": "Healthy Trend (15-20)",
+    "yield_10y": "Not live; monitor for 4.2-4.3% support",
+    "dollar_trend": "USD/JPY 159.26; DXY unknown; neutral bias",
+    "oil_trend": "WTI -1.93% to 87.19; Iran risk offset by supply waiver",
+    "crypto_sentiment": "Not quoted; assume defensive tilt",
+    "tactical_bias": "Fade Strength"
+  },
+  "institutional_setups": [
+    {
+      "ticker": "CRWD",
+      "catalyst": "Cybersecurity demand surge; geopolitical risk premium",
+      "setup": "Breakout above 731 with 8.97% daily gain; institutional accumulation pattern",
+      "entry": "731-735 on dip; avoid chase",
+      "stop": "715",
+      "target": "780-800",
+      "conviction": "High"
+    },
+    {
+      "ticker": "DDOG",
+      "catalyst": "Cloud monitoring / AI ops tailwind; earnings surprise +9.83%",
+      "setup": "Post-earnings thrust above 249; vol ratio 1.41 supporting continuation",
+      "entry": "245-248 spot; add on 242 support",
+      "stop": "235",
+      "target": "280-295",
+      "conviction": "High"
+    },
+    {
+      "ticker": "AVGO",
+      "catalyst": "Semis leadership; AI infrastructure capex narrative",
+      "setup": "Gap up +4.89%; high vol ratio 1.70; institutional cumulative buy",
+      "entry": "440-445 entry zone; trailing stop",
+      "stop": "425",
+      "target": "475-495",
+      "conviction": "High"
+    },
+    {
+      "ticker": "SEDG",
+      "catalyst": "Solar/renewables sector rotation; +4.35% daily move",
+      "setup": "Trend breakout above 78 resistance; vol ratio 1.75 healthy",
+      "entry": "76-77 on any dip; avoid gap chase",
+      "stop": "72",
+      "target": "88-92",
+      "conviction": "Med"
+    },
+    {
+      "ticker": "DUOL",
+      "catalyst": "Education tech momentum; +2.54% with vol ratio 1.89",
+      "setup": "Above 111 key level; institutional positioning into AI learning tools",
+      "entry": "110-111 entry",
+      "stop": "105",
+      "target": "125-130",
+      "conviction": "Med"
+    },
+    {
+      "ticker": "NEM",
+      "catalyst": "Geopolitical gold demand; +1.48% amid Iran/Hormuz escalation",
+      "setup": "Above 110 resistance; vol ratio 1.74 supports further move",
+      "entry": "109-110.5 entry",
+      "stop": "105",
+      "target": "120-125",
+      "conviction": "Med"
+    },
+    {
+      "ticker": "ANET",
+      "catalyst": "Networking infrastructure; AI data center build; +2.74%",
+      "setup": "Above 159 support; vol ratio 1.26; clean breakout structure",
+      "entry": "158-160 zone",
+      "stop": "152",
+      "target": "175-185",
+      "conviction": "Med"
+    },
+    {
+      "ticker": "JPM",
+      "catalyst": "Banking sector resilience; strong earnings backdrop; +0.93%",
+      "setup": "Above 299 resistance; vol ratio 1.83 heavy institutional flow",
+      "entry": "298-300 entry",
+      "stop": "290",
+      "target": "325-335",
+      "conviction": "Med"
+    }
+  ],
+  "watchlist": [
+    {
+      "ticker": "HOOD",
+      "catalyst": "Retail momentum / geopolitical risk hedge; +11.22% parabolic",
+      "premarket_action": "Massive +1M share vol ratio 1.35; gap fill confirmed",
+      "support": "84.00-85.50",
+      "resistance": "94.50-96.00",
+      "pattern": "Breakaway gap; extended intraday; risky chase",
+      "priority": "1"
+    },
+    {
+      "ticker": "CRWD",
+      "catalyst": "Cyber defense demand; geopolitical premium; +8.97%",
+      "premarket_action": "128K vol; vol ratio 1.52; breakout above 725",
+      "support": "715-720",
+      "resistance": "735-745",
+      "pattern": "Institutional accumulation; breakout confirmed",
+      "priority": "2"
+    },
+    {
+      "ticker": "DDOG",
+      "catalyst": "Cloud/AI ops leadership; earnings surprise; +9.83%",
+      "premarket_action": "340K vol ratio 1.41; post-earnings thrust",
+      "support": "240-242",
+      "resistance": "250-252",
+      "pattern": "Earnings gap-and-go; early stage breakout",
+      "priority": "3"
+    },
+    {
+      "ticker": "AVGO",
+      "catalyst": "Semis / AI capex narrative; +4.89% heavy vol 962K",
+      "premarket_action": "Institutional buy signal; vol ratio 1.70 highest",
+      "support": "435-440",
+      "resistance": "450-455",
+      "pattern": "Breakout momentum; accumulation phase",
+      "priority": "4"
+    },
+    {
+      "ticker": "SEDG",
+      "catalyst": "Solar sector rotation; +4.35% on clean energy rotation",
+      "premarket_action": "200K vol; vol ratio 1.75 supporting further move",
+      "support": "74-75",
+      "resistance": "80-82",
+      "pattern": "Breakout above 78; clean structure",
+      "priority": "5"
+    },
+    {
+      "ticker": "TSM",
+      "catalyst": "Semis weakness countertrend; -1.45% vs peers; distribution risk",
+      "premarket_action": "395K vol; vol ratio 1.69 but downward bias",
+      "support": "410-415",
+      "resistance": "425-430",
+      "pattern": "Relative weakness vs AVGO/peers; fade candidate",
+      "priority": "6"
+    },
+    {
+      "ticker": "WMT",
+      "catalyst": "Retail weakness; -2.68% reversal; earnings pressure",
+      "premarket_action": "1.26M vol; vol ratio 1.52; heavy selling",
+      "support": "114-115",
+      "resistance": "119-120",
+      "pattern": "Breakdown below support; further distribution likely",
+      "priority": "7"
+    },
+    {
+      "ticker": "CAT",
+      "catalyst": "Industrial / construction demand fade; -1.33%",
+      "premarket_action": "151K vol; vol ratio 1.28; distribution",
+      "support": "865-870",
+      "resistance": "890-895",
+      "pattern": "Weak structure; support test nearby",
+      "priority": "8"
+    },
+    {
+      "ticker": "ENPH",
+      "catalyst": "Solar / renewables headwind; -1.58% divergence to SEDG",
+      "premarket_action": "307K vol; vol ratio 1.30; relative weakness",
+      "support": "67-68",
+      "resistance": "73-74",
+      "pattern": "Weakness vs sector; avoid until consolidation",
+      "priority": "9"
+    },
+    {
+      "ticker": "OXY",
+      "catalyst": "Oil weakness (WTI -1.93%); energy sector divergence; -1.15%",
+      "premarket_action": "781K vol; vol ratio 1.26; distribution",
+      "support": "56-56.50",
+      "resistance": "57-58",
+      "pattern": "Breakdown; follow oil for reversal setup",
+      "priority": "10"
+    }
+  ],
+  "position_actions": [
+    {
+      "action": "BUY",
+      "ticker": "CRWD",
+      "reasoning": "Institutional accumulation + geopolitical premium + breakout above 731; entry 731-735 max; size 5% portfolio"
+    },
+    {
+      "action": "BUY",
+      "ticker": "DDOG",
+      "reasoning": "Post-earnings thrust; +9.83% on strong fundamentals; early breakout stage; entry 245-248; size 4-5%"
+    },
+    {
+      "action": "BUY",
+      "ticker": "AVGO",
+      "reasoning": "Semis leadership + AI capex narrative; highest vol ratio 1.70; entry 440-445; size 5%"
+    },
+    {
+      "action": "ADD",
+      "ticker": "SEDG",
+      "reasoning": "Solar rotation in energy mix; +4.35% breakout; add on dip to 76-77; size 4%"
+    },
+    {
+      "action": "HOLD",
+      "ticker": "JPM",
+      "reasoning": "Banking resilience; institutional positioning 1.83 vol ratio; hold core position; no add yet at current levels"
+    },
+    {
+      "action": "TRIM",
+      "ticker": "WMT",
+      "reasoning": "Retail distribution -2.68%; sell any bounce toward 119; reduce exposure by 2-3%"
+    },
+    {
+      "action": "EXIT",
+      "ticker": "ENPH",
+      "reasoning": "Solar divergence to SEDG; relative weakness; close position; redeploy to SEDG instead"
+    },
+    {
+      "action": "MONITOR",
+      "ticker": "TSM",
+      "reasoning": "Semis weakness vs AVGO; vol ratio 1.69 but downtrend; wait for oversold entry below 415 before add"
+    }
+  ],
+  "wheel_book": [
+    {
+      "ticker": "CRWD",
+      "sector": "Cybersecurity",
+      "iv_rank_est": "72-75",
+      "delta": "0.30-0.35 (short calls)",
+      "dte": "7-14 DTE",
+      "strike_zone": "750-760 short calls (income); 715-720 short puts (assignment)",
+      "assignment_risk": "Low",
+      "priority": "Sell 755C; buy 715P for collar on breakout"
+    },
+    {
+      "ticker": "DDOG",
+      "sector": "Cloud SaaS",
+      "iv_rank_est": "68-72",
+      "delta": "0.25-0.30 (short calls)",
+      "dte": "14-21 DTE",
+      "strike_zone": "260-270 short calls (income); 235-240 short puts",
+      "assignment_risk": "Low-Med",
+      "priority": "Sell 265C for income; monitor 240 support for put sales"
+    },
+    {
+      "ticker": "AVGO",
+      "sector": "Semiconductors",
+      "iv_rank_est": "70-74",
+      "delta": "0.28-0.33 (short calls)",
+      "dte": "7-14 DTE",
+      "strike_zone": "460-470 short calls (income); 425-430 short puts",
+      "assignment_risk": "Low-Med",
+      "priority": "Sell 465C; ready short put 430 at support"
+    },
+    {
+      "ticker": "NEM",
+      "sector": "Gold Mining",
+      "iv_rank_est": "58-62",
+      "delta": "0.32-0.38 (short calls)",
+      "dte": "14-21 DTE",
+      "strike_zone": "122-128 short calls (income); 105-108 short puts",
+      "assignment_risk": "Med",
+      "priority": "Sell 125C; geopolitical bid supports assignment risk"
+    },
+    {
+      "ticker": "SEDG",
+      "sector": "Solar / Renewables",
+      "iv_rank_est": "62-66",
+      "delta": "0.25-0.30 (short calls)",
+      "dte": "14-21 DTE",
+      "strike_zone": "85-90 short calls (income); 73-75 short puts",
+      "assignment_risk": "Low",
+      "priority": "Sell 88C for rotation premium; put floor at 74"
+    }
+  ],
+  "risk_alerts": [
+    "Geopolitical tail risk (Iran escalation) not fully priced; equity hedges recommended if VIX breaks 20",
+    "Sector dispersion extreme (36/45 sectors red); avoid broad index long; isolate to institutional favorites only",
+    "HOOD +11.22% is parabolic; retail FOMO tail; avoid chasing; exit any position above 95",
+    "Earnings calendar dense (22 reporters today); post-earnings gaps risk; use tight stops on new entries",
+    "Oil waiver temporary; watch WTI intraday; if bounces above 90, energy shorts at risk; geopolitical bid could spike VIX >25"
+  ],
+  "cio_verdict": {
+    "risk_posture": "Neutral (Selective Long)",
+    "capital_flow": "Deploy 60-70% into CRWD, DDOG, AVGO breakouts; hold 20-25% dry powder for dip buys below support; 10% hedges (VIX calls / energy shorts)",
+    "avoid": "TSM until 415 support tested; WMT / retail shorts below 118; broad QQQ/SPY longs; any stock chasing HOOD parabolic move; naked puts in geopolitical-sensitive names (oil, defense). Exit ENPH divergence vs SEDG."
+  }
+}
