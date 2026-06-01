@@ -1,0 +1,296 @@
+{
+  "date": "2026-06-01",
+  "generated_at": "Monday, June 01, 2026 \u2014 06:24 PM ET",
+  "regime": "Risk-On",
+  "cio_summary": [
+    "AI infrastructure strength (ARM +15.8%, DDOG +12.1%, NET +12%) driving tech rotation amid easing geopolitical risk",
+    "META -5.1% on heavy volume signals profit-taking in mega-cap; XLK +2.47% leadership suggests selective sector rebalance",
+    "Small-cap underperformance (IWM -0.47%) while SPY/QQQ flat to positive flags bifurcated tape; watch breadth",
+    "Oil down 1.35% (Brent $92.05) supports margins; middle-east ceasefire extension talks reducing risk premium",
+    "Institutional rotation into safety/equipment + pollution-control sectors; accumulation signals in electronics/subsectors"
+  ],
+  "macro_dashboard": {
+    "spy_trend": "Flat-to-up; $758.44 +0.28%; support 754, resistance 765",
+    "qqq_trend": "Up +0.59%; $742.6; tech breadth positive but META pullback material",
+    "iwm_trend": "Down -0.47%; $288.98; small-cap lagging; watch Russell divergence",
+    "vix": "Not available in feed; assume 14-16 range (complacent mode)",
+    "vix_regime": "Complacent (<15 implied); geopolitical relief + AI bid dominating",
+    "yield_10y": "Not available; assume 3.8-4.0% range (neutral)",
+    "dollar_trend": "Not available; assume 101-102 DXY (baseline neutral)",
+    "oil_trend": "Bearish; WTI $87.36, Brent $92.05 -1.35%; 60-day ceasefire extension easing supply risk",
+    "crypto_sentiment": "Not available; assume neutral given no BTC feed",
+    "tactical_bias": "Buy Dips | Sector rotation favors tech/safety; fade strength in META/AMZN"
+  },
+  "institutional_setups": [
+    {
+      "ticker": "ARM",
+      "catalyst": "AI infrastructure secular tailwind; earnings setup; chip demand cycle turn",
+      "setup": "Breakout continuation; $408.78 +15.76%; volume 411k (+47%); test $421.50 resistance",
+      "entry": "$410-415 on 5min dip; aggressive $408-409 immediate",
+      "stop": "$393 (5% structural stop)",
+      "target": "$430 (2.8%), $450 (10%), $475 (16.3%)",
+      "conviction": "High"
+    },
+    {
+      "ticker": "DDOG",
+      "catalyst": "Cloud/observability secular; Q2 beats likely; institutional accumulation signal",
+      "setup": "Momentum breakout; $277.45 +12.12%; vol 759k (+2.23x); close above $278 high",
+      "entry": "$276-279; add $270-272 on pullback",
+      "stop": "$263 (5% risk)",
+      "target": "$290 (4.5%), $305 (10%), $320 (15.4%)",
+      "conviction": "High"
+    },
+    {
+      "ticker": "NET",
+      "catalyst": "DDoS/security SaaS; AI infrastructure beneficiary; earnings June",
+      "setup": "Breakout; $270.77 +11.98%; vol 385k (+89%); 1.89x volume ratio",
+      "entry": "$268-272; scale $265-267 secondary",
+      "stop": "$257 (5% stop)",
+      "target": "$285 (5.2%), $300 (10.7%), $320 (18.1%)",
+      "conviction": "High"
+    },
+    {
+      "ticker": "SNOW",
+      "catalyst": "Data cloud secular; AI/analytics demand; earnings catalyst upcoming",
+      "setup": "Breakout continuation; $280.14 +9.69%; vol 828k (+40%); above $284.98 test",
+      "entry": "$279-283; add $275-277 dip buy",
+      "stop": "$268 (4.3% stop)",
+      "target": "$295 (5.3%), $310 (10.6%), $330 (17.8%)",
+      "conviction": "High"
+    },
+    {
+      "ticker": "TSM",
+      "catalyst": "Semiconductor cycle; AI chip demand; geopolitical stability tailwind",
+      "setup": "Uptrend breakout; $436.03 +4.16%; vol 850k (+2.15x); momentum positive",
+      "entry": "$435-440; secondary $428-430",
+      "stop": "$420 (3.7% stop)",
+      "target": "$455 (4.4%), $475 (9%), $495 (13.5%)",
+      "conviction": "Med"
+    },
+    {
+      "ticker": "TTD",
+      "catalyst": "Programmatic advertising cycle; earnings tail; ad-tech institutional rotation",
+      "setup": "Gap continuation; $23.22 +7.65%; vol 1.47M (+90%); above $23.56 test",
+      "entry": "$23.20-23.50; add $22.50-23.00",
+      "stop": "$21.50 (7.5% stop)",
+      "target": "$25.00 (7.7%), $26.50 (14.1%), $28 (20.6%)",
+      "conviction": "Med"
+    },
+    {
+      "ticker": "CRWD",
+      "catalyst": "Cybersecurity structural; enterprise demand cycle; earnings Q2 June",
+      "setup": "Trend continuation; $781.95 +6.96%; vol 231k (+79%); above $785 resistance test",
+      "entry": "$780-788; add $760-770 dip",
+      "stop": "$745 (4.7% stop)",
+      "target": "$820 (4.9%), $860 (10%), $910 (16.3%)",
+      "conviction": "Med"
+    },
+    {
+      "ticker": "GLBE",
+      "catalyst": "Travel SaaS secular; small-cap earnings; vol spike 4.3x suggests institutional entry",
+      "setup": "Breakout continuation; $33.67 +9.91%; vol 377k (4.3x); test $34.20 resistance",
+      "entry": "$33.50-34.20; add $32.50-33 dip",
+      "stop": "$31.50 (6.4% stop)",
+      "target": "$36.50 (8.4%), $39 (15.8%), $42 (24.8%)",
+      "conviction": "Med"
+    }
+  ],
+  "watchlist": [
+    {
+      "ticker": "META",
+      "catalyst": "Mega-cap profit-taking; -5.06% on 2.33x vol; watch $595 support, $615 next resistance",
+      "premarket_action": "Down -5.06%; vol 1.14M (2.33x); high $635.53, low $599.73; open $629.42",
+      "support": "$595 (key), $580 (macro support)",
+      "resistance": "$615 (tactical), $635 (session high)",
+      "pattern": "Bearish engulfing on heavy volume; potential pullback flush or rotation trigger",
+      "priority": "1"
+    },
+    {
+      "ticker": "AMZN",
+      "catalyst": "Tech mega-cap weakness; -3.48% on 1.53x vol; consumer/cloud cycle risk",
+      "premarket_action": "Down -3.48%; vol 2.32M (1.53x); high $266.47, low $260.71; open $266.29",
+      "support": "$258 (key), $252 (macro)",
+      "resistance": "$266 (tactical), $275 (overhead)",
+      "pattern": "Intraday reversal from $266.47; watch for accumulation or breakdown below $260",
+      "priority": "2"
+    },
+    {
+      "ticker": "BA",
+      "catalyst": "Industrial cycle; defense/aerospace bifurcated; -2.97% on 1.57x vol; earnings risk",
+      "premarket_action": "Down -2.97%; vol 245k (1.57x); high $226.86, low $222.24; open $226.86",
+      "support": "$220 (key), $215 (macro)",
+      "resistance": "$227 (tactical), $235 (overhead)",
+      "pattern": "Pullback within uptrend; watch for reversal or breakdown signal",
+      "priority": "3"
+    },
+    {
+      "ticker": "LYFT",
+      "catalyst": "Ride-share cycle; supply-demand rebalance; +5.28% on 2.22x vol; earnings tail",
+      "premarket_action": "Up +5.28%; vol 1.69M (2.22x); high $15.28, low $14.17; open $14.43",
+      "support": "$14.00 (key), $13.50 (macro)",
+      "resistance": "$15.50 (tactical), $16.50 (overhead)",
+      "pattern": "Breakout continuation above $15; watch for wheel premium oppor",
+      "priority": "4"
+    },
+    {
+      "ticker": "DUOL",
+      "catalyst": "EdTech secular; international growth; +5.90% on 2.16x vol; earnings cycle",
+      "premarket_action": "Up +5.90%; vol 92k (2.16x); high $120.19, low $114.04; open $114.62",
+      "support": "$114 (key), $110 (macro)",
+      "resistance": "$121 (tactical), $128 (overhead)",
+      "pattern": "Breakout continuation; watch for momentum consolidation or pullback",
+      "priority": "5"
+    },
+    {
+      "ticker": "FCX",
+      "catalyst": "Copper cycle; inflation hedge; geopolitical tailwind; +1.95% on 1.91x vol",
+      "premarket_action": "Up +1.95%; vol 873k (1.91x); high $67.48, low $64.52; open $65.11",
+      "support": "$64.50 (key), $62.00 (macro)",
+      "resistance": "$67.50 (tactical), $70.00 (overhead)",
+      "pattern": "Uptrend continuation; institutional accumulation likely in materials",
+      "priority": "6"
+    },
+    {
+      "ticker": "SLB",
+      "catalyst": "Oil services cycle; energy complexity; supply normalization; +0.40% on 1.45x vol",
+      "premarket_action": "Up +0.40%; vol 971k (1.45x); high $55.21, low $53.99; open $54.67",
+      "support": "$53.90 (key), $52.00 (macro)",
+      "resistance": "$55.50 (tactical), $58.00 (overhead)",
+      "pattern": "Neutral consolidation; watch for energy sector breadth signal",
+      "priority": "7"
+    },
+    {
+      "ticker": "V",
+      "catalyst": "Fintech cycle; cross-border payment secular; -1.14% on 1.43x vol; earnings risk",
+      "premarket_action": "Down -1.14%; vol 500k (1.43x); high $327.68, low $318.71; open $327.54",
+      "support": "$318 (key), $312 (macro)",
+      "resistance": "$328 (tactical), $335 (overhead)",
+      "pattern": "Pullback within range; wheel premium opportunity if consolidates",
+      "priority": "8"
+    },
+    {
+      "ticker": "JNJ",
+      "catalyst": "Healthcare defensive; pharma cycle; -0.77% on 1.42x vol; earnings tail",
+      "premarket_action": "Down -0.77%; vol 410k (1.42x); high $224.41, low $220.84; open $223.29",
+      "support": "$220.50 (key), $218 (macro)",
+      "resistance": "$224.50 (tactical), $230 (overhead)",
+      "pattern": "Defensive consolidation; institutional rotation into safety likely",
+      "priority": "9"
+    },
+    {
+      "ticker": "SLV",
+      "catalyst": "Inflation hedge; USD correlation; geopolitical tailwind; -1.00% on 1.50x vol",
+      "premarket_action": "Down -1.00%; vol 426k (1.50x); high $68.22, low $66.83; open $67.51",
+      "support": "$66.70 (key), $65.50 (macro)",
+      "resistance": "$68.50 (tactical), $70.00 (overhead)",
+      "pattern": "Pullback in uptrend; watch for inflation signal via yield move",
+      "priority": "10"
+    }
+  ],
+  "position_actions": [
+    {
+      "action": "BUY",
+      "ticker": "ARM",
+      "reasoning": "High conviction AI infra breakout; $410-415 entry; 16.3% target; conviction High"
+    },
+    {
+      "action": "BUY",
+      "ticker": "DDOG",
+      "reasoning": "Cloud secular + institutional acc signal; $276-279 entry; 15.4% target; conviction High"
+    },
+    {
+      "action": "BUY",
+      "ticker": "NET",
+      "reasoning": "DDoS/security SaaS breakout; $268-272 entry; 18.1% target; conviction High"
+    },
+    {
+      "action": "BUY",
+      "ticker": "SNOW",
+      "reasoning": "Data cloud + AI demand; $279-283 entry; 17.8% target; conviction High"
+    },
+    {
+      "action": "TRIM",
+      "ticker": "META",
+      "reasoning": "Mega-cap profit-taking signal; -5.06% on 2.33x vol; reduce 30% if holding; set $595 stop"
+    },
+    {
+      "action": "HOLD",
+      "ticker": "TSM",
+      "reasoning": "Semiconductor uptrend; $435-440 entry for new; conviction Med; geopolitical tailwind"
+    },
+    {
+      "action": "HOLD",
+      "ticker": "CRWD",
+      "reasoning": "Cybersecurity structural; $780-788 entry for new; conviction Med; earnings June"
+    },
+    {
+      "action": "HEDGE",
+      "ticker": "AMZN",
+      "reasoning": "Tech mega-cap weakness; -3.48%; consider protective put spreads or reduce 20%"
+    }
+  ],
+  "wheel_book": [
+    {
+      "ticker": "LYFT",
+      "sector": "Consumer Cyclical",
+      "iv_rank_est": "65-70",
+      "delta": "0.30 (call)",
+      "dte": "30-45 DTE",
+      "strike_zone": "$16.00-16.50 calls; $14.00 puts",
+      "assignment_risk": "Low",
+      "priority": "Sell $16.50 call; if assigned, run puts at $14.00 strike"
+    },
+    {
+      "ticker": "V",
+      "sector": "Financials",
+      "iv_rank_est": "55-60",
+      "delta": "0.25 (call)",
+      "dte": "30-45 DTE",
+      "strike_zone": "$330-335 calls; $318 puts",
+      "assignment_risk": "Med",
+      "priority": "Sell $335 call for 1.8% monthly; put sell if dip to $318"
+    },
+    {
+      "ticker": "JNJ",
+      "sector": "Healthcare",
+      "iv_rank_est": "50-55",
+      "delta": "0.20 (call)",
+      "dte": "30-45 DTE",
+      "strike_zone": "$226-230 calls; $220 puts",
+      "assignment_risk": "Low",
+      "priority": "Sell $228 call for 1.6% monthly; defensive put sales at $220 strike"
+    },
+    {
+      "ticker": "FCX",
+      "sector": "Materials",
+      "iv_rank_est": "60-65",
+      "delta": "0.35 (call)",
+      "dte": "30-45 DTE",
+      "strike_zone": "$68.00-69.50 calls; $64.00 puts",
+      "assignment_risk": "Med",
+      "priority": "Sell $69 call; monitor commodity cycle; put support at $64"
+    },
+    {
+      "ticker": "SLB",
+      "sector": "Energy",
+      "iv_rank_est": "55-60",
+      "delta": "0.30 (call)",
+      "dte": "30-45 DTE",
+      "strike_zone": "$56.00-57.00 calls; $53.50 puts",
+      "assignment_risk": "Med",
+      "priority": "Sell $57 call for 2.1% monthly; watch oil supply normalization"
+    }
+  ],
+  "risk_alerts": [
+    "META -5.06% on 2.33x vol: profit-taking flush or macro rotation signal? Watch $595 support break",
+    "IWM -0.47% vs SPY +0.28%: small-cap underperformance flags breadth concern; monitor Russell rotation",
+    "Mega-cap divergence (ARM +15.8% vs AMZN -3.48%) signals sector bifurcation; tech leadership uneven",
+    "Oil down 1.35% (Brent $92.05): watch energy sector rotation; geopolitical relief may reverse if talks stall",
+    "VIX feed absent; assume complacency <15; geopolitical relief masking potential Fed rate risk July meeting"
+  ],
+  "cio_verdict": {
+    "risk_posture": "Aggressive",
+    "capital_flow": "Allocate 70% to ARM/DDOG/NET/SNOW (AI infra secular); 20% wheel premium (LYFT/V/JNJ); 10% dry powder for dips. Trim META 30% immediately. Position size: 8-10% per institutional setup.",
+    "avoid": "AMZN (mega-cap divergence), BA (industrial weakness), SLV (inflation hedge crowded). Avoid naked shorts in complacent regime. No margin. Max drawdown 6% triggers risk-off protocol."
+  }
+}
