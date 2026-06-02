@@ -1,0 +1,286 @@
+{
+  "date": "2026-06-02",
+  "generated_at": "Tuesday, June 02, 2026 \u2014 06:05 PM ET",
+  "regime": "Neutral",
+  "cio_summary": [
+    "SPY/QQQ flat-to-up, IWM +0.92% suggests small-cap rotation; equity futures -0.24% premarket risk-off",
+    "Earnings catalyst week: AVGO, CRWD, PANW, DG drive volatility; AVGO +4.74% on upside revision",
+    "Sector rotation clear: Industrials/Infrastructure/Resources outperform; unprofitable Tech/AI lags",
+    "Biotech weakness (IBB -3.03%, XBI -4.37%) + GOOGL -3.83% signal growth-to-value tilt",
+    "Geopolitical (US-Iran) + profit-taking after record highs = consolidation phase; stay tactical"
+  ],
+  "macro_dashboard": {
+    "spy_trend": "Flat consolidation; 759.47 +0.14%; futures -18pts premarket",
+    "qqq_trend": "Mild upside +0.47%; Nasdaq 100 futures -0.36% suggests hedging into earnings",
+    "iwm_trend": "Outperforming +0.92%; small-cap rotation active; IWM 291.64 on uptrend",
+    "vix": "Est. 16-18 range (not live); elevated on geopolitical/earnings risk",
+    "vix_regime": "Healthy trend (15-20) shifting to caution on earnings + Iran tensions",
+    "yield_10y": "Not live in data; monitor 4.2-4.35% zone (inflation expectations)",
+    "dollar_trend": "DXY live data unavailable; monitor strength vs commodity rotation",
+    "oil_trend": "WTI 91.96 -0.22%; oscillating on Iran negotiations; $90-93 range likely",
+    "crypto_sentiment": "BTC data unavailable; monitor as risk-off barometer",
+    "tactical_bias": "Fade Strength \u2014 trim winners into earnings; buy dips on pullbacks"
+  },
+  "institutional_setups": [
+    {
+      "ticker": "AVGO",
+      "catalyst": "Earnings Wed; Susquehanna raised target $490 from $450; EPS $2.39 expected",
+      "setup": "Breakout above $488.68; vol 1.25M shares; momentum continuation into print",
+      "entry": "Dip to $475; trail stop at $470 if enters long",
+      "stop": "$468 (2% below open)",
+      "target": "$495-$510 post-earnings upside; trim 50% at $502",
+      "conviction": "High"
+    },
+    {
+      "ticker": "FCX",
+      "catalyst": "Copper/mining reopening play; resource rotation; +7.04% today",
+      "setup": "Breakout above $72.08; vol 1.37M; industrial reshoring bid",
+      "entry": "Dip to $70.50; trail stop at $69.50",
+      "stop": "$67.50 (support level)",
+      "target": "$74-$76 (pre-earnings run target); trim 40% at $74.50",
+      "conviction": "High"
+    },
+    {
+      "ticker": "JPM",
+      "catalyst": "Financial strength; +1.45% on sector flows; stable earnings leverage",
+      "setup": "Consolidation $296-$302; vol 322K; breakout candidate into week",
+      "entry": "Buy dip to $298; trail at $296.50",
+      "stop": "$295 (support)",
+      "target": "$305-$310 (2.5% upside); trim 30% at $306",
+      "conviction": "Med"
+    },
+    {
+      "ticker": "SMCI",
+      "catalyst": "AI infrastructure play; +6.99% rally; higher-beta semiconductor recovery",
+      "setup": "Breakout $51.35 high; vol 2.19M; momentum continuation likely",
+      "entry": "Dip to $49.50; trail stop $48.50",
+      "stop": "$47.50 (major support)",
+      "target": "$54-$56 (post-earnings upside); trim at $54",
+      "conviction": "Med"
+    },
+    {
+      "ticker": "DG",
+      "catalyst": "Earnings today pre-open; UBS Buy $168 target; retail earnings watch",
+      "setup": "Pre-earnings consolidation; watch for gap/move at 6:30 AM ET",
+      "entry": "If gap up, wait for 9:30 AM flush then buy dips; if down, sell rally",
+      "stop": "Entry -3% (tight earnings stop)",
+      "target": "$165-$170 on beat; exit into strength",
+      "conviction": "Med"
+    },
+    {
+      "ticker": "BAC",
+      "catalyst": "Banking sector vol; +1.92% on strong macro bid; earnings leverage",
+      "setup": "Consolidation $51.41-$52.70; breakout candidate",
+      "entry": "Buy dip to $51.50; trail stop $51",
+      "stop": "$50.75 (support)",
+      "target": "$53.50-$54.50 (2% upside); trim 40% at $53.50",
+      "conviction": "Med"
+    },
+    {
+      "ticker": "XBI",
+      "catalyst": "Biotech weakness -4.37%; cycle opportunity long; oversold signal",
+      "setup": "Oversold on daily RSI likely <40; reversion candidate into week end",
+      "entry": "Add on further dip to $126; trail stop $125.50",
+      "stop": "$124.50 (major support break)",
+      "target": "$131-$133 (reversion +3-4%); trim 50% at $131",
+      "conviction": "Low"
+    },
+    {
+      "ticker": "ARM",
+      "catalyst": "Semiconductor cycle; -1.48% but vol 504K; institutional positioning unclear",
+      "setup": "Pullback from $427 high; potential consolidation $388-$427 range",
+      "entry": "Dip to $395; trail stop $390",
+      "stop": "$385 (support)",
+      "target": "$415-$425 (5% upside); trim at $420",
+      "conviction": "Low"
+    }
+  ],
+  "watchlist": [
+    {
+      "ticker": "PANW",
+      "catalyst": "Earnings today after close; cybersecurity leadership; vol spike expected",
+      "premarket_action": "Flat-to-down ahead of earnings; iv rank est. 65-75%",
+      "support": "$418",
+      "resistance": "$435",
+      "pattern": "Earnings setup; consolidation before event",
+      "priority": "1"
+    },
+    {
+      "ticker": "AVGO",
+      "catalyst": "Earnings Wed; target raised to $490; AI data center upside",
+      "premarket_action": "Up +4.74% on analyst revision; strong momentum",
+      "support": "$470",
+      "resistance": "$488.68",
+      "pattern": "Breakout trending; earnings runner",
+      "priority": "2"
+    },
+    {
+      "ticker": "CRWD",
+      "catalyst": "Earnings Wed; large-cap security; iv rank est. 60-70%",
+      "premarket_action": "Monitor premarket; watch for pre-earnings hedging",
+      "support": "$420 est.",
+      "resistance": "$445 est.",
+      "pattern": "Earnings event risk",
+      "priority": "3"
+    },
+    {
+      "ticker": "FCX",
+      "catalyst": "Copper/industrial metals; resource rotation bid; +7.04%",
+      "premarket_action": "Strong momentum; vol 1.37M",
+      "support": "$69.50",
+      "resistance": "$72.08",
+      "pattern": "Breakout continuation; real assets bid",
+      "priority": "4"
+    },
+    {
+      "ticker": "DG",
+      "catalyst": "Earnings today pre-open; UBS reiterated Buy",
+      "premarket_action": "Flat; watch 6:30 AM earnings print",
+      "support": "$160",
+      "resistance": "$168",
+      "pattern": "Pre-earnings consolidation",
+      "priority": "5"
+    },
+    {
+      "ticker": "SMCI",
+      "catalyst": "AI semiconductor; +6.99% momentum; earnings leverage",
+      "premarket_action": "Strong rally continuation; vol 2.19M",
+      "support": "$48.60",
+      "resistance": "$51.35",
+      "pattern": "Breakout trending; short-term runner",
+      "priority": "6"
+    },
+    {
+      "ticker": "XBI",
+      "catalyst": "Biotech ETF weakness -4.37%; oversold reversion candidate",
+      "premarket_action": "Down hard; potential buyer level emerging",
+      "support": "$126-$127",
+      "resistance": "$131.97",
+      "pattern": "Oversold bounce setup",
+      "priority": "7"
+    },
+    {
+      "ticker": "JPM",
+      "catalyst": "Banking sector flows; stable earnings leverage; +1.45%",
+      "premarket_action": "Positive on sector rotation; vol 322K",
+      "support": "$296.50",
+      "resistance": "$302.06",
+      "pattern": "Consolidation breakout candidate",
+      "priority": "8"
+    },
+    {
+      "ticker": "GOOGL",
+      "catalyst": "AI overshoot correction; -3.83% pullback; valuation reset candidate",
+      "premarket_action": "Down on growth-to-value rotation; vol 1.84M",
+      "support": "$358.51",
+      "resistance": "$373.50",
+      "pattern": "Daily pullback; potential dip buyer level",
+      "priority": "9"
+    },
+    {
+      "ticker": "BA",
+      "catalyst": "Industrial reshoring bid; aerospace/defense cycle; -2.96% pullback",
+      "premarket_action": "Down on sector vol; monitor for entry",
+      "support": "$215.05",
+      "resistance": "$224.54",
+      "pattern": "Pullback in strong sector trend",
+      "priority": "10"
+    }
+  ],
+  "position_actions": [
+    {
+      "action": "BUY",
+      "ticker": "AVGO",
+      "reasoning": "Earnings Wed, target raised $490, breakout on vol, +4.74% momentum; buy dips to $475"
+    },
+    {
+      "action": "ADD",
+      "ticker": "FCX",
+      "reasoning": "Resource rotation bid, copper reopening play, +7.04%, vol 1.37M; add dips to $70.50"
+    },
+    {
+      "action": "HOLD",
+      "ticker": "JPM",
+      "reasoning": "Banking sector flows, +1.45%, consolidating into breakout; hold for $305 target"
+    },
+    {
+      "action": "BUY",
+      "ticker": "XBI",
+      "reasoning": "Biotech oversold -4.37%, reversal candidate, vol spike; buy dips to $126"
+    },
+    {
+      "action": "HEDGE",
+      "ticker": "GOOGL",
+      "reasoning": "Growth-to-value rotation, -3.83%, buy protective puts ahead of earnings week"
+    },
+    {
+      "action": "EXIT",
+      "ticker": "MSTR",
+      "reasoning": "Down -9.12%, btc weakness, no clear catalyst; reduce exposure on bounce"
+    },
+    {
+      "action": "TRIM",
+      "ticker": "ARM",
+      "reasoning": ""
+    }
+  ],
+  "wheel_book": [
+    {
+      "ticker": "JPM",
+      "sector": "Financials",
+      "iv_rank_est": "45",
+      "delta": "0.30",
+      "dte": "21",
+      "strike_zone": "$295-$298 puts",
+      "assignment_risk": "Med",
+      "priority": "Sell puts Wed; collect $2-$3 premium; reinvest if assigned"
+    },
+    {
+      "ticker": "FCX",
+      "sector": "Materials",
+      "iv_rank_est": "55",
+      "delta": "0.25",
+      "dte": "21",
+      "strike_zone": "$69-$70.50 puts",
+      "assignment_risk": "Med",
+      "priority": "Sell puts; collect premium; ready to own on rotation"
+    },
+    {
+      "ticker": "BAC",
+      "sector": "Financials",
+      "iv_rank_est": "50",
+      "delta": "0.28",
+      "dte": "21",
+      "strike_zone": "$51-$51.50 puts",
+      "assignment_risk": "Med",
+      "priority": "Premium income; reinvest if assigned into strength"
+    },
+    {
+      "ticker": "AVGO",
+      "sector": "Semis",
+      "iv_rank_est": "60",
+      "delta": "0.35",
+      "dte": "14",
+      "strike_zone": "$475-$480 puts",
+      "assignment_risk": "High",
+      "priority": "High IV pre-earnings; sell puts Thu/Fri if rally holds"
+    },
+    {
+      "ticker": "XBI",
+      "sector": "Biotech",
+      "iv_rank_est": "65",
+      "delta": "0.30",
+      "dte": "21",
+      "strike_zone": "$125-$126.50 puts",
+      "assignment_risk": "Med",
+      "priority": "Elevated IV on oversold; sell puts for income; willing to own"
+    }
+  ],
+  "risk_alerts": [
+    "EARNINGS WEEK VOLATILITY: AVGO, CRWD, PANW, DG report today/Wed; expect elevated gamma/vega",
+    "GEOPOLITICAL TAIL RISK: US-Iran tensions, Strait of Hormuz negotiations; oil/equities sensitive",
+    "PROFIT-TAKING RISK: Equities near records after Monday run; futures -0.24% premarket suggests distribution",
+    "GROWTH-TO-VALUE ROTATION ACCELERATING: GOOGL -3.83%, IBB -3.03%, XBI -4.37%; stay nimble on sector shifts",
+    "BIOTECH WEAKNESS: XBI/IBB down hard; watch for capitulation/reversal signal before adding"
+  ]
+}
