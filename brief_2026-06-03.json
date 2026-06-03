@@ -1,0 +1,296 @@
+{
+  "date": "2026-06-03",
+  "generated_at": "Wednesday, June 03, 2026 \u2014 06:12 PM ET",
+  "regime": "Neutral",
+  "cio_summary": [
+    "VIX 15.77 healthy; SPX futures -0.05% premarket; rotation active growth\u2192value/real assets",
+    "Energy (XOM +2.05%, COP +1.84%, HAL +2.27%) leading on oil +1.15% and geopolitical risk",
+    "AVGO earnings tonight (target $490); MA vol spike (-1.2%); AMZN -2.55% tech weakness",
+    "Fed zero cuts 2026 priced; inflation/rate risk structural headwind; avoid naked long spec",
+    "Wheel priority: energy names, MA call overwriting for premium; avoid COIN, IONQ until stabilize"
+  ],
+  "macro_dashboard": {
+    "spy_trend": "Neutral; -0.7% intraday; futures -0.05% premarket 7620.25",
+    "qqq_trend": "Flat; -0.25% intraday; tech sector rotation away from growth",
+    "iwm_trend": "Weakness; -1.36% intraday; small-cap lagging broad market",
+    "vix": "15.77",
+    "vix_regime": "Healthy trend (15\u201320 zone); no panic; no complacency",
+    "yield_10y": "Not live in feed; assume 4.2\u20134.3% based on oil/inflation commentary",
+    "dollar_trend": "Not live; assume steady DXY 104\u2013105 zone based on rate regime",
+    "oil_trend": "WTI +1.15% to $94.84; U.S.-Iran tensions cited; geopolitical tailwind",
+    "crypto_sentiment": "BTC $222.82k flat; COIN -6.17% suggests retail pain; avoid leverage",
+    "tactical_bias": "Fade Strength in growth; Buy Dips in energy/value; neutral broad market"
+  },
+  "institutional_setups": [
+    {
+      "ticker": "XOM",
+      "catalyst": "Oil +1.15%, geopolitical risk, energy rotation",
+      "setup": "Higher low at $150.06; vol ratio 2.01; breakout $154.9 resistance",
+      "entry": "$152.50\u2013153.50 on dip; target $156\u2013158",
+      "stop": "$149.50",
+      "target": "$158",
+      "conviction": "High"
+    },
+    {
+      "ticker": "COP",
+      "catalyst": "Oil tailwind, institutional energy rotation",
+      "setup": "Vol spike 1.89x; gap fill to $119; support $116.91 intact",
+      "entry": "$118.50\u2013119.00 on dip; add $116.80 if support holds",
+      "stop": "$115.50",
+      "target": "$122\u2013124",
+      "conviction": "High"
+    },
+    {
+      "ticker": "HAL",
+      "catalyst": "Energy services, oil +1.15%, vol ratio 1.72",
+      "setup": "Breakout attempt above $41.25 high; small-cap vol advantage",
+      "entry": "$41.00\u201341.50 limit; scale into dips",
+      "stop": "$40.00",
+      "target": "$43\u201344",
+      "conviction": "Med"
+    },
+    {
+      "ticker": "MA",
+      "catalyst": "Payment flow, institutional vol spike 1.92x; tech weakness hedge",
+      "setup": "Gap down -1.2%; key support $464.67 held; vol expansion play",
+      "entry": "$470\u2013472 call overwrite (sell $480 call 2 DTE for premium)",
+      "stop": "$460.00",
+      "target": "$478\u2013480 (wheel) or trim 25% +8%",
+      "conviction": "Med"
+    },
+    {
+      "ticker": "LLY",
+      "catalyst": "Healthcare inflation hedge, stable earnings",
+      "setup": "Vol ratio 1.36; +1.7% intraday; holding above $1054.32",
+      "entry": "$1080\u20131085 on dip; avoid FOMO chase",
+      "stop": "$1050.00",
+      "target": "$1100\u20131110",
+      "conviction": "Med"
+    },
+    {
+      "ticker": "ASML",
+      "catalyst": "Semisupply resilience, tech capex demand",
+      "setup": "Vol ratio 1.22; +1.19% on day; breakout $1743 resistance",
+      "entry": "$1720\u20131730 on support; semiconductor thesis intact",
+      "stop": "$1690.00",
+      "target": "$1760\u20131780",
+      "conviction": "Med"
+    },
+    {
+      "ticker": "UBER",
+      "catalyst": "Consumer rotation, stable price action $70.36\u201371.875",
+      "setup": "Vol ratio 1.29; flat +0.04%; transport services resilience",
+      "entry": "$71.50\u201372.00 on breakout; wheel $75 calls if vol spikes",
+      "stop": "$69.50",
+      "target": "$74\u201376",
+      "conviction": "Low"
+    },
+    {
+      "ticker": "LMT",
+      "catalyst": "Defense resilience, vol 1.26x, geopolitical risk",
+      "setup": "Consolidation $512.20\u2013$524.32; technicals neutral",
+      "entry": "$512\u2013513 scale in; avoid breakout chase today",
+      "stop": "$509.00",
+      "target": "$525\u2013530",
+      "conviction": "Low"
+    }
+  ],
+  "watchlist": [
+    {
+      "ticker": "AVGO",
+      "catalyst": "After-close earnings; Susquehanna $490 target; expect $2.39 EPS",
+      "premarket_action": "Vol ratio unclear; watch close for move; earnings risk IV crush post-print",
+      "support": "$475\u2013480",
+      "resistance": "$490 (target) / $500 (breakout)",
+      "pattern": "Consolidation before print; high IV scenario",
+      "priority": "1"
+    },
+    {
+      "ticker": "AMZN",
+      "catalyst": "Tech sector rotation; -2.55% intraday; cloud/ad mix concerns",
+      "premarket_action": "Vol ratio 1.65x; vol_ratio leader; watch $247.72 support hold",
+      "support": "$247.72",
+      "resistance": "$257.09 (intraday high)",
+      "pattern": "Gap down; test of 20-day MA; potential oversold bounce",
+      "priority": "2"
+    },
+    {
+      "ticker": "COIN",
+      "catalyst": "Crypto weakness; BTC flat but COIN -6.17%; leverage unwind",
+      "premarket_action": "Vol spike; retail pain; avoid oversold bounce chase",
+      "support": "$162.89",
+      "resistance": "$171.82 (intraday high)",
+      "pattern": "Breakdown; low vol; wait for reversal signal",
+      "priority": "3"
+    },
+    {
+      "ticker": "IONQ",
+      "catalyst": "Quantum hype cooldown; -4.52% intraday; speculative unwind",
+      "premarket_action": "Vol ratio 1.6x; small-cap weakness; avoid long until support test",
+      "support": "$67.53",
+      "resistance": "$73.53",
+      "pattern": "Breakdown; no institutional bid visible",
+      "priority": "4"
+    },
+    {
+      "ticker": "GLD",
+      "catalyst": "Real assets bid-ask; inflation narrative; -0.98% intraday",
+      "premarket_action": "Vol ratio 1.6x; defensive hedge demand; watch vs. yields",
+      "support": "$406.25",
+      "resistance": "$409.30",
+      "pattern": "Consolidation; range-bound; use for portfolio hedge",
+      "priority": "5"
+    },
+    {
+      "ticker": "SLV",
+      "catalyst": "Real assets rotation; inflation hedge; -2.59% intraday",
+      "premarket_action": "Vol ratio 1.31x; higher vol than GLD; liquidation signal",
+      "support": "$66.15",
+      "resistance": "$67.11",
+      "pattern": "Weakness; avoid until trend stabilize",
+      "priority": "6"
+    },
+    {
+      "ticker": "UNH",
+      "catalyst": "Healthcare stable bid; vol ratio 1.86x; -0.25% resilience",
+      "premarket_action": "Consolidation $376.84\u2013$387.28; institutional demand intact",
+      "support": "$376.84",
+      "resistance": "$387.28",
+      "pattern": "Range consolidation; breakout candidates both ways",
+      "priority": "7"
+    },
+    {
+      "ticker": "BA",
+      "catalyst": "Defense/aerospace; industrial rotation; vol ratio 1.45x",
+      "premarket_action": "Flat -0.13%; consolidation; watch for energy/value rotation",
+      "support": "$51.22",
+      "resistance": "$52.52",
+      "pattern": "Range consolidation; defensive structure",
+      "priority": "8"
+    },
+    {
+      "ticker": "HPE",
+      "catalyst": "Week earnings; server/AI capex; listed in earnings slate",
+      "premarket_action": "Not in top vol list; watch for premarket news or upgrade",
+      "support": "TBD",
+      "resistance": "TBD",
+      "pattern": "Monitor earnings calendar closely",
+      "priority": "9"
+    },
+    {
+      "ticker": "DG",
+      "catalyst": "Earnings already reported; beat EPS, miss revenue, raise FY guide",
+      "premarket_action": "Post-earnings; watch for follow-through or reversal",
+      "support": "TBD",
+      "resistance": "TBD",
+      "pattern": "Earnings-driven volatility; wait for next catalysts",
+      "priority": "10"
+    }
+  ],
+  "position_actions": [
+    {
+      "action": "BUY",
+      "ticker": "XOM",
+      "reasoning": "Energy rotation confirmed; oil +1.15%; vol ratio 2.01 highest; target $158; entry $152.50\u2013153.50"
+    },
+    {
+      "action": "BUY",
+      "ticker": "COP",
+      "reasoning": "Oil tailwind; vol ratio 1.89; institutional energy bid; scale $118.50\u2013119.00; target $122\u2013124"
+    },
+    {
+      "action": "HOLD",
+      "ticker": "MA",
+      "reasoning": "Vol spike 1.92x; tech weakness hedge; use wheel overwrite (sell $480 call 2 DTE) to generate premium; avoid forced selling"
+    },
+    {
+      "action": "ADD",
+      "ticker": "HAL",
+      "reasoning": "Small-cap energy; vol 1.72; breakout $41.25; entry $41.00\u201341.50; target $43\u201344; position size $3k max"
+    },
+    {
+      "action": "HOLD",
+      "ticker": "TSLA",
+      "reasoning": "Flat +0.02%; avoid chasing; geopolitical risk headwind; EV sentiment weak; wait for support retest $416\u2013418"
+    },
+    {
+      "action": "TRIM",
+      "ticker": "AMZN",
+      "reasoning": "Tech weakness -2.55%; vol ratio 1.65; cloud concerns; trim 25% if holding; avoid adding; support $247.72; use dip for wheel call sales"
+    },
+    {
+      "action": "EXIT",
+      "ticker": "COIN",
+      "reasoning": "Crypto weakness; -6.17% intraday; leverage unwind; no reversal signal; avoid oversold bounce chasing; exit position 100%"
+    },
+    {
+      "action": "EXIT",
+      "ticker": "IONQ",
+      "reasoning": "Speculative unwind; -4.52%; quantum hype cooling; vol ratio 1.6x but no institutional bid; exit 100%; avoid bounce chase"
+    }
+  ],
+  "wheel_book": [
+    {
+      "ticker": "MA",
+      "sector": "Financials",
+      "iv_rank_est": "65\u201375",
+      "delta": "0.30\u20130.35",
+      "dte": "14\u201321",
+      "strike_zone": "Sell $480 call / Buy $470 put",
+      "assignment_risk": "Med",
+      "priority": "1. Generate premium on downside protection; defend at $470"
+    },
+    {
+      "ticker": "UBER",
+      "sector": "Discretionary",
+      "iv_rank_est": "45\u201355",
+      "delta": "0.25\u20130.30",
+      "dte": "14\u201321",
+      "strike_zone": "Sell $75 call / Buy $70 put",
+      "assignment_risk": "Med",
+      "priority": "2. Stable name; wheel if assignment; avoid FOMO premium chase"
+    },
+    {
+      "ticker": "XOM",
+      "sector": "Energy",
+      "iv_rank_est": "60\u201370",
+      "delta": "0.40\u20130.45",
+      "dte": "7\u201314",
+      "strike_zone": "Sell $160 call / Buy $150 put",
+      "assignment_risk": "Low",
+      "priority": "3. High delta call; accept assignment; roll up if rallies past $158"
+    },
+    {
+      "ticker": "LLY",
+      "sector": "Healthcare",
+      "iv_rank_est": "35\u201345",
+      "delta": "0.20\u20130.25",
+      "dte": "21\u201330",
+      "strike_zone": "Sell $1110 call / Buy $1050 put",
+      "assignment_risk": "Low",
+      "priority": "4. Lower IV; lower delta; use for income only; avoid wheels"
+    },
+    {
+      "ticker": "COP",
+      "sector": "Energy",
+      "iv_rank_est": "65\u201375",
+      "delta": "0.35\u20130.40",
+      "dte": "7\u201314",
+      "strike_zone": "Sell $125 call / Buy $117 put",
+      "assignment_risk": "Med",
+      "priority": "5. High vol; oil sensitive; roll calls up if assigned; accept wheels"
+    }
+  ],
+  "risk_alerts": [
+    "AVGO earnings tonight; IV crush post-print; avoid naked short calls; manage deltas",
+    "Fed rate regime: zero 2026 cuts priced; any inflation reacceleration = volatility spike; portfolio hedges active",
+    "Geopolitical oil risk (U.S.-Iran); WTI support $90, resistance $100; watch escalation news; energy whipsaw possible",
+    "Tech sector rotation away from growth; AMZN, COIN, IONQ weakness structural, not temporary; avoid FOMO longs",
+    "Portfolio at +3.2% YTD; trim winners +8% rule active; max 10% single-ticker exposure; respect position sizing"
+  ],
+  "cio_verdict": {
+    "risk_posture": "Neutral",
+    "capital_flow": "Rotate 60% capital to energy (XOM/COP/HAL longs) + 20% to wheel book (MA call overwrite, UBER). Hold 20% dry powder for dips. Avoid growth FOMO. VIX regime permits sector rotation, not broad tactical shifts.",
+    "avoid": "AMZN naked long (wheel calls only). COIN, IONQ (speculative unwind). SLV breakdowns. Naked growth/thematic bets. Margin strategies. Fed-sensitive unprofitable tech. Oversold bounces in crypto."
+  }
+}
