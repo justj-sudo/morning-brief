@@ -1,0 +1,298 @@
+{
+  "date": "2026-06-04",
+  "generated_at": "Thursday, June 04, 2026 \u2014 03:47 PM ET",
+  "regime": "Neutral",
+  "cio_summary": [
+    "SPY +0.47% but NQ futures -0.47% overnight signal risk-off rotation into credit/income",
+    "AVGO crashed -11.8% post-earnings; CRWD -3.67%, ARM -5.03%, AMD -3.05% = tech/semi selloff",
+    "JPM +3.38% vol 2.44x, MRK +4.91%, RTX +3.74% = cyclical/financial outperformance",
+    "IWM +1.61% vs SPY +0.47% = small-cap relative strength; defensive tilt brewing",
+    "Institutional capital flowing to private credit/infrastructure; public equity as funding source"
+  ],
+  "macro_dashboard": {
+    "spy_trend": "Modestly higher but heavy overnight tape suggests caution",
+    "qqq_trend": "Negative overnight; tech earnings volatility dominating",
+    "iwm_trend": "Outperforming; small-cap resilience vs mega-cap pullback",
+    "vix": "Estimated 16-18 range (not live); elevated but not panic",
+    "vix_regime": "Healthy trend slipping toward caution (15-20 band upper)",
+    "yield_10y": "Not available; assume sticky 4.1-4.3% on softer oil/inflation data",
+    "dollar_trend": "Firm USD/JPY 159.92; DXY likely elevated; risk-off bias",
+    "oil_trend": "WTI 95.33 -0.72%; softer commodity backdrop supports lower yields",
+    "crypto_sentiment": "No live BTC; assume risk-on paused pending macro clarity",
+    "tactical_bias": "Fade Strength"
+  },
+  "institutional_setups": [
+    {
+      "ticker": "AVGO",
+      "catalyst": "Post-earnings collapse; miss or weak guidance",
+      "setup": "Gap-down reversal at 403 support; oversold RSI bounce play OR short continuation if closes below 400",
+      "entry": "Buy 410-415 for bounce OR short 425+ for breakdown",
+      "stop": "427 long | 398 short",
+      "target": "435-440 long bounce | 385-390 short continuation",
+      "conviction": "High"
+    },
+    {
+      "ticker": "JPM",
+      "catalyst": "Earnings beat; financial sector rotation into yields/credit",
+      "setup": "Breakout above 312.88 high on vol 2.44x; institutional accumulation signal",
+      "entry": "Buy 312-315 breakout; hold if closes above 314",
+      "stop": "304.5",
+      "target": "320-330 (sector leadership)",
+      "conviction": "High"
+    },
+    {
+      "ticker": "ARM",
+      "catalyst": "Semiconductor weakness post-AVGO; AI CapEx concerns resurface",
+      "setup": "Oversold at 367.58 low; -5.03% in healthy vol; potential mean-reversion or breakdown",
+      "entry": "Buy 370-375 for bounce OR short 380+ for continuation",
+      "stop": "398 long | 365 short",
+      "target": "385-390 long | 350-355 short",
+      "conviction": "Med"
+    },
+    {
+      "ticker": "MU",
+      "catalyst": "DRAM/NAND cycle; earnings tape; CapEx uncertainty",
+      "setup": "Down -5.66% on 1.59x vol; testing 971 low; potential accumulation zone if sector stabilizes",
+      "entry": "Buy 980-990 on any stabilization; hold 1000+",
+      "stop": "965",
+      "target": "1050-1080",
+      "conviction": "Med"
+    },
+    {
+      "ticker": "CRWD",
+      "catalyst": "Pre-earnings volatility; software/security sector headwinds",
+      "setup": "Down -3.67% but still elevated; vol 1.53x; watch for post-earnings reversal or continuation",
+      "entry": "Buy 680-685 dip OR wait for post-earnings print",
+      "stop": "670",
+      "target": "750+",
+      "conviction": "Med"
+    },
+    {
+      "ticker": "MRK",
+      "catalyst": "Pharma sector strength; defensive bid into risk-off",
+      "setup": "Up +4.91% on vol 1.31x; breaking above 120.55; institutional demand signal",
+      "entry": "Buy 118-120 dip; add above 120.55",
+      "stop": "116.5",
+      "target": "125-130",
+      "conviction": "High"
+    },
+    {
+      "ticker": "RTX",
+      "catalyst": "Defense/aerospace cyclical rotation; geopolitical bid",
+      "setup": "Up +3.74% on solid vol; consolidating above 178 support; sector momentum",
+      "entry": "Buy 177-179 dip; hold 179+",
+      "stop": "175",
+      "target": "185-192",
+      "conviction": "Med"
+    },
+    {
+      "ticker": "NET",
+      "catalyst": "Cloud/AI infrastructure; positive flow on 1.23x vol",
+      "setup": "Up +1.84% breaking 276.815 high; institutional bid signal",
+      "entry": "Buy 260-270 dip; add above 276",
+      "stop": "252",
+      "target": "290-310",
+      "conviction": "Med"
+    }
+  ],
+  "watchlist": [
+    {
+      "ticker": "AVGO",
+      "catalyst": "Earnings miss/weak guidance",
+      "premarket_action": "Gapped down -11.8% on 1.92M vol; support at 403",
+      "support": "400 | 390-395",
+      "resistance": "425-430",
+      "pattern": "Bearish gap; RSI oversold; bounce risk at 410-415",
+      "priority": "1"
+    },
+    {
+      "ticker": "JPM",
+      "catalyst": "Earnings beat; financial sector outperformance",
+      "premarket_action": "Up +3.38% on 327k vol; breaking above 312.88",
+      "support": "304.5-308",
+      "resistance": "315-320",
+      "pattern": "Bullish breakout; vol confirms institutional buy",
+      "priority": "2"
+    },
+    {
+      "ticker": "MRK",
+      "catalyst": "Pharma strength; defensive rotation",
+      "premarket_action": "Up +4.91% on 402k vol; above 120.55 high",
+      "support": "117-119",
+      "resistance": "122-125",
+      "pattern": "Strong breakout; sector tailwind",
+      "priority": "3"
+    },
+    {
+      "ticker": "ARM",
+      "catalyst": "Semis weakness; AI cycle concerns",
+      "premarket_action": "Down -5.03% on 380k vol; testing 367.58 low",
+      "support": "367-370",
+      "resistance": "395-398",
+      "pattern": "Oversold; reversal risk or breakdown",
+      "priority": "4"
+    },
+    {
+      "ticker": "MU",
+      "catalyst": "DRAM/NAND demand; CapEx cycle",
+      "premarket_action": "Down -5.66% on 776k vol; near 971 low",
+      "support": "965-975",
+      "resistance": "1020-1040",
+      "pattern": "Oversold zone; potential accumulation",
+      "priority": "5"
+    },
+    {
+      "ticker": "CRWD",
+      "catalyst": "Pre-earnings software/security sector",
+      "premarket_action": "Down -3.67% on 225k vol; vol ratio 1.53x",
+      "support": "670-680",
+      "resistance": "720-750",
+      "pattern": "Elevated IV; post-earnings volatility expected",
+      "priority": "6"
+    },
+    {
+      "ticker": "RTX",
+      "catalyst": "Defense/aerospace cyclical bid",
+      "premarket_action": "Up +3.74% on 173k vol; above 180 resistance",
+      "support": "175-177",
+      "resistance": "185-192",
+      "pattern": "Bullish momentum; sector leadership",
+      "priority": "7"
+    },
+    {
+      "ticker": "AMD",
+      "catalyst": "Semis; AI server cycle uncertainty",
+      "premarket_action": "Down -3.05% on 694k vol; above 500 support",
+      "support": "500-515",
+      "resistance": "535-545",
+      "pattern": "Consolidation; watch earnings tape",
+      "priority": "8"
+    },
+    {
+      "ticker": "NET",
+      "catalyst": "Cloud/AI infrastructure demand",
+      "premarket_action": "Up +1.84% on 235k vol; breaking 276 high",
+      "support": "252-260",
+      "resistance": "280-310",
+      "pattern": "Positive flow; institutional bid",
+      "priority": "9"
+    },
+    {
+      "ticker": "CELH",
+      "catalyst": "Beverage sector; energy drink demand shift",
+      "premarket_action": "Down -7.83% on 653k vol (2.38x); significant weakness",
+      "support": "25-27",
+      "resistance": "30-31",
+      "pattern": "Breakdown risk; avoid or short",
+      "priority": "10"
+    }
+  ],
+  "position_actions": [
+    {
+      "action": "HOLD",
+      "ticker": "SPY",
+      "reasoning": "Long core position; +0.47% modest. NQ weakness overnight suggests selective profit-taking. No exit signal yet; hold 757.50+ support."
+    },
+    {
+      "action": "ADD",
+      "ticker": "JPM",
+      "reasoning": "Earnings beat + financial sector rotation. Buy 312-315 on any dip. +3.38% vol confirms institutional accumulation. 2-3% position."
+    },
+    {
+      "action": "TRIM",
+      "ticker": "AVGO",
+      "reasoning": "If long from prior: exit 410-415. -11.8% post-earnings; oversold but guidance miss/weak outlook warrants defense. Avoid re-entry until clarity."
+    },
+    {
+      "action": "MONITOR",
+      "ticker": "ARM",
+      "reasoning": "Oversold at 367.58 low. RSI deep negative. Watch for bounce to 375-380 OR breakdown below 365. Tight stop. 2% max risk."
+    },
+    {
+      "action": "MONITOR",
+      "ticker": "MU",
+      "reasoning": "Oversold -5.66% in semis selloff. Support at 971-980. Potential accumulation zone if tape stabilizes. Wait for reversal signal. 2-3% if added."
+    },
+    {
+      "action": "HOLD",
+      "ticker": "MRK",
+      "reasoning": "Pharma strength +4.91% on vol. Defensive rotation into yields/credit theme. Hold 118+ support. Add 117-119 on dip. 3% position."
+    },
+    {
+      "action": "HOLD",
+      "ticker": "RTX",
+      "reasoning": "Defense cyclical +3.74%. Geopolitical bid + institutional momentum. Consolidate above 178. 3% position."
+    },
+    {
+      "action": "MONITOR",
+      "ticker": "CRWD",
+      "reasoning": "Pre-earnings volatility -3.67%. Watch for post-earnings catalyst. No position pre-print. 2% max risk if entered on dip 680-685."
+    }
+  ],
+  "wheel_book": [
+    {
+      "ticker": "JPM",
+      "sector": "Financials",
+      "iv_rank_est": "Medium (60-70%)",
+      "delta": "0.30 put (30%)",
+      "dte": "45 DTE (Jul cycle)",
+      "strike_zone": "310-315 puts; consider 305 for income",
+      "assignment_risk": "Med",
+      "priority": "SELL 310p or 315p for 2% monthly income; upside breakout reduces assignment risk"
+    },
+    {
+      "ticker": "MRK",
+      "sector": "Pharma",
+      "iv_rank_est": "Medium-High (65-75%)",
+      "delta": "0.25 put (25%)",
+      "dte": "45 DTE",
+      "strike_zone": "118-120 puts",
+      "assignment_risk": "Low",
+      "priority": "SELL 118p or 120p; defensive stock; assignment acceptable for hold"
+    },
+    {
+      "ticker": "RTX",
+      "sector": "Aerospace/Defense",
+      "iv_rank_est": "Medium (60%)",
+      "delta": "0.30 put (30%)",
+      "dte": "45 DTE",
+      "strike_zone": "175-178 puts",
+      "assignment_risk": "Med",
+      "priority": "SELL 175p for income; assignment supports cyclical hold"
+    },
+    {
+      "ticker": "ARM",
+      "sector": "Semis",
+      "iv_rank_est": "High (75-85%)",
+      "delta": "0.35 put (35%)",
+      "dte": "30 DTE",
+      "strike_zone": "370-375 puts (IV elevated post-AVGO)",
+      "assignment_risk": "High",
+      "priority": "CAUTIOUS: IV inflated. Wait for vol contraction or skip. Risk of assignment into weakness."
+    },
+    {
+      "ticker": "NET",
+      "sector": "Software/Cloud",
+      "iv_rank_est": "Medium (55-65%)",
+      "delta": "0.28 put (28%)",
+      "dte": "45 DTE",
+      "strike_zone": "260-270 puts",
+      "assignment_risk": "Low",
+      "priority": "SELL 265p or 270p; cloud infrastructure growth; low assignment risk if held"
+    }
+  ],
+  "risk_alerts": [
+    "AVGO -11.8% post-earnings signals tech/AI narrative shift; watch for contagion to CRWD, MU, ARM, AMD",
+    "Semis weakness spreading (ARM -5.03%, MU -5.66%, AMD -3.05%); CapEx/demand cycle concern rising",
+    "VIX estimated 16-18 range; upper band of healthy trend; any macro surprise could spike to 20-25",
+    "Overnight S&P 500 futures -0.35%, NQ -0.47% = reversal risk if cash market doesn't hold SPY 757.50",
+    "IWM outperformance +1.61% vs SPY +0.47% = liquidity/alpha rotation; watch if semis/mega-cap remain under pressure",
+    "Earnings tape (AVGO, CRWD, LULU, DOCU, DG) highly binary; IV crush post-print expected; be defensive pre-earnings",
+    "Private credit rotation active per macro tape; duration/yield curve matters; watch 10Y yield behavior into weekend"
+  ],
+  "cio_verdict": {
+    "risk_posture": "Neutral",
+    "capital_flow": "Deploy 40% dry powder: JPM 2-3%, MRK 2-3%, MU accumulation zone 2%, NET dip buying 2%, ARM reversal/bounce 2%. Reserve 30% for AVGO/CRWD post-earnings clarity and semis stabilization. Hold core SPY/IWM.",
+    "avoid": "AVGO until support holds and guidance clarity; CELH breakdown -7.83% (avoid); CRWD pre-earnings unless dip buying at 680-685; overleveraged semis (AMD, MU) until CapEx cycle re-confirmed; any stock gapping below support on volume\u2014let volatility settle first."
+  }
+}
