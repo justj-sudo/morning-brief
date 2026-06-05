@@ -1,0 +1,296 @@
+{
+  "date": "2026-06-05",
+  "generated_at": "Friday, June 05, 2026 \u2014 02:29 PM ET",
+  "regime": "Risk-Off",
+  "cio_summary": [
+    "SPY -2.12% | QQQ -3.98% | IWM -3.28% | XLK -5.77% signals broad sector rotation away from growth",
+    "VIX regime shift to caution zone (est 22-24); risk-off technical sell with institutional flow into real assets",
+    "Precious metals collapse (SLV -8.01%, GDX -8.03%, GDXJ -9.09%) contradicts typical flight-to-safety; liquidation pattern",
+    "Tech leverage wiped (TQQQ -12.05%, ARKK -7.36%); high-beta reverse ETFs signaling capitulation risk",
+    "Earnings volatility (AVGO, CRWD, DG, LULU, DOCU) overlapping macro unwind; defensive positioning required"
+  ],
+  "macro_dashboard": {
+    "spy_trend": "Down -2.12% | 7561 futures -0.52% | broken short-term support",
+    "qqq_trend": "Down -3.98% | Nasdaq 100 futures -0.89% | growth selloff intact",
+    "iwm_trend": "Down -3.28% | Small-cap underperformance | rotation away",
+    "vix": "Est 22-24 (caution zone)",
+    "vix_regime": "20-25 | Elevated but not panic; tactical fade likely",
+    "yield_10y": "Data unavailable; monitor for flight-to-quality bidding",
+    "dollar_trend": "Firm (USD/JPY 159.98, EUR/USD 1.1616) | safe-haven bid active",
+    "oil_trend": "WTI +0.47% to $93.48 | Brent +0.43% to $95.77 | resilient on geopolitical bid",
+    "crypto_sentiment": "COIN -9.66% vol_ratio 1.4 | Risk-off liquidation, not capitulation yet",
+    "tactical_bias": "Fade Strength | Defensive scales, oversold bounces only"
+  },
+  "institutional_setups": [
+    {
+      "ticker": "SLV",
+      "catalyst": "Macro risk-off liquidation; carry unwind signal",
+      "setup": "Bearish technical capitulation (down 8% in 1 day); watch for $59-60 hard floor",
+      "entry": "Scale shorts $61.50-62.50 OR wait for oversold bounce $62-63",
+      "stop": "$64.25 (reversal above gap)",
+      "target": "$58.50 (support test) then $56",
+      "conviction": "High"
+    },
+    {
+      "ticker": "GDX",
+      "catalyst": "Mining equity panic; precious metals carry unwound",
+      "setup": "Down 8.03% on macro deleveraging; similar SLV pattern",
+      "entry": "Short $79.50-80.20 OR buy puts $79 strike (DTE 7-14)",
+      "stop": "$83.50 (gap reclosure)",
+      "target": "$76-77 support test",
+      "conviction": "High"
+    },
+    {
+      "ticker": "TQQQ",
+      "catalyst": "3x Nasdaq leverage liquidation cascade",
+      "setup": "Down 12.05% | inverse to QQQ -3.98% signals forced selling in leveraged longs",
+      "entry": "Fade bounces $75-76 with 5-10 min scalps OR short $76-77",
+      "stop": "$78.50 (daily reclosure)",
+      "target": "$72-73 (support test)",
+      "conviction": "High"
+    },
+    {
+      "ticker": "CVX",
+      "catalyst": "Energy resilient; oil bid on macro hedges",
+      "setup": "CVX -0.09% (flat) while growth crashes | relative strength play",
+      "entry": "Buy dips $187-188 (oversold bounce candidate)",
+      "stop": "$185.50",
+      "target": "$192-194 (short-term mean reversion)",
+      "conviction": "Med"
+    },
+    {
+      "ticker": "COIN",
+      "catalyst": "Crypto sentiment capitulation; leverage unwind",
+      "setup": "Down 9.66% vol_ratio 1.4 | digital asset deleveraging correlates to risk-off",
+      "entry": "Short strength $150-152 OR buy $147-148 oversold bounce for scalp",
+      "stop": "$158.50 (premarket high)",
+      "target": "$142-144 support",
+      "conviction": "Med"
+    },
+    {
+      "ticker": "FCX",
+      "catalyst": "Copper demand fears; mining equity contagion",
+      "setup": "Down 9.66% vol_ratio 1.28 | industrial metals under pressure",
+      "entry": "Short $63.50-64.20 OR wait for $62 support fade",
+      "stop": "$67.50 (gap)",
+      "target": "$60-61 support test",
+      "conviction": "Med"
+    },
+    {
+      "ticker": "SEDG",
+      "catalyst": "Solar deleveraging; clean energy drawdown",
+      "setup": "Down 14.05% (worst in screened list) | growth + energy transition overhang",
+      "entry": "Fade strength $64-65 OR short $63-64",
+      "stop": "$71.50 (reversal)",
+      "target": "$58-60 support",
+      "conviction": "Med"
+    },
+    {
+      "ticker": "HYG",
+      "catalyst": "High-yield credit resilient; relative value signal",
+      "setup": "HYG -0.43% (nearly flat) vs broad equity -2 to -4% | credit holds",
+      "entry": "Buy dips $79.40-79.60 (tactical long)",
+      "stop": "$79.20",
+      "target": "$79.90-80.15 (mean reversion)",
+      "conviction": "Low"
+    }
+  ],
+  "watchlist": [
+    {
+      "ticker": "AVGO",
+      "catalyst": "Post-earnings guidance disappoint (Wed close); institutional repositioning",
+      "premarket_action": "Likely gap-open lower; watch for insider accumulation vs institutional exit",
+      "support": "$215-218",
+      "resistance": "$235-238 (prior high)",
+      "pattern": "Bearish breakdown from earnings; oversold bounce risk $220-222",
+      "priority": "1"
+    },
+    {
+      "ticker": "CRWD",
+      "catalyst": "Post-earnings momentum (Wed); cyber security flows",
+      "premarket_action": "Monitor options flow; elevated call/put ratios likely",
+      "support": "$440-445",
+      "resistance": "$470-475",
+      "pattern": "Trend-following breakout or consolidation; high volatility expected",
+      "priority": "2"
+    },
+    {
+      "ticker": "DG",
+      "catalyst": "Beat EPS, raised FY guide, miss revenue (mixed signal)",
+      "premarket_action": "Premarket stabilization likely; small-cap value bid support",
+      "support": "$95-97",
+      "resistance": "$105-107",
+      "pattern": "Consolidation after earnings; tactical long candidate if vol contracts",
+      "priority": "3"
+    },
+    {
+      "ticker": "LULU",
+      "catalyst": "Earnings today; apparel sector under pressure",
+      "premarket_action": "Watch for opening print relative to $375-380 range; options vol spike expected",
+      "support": "$360-365",
+      "resistance": "$390-395",
+      "pattern": "Test of 50-day MA; oversold rebound or breakdown likely",
+      "priority": "4"
+    },
+    {
+      "ticker": "DOCU",
+      "catalyst": "Earnings today; software sector deleveraging",
+      "premarket_action": "Gap risk on guidance; monitor pre-market vol and order flow",
+      "support": "$82-85",
+      "resistance": "$95-98",
+      "pattern": "Bearish if miss guidance; bullish if beat and confirm trend",
+      "priority": "5"
+    },
+    {
+      "ticker": "SPY",
+      "catalyst": "Macro risk-off; portfolio hedge opportunity",
+      "premarket_action": "Open near session lows; watch for institutional scale-in",
+      "support": "$730-735",
+      "resistance": "$745-750",
+      "pattern": "Daily breakdown; -2.12% down; oversold bounce or further sell-off likely",
+      "priority": "6"
+    },
+    {
+      "ticker": "QQQ",
+      "catalyst": "Tech selloff cascade; growth unwind accelerates",
+      "premarket_action": "Follow SPY structure; -3.98% likely to test support",
+      "support": "$695-700",
+      "resistance": "$720-730",
+      "pattern": "Breakdown below 50-day; short-term capitulation signal; bounce risk",
+      "priority": "7"
+    },
+    {
+      "ticker": "IWM",
+      "catalyst": "Small-cap rotation; Russell 2000 underperformance",
+      "premarket_action": "Similar macro pressure; watch for relative weakness vs SPY",
+      "support": "$278-280",
+      "resistance": "$290-295",
+      "pattern": "Downtrend; support at $280 critical",
+      "priority": "8"
+    },
+    {
+      "ticker": "XLK",
+      "catalyst": "Tech sector worst performer (-5.77%); semiconductor/chip risk",
+      "premarket_action": "Leading indicator of tech stress; semiconductors likely dragged down sector ETF",
+      "support": "$175-177",
+      "resistance": "$188-190",
+      "pattern": "Severe selloff; oversold bounce or sector capitulation",
+      "priority": "9"
+    },
+    {
+      "ticker": "ARKK",
+      "catalyst": "Growth/innovation mandate under pressure; deleveraging",
+      "premarket_action": "Track with QQQ; -7.36% signals forced index redemptions",
+      "support": "$72-73",
+      "resistance": "$78-80",
+      "pattern": "Breakdown; high-beta negative convexity",
+      "priority": "10"
+    }
+  ],
+  "position_actions": [
+    {
+      "action": "EXIT",
+      "ticker": "TQQQ",
+      "reasoning": "Leveraged liquidation cascade; unwind likely to accelerate on margin calls"
+    },
+    {
+      "action": "EXIT",
+      "ticker": "ARKK",
+      "reasoning": "Growth deleveraging; forced redemptions on negative gamma"
+    },
+    {
+      "action": "TRIM",
+      "ticker": "GLD",
+      "reasoning": "Precious metals collapsed; liquidation risk persists; trim 50% of position"
+    },
+    {
+      "action": "TRIM",
+      "ticker": "SLV",
+      "reasoning": "Carry unwind; down 8% already; trim at bounce above $62.50"
+    },
+    {
+      "action": "HEDGE",
+      "ticker": "SPY",
+      "reasoning": "Risk-off regime; buy SPY $735 puts (2-3 weeks DTE) for portfolio protection"
+    },
+    {
+      "action": "HOLD",
+      "ticker": "CVX",
+      "reasoning": "Energy relative strength; hold as macro hedge against risk-off"
+    },
+    {
+      "action": "HOLD",
+      "ticker": "HYG",
+      "reasoning": "Credit stability signal; hold for oversold bounce play on tactical dip"
+    },
+    {
+      "action": "SCALE_IN",
+      "ticker": "QQQ",
+      "reasoning": "Oversold bounce candidate; buy $697-700 on capitulation signal (wait for volume bottom)"
+    }
+  ],
+  "wheel_book": [
+    {
+      "ticker": "SLV",
+      "sector": "Precious Metals",
+      "iv_rank_est": "85-90 (elevated)",
+      "delta": "45-50 (ATM puts)",
+      "dte": "7-14",
+      "strike_zone": "$59-61 puts (sell puts if target is $60 long)",
+      "assignment_risk": "High",
+      "priority": "AVOID (risk-off, liquidation, not stable)"
+    },
+    {
+      "ticker": "CVX",
+      "sector": "Energy",
+      "iv_rank_est": "60-65",
+      "delta": "40-45 (ATM puts)",
+      "dte": "14-21",
+      "strike_zone": "$185-187 puts (income on support hold)",
+      "assignment_risk": "Med",
+      "priority": "1"
+    },
+    {
+      "ticker": "HYG",
+      "sector": "High-Yield Credit",
+      "iv_rank_est": "55-60",
+      "delta": "35-40 (OTM puts)",
+      "dte": "14-21",
+      "strike_zone": "$78.50-79.00 puts (income; low assignment risk)",
+      "assignment_risk": "Low",
+      "priority": "2"
+    },
+    {
+      "ticker": "LULU",
+      "sector": "Apparel/Consumer",
+      "iv_rank_est": "70-75 (post-earnings expansion)",
+      "delta": "45 (ATM puts)",
+      "dte": "7-14",
+      "strike_zone": "$365-370 puts (wait for post-earnings settle; high vol)",
+      "assignment_risk": "Med",
+      "priority": "3"
+    },
+    {
+      "ticker": "DG",
+      "sector": "Retail/Discount",
+      "iv_rank_est": "65-70",
+      "delta": "40-45 (ATM puts)",
+      "dte": "14-21",
+      "strike_zone": "$95-97 puts (stable; dividend support)",
+      "assignment_risk": "Med",
+      "priority": "4"
+    }
+  ],
+  "risk_alerts": [
+    "MACRO LIQUIDITY EVENT: Precious metals collapse (SLV -8%, GDX -8%) + leveraged unwind (TQQQ -12%) signals forced margin calls; monitor for contagion to credit/HY spreads",
+    "LEVERAGE RISK: TQQQ / 3x short Nasdaq levered products showing capitulation; stop all long leveraged ETF positions; forced liquidation likely accelerates through Friday close",
+    "VIX REGIME SHIFT: Est 22-24 range signals caution zone; technical stop-loss cascades likely; no naked short calls; reduce naked put selling until volatility stabilizes below 20",
+    "SECTOR CONCENTRATION: XLK -5.77% (worst major sector); semiconductor/chip contagion possible; avoid long semis exposure until tape stabilizes",
+    "EARNINGS OVERHANG: AVGO, CRWD, DG, LULU, DOCU reporting today/this week; post-earnings volatility will amplify macro moves; reduce position sizing into closeout"
+  ],
+  "cio_verdict": {
+    "risk_posture": "Defensive",
+    "capital_flow": "Rotate 40% into CVX/HYG oversold bounces; 30% cash reserves; 20% tactical shorts (SLV/GDX near-term); 10% hedge puts on SPY $735 (2-3 weeks)",
+    "avoid": "Leveraged long ETFs (TQQQ, UPRO); growth/unprofitable tech; precious metals long (wait for capitulation); small-cap stocks (liquidity risk); naked short calls in elevated vol; earnings-day directional trades without defined risk"
+  }
+}
