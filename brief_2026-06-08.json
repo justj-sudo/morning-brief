@@ -1,0 +1,291 @@
+{
+  "date": "2026-06-08",
+  "generated_at": "Monday, June 08, 2026 \u2014 03:54 PM ET",
+  "regime": "Risk-On",
+  "cio_summary": [
+    "Oil spike +3.7% (WTI $93.86) drives inflation expectations higher; rotation from AI/growth into value/real assets accelerating",
+    "QQQ +1.52% but AAPL -1.94% signals tech broadening weakness; XLK +2.13% confirms defensive/infrastructure bid",
+    "Nikkei -3.66% overnight suggests caution in Asia; US futures flat-to-up but lack conviction",
+    "Earnings week: ORCL Wed, ADBE Thu\u2014both key AI/software sentiment barometers; CPB/GHM pre-market movers",
+    "Capital positioning: trim growth, ADD cyclicals/energy; wheel selling into premium; avoid unprofitable tech"
+  ],
+  "macro_dashboard": {
+    "spy_trend": "Flat-to-Up; +0.25% but struggling above 740",
+    "qqq_trend": "+1.52% but breadth deteriorating (AAPL -1.94%)",
+    "iwm_trend": "+0.92% supports small-cap rotation into value",
+    "vix": "Not live; assume 14-16 range (complacent)",
+    "vix_regime": "15-20 healthy trend; watch for 20+ on rate/geopolitical shock",
+    "yield_10y": "Not live; monitor for >4.4% (energy/inflation bid)",
+    "dollar_trend": "Not live; assume soft-to-neutral (supports commodities)",
+    "oil_trend": "WTI +3.67% to $93.86; Brent +3.88%; inflation expectations rising",
+    "crypto_sentiment": "Not live; likely mixed on energy/rate backdrop",
+    "tactical_bias": "Buy Dips in cyclicals; Fade strength in unprofitable growth"
+  },
+  "institutional_setups": [
+    {
+      "ticker": "XLK",
+      "catalyst": "Sector rotation into infrastructure/industrial reshoring; Fed rate stability",
+      "setup": "Consolidation break above $185; energy/industrial complex leadership",
+      "entry": "$185.50-$186.50",
+      "stop": "$182.00",
+      "target": "$191.00-$195.00",
+      "conviction": "High"
+    },
+    {
+      "ticker": "DUOL",
+      "catalyst": "High relative volume +8.25%; breakout from $108.86 open",
+      "setup": "Momentum play; above $118; potential squeeze into $120.27 resistance",
+      "entry": "$117.50-$119.00",
+      "stop": "$115.00",
+      "target": "$125.00",
+      "conviction": "Med"
+    },
+    {
+      "ticker": "BA",
+      "catalyst": "Defense/reshoring cycle; industrial broadening; flat today (accumulation?)",
+      "setup": "Consolidation at $215.50; support at $215.09; aerospace demand stable",
+      "entry": "$216.00-$217.50",
+      "stop": "$212.00",
+      "target": "$225.00-$230.00",
+      "conviction": "Med"
+    },
+    {
+      "ticker": "ARM",
+      "catalyst": "Semiconductor resilience; chipset demand on AI/data-center builds",
+      "setup": "+1.27% on vol; support $339.39; resistance $364.20",
+      "entry": "$345.00-$350.00",
+      "stop": "$335.00",
+      "target": "$370.00-$380.00",
+      "conviction": "Med"
+    },
+    {
+      "ticker": "LYFT",
+      "catalyst": "Transportation/mobility recovery; energy cost normalization",
+      "setup": "Breakout +2.53%; potential move to $14.50+ on oil normalization",
+      "entry": "$13.85-$14.25",
+      "stop": "$13.00",
+      "target": "$15.50-$16.50",
+      "conviction": "Low"
+    },
+    {
+      "ticker": "GLBE",
+      "catalyst": "Emerging markets rotation; energy/commodity play; flat vol",
+      "setup": "Consolidation $31.72-$32.76; low volatility; watch for breakout",
+      "entry": "$32.50-$33.00",
+      "stop": "$31.00",
+      "target": "$34.50-$35.50",
+      "conviction": "Low"
+    },
+    {
+      "ticker": "ORCL",
+      "catalyst": "Earnings Wed after-close; AI/cloud demand clarity; premium software valuation test",
+      "setup": "Earnings event; expect volatility; pre-earnings consolidation likely",
+      "entry": "On dip post-open; watch for call buyers",
+      "stop": "Key support TBD pre-market",
+      "target": "Post-earnings directional",
+      "conviction": "Med"
+    },
+    {
+      "ticker": "ADBE",
+      "catalyst": "Earnings Thu after-close; AI/creative suite monetization; valuation reset risk",
+      "setup": "Same as ORCL; growth expectations under pressure from macro",
+      "entry": "On dip post-open; theta decay acceleration",
+      "stop": "Key support TBD pre-market",
+      "target": "Post-earnings directional",
+      "conviction": "Med"
+    }
+  ],
+  "watchlist": [
+    {
+      "ticker": "AAPL",
+      "catalyst": "-1.94% on heavy vol (2.6M); potential oversold rebound or breakdown signal",
+      "premarket_action": "Opened $308.62; sold to $301.62 intra; test of $300 support next",
+      "support": "$300.00-$301.00",
+      "resistance": "$310.00-$315.00",
+      "pattern": "Bearish reversal; break below $300 = invalidate uptrend",
+      "priority": "1"
+    },
+    {
+      "ticker": "XLK",
+      "catalyst": "Sector leadership into infrastructure/defense; +2.13% on conviction",
+      "premarket_action": "Steady bid; no wide open/gap",
+      "support": "$184.00",
+      "resistance": "$186.00-$187.00",
+      "pattern": "Breakout play; above $186 = acceleration target $191+",
+      "priority": "2"
+    },
+    {
+      "ticker": "DUOL",
+      "catalyst": "Extreme relative vol +1.31x; +8.25% move from open $108.86 to $118.08",
+      "premarket_action": "Gap-and-go; high conviction buyers; watch for profit-taking",
+      "support": "$115.00-$116.00",
+      "resistance": "$120.27 (high of day)",
+      "pattern": "Breakaway gap; above $120 = potential extension to $125+",
+      "priority": "3"
+    },
+    {
+      "ticker": "BA",
+      "catalyst": "Industrial/defense rotation; stable on flat market (accumulation signal)",
+      "premarket_action": "Stable open $216.16; range-bound $215.09-$217.67",
+      "support": "$214.00-$215.00",
+      "resistance": "$218.00-$220.00",
+      "pattern": "Consolidation; breakout on volume = target $225+",
+      "priority": "4"
+    },
+    {
+      "ticker": "ORCL",
+      "catalyst": "Earnings Wed after-close; major AI/cloud software valuation inflection point",
+      "premarket_action": "Likely consolidating into event; theta decay into Wed close",
+      "support": "TBD pre-market; watch 50-day MA",
+      "resistance": "TBD pre-market; watch recent high",
+      "pattern": "Earnings event setup; binary risk Wed AH",
+      "priority": "5"
+    },
+    {
+      "ticker": "ARM",
+      "catalyst": "Semiconductor +1.27% on vol; chipset demand resilience signal",
+      "premarket_action": "Steady bid; support $339.39 holding; no weakness",
+      "support": "$339.00-$340.00",
+      "resistance": "$360.00-$365.00",
+      "pattern": "Consolidation above MA; breakout = target $375+",
+      "priority": "6"
+    },
+    {
+      "ticker": "ADBE",
+      "catalyst": "Earnings Thu after-close; creative/document AI monetization expectations",
+      "premarket_action": "Consolidating into event; watch for vol expansion Wed/Thu",
+      "support": "TBD pre-market",
+      "resistance": "TBD pre-market",
+      "pattern": "Earnings event setup; binary risk Thu AH",
+      "priority": "7"
+    },
+    {
+      "ticker": "LYFT",
+      "catalyst": "Transportation +2.53%; energy normalization tailwind; mobility recovery theme",
+      "premarket_action": "Breakout bid from $13.63 open to $13.98; vol above avg",
+      "support": "$13.50-$13.60",
+      "resistance": "$14.20-$14.50",
+      "pattern": "Breakout play; above $14.50 = test $15.50+",
+      "priority": "8"
+    },
+    {
+      "ticker": "GLBE",
+      "catalyst": "Emerging markets/energy play; consolidation with low vol (potential breakout)",
+      "premarket_action": "Flat; $31.72-$32.76 range; vol ratio 1.29x",
+      "support": "$31.50-$31.70",
+      "resistance": "$32.70-$33.00",
+      "pattern": "Consolidation; breakout = target $34-$35",
+      "priority": "9"
+    },
+    {
+      "ticker": "CPB",
+      "catalyst": "Pre-market earnings report (Campbell's); consumer staples valuation signal",
+      "premarket_action": "Monitor for pre-market vol/gap; watch earnings beat/miss direction",
+      "support": "TBD pre-market",
+      "resistance": "TBD pre-market",
+      "pattern": "Earnings event; watch sector sentiment spillover",
+      "priority": "10"
+    }
+  ],
+  "position_actions": [
+    {
+      "action": "ADD",
+      "ticker": "XLK",
+      "reasoning": "Sector rotation into infrastructure/defense confirmed by +2.13%; dip below $184 = entry point for 8% position"
+    },
+    {
+      "action": "HOLD",
+      "ticker": "BA",
+      "reasoning": "Industrial broadening on energy/reshoring cycle; no weakness; target $225 on breakout; let it run"
+    },
+    {
+      "action": "TRIM",
+      "ticker": "AAPL",
+      "reasoning": "Down -1.94% on heavy vol; if holding >5% size, trim 2.5% on bounce to $308-$310; risk of further weakness below $300"
+    },
+    {
+      "action": "WHEEL-SELL",
+      "ticker": "SPY",
+      "reasoning": "Flat market with oil spike = premium selling opportunity; sell 30-delta puts at 2-3% OTM for 30-45 DTE"
+    },
+    {
+      "action": "EXIT",
+      "ticker": "LYFT",
+      "reasoning": "If position >3%; take profits on breakout to $14.20-$14.50; small-cap momentum fades fast"
+    },
+    {
+      "action": "BUY",
+      "ticker": "DUOL",
+      "reasoning": "Extreme vol +1.31x; breakout above $120; enter on 3% dip; target $125; stop $115"
+    },
+    {
+      "action": "HEDGE",
+      "ticker": "QQQ",
+      "reasoning": "Growth weakness despite +1.52%; AAPL breakdown = hedge QQQ with 5-10% put spread (15-20 delta) for 30 DTE"
+    }
+  ],
+  "wheel_book": [
+    {
+      "ticker": "SPY",
+      "sector": "Broad Market",
+      "iv_rank_est": "35-40",
+      "delta": "30",
+      "dte": "45",
+      "strike_zone": "$735-$738 (puts)",
+      "assignment_risk": "Low",
+      "priority": "1-Sell 30-delta puts; collect 0.8-1.2% premium; roll on 50% profit"
+    },
+    {
+      "ticker": "QQQ",
+      "sector": "Growth/Tech",
+      "iv_rank_est": "40-45",
+      "delta": "25",
+      "dte": "45",
+      "strike_zone": "$710-$715 (puts)",
+      "assignment_risk": "Med",
+      "priority": "2-Sell 25-delta puts; expect higher vol on earnings; roll early if needed"
+    },
+    {
+      "ticker": "XLK",
+      "sector": "Utilities/Infra",
+      "iv_rank_est": "30-35",
+      "delta": "35",
+      "dte": "45",
+      "strike_zone": "$180-$182 (puts)",
+      "assignment_risk": "Low",
+      "priority": "3-Sell 35-delta puts; low vol expected; high assignment odds on weakness"
+    },
+    {
+      "ticker": "BA",
+      "sector": "Industrials",
+      "iv_rank_est": "35-40",
+      "delta": "30",
+      "dte": "30",
+      "strike_zone": "$210-$213 (puts)",
+      "assignment_risk": "Med",
+      "priority": "4-Sell 30-delta puts; roll if assignment risk rises on earnings/macro"
+    },
+    {
+      "ticker": "ARM",
+      "sector": "Semiconductors",
+      "iv_rank_est": "45-50",
+      "delta": "25",
+      "dte": "45",
+      "strike_zone": "$330-$335 (puts)",
+      "assignment_risk": "Med",
+      "priority": "5-Higher vol; sell 25-delta; good premium on vol; monitor chip cycle"
+    }
+  ],
+  "risk_alerts": [
+    "Oil spike +3.7% (WTI $93.86) signals inflation expectations rising; watch 10Y yield for >4.4% break (risk-off trigger)",
+    "AAPL -1.94% on 2.6M vol = breadth deterioration in QQQ; below $300 = potential tech cascade",
+    "Nikkei -3.66% overnight suggests weak Asia backdrop; monitor Asia open Tue for contagion risk",
+    "Earnings week volatility: ORCL Wed + ADBE Thu = binary events; position sizing into them is high-risk",
+    "Growth/unprofitable tech lagging; avoid shorting but trim sizes; momentum not sustainable above $300 in AAPL"
+  ],
+  "cio_verdict": {
+    "risk_posture": "Aggressive in cyclicals/value; Defensive in growth/unprofitable tech",
+    "capital_flow": "Rotate 15% of growth holdings into XLK/BA/ARM; build 30% wheel premium-selling book on SPY/QQQ; reserve 10% cash for dips below -1.5%",
+    "avoid": "Unprofitable SaaS; short-duration growth (avoid ADBE/ORCL shorts into earnings); naked option selling; AAPL below $300 unless strong buyer appears"
+  }
+}
