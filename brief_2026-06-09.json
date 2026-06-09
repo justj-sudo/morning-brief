@@ -1,0 +1,296 @@
+{
+  "date": "2026-06-09",
+  "generated_at": "Tuesday, June 09, 2026 \u2014 10:32 AM ET",
+  "regime": "Neutral",
+  "cio_summary": [
+    "SPY +0.17% | QQQ -0.22% | IWM +1.11% signals small-cap bid, tech consolidation; cyclical rotation intact",
+    "S&P 500 futures +0.25% (7434), Nikkei +2.01%; Asia strength supports risk-on but equity breadth cautious",
+    "Oil -1.11% WTI; Iran ops halt removes geopolitical overhang; energy sector bias weakens near-term",
+    "Institutional flow: OUT of large-cap tech, INTO industrials/financials/utilities; defensive safety play",
+    "Earnings day: ASO, SJM, SAIL, UNFI preopen; options activity elevated in AUGG, PLCE, FOSL, MHH, LGO"
+  ],
+  "macro_dashboard": {
+    "spy_trend": "Neutral consolidation; +0.17% premarket; support 738, resistance 745",
+    "qqq_trend": "Mild weakness -0.22%; tech outflows persist; hold 710 support",
+    "iwm_trend": "Strongest mover +1.11%; small-cap cyclical bid; breakout above 288 watch",
+    "vix": "Est. 16\u201317 (no live feed); healthy trend regime",
+    "vix_regime": "15\u201320 healthy; no shock volatility; trend-tradeable",
+    "yield_10y": "Est. 4.15\u20134.20% (data unavailable); stable; no rate shock",
+    "dollar_trend": "Data unavailable; assume near 104\u2013105 DXY; neutral",
+    "oil_trend": "WTI 90.29 -1.11%; Brent 93.51 -0.64%; Iran relief bid energy lower",
+    "crypto_sentiment": "Data unavailable; BTC trend unknown",
+    "tactical_bias": "Buy Dips"
+  },
+  "institutional_setups": [
+    {
+      "ticker": "AXON",
+      "catalyst": "Institutional accumulation; protection/safety sector bid",
+      "setup": "Fund ownership >50% float; urgent buying continuation signal",
+      "entry": "98.50\u2013101.00",
+      "stop": "96.00",
+      "target": "110.00",
+      "conviction": "High"
+    },
+    {
+      "ticker": "BAW",
+      "catalyst": "AI grid demand + clean energy pivot; #1 urgency in electronics",
+      "setup": "Accumulation tied to power infrastructure modernization",
+      "entry": "27.00\u201328.50",
+      "stop": "25.50",
+      "target": "34.00",
+      "conviction": "High"
+    },
+    {
+      "ticker": "IWM",
+      "catalyst": "Small-cap rotation; cyclical industrial bid vs. large-cap tech",
+      "setup": "IWM +1.11% breakout; outperform SPY/QQQ rotation signal",
+      "entry": "287.50\u2013290.00",
+      "stop": "284.00",
+      "target": "300.00",
+      "conviction": "Med"
+    },
+    {
+      "ticker": "XLI",
+      "catalyst": "Institutional rotation into industrials from tech",
+      "setup": "ETF flow positive; cyclical strength continuation",
+      "entry": "108.00\u2013110.00",
+      "stop": "106.00",
+      "target": "118.00",
+      "conviction": "Med"
+    },
+    {
+      "ticker": "XLF",
+      "catalyst": "Financials sector rotation; cyclical outperformance",
+      "setup": "ETF inflows; stable yield environment supports banks",
+      "entry": "42.50\u201343.50",
+      "stop": "41.00",
+      "target": "47.00",
+      "conviction": "Med"
+    },
+    {
+      "ticker": "XLU",
+      "catalyst": "Defensive utility rotation; income + stability play",
+      "setup": "ETF inflows; barbell positioning with cyclicals",
+      "entry": "72.00\u201373.50",
+      "stop": "70.00",
+      "target": "78.00",
+      "conviction": "Med"
+    },
+    {
+      "ticker": "ASO",
+      "catalyst": "Earnings preopen; outdoor/sports discretionary cycle",
+      "setup": "Elevated options activity; watch \u00b18% move post-earnings",
+      "entry": "Post-earnings dip (wait for open)",
+      "stop": "TBD post-open",
+      "target": "TBD post-open",
+      "conviction": "Low"
+    },
+    {
+      "ticker": "UNFI",
+      "catalyst": "Earnings preopen; natural foods/supply chain thesis",
+      "setup": "Options volume spike; consolidation trade potential",
+      "entry": "Post-earnings entry on support",
+      "stop": "TBD post-open",
+      "target": "TBD post-open",
+      "conviction": "Low"
+    }
+  ],
+  "watchlist": [
+    {
+      "ticker": "IWM",
+      "catalyst": "Small-cap cyclical rotation outperform",
+      "premarket_action": "+1.11% leader; breakout attempt",
+      "support": "284.00, 280.00",
+      "resistance": "292.00, 300.00",
+      "pattern": "Ascending triangle breakout watch",
+      "priority": "1"
+    },
+    {
+      "ticker": "AXON",
+      "catalyst": "Institutional accumulation signal; protection sector",
+      "premarket_action": "Data unavailable; track intraday",
+      "support": "96.00, 93.00",
+      "resistance": "103.00, 110.00",
+      "pattern": "Breakout above 103 confirms",
+      "priority": "2"
+    },
+    {
+      "ticker": "BAW",
+      "catalyst": "AI/grid modernization; #1 electronics accumulation",
+      "premarket_action": "Data unavailable; monitor open",
+      "support": "25.50, 23.00",
+      "resistance": "30.00, 34.00",
+      "pattern": "Rounding bottom into earnings season",
+      "priority": "3"
+    },
+    {
+      "ticker": "XLI",
+      "catalyst": "Industrial sector rotation; ETF flow positive",
+      "premarket_action": "Follow IWM lead; cyclical strength",
+      "support": "106.00, 103.00",
+      "resistance": "112.00, 118.00",
+      "pattern": "Higher lows; uptrend intact",
+      "priority": "4"
+    },
+    {
+      "ticker": "ASO",
+      "catalyst": "Earnings preopen; discretionary retail",
+      "premarket_action": "Elevated options volume; 103M shares flow",
+      "support": "TBD post-open",
+      "resistance": "TBD post-open",
+      "pattern": "Earnings binary event",
+      "priority": "5"
+    },
+    {
+      "ticker": "SJM",
+      "catalyst": "Earnings preopen; packaged food defensive",
+      "premarket_action": "Options volume spike; wait for open",
+      "support": "TBD post-open",
+      "resistance": "TBD post-open",
+      "pattern": "Post-earnings direction",
+      "priority": "6"
+    },
+    {
+      "ticker": "UNFI",
+      "catalyst": "Earnings preopen; supply chain/food service",
+      "premarket_action": "Options elevated (82.99M activity note)",
+      "support": "TBD post-open",
+      "resistance": "TBD post-open",
+      "pattern": "Event-driven trade",
+      "priority": "7"
+    },
+    {
+      "ticker": "SAIL",
+      "catalyst": "Earnings preopen; specialty retail",
+      "premarket_action": "Options activity flagged; discretionary sector",
+      "support": "TBD post-open",
+      "resistance": "TBD post-open",
+      "pattern": "Post-earnings volatility watch",
+      "priority": "8"
+    },
+    {
+      "ticker": "XLU",
+      "catalyst": "Defensive utility rotation; barbell hedge",
+      "premarket_action": "Defensive bid; stable income flow",
+      "support": "70.00, 68.00",
+      "resistance": "75.00, 78.00",
+      "pattern": "Consolidation above 72",
+      "priority": "9"
+    },
+    {
+      "ticker": "XLF",
+      "catalyst": "Financial sector rotation; cyclical support",
+      "premarket_action": "ETF inflows; stable rate backdrop",
+      "support": "41.00, 39.00",
+      "resistance": "44.00, 47.00",
+      "pattern": "Breakout above 43.50 confirms",
+      "priority": "10"
+    }
+  ],
+  "position_actions": [
+    {
+      "action": "BUY",
+      "ticker": "IWM",
+      "reasoning": "Small-cap outperformance +1.11%; cyclical rotation signal; breakout above 288 watch"
+    },
+    {
+      "action": "BUY",
+      "ticker": "XLI",
+      "reasoning": "Institutional rotation into industrials from tech; ETF flow positive; 5\u201310% position size"
+    },
+    {
+      "action": "BUY",
+      "ticker": "AXON",
+      "reasoning": "Accumulation signal; >50% fund ownership; protection sector bid; dip buy at 98.50"
+    },
+    {
+      "action": "ADD",
+      "ticker": "BAW",
+      "reasoning": "AI/grid demand play; #1 urgency in electronics; 5% position on weakness"
+    },
+    {
+      "action": "HOLD",
+      "ticker": "SPY",
+      "reasoning": "Neutral consolidation; +0.17% premarket; no fresh signal; await earnings tape"
+    },
+    {
+      "action": "HOLD",
+      "ticker": "QQQ",
+      "reasoning": "Tech outflows ongoing; -0.22% premarket; hold for dip-buy opportunity"
+    },
+    {
+      "action": "HOLD",
+      "ticker": "XLU",
+      "reasoning": "Defensive hedge; hold 20\u201330% of income/defensive quota; stable yield backdrop"
+    },
+    {
+      "action": "WAIT",
+      "ticker": "ASO|SJM|SAIL|UNFI",
+      "reasoning": "Earnings preopen; options volatility elevated; enter post-earnings on defined levels"
+    }
+  ],
+  "wheel_book": [
+    {
+      "ticker": "IWM",
+      "sector": "Small-cap cyclical",
+      "iv_rank_est": "45\u201355",
+      "delta": "0.30\u20130.35",
+      "dte": "45\u201360",
+      "strike_zone": "282\u2013285 put; 295\u2013300 call",
+      "assignment_risk": "Low",
+      "priority": "Sell 282P; collect 1.50\u20131.80 premium; breakout hedge"
+    },
+    {
+      "ticker": "XLI",
+      "sector": "Industrials ETF",
+      "iv_rank_est": "40\u201350",
+      "delta": "0.30\u20130.35",
+      "dte": "45\u201360",
+      "strike_zone": "106\u2013108 put; 112\u2013115 call",
+      "assignment_risk": "Low",
+      "priority": "Sell 108P for 1.20\u20131.50; covered call 115C"
+    },
+    {
+      "ticker": "XLU",
+      "sector": "Utilities defensive",
+      "iv_rank_est": "35\u201345",
+      "delta": "0.25\u20130.30",
+      "dte": "45\u201360",
+      "strike_zone": "71\u201372 put; 75\u201376 call",
+      "assignment_risk": "Med",
+      "priority": "Sell 72P (1.00\u20131.20); stable income wheel"
+    },
+    {
+      "ticker": "XLF",
+      "sector": "Financials",
+      "iv_rank_est": "40\u201350",
+      "delta": "0.30\u20130.35",
+      "dte": "45\u201360",
+      "strike_zone": "42\u201343 put; 45\u201347 call",
+      "assignment_risk": "Low",
+      "priority": "Sell 43P (0.90\u20131.10); covered call 46C"
+    },
+    {
+      "ticker": "AXON",
+      "sector": "Protection/safety",
+      "iv_rank_est": "50\u201360",
+      "delta": "0.30\u20130.35",
+      "dte": "30\u201345",
+      "strike_zone": "98\u2013100 put; 105\u2013108 call",
+      "assignment_risk": "Med",
+      "priority": "Sell 100P (1.50\u20132.00); higher IV; active accumulation signal"
+    }
+  ],
+  "risk_alerts": [
+    "Tech outflows persisting: QQQ -0.22%, XLK -0.87%; watch for acceleration if SPY reverses below 738",
+    "Earnings day volatility: ASO, SJM, SAIL, UNFI preopen; options activity spiked (80M+ volume flagged); risk \u00b18\u201312%",
+    "Oil relief bid masks geopolitical tail: WTI -1.11% on Iran ops halt; watch for overnight reversal if escalation resumes",
+    "Small-cap IWM outperformance: +1.11% vs SPY +0.17%; potential breadth divergence if tech stabilizes",
+    "Data gaps: VIX, 10Y yield, DXY, BTC not in live feed; assume VIX 16\u201317, 10Y 4.15\u20134.20%, DXY 104\u2013105"
+  ],
+  "cio_verdict": {
+    "risk_posture": "Neutral",
+    "capital_flow": "Deploy 30\u201340% into IWM + XLI + AXON on dips; hold 20\u201330% defensive (XLU); reserve 30% dry powder for earnings volatility post-open",
+    "avoid": "Large-cap tech (QQQ, XLK) until outflows stabilize; avoid earnings binary trades preopen (ASO, SJM, UNFI); stay clear of energy if Iran escalates"
+  }
+}
