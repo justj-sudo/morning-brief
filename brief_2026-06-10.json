@@ -1,0 +1,296 @@
+{
+  "date": "2026-06-10",
+  "generated_at": "Wednesday, June 10, 2026 \u2014 10:59 AM ET",
+  "regime": "Neutral",
+  "cio_summary": [
+    "Premarket risk-off: SPY -0.62%, QQQ -0.8%, S&P futures -23bps; tech weakness persists from AI sell-off yesterday",
+    "Nikkei -1.97% OVN signals global equity caution; rates/Fed cut timing uncertainty + Middle East geopolitical premium in crude ($88 WTI, $91.28 Brent)",
+    "Sector rotation favors: industrials, infrastructure, energy, materials, value vs. growth; unprofitable tech losing momentum",
+    "Major catalysts TODAY: ORCL earnings after close (EPS $1.96 exp, $19.1B rev +20% YoY), ADBE Thursday, CPB pre-open",
+    "Unusual volume in small caps (PLCE, AUGG, FOSL, VXRT, IOBT) suggests retail/options momentum; monitor for spike intraday"
+  ],
+  "macro_dashboard": {
+    "spy_trend": "Softer; -0.62% intraday; premarket -31bps S&P futures",
+    "qqq_trend": "Weaker; -0.8%; Nasdaq 100 futures -56bps; renewed AI/semis selloff",
+    "iwm_trend": "Flat; +0.04%; small-cap relative underperformance vs large-cap tech weakness",
+    "vix": "Estimated 16.2\u201316.8",
+    "vix_regime": "Healthy Trend (15-20); no panic but elevated caution",
+    "yield_10y": "Est. 4.15\u20134.20% (rates holding firm; Fed cut timing debate)",
+    "dollar_trend": "Bid: USD/JPY 160.36, EUR/USD 1.1556; DXY inferred higher",
+    "oil_trend": "WTI $88.02 -0.20%; Brent $91.28; geopolitical risk premium elevated",
+    "crypto_sentiment": "Neutral; BTC not provided; likely tracking equity weakness",
+    "tactical_bias": "Fade Strength \u2014 trim overbought growth; build real-asset/value exposure on dips"
+  },
+  "institutional_setups": [
+    {
+      "ticker": "ORCL",
+      "catalyst": "Earnings after close: $1.96 EPS exp, $19.1B rev +20% YoY; cloud/AI guidance critical",
+      "setup": "Large-cap mega-cap earnings volatility; cloud strength vs. macro headwind divergence",
+      "entry": "Pre-earnings support: $132.50\u2013$133.00",
+      "stop": "$131.00",
+      "target": "$140.00 (post-beat)",
+      "conviction": "High"
+    },
+    {
+      "ticker": "XLK",
+      "catalyst": "Tech sector pressure continues; rotation into value/industrials; breadth deteriorating",
+      "setup": "Sector weakness breakout below 200-day MA; industrial strength relative setup",
+      "entry": "Short structure into weakness: fade rallies into $179.50\u2013$180.00",
+      "stop": "$181.50",
+      "target": "$176.00",
+      "conviction": "High"
+    },
+    {
+      "ticker": "XLE",
+      "catalyst": "WTI/Brent elevated on geopolitical risk; institutional real-asset rotation in effect",
+      "setup": "Breakout above 200-day MA on energy premium; flow rotation in favor",
+      "entry": "Support/consolidation: $95.00\u2013$96.00 entry on dip",
+      "stop": "$93.50",
+      "target": "$102.00",
+      "conviction": "High"
+    },
+    {
+      "ticker": "ADBE",
+      "catalyst": "Earnings Thursday after close; AI/software guidance highly scrutinized post-ORCL",
+      "setup": "Potential post-ORCL gap down if ORCL disappoints; or gap-up on beat rhythm",
+      "entry": "$540.00\u2013$545.00 (pre-earnings support)",
+      "stop": "$535.00",
+      "target": "$560.00 (post-beat scenario)",
+      "conviction": "Med"
+    },
+    {
+      "ticker": "IVV",
+      "catalyst": "Large-cap value index; rotation into diversified institutional holdings; lower beta play",
+      "setup": "Consolidation breakout on sector rotation; relative strength vs. QQQ holding",
+      "entry": "$294.00\u2013$295.50 support zone",
+      "stop": "$291.00",
+      "target": "$302.00",
+      "conviction": "Med"
+    },
+    {
+      "ticker": "PLCE",
+      "catalyst": "Extreme premarket volume (313.85M): likely options-driven retail spike; pre-earnings sentiment",
+      "setup": "Small-cap momentum breakout; high gamma risk; earnings likely near/imminent",
+      "entry": "Depends on premarket print; assume $25.00\u2013$27.00 if gap up",
+      "stop": "Support: $20.00",
+      "target": "$32.00 (retail momentum target)",
+      "conviction": "Med"
+    },
+    {
+      "ticker": "VXRT",
+      "catalyst": "Volume spike (86.49M) suggests biotech clinical/partnership catalyst or retail options play",
+      "setup": "Speculation breakout; check premarket news; high volatility/gamma risk",
+      "entry": "$3.50\u2013$4.00 (if catalyst confirms)",
+      "stop": "$2.80",
+      "target": "$6.00 (spec target)",
+      "conviction": "Low"
+    },
+    {
+      "ticker": "LGO",
+      "catalyst": "Volume surge (89.79M); mining/commodity play; benefit from elevated commodity prices, Fed rate outlook",
+      "setup": "Breakout on small-cap commodity momentum; check premarket news for catalyst",
+      "entry": "$8.00\u2013$8.50 support zone",
+      "stop": "$6.80",
+      "target": "$11.50",
+      "conviction": "Low"
+    }
+  ],
+  "watchlist": [
+    {
+      "ticker": "ORCL",
+      "catalyst": "Earnings after close; cloud guidance + AI roadmap; largest large-cap earnings event today",
+      "premarket_action": "Likely consolidating into earnings; futures weakness -31bps may suppress pre-pop",
+      "support": "$132.50",
+      "resistance": "$135.50",
+      "pattern": "Earnings volatility play; breakout/breakdown",
+      "priority": "1"
+    },
+    {
+      "ticker": "ADBE",
+      "catalyst": "Earnings Thursday AH; but premarket jitters from ORCL results will pressure today",
+      "premarket_action": "Likely down 0.5-1.5% on sector weakness; watch for oversold bounce setup",
+      "support": "$540.00",
+      "resistance": "$548.00",
+      "pattern": "Earnings anticipation; fade strength into earnings",
+      "priority": "2"
+    },
+    {
+      "ticker": "XLK",
+      "catalyst": "Tech sector breadth breakdown; institutional rotation out into value/real assets",
+      "premarket_action": "Down -1.03% intraday; likely break 200-day MA if ORCL disappoints",
+      "support": "$176.50",
+      "resistance": "$180.00",
+      "pattern": "Breakdown; sector rotation short",
+      "priority": "3"
+    },
+    {
+      "ticker": "XLE",
+      "catalyst": "Geopolitical risk premium + Fed rate cuts = energy tailwind; sector rotation favor",
+      "premarket_action": "Likely bid; outperforming tech weakness",
+      "support": "$95.00",
+      "resistance": "$99.50",
+      "pattern": "Breakout above 200-day consolidation",
+      "priority": "4"
+    },
+    {
+      "ticker": "PLCE",
+      "catalyst": "Extreme volume spike (313.85M); pre-earnings or options catalyst unknown; retail momentum",
+      "premarket_action": "Monitor gap up/down on open; likely high intraday volatility; check news at open",
+      "support": "$20.00",
+      "resistance": "$30.00",
+      "pattern": "Small-cap momentum spike; breakout or capitulation",
+      "priority": "5"
+    },
+    {
+      "ticker": "IVV",
+      "catalyst": "Large-cap diversified; outperforming QQQ; institutional value rotation beneficiary",
+      "premarket_action": "Likely flat to slightly down on market weakness; good dip-buy candidate",
+      "support": "$294.00",
+      "resistance": "$298.50",
+      "pattern": "Consolidation; relative strength vs. tech",
+      "priority": "6"
+    },
+    {
+      "ticker": "VTI",
+      "catalyst": "Total market broad holding; beta hedge on sector rotation into value/real assets",
+      "premarket_action": "Tracking SPY weakness; flat structure premarket",
+      "support": "$288.00",
+      "resistance": "$292.00",
+      "pattern": "Broad market consolidation",
+      "priority": "7"
+    },
+    {
+      "ticker": "AUGG",
+      "catalyst": "Volume spike (103.98M); gold/mining play; rate-cut beneficiary; commodity bid",
+      "premarket_action": "Likely gapped up premarket on currency/rate expectations; monitor for fade",
+      "support": "$7.50",
+      "resistance": "$9.50",
+      "pattern": "Spec small-cap breakout",
+      "priority": "8"
+    },
+    {
+      "ticker": "FOSL",
+      "catalyst": "Volume surge (96.27M); consumer discretionary; check for earnings/partnership news",
+      "premarket_action": "Monitor gap at open; small-cap volume spikes often mean retail options activity",
+      "support": "$8.00",
+      "resistance": "$11.00",
+      "pattern": "Small-cap momentum",
+      "priority": "9"
+    },
+    {
+      "ticker": "MHH",
+      "catalyst": "Volume spike (91.65M); Mastech Digital; software/IT services; check earnings/guidance update",
+      "premarket_action": "Likely volatile at open; institutional repositioning or retail gamma activity",
+      "support": "$18.00",
+      "resistance": "$22.00",
+      "pattern": "Small-cap momentum spike",
+      "priority": "10"
+    }
+  ],
+  "position_actions": [
+    {
+      "action": "HOLD",
+      "ticker": "SPY",
+      "reasoning": "Core holding; premarket weakness -31bps is normal pre-earnings tape; do not chase down; wait for ORCL result"
+    },
+    {
+      "action": "HOLD",
+      "ticker": "QQQ",
+      "reasoning": "Tech weakness persists but intraday -0.8% is not -6% portfolio risk-off trigger; monitor ORCL earnings; do not add"
+    },
+    {
+      "action": "TRIM",
+      "ticker": "XLK",
+      "reasoning": "Sector breakdown in progress; down -1.03% premarket; reduce 2.5% of position on any bounce above $180; rotate to XLE"
+    },
+    {
+      "action": "ADD",
+      "ticker": "XLE",
+      "reasoning": "Sector rotation favor; geopolitical premium + rate-cut tailwind; add 3-5% on support $95\u2013$96 zone on dip"
+    },
+    {
+      "action": "HOLD",
+      "ticker": "IWM",
+      "reasoning": "Small-cap relatively flat +0.04%; holding; no catalyst urgency; IVV outperforming"
+    },
+    {
+      "action": "WATCH",
+      "ticker": "ORCL",
+      "reasoning": "Pre-earnings consolidation; no position yet; set buy alert for post-earnings support $132.50 on beat/miss scenario"
+    },
+    {
+      "action": "WATCH",
+      "ticker": "PLCE",
+      "reasoning": "Extreme volume requires news verification at open; do not chase gap; wait for consolidation on 15min chart; possible earnings play"
+    },
+    {
+      "action": "EXIT",
+      "ticker": "Any unprofitable tech >50% YTD gain",
+      "reasoning": "Sector rotation pressure; AI trade losing momentum; trim crowded positions; move proceeds to XLE/XLI/XLV"
+    }
+  ],
+  "wheel_book": [
+    {
+      "ticker": "ORCL",
+      "sector": "Technology/Cloud",
+      "iv_rank_est": "75\u201385",
+      "delta": "0.30 short call",
+      "dte": "35",
+      "strike_zone": "$140\u2013$145 (14\u201320 pts OTM post-earnings safe zone)",
+      "assignment_risk": "High",
+      "priority": "1\u2014Post-earnings; sell after expiration clarity; high IV expected"
+    },
+    {
+      "ticker": "ADBE",
+      "sector": "Software/AI",
+      "iv_rank_est": "70\u201380",
+      "delta": "0.30 short call",
+      "dte": "42",
+      "strike_zone": "$560\u2013$570 (pre-earnings caution; stay wide)",
+      "assignment_risk": "High",
+      "priority": "2\u2014Post-earnings play; wait until ORCL/ADBE dust settles"
+    },
+    {
+      "ticker": "XLE",
+      "sector": "Energy",
+      "iv_rank_est": "55\u201365",
+      "delta": "0.35 short call",
+      "dte": "28",
+      "strike_zone": "$100\u2013$104 (4\u20138 pts OTM; strong directional bid)",
+      "assignment_risk": "Med",
+      "priority": "3\u2014Sell call or run bull call spread; geopolitical support holds upside capped"
+    },
+    {
+      "ticker": "IVV",
+      "sector": "Broad Large-Cap",
+      "iv_rank_est": "45\u201355",
+      "delta": "0.35 short call",
+      "dte": "35",
+      "strike_zone": "$300\u2013$305 (5\u201311 pts OTM; low IV safer)",
+      "assignment_risk": "Low",
+      "priority": "4\u2014Steady income play; diversified; lower volatility = lower premium but safer theta"
+    },
+    {
+      "ticker": "VTI",
+      "sector": "Broad Market",
+      "iv_rank_est": "40\u201350",
+      "delta": "0.35 short call",
+      "dte": "42",
+      "strike_zone": "$295\u2013$300 (7\u201312 pts OTM; broad market capped)",
+      "assignment_risk": "Low",
+      "priority": "5\u2014Core portfolio income; lowest gamma risk; theta decay favors short premium"
+    }
+  ],
+  "risk_alerts": [
+    "ORCL earnings AH represents single largest intraday volatility catalyst; set tighter stops on tech if earnings disappoint",
+    "Nikkei -1.97% OVN + S&P futures -31bps = risk-off cascade risk; if SPY breaks $728 (support), reduce sector concentration 15\u201320%",
+    "Middle East geopolitical premium in crude ($88\u2013$91) = tail risk; if oil spikes >5% intraday, energy outperformance could reverse; hedge with tight stops",
+    "Small-cap volume spikes (PLCE, AUGG, FOSL, VXRT, etc.) indicate retail/options gamma concentration; avoid chasing; liquidity evaporates on reversal",
+    "XLK breakdown below 200-day MA + QQQ -0.8% = potential cascade into growth/AI purge; if SPY -1.5% by noon, trigger risk-off protocol: 50% cash, hedge QQQ with puts"
+  ],
+  "cio_verdict": {
+    "risk_posture": "Neutral",
+    "capital_flow": "50% hold core index (SPY/IVV/VTI); 20% rotate XLK \u2192 XLE (3\u20135% add on $95\u201396 support); 30% preserve dry powder for ORCL post-earnings dip buy or large-cap value accumulation on SPY -1.5%+ break; 0% new growth/AI long until ORCL clarity",
+    "avoid": "Do NOT chase PLCE/AUGG/VXRT/LGO retail breakouts premarket; do NOT short tech into ORCL (headline risk too high); do NOT add QQQ exposure until macro risk-off clears; do NOT sell calls on ORCL/ADBE until post-earnings vol crush settles (35+ DTE minimum)"
+  }
+}
