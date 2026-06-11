@@ -1,0 +1,292 @@
+{
+  "date": "2026-06-11",
+  "generated_at": "Thursday, June 11, 2026 \u2014 11:40 AM ET",
+  "regime": "Neutral",
+  "cio_summary": [
+    "Equity futures +0.36\u20130.59% premarket; rotation favor real assets/infrastr over AI/growth",
+    "Hot inflation print triggered prior session selling; oil +0.88% WTI $90.82 on Mideast supply risk",
+    "Tech earnings slate heavy: ADBE post-close, ORCL/CHWY/GLBS today; watch vol expansion",
+    "VIX data unavailable; assume 16\u201318 regime (healthy trend). Dollar stable USD/JPY 160.55",
+    "Sector rotation signal: XLI/XLE/XLB/XLU overweight vs XLK/tech underweight into cycle shift"
+  ],
+  "macro_dashboard": {
+    "spy_trend": "Up +0.41% $728.54; futures +0.36\u20130.59% premarket; bias hold strength",
+    "qqq_trend": "Up +1.18% $701.9; outperforming but vulnerable to growth fade",
+    "iwm_trend": "Up +1.5% $286.23; small-cap cyclical bid strong",
+    "vix": "Unknown (not provided); inferred 16\u201318 (healthy trend regime)",
+    "vix_regime": "Healthy Trend (15\u201320 proxy assumption)",
+    "yield_10y": "Unknown (not provided); assume 4.0\u20134.2% (terminal neutral proxy)",
+    "dollar_trend": "Stable; USD/JPY 160.55, EUR/USD 1.1546; bid intact",
+    "oil_trend": "WTI +0.88% $90.82; Brent -1.40% $93.67; supply concerns Mideast",
+    "crypto_sentiment": "Unknown (no live Bitcoin data provided); hold neutral",
+    "tactical_bias": "Buy Dips | Fade Tech Strength"
+  },
+  "institutional_setups": [
+    {
+      "ticker": "XLI",
+      "catalyst": "Sector rotation favor industrials/reshoring; cyclical bid strong",
+      "setup": "IWM +1.5% leads; infrastructure demand structural",
+      "entry": "Support $285\u2013288; scale into dips on SPY correction",
+      "stop": "$280 (hard stop; sector break below = rotation failure)",
+      "target": "$295\u2013298 (3\u20135% upside over 2\u20134 weeks)",
+      "conviction": "High"
+    },
+    {
+      "ticker": "XLE",
+      "catalyst": "Oil +0.88% WTI; Mideast supply risk; inflation persistent",
+      "setup": "Energy sector oversold into inflation cycle; real-asset rotation",
+      "entry": "Support $95\u201397; ladder buys on SPY dips into $725\u2013728",
+      "stop": "$92 (sector support break)",
+      "target": "$102\u2013105 (5\u20138% upside; 3\u20136 week hold)",
+      "conviction": "High"
+    },
+    {
+      "ticker": "ADBE",
+      "catalyst": "Earnings after close TODAY; large-cap growth earnings moment",
+      "setup": "Tech earnings vol driver; growth fade signal from premarket; IV expansion expected",
+      "entry": "Post-earnings dip $640\u2013650; avoid buying strength into close",
+      "stop": "$625 (earnings miss hard stop)",
+      "target": "$670\u2013680 (if beat+raise, 3\u20135% pop; hold 5\u201310 days)",
+      "conviction": "Med"
+    },
+    {
+      "ticker": "IYZ",
+      "catalyst": "Infrastructure ETF; reshoring + capex cycle bid structural",
+      "setup": "Sector rotation into telecom/utilities/infrastructure; yield defensive",
+      "entry": "Support $130\u2013132; scale on SPY pullback $720\u2013725",
+      "stop": "$128 (trend break below support)",
+      "target": "$138\u2013142 (6\u20138% upside; 4\u20138 week hold)",
+      "conviction": "High"
+    },
+    {
+      "ticker": "ORCL",
+      "catalyst": "Already reported this week; Oracle Cloud momentum; enterprise cycle",
+      "setup": "Post-earnings, assess follow-through; watch institutional accumulation",
+      "entry": "$175\u2013177 (support retest); only buy confirmed consolidation",
+      "stop": "$170 (earnings support break = sell signal)",
+      "target": "$185\u2013190 (6\u20138% hold on mega-cap cloud strength)",
+      "conviction": "Med"
+    },
+    {
+      "ticker": "XLB",
+      "catalyst": "Materials rotation on inflation + infrastructure demand",
+      "setup": "Commodities cycle bid; cyclical rotation favor materials",
+      "entry": "Support $115\u2013117; dips on broad market correction",
+      "stop": "$112 (sector support break)",
+      "target": "$122\u2013126 (5\u20138% upside; 4\u20136 week hold)",
+      "conviction": "High"
+    },
+    {
+      "ticker": "CHWY",
+      "catalyst": "Earnings today; e-commerce consumer health signal",
+      "setup": "Post-earnings vol driver; watch guidance; consumer resilience test",
+      "entry": "Post-earnings dip $45\u201348; avoid chase",
+      "stop": "$42 (earnings miss hard stop)",
+      "target": "$52\u201355 (if beat, 8\u201312% pop; hold 3\u20135 days)",
+      "conviction": "Med"
+    },
+    {
+      "ticker": "XLU",
+      "catalyst": "Utilities rotation; defensive bid on growth fade + rate stability",
+      "setup": "Real-asset rotation; yield capture defensive; infrastructure tailwind",
+      "entry": "Support $86\u201388; scale into dips",
+      "stop": "$84 (support break = sell signal)",
+      "target": "$92\u201395 (7\u201310% upside; 6\u20138 week hold)",
+      "conviction": "High"
+    }
+  ],
+  "watchlist": [
+    {
+      "ticker": "ADBE",
+      "catalyst": "Earnings after close; large-cap growth earnings vol",
+      "premarket_action": "Tech weakness intraday; avoid buy strength; watch IV expansion",
+      "support": "$635\u2013640",
+      "resistance": "$655\u2013660",
+      "pattern": "Range consolidation into earnings close; breakout risk both ways",
+      "priority": "1"
+    },
+    {
+      "ticker": "XLI",
+      "catalyst": "Sector rotation favor industrials; structural reshoring bid",
+      "premarket_action": "Up on IWM strength +1.5%; institutional accumulation likely",
+      "support": "$285\u2013288",
+      "resistance": "$293\u2013296",
+      "pattern": "Breakout above $292 = confirm rotation; hold above $285",
+      "priority": "2"
+    },
+    {
+      "ticker": "XLE",
+      "catalyst": "Energy rotation; WTI +0.88%; Mideast supply risk real asset bid",
+      "premarket_action": "Oil strength; energy sector bid; watch vol expansion into 2PM close",
+      "support": "$95\u201397",
+      "resistance": "$101\u2013104",
+      "pattern": "Above $100 = trend confirmation; hold support $95 = sector turn signal",
+      "priority": "3"
+    },
+    {
+      "ticker": "CHWY",
+      "catalyst": "Earnings today; e-commerce consumer health signal",
+      "premarket_action": "Elevated vol expected; watch premarket tape post-open for flow",
+      "support": "$43\u201345",
+      "resistance": "$49\u201351",
+      "pattern": "Earnings breakout risk; vol expansion pre-close likely",
+      "priority": "4"
+    },
+    {
+      "ticker": "ORCL",
+      "catalyst": "Post-earnings follow-through; cloud cycle momentum check",
+      "premarket_action": "Already reported; watch institutional follow-through buying",
+      "support": "$170\u2013173",
+      "resistance": "$180\u2013183",
+      "pattern": "Consolidation zone $175\u2013178; breakout above $180 = new leg",
+      "priority": "5"
+    },
+    {
+      "ticker": "IYZ",
+      "catalyst": "Infrastructure rotation; reshoring capex cycle structural",
+      "premarket_action": "Bid intact on sector rotation; watch institutional block trades",
+      "support": "$130\u2013132",
+      "resistance": "$137\u2013140",
+      "pattern": "Above $135 = confirm break; hold $130 = support integrity",
+      "priority": "6"
+    },
+    {
+      "ticker": "XLB",
+      "catalyst": "Materials rotation; commodities cycle + inflation bid",
+      "premarket_action": "Sector rotation favor real assets; watch institutional flow",
+      "support": "$115\u2013117",
+      "resistance": "$121\u2013124",
+      "pattern": "Above $120 = trend confirm; hold support $115 = sector hold signal",
+      "priority": "7"
+    },
+    {
+      "ticker": "RRGB",
+      "catalyst": "High-volume earnings calendar name; watch for flow",
+      "premarket_action": "Elevated premarket vol; small-cap speculative bid likely",
+      "support": "Unknown; establish first before trade",
+      "resistance": "Unknown; establish first before trade",
+      "pattern": "High vol = caution; small-cap risk; wait for 10:30 AM volume confirm",
+      "priority": "8"
+    },
+    {
+      "ticker": "GLBS",
+      "catalyst": "Earnings today; small-cap earnings vol driver",
+      "premarket_action": "On earnings slate; watch premarket tape post-open",
+      "support": "Unknown; establish baseline support first",
+      "resistance": "Unknown; establish baseline resistance first",
+      "pattern": "Earnings breakout risk; vol expansion expected; high speculative risk",
+      "priority": "9"
+    },
+    {
+      "ticker": "ACB",
+      "catalyst": "Thursday earnings; small-cap volatile profile",
+      "premarket_action": "On earnings slate; watch for early-vol accumulation",
+      "support": "Unknown; baseline needed",
+      "resistance": "Unknown; baseline needed",
+      "pattern": "Small-cap earnings = high vol; caution; wait for price discovery 10:30 AM",
+      "priority": "10"
+    }
+  ],
+  "position_actions": [
+    {
+      "action": "BUY",
+      "ticker": "XLI",
+      "reasoning": "Sector rotation favor industrials/reshoring; IWM +1.5% lead confirms; entry support $285\u2013288; target $295\u2013298"
+    },
+    {
+      "action": "BUY",
+      "ticker": "XLE",
+      "reasoning": "Oil +0.88% WTI $90.82; Mideast supply risk; real-asset rotation; entry support $95\u201397; target $102\u2013105"
+    },
+    {
+      "action": "BUY",
+      "ticker": "IYZ",
+      "reasoning": "Infrastructure rotation; reshoring capex structural bid; entry support $130\u2013132; target $138\u2013142"
+    },
+    {
+      "action": "HOLD",
+      "ticker": "SPY",
+      "reasoning": "Regime neutral; bias fade tech strength into growth earnings; hold 50% core; trim growth on pop 2\u20133%"
+    },
+    {
+      "action": "HOLD",
+      "ticker": "QQQ",
+      "reasoning": "Up +1.18% but vulnerable to growth fade; ADBE earnings tonight risk; trim 2\u20133% if reach $710; hold 30%"
+    },
+    {
+      "action": "WATCH",
+      "ticker": "ADBE",
+      "reasoning": "Earnings after close; post-earnings dip entry $640\u2013650 preferred; high vol expected; avoid buy strength"
+    },
+    {
+      "action": "HEDGE",
+      "ticker": "XLK",
+      "reasoning": "Tech sector rotation headwind; up +1.33% but lagging QQQ; trim 2\u20133% on next +2% move; watch rotation fade"
+    }
+  ],
+  "wheel_book": [
+    {
+      "ticker": "XLI",
+      "sector": "Industrials",
+      "iv_rank_est": "Medium (50\u201360%)",
+      "delta": "-0.30",
+      "dte": "45",
+      "strike_zone": "$280 put / $300 call (30\u201345 DTE); target 0.30 delta sell",
+      "assignment_risk": "Med",
+      "priority": "Sell $280 puts 45 DTE; target 0.30 delta; roll if assigned; capture sector bid premium"
+    },
+    {
+      "ticker": "XLE",
+      "sector": "Energy",
+      "iv_rank_est": "High (65\u201375%)",
+      "delta": "-0.35",
+      "dte": "30",
+      "strike_zone": "$92 put / $105 call (30 DTE); target 0.35 delta sell",
+      "assignment_risk": "Med",
+      "priority": "Sell $92 puts 30 DTE; high IV = premium juicy; roll if assigned; oil vol elevated"
+    },
+    {
+      "ticker": "IYZ",
+      "sector": "Telecom/Utilities",
+      "iv_rank_est": "Medium (45\u201355%)",
+      "delta": "-0.25",
+      "dte": "45",
+      "strike_zone": "$130 put / $140 call (45 DTE); target 0.25 delta sell",
+      "assignment_risk": "Low",
+      "priority": "Sell $130 puts 45 DTE; collect premium; low assignment risk; infrastructure tailwind"
+    },
+    {
+      "ticker": "XLB",
+      "sector": "Materials",
+      "iv_rank_est": "Medium (55\u201365%)",
+      "delta": "-0.30",
+      "dte": "30",
+      "strike_zone": "$115 put / $125 call (30 DTE); target 0.30 delta sell",
+      "assignment_risk": "Med",
+      "priority": "Sell $115 puts 30 DTE; material cycle bid strong; roll if assigned; capture commodity premium"
+    },
+    {
+      "ticker": "XLU",
+      "sector": "Utilities",
+      "iv_rank_est": "Low (35\u201345%)",
+      "delta": "-0.20",
+      "dte": "60",
+      "strike_zone": "$85 put / $92 call (60 DTE); target 0.20 delta sell",
+      "assignment_risk": "Low",
+      "priority": "Sell $85 puts 60 DTE; defensive yield play; low IV but steady premium; capital preservation"
+    }
+  ],
+  "risk_alerts": [
+    "ADBE earnings after close = vol spike risk; tech growth fade ongoing; position size caution",
+    "VIX data unavailable; assume 16\u201318 regime but VERIFY premarket; sudden regime shift possible if inflation prints worse",
+    "Oil volatility elevated (WTI +0.88%, Brent -1.40% divergence) = supply/geopolitical risk; Mideast tension real",
+    "Sector rotation favor real assets; growth underweight bias = tech/QQQ fade risk; trim QQQ strength into earnings",
+    "Small-cap vol high (IWM +1.5%); earnings slate heavy (ADBE, CHWY, ORCL, GLBS, ACB, NNOX); expect post-close vol spike",
+    "Portfolio risk-off trigger at -6%; current regime neutral = hold 50/50 cyclical/defensive; no margin; no naked options"
+  ],
+  "cio_verdict": {
+    "risk_posture": "Neutral",
+    "capital_flow": "Deploy 40\u201350% into XLI/XLE/IYZ/XLB on support dips; hold 20\u201330% SPY core; reserve 20\u201330% cash for earnings vol spikes; wheel 30% capital XLE puts, XLI puts (high premium environment)",
+    "avoid": "Tech strength fade risk (XLK up but lagging); avoid ADBE buy into earnings; skip small-cap speculative (RRGB, GLBS, ACB) until volume/price confirm; no naked puts; no margin; stay defensive on growth tech until ADBE earnings pass"
+  }
+}
