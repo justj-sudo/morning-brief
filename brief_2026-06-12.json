@@ -1,0 +1,296 @@
+{
+  "date": "2026-06-12",
+  "generated_at": "Friday, June 12, 2026 \u2014 10:41 AM ET",
+  "regime": "Risk-On",
+  "cio_summary": [
+    "Geopolitical risk-off after Iran peace deal signal; equities bid on softer oil (-2% WTI)",
+    "Tech/AI led overnight; rotation signals toward industrials, infrastructure, materials gaining",
+    "Small-cap breadth strong (IWM +1.35%); earnings tape active (ADBE, ABNB, ORCL, CHWY today)",
+    "VIX regime unclear from data; assume 12-15 (complacent); monitor for any Iran headlines reversal",
+    "Capital flow: buy dips in quality names; avoid unprofitable growth crowded trades"
+  ],
+  "macro_dashboard": {
+    "spy_trend": "Up +0.33%; above 7,400 on futures; intraday support 7,380-7,390",
+    "qqq_trend": "Up +0.24%; lagging SPY; growth consolidating after AI rally",
+    "iwm_trend": "Up +1.35%; outperforming on value/reshoring rotation; small-cap strength",
+    "vix": "Estimated 12-14 (not live quoted); complacency regime",
+    "vix_regime": "Complacent <15; risk-on posture intact; watch for Iran escalation",
+    "yield_10y": "Not live quoted; assume ~4.0-4.1% (stable overnight)",
+    "dollar_trend": "Yen weaker (USD/JPY 160.30); EUR/USD 1.1568; DXY neutral",
+    "oil_trend": "WTI -1.97% to $85.98; Brent -0.85% to $88.37; geopolitical relief",
+    "crypto_sentiment": "Not quoted; assume neutral to mild risk-on",
+    "tactical_bias": "Buy Dips on quality; fade unprofitable growth; favor value/materials/infrastructure"
+  },
+  "institutional_setups": [
+    {
+      "ticker": "IWM",
+      "catalyst": "Small-cap rotation out of mega-cap AI; inflation/rate stability",
+      "setup": "IWM broke above 200-DMA on breadth; small-cap outperformance intact",
+      "entry": "Dip to 290-292 or add on hold above 294",
+      "stop": "288 (break 200-DMA)",
+      "target": "305-310 (structural rotation target)",
+      "conviction": "High"
+    },
+    {
+      "ticker": "XLI",
+      "catalyst": "Infrastructure bill tailwinds; industrial reshoring narrative",
+      "setup": "Breakout on sector rotation from growth; institutional accumulation signal",
+      "entry": "Watch for dip into daily support; add on strength above 215",
+      "stop": "209 (20-DMA)",
+      "target": "228-235 (6-month swing target)",
+      "conviction": "High"
+    },
+    {
+      "ticker": "XLM",
+      "catalyst": "Materials bid on reshoring/capex cycle; WTI resilient above 85",
+      "setup": "Rotating into favor; lower correlation to rate fears",
+      "entry": "Add on dips to 105-107; scale in if WTI holds 84-86",
+      "stop": "101 (200-DMA)",
+      "target": "118-125 (3-month target)",
+      "conviction": "High"
+    },
+    {
+      "ticker": "ADBE",
+      "catalyst": "Q2 earnings today; AI/Firefly adoption narrative; margin beats key",
+      "setup": "Pre-earnings setup; high IV=premium decay; wheel/covered call opportunity",
+      "entry": "If post-earnings dip below 165; covered call at 170-172 strikes",
+      "stop": "158 (recent support)",
+      "target": "172-175 post-earnings if beats",
+      "conviction": "Med"
+    },
+    {
+      "ticker": "ABNB",
+      "catalyst": "Q2 earnings today; post-pandemic travel strength; macro resilience test",
+      "setup": "High-beta discretionary; IV expansion on earnings",
+      "entry": "Dip to 272-275 on earnings sell-off; add if travel thesis intact",
+      "stop": "265 (trend support)",
+      "target": "295-305 (swing target post-earnings)",
+      "conviction": "Med"
+    },
+    {
+      "ticker": "ORCL",
+      "catalyst": "Q4 earnings today; capex narrative (caused recent weakness); guidance key",
+      "setup": "Sold off on capex miss; valuation reset opportunity if guidance reassures",
+      "entry": "Dip to 185-188 post-earnings; accumulate if cloud growth reaccelerates",
+      "stop": "180 (trend break)",
+      "target": "200-205 (3-month target)",
+      "conviction": "Med"
+    },
+    {
+      "ticker": "CHWY",
+      "catalyst": "Q1 earnings today; pet care sector momentum; guidance on subscriber growth",
+      "setup": "Small-cap earnings; high options sensitivity; vol crush play post-event",
+      "entry": "Covered call at 27-28 strikes if holding; buy dip to 22-23 if beats",
+      "stop": "20.50 (trend support)",
+      "target": "30-32 (6-week target)",
+      "conviction": "Med"
+    },
+    {
+      "ticker": "XLE",
+      "catalyst": "Oil bid on geopolitical relief; WTI stabilization above 85",
+      "setup": "Sector lagging on news; mean reversion setup; low beta risk-off hedge",
+      "entry": "Add on dip to 88-90; scale into weakness",
+      "stop": "84 (break key support)",
+      "target": "98-102 (6-week target; capture reshoring tailwind)",
+      "conviction": "Med"
+    }
+  ],
+  "watchlist": [
+    {
+      "ticker": "PLCE",
+      "catalyst": "Earnings today; large premarket volume (80M+); retail sentiment",
+      "premarket_action": "Very high volume; watch post-earnings for catalyst reaction",
+      "support": "24.50",
+      "resistance": "28.00",
+      "pattern": "Earnings gap play; vol expansion expected",
+      "priority": "1"
+    },
+    {
+      "ticker": "FOSL",
+      "catalyst": "Large premarket volume (80M+); luxury/apparel sector signal",
+      "premarket_action": "Elevated volume; monitor for catalysts or dark pool accumulation",
+      "support": "38.00",
+      "resistance": "42.50",
+      "pattern": "Breakout candidate if earnings/news catalyst",
+      "priority": "2"
+    },
+    {
+      "ticker": "UFI",
+      "catalyst": "Premarket volume spike; textile/industrial play on reshoring theme",
+      "premarket_action": "Strong volume; potential rotation candidate",
+      "support": "18.00",
+      "resistance": "21.50",
+      "pattern": "Momentum breakout setup",
+      "priority": "3"
+    },
+    {
+      "ticker": "VXRT",
+      "catalyst": "Biotech; earnings/trial sentiment; elevated premarket activity",
+      "premarket_action": "Biotech vol expansion; watch for news catalyst",
+      "support": "1.85",
+      "resistance": "2.35",
+      "pattern": "Speculative biotech swing; high risk",
+      "priority": "4"
+    },
+    {
+      "ticker": "ORMP",
+      "catalyst": "Biotech; elevated premarket volume; lower float=sharper moves",
+      "premarket_action": "Vol spike; pharmaceutical/diabetes focus",
+      "support": "2.10",
+      "resistance": "2.85",
+      "pattern": "Small-cap momentum breakout candidate",
+      "priority": "5"
+    },
+    {
+      "ticker": "AUGG",
+      "catalyst": "Gold/mining play; extreme premarket volume; commodity inflation hedge",
+      "premarket_action": "Exceptional volume (100M+); speculative narrative trade",
+      "support": "0.65",
+      "resistance": "0.95",
+      "pattern": "Penny stock momentum; high risk/reward",
+      "priority": "6"
+    },
+    {
+      "ticker": "XLK",
+      "catalyst": "Tech consolidation; sector strength +0.5% today; earnings clarity coming",
+      "premarket_action": "Sector performing; watch for week-end profit-taking",
+      "support": "182.00",
+      "resistance": "186.50",
+      "pattern": "Healthy consolidation after AI run",
+      "priority": "7"
+    },
+    {
+      "ticker": "SPY",
+      "catalyst": "Geopolitical risk-off; breadth strong; dip-buying bias intact",
+      "premarket_action": "Up +0.33%; intraday support 7,380-7,390 on futures",
+      "support": "735.00",
+      "resistance": "745.00",
+      "pattern": "Structural uptrend; buy dips above 200-DMA",
+      "priority": "8"
+    },
+    {
+      "ticker": "QQQ",
+      "catalyst": "Lagging SPY; growth consolidation; watch for capitulation on dips",
+      "premarket_action": "Up +0.24%; underperforming small-cap rotation",
+      "support": "710.00",
+      "resistance": "725.00",
+      "pattern": "Consolidation; wait for breakout on clarity",
+      "priority": "9"
+    },
+    {
+      "ticker": "IOBT",
+      "catalyst": "Biotech; premarket volume elevation; clinical/financing catalyst possible",
+      "premarket_action": "Elevated volume; immunotherapy focus",
+      "support": "1.50",
+      "resistance": "2.10",
+      "pattern": "Speculative biotech; event-driven",
+      "priority": "10"
+    }
+  ],
+  "position_actions": [
+    {
+      "action": "BUY",
+      "ticker": "IWM",
+      "reasoning": "Small-cap outperformance on reshoring/inflation narrative; 1-2% risk position (target 305-310)"
+    },
+    {
+      "action": "ADD",
+      "ticker": "XLI",
+      "reasoning": "Infrastructure rotation confirmed; dip-buy setup into 215 support"
+    },
+    {
+      "action": "ADD",
+      "ticker": "XLM",
+      "reasoning": "Materials rotation accelerating; buy dips 105-107; hedge against growth unwind"
+    },
+    {
+      "action": "HOLD",
+      "ticker": "SPY",
+      "reasoning": "Risk-on regime intact; geopolitical relief bid supports; trim on +8% move above current levels"
+    },
+    {
+      "action": "TRIM",
+      "ticker": "QQQ",
+      "reasoning": "Lagging SPY; growth consolidating; reduce if position >5% of portfolio"
+    },
+    {
+      "action": "HEDGE",
+      "ticker": "ORCL",
+      "reasoning": "Pre-earnings; consider 1-2% position or covered call sell at 200 strike (30 DTE)"
+    },
+    {
+      "action": "WATCH",
+      "ticker": "ADBE",
+      "reasoning": "Post-earnings event risk high; set alerts for dips to 165 or strength to 172+"
+    },
+    {
+      "action": "EXIT",
+      "ticker": "Any unprofitable growth >10% gain",
+      "reasoning": "CIO rule: trim 2.5% for every +8% move; rotation away from high-growth/low-cash-flow stocks"
+    }
+  ],
+  "wheel_book": [
+    {
+      "ticker": "CHWY",
+      "sector": "Consumer Discretionary",
+      "iv_rank_est": "72-75%",
+      "delta": "-0.30 call",
+      "dte": "35-45",
+      "strike_zone": "27-28 (4-6% OTM)",
+      "assignment_risk": "Med",
+      "priority": "Sell 27 call; if assigned, rebuy 24-25 support; wheel income $80-120 per share"
+    },
+    {
+      "ticker": "ORCL",
+      "sector": "Software/Cloud",
+      "iv_rank_est": "68-70%",
+      "delta": "-0.25 call",
+      "dte": "30-40",
+      "strike_zone": "200-205 (post-earnings IV crush)",
+      "assignment_risk": "Med",
+      "priority": "Post-earnings covered call setup; sell 200 call if earnings neutral/beat"
+    },
+    {
+      "ticker": "ADBE",
+      "sector": "Software",
+      "iv_rank_est": "75-78%",
+      "delta": "-0.30 call",
+      "dte": "21-35",
+      "strike_zone": "170-172 (pre/post earnings)",
+      "assignment_risk": "High",
+      "priority": "High IV=premium; sell calls into earnings; rebuy dips to 160-165"
+    },
+    {
+      "ticker": "XLI",
+      "sector": "Industrials ETF",
+      "iv_rank_est": "55-60%",
+      "delta": "-0.25 call",
+      "dte": "45-60",
+      "strike_zone": "220-225 (rotation play; 3-5% OTM)",
+      "assignment_risk": "Low",
+      "priority": "Sell covered calls monthly; low assignment risk; steady income"
+    },
+    {
+      "ticker": "XLM",
+      "sector": "Materials ETF",
+      "iv_rank_est": "58-62%",
+      "delta": "-0.28 call",
+      "dte": "35-45",
+      "strike_zone": "115-118 (mid rotation)",
+      "assignment_risk": "Low",
+      "priority": "Covered call sales on strength; reassign/rebuy on dips to 107-110"
+    }
+  ],
+  "risk_alerts": [
+    "Iran geopolitical risk-off priced in; watch for escalation headlines that could reverse market",
+    "VIX regime appears complacent (<15); portfolio risk-off trigger at -6% draw from highs; monitor entry level",
+    "Earnings tape heavy today (ADBE, ABNB, ORCL, CHWY); IV crush post-results can whipsaw wheels",
+    "Small-cap outperformance (IWM +1.35%) may signal reversion trade or rate regime shift; confirm on breadth",
+    "Unprofitable growth crowded; avoid adding to high-multiple, zero-cash-flow names; rotation is real"
+  ],
+  "cio_verdict": {
+    "risk_posture": "Aggressive (risk-on regime; geopolitical tailwind; sector rotation tailwind)",
+    "capital_flow": "Allocate 40-50% to: IWM 2%, XLI 2%, XLM 2%, ADBE/ABNB/ORCL 1-2% each post-earnings. Reserve 30% dry powder for dips into support. Wheel 20-25% on CHWY, ORCL, ADBE calls for income.",
+    "avoid": "Unprofitable mega-cap growth; narrow AI theme crowding; pre-earnings mega-cap bets (wait for IV crush post-event); penny biotech >priority 6 unless speculative allocation (max 1%)."
+  }
+}
