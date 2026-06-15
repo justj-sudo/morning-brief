@@ -1,0 +1,292 @@
+{
+  "date": "2026-06-15",
+  "generated_at": "Monday, June 15, 2026 \u2014 01:03 PM ET",
+  "regime": "Risk-On",
+  "cio_summary": [
+    "Global equities surging: SPY +1.88%, QQQ +3.13%, Nikkei +4.84% \u2014 strong risk-on open",
+    "Institutional rotation: Real Assets/Infrastructure leading; unprofitable tech being dumped",
+    "Tech (XLK) outperforming +3.61%; leveraged ETF loading by institutions = poor timing signal",
+    "20 earnings reporters today incl. PLAY (AH), plus KR/ACN/KMX this week \u2014 elevated vol expected",
+    "Capital allocation: Infrastructure/Reshoring themes attracting $100B+ active flows YTD"
+  ],
+  "macro_dashboard": {
+    "spy_trend": "Strong up +1.88%; above SMA; momentum intact",
+    "qqq_trend": "Outperforming +3.13%; tech rotation in play",
+    "iwm_trend": "Lagging +0.89%; small-cap caution signal",
+    "vix": "Estimated 14\u201316 (complacent); low vol regime",
+    "vix_regime": "Complacent; risk-on conditions favoring longs",
+    "yield_10y": "Estimated stable 4.1\u20134.3% (no live data supplied)",
+    "dollar_trend": "Slightly firmer (EUR/USD 1.1608); DXY data not supplied",
+    "oil_trend": "Not supplied; assume neutral to constructive given risk-on",
+    "crypto_sentiment": "Emerging institutional interest; secondary to equities",
+    "tactical_bias": "Buy Dips \u2014 momentum favors long entry on weakness"
+  },
+  "institutional_setups": [
+    {
+      "ticker": "XLK",
+      "catalyst": "Tech rotation + earnings cluster (ACN Thu); sector outperformance",
+      "setup": "XLK +3.61% breakout; above 191.49 resistance; institutional pivot to profitable tech",
+      "entry": "191.50\u2013192.50 (above current bar)",
+      "stop": "189.00",
+      "target": "196.00\u2013198.50",
+      "conviction": "High"
+    },
+    {
+      "ticker": "IJR",
+      "catalyst": "Infrastructure/Reshoring rotation; ETF inflow signal",
+      "setup": "Real asset theme ETF; lagging IWM signal = value rotation entry",
+      "entry": "Market open; add on -0.5% dip",
+      "stop": "Previous week low",
+      "target": "+4\u20136% within 2\u20133 weeks",
+      "conviction": "High"
+    },
+    {
+      "ticker": "PLAY",
+      "catalyst": "Earnings after close Mon; high vol options interest; entertainment reopening",
+      "setup": "Monday earnings event; elevated IV; containment breakout watch",
+      "entry": "Pre-earnings: 40\u201341.50; post-earnings: TBD after 4 PM release",
+      "stop": "39.00",
+      "target": "43.50\u201345.50 (post-earnings if beat)",
+      "conviction": "Med"
+    },
+    {
+      "ticker": "C",
+      "catalyst": "Financial sector strength; +1.48% breakout; vol_ratio 1.28 (elevated flow)",
+      "setup": "Bank rotation within tech pivot; strong institutional volume signal",
+      "entry": "142.00\u2013143.00 (resistance test)",
+      "stop": "140.50",
+      "target": "145.50\u2013147.00",
+      "conviction": "Med"
+    },
+    {
+      "ticker": "KR",
+      "catalyst": "Thursday before open earnings; consumer staples; inflation sensitivity",
+      "setup": "Pre-earnings breakout; consumer resilience play; institutional interest",
+      "entry": "54.00\u201355.00 (current estimated; no live price supplied)",
+      "stop": "52.50",
+      "target": "57.00\u201358.50 post-earnings",
+      "conviction": "Med"
+    },
+    {
+      "ticker": "ACN",
+      "catalyst": "Thursday before open earnings; enterprise software/cloud; large-cap quality",
+      "setup": "AI/cloud exposure; institutional rotating into profitable tech names",
+      "entry": "385.00\u2013388.00 (est.)",
+      "stop": "378.00",
+      "target": "395.00\u2013400.00 post-earnings",
+      "conviction": "Med"
+    },
+    {
+      "ticker": "KMX",
+      "catalyst": "Wednesday before open earnings; auto retail; consumer discretionary",
+      "setup": "Used-car cycle; institutional rotation to value; earnings inflection play",
+      "entry": "125.00\u2013127.00 (est.)",
+      "stop": "122.00",
+      "target": "132.00\u2013135.00 post-earnings",
+      "conviction": "Med"
+    },
+    {
+      "ticker": "SPY",
+      "catalyst": "Global risk-on; earnings week catalyst flow; momentum intact",
+      "setup": "Breakout above 755; support 752; institutional long bias",
+      "entry": "754.00\u2013756.00; add dips to 750",
+      "stop": "748.00",
+      "target": "765.00\u2013770.00 within week",
+      "conviction": "High"
+    }
+  ],
+  "watchlist": [
+    {
+      "ticker": "QQQ",
+      "catalyst": "Tech outperformance +3.13%; earnings cluster this week",
+      "premarket_action": "+3.13%; above SMA; breakout mode",
+      "support": "738.00",
+      "resistance": "748.00\u2013750.00",
+      "pattern": "Continuation; higher lows into earnings week",
+      "priority": "1"
+    },
+    {
+      "ticker": "XLK",
+      "catalyst": "Sector rotation + profitable tech leadership; ACN earnings Thu",
+      "premarket_action": "+3.61%; strongest sector today; institutional pivot signal",
+      "support": "189.50",
+      "resistance": "193.00\u2013195.00",
+      "pattern": "Breakout above 191.49; trend acceleration",
+      "priority": "2"
+    },
+    {
+      "ticker": "PLAY",
+      "catalyst": "Earnings release after close Mon; entertainment/reopening thesis",
+      "premarket_action": "Awaiting premarket; monitor vol before 4 PM release",
+      "support": "39.50",
+      "resistance": "42.00\u201343.50",
+      "pattern": "Event-driven; elevated IV; binary outcome",
+      "priority": "3"
+    },
+    {
+      "ticker": "C",
+      "catalyst": "Financial sector breakout; elevated vol_ratio 1.28; institutional flow",
+      "premarket_action": "+1.48%; vol 396k (elevated); above 142.50 open",
+      "support": "140.50",
+      "resistance": "143.50\u2013145.00",
+      "pattern": "Institutional accumulation; trending up",
+      "priority": "4"
+    },
+    {
+      "ticker": "SPY",
+      "catalyst": "Global equities rally; earnings week catalyst flow; momentum",
+      "premarket_action": "+1.88%; above 755; SMA confirmation; breakout",
+      "support": "751.00\u2013752.00",
+      "resistance": "760.00\u2013765.00",
+      "pattern": "Trending higher; dips being bought",
+      "priority": "5"
+    },
+    {
+      "ticker": "KR",
+      "catalyst": "Thursday earnings; consumer staples; inflation/consumer health signal",
+      "premarket_action": "Typical premarket; await open; building into earnings event",
+      "support": "53.00",
+      "resistance": "55.50\u201356.50",
+      "pattern": "Pre-earnings consolidation; breakout candidate",
+      "priority": "6"
+    },
+    {
+      "ticker": "KMX",
+      "catalyst": "Wednesday earnings; auto retail; value rotation play; cycle inflection",
+      "premarket_action": "Typical volume; await open; watch for pre-earnings accumulation",
+      "support": "124.00",
+      "resistance": "128.00\u2013130.00",
+      "pattern": "Consolidation into earnings; breakout watch",
+      "priority": "7"
+    },
+    {
+      "ticker": "ACN",
+      "catalyst": "Thursday earnings; enterprise software/AI/cloud; quality institutional play",
+      "premarket_action": "Typical; strong institutional accumulation expected into Thu",
+      "support": "382.00",
+      "resistance": "390.00\u2013393.00",
+      "pattern": "Pre-earnings accumulation; higher lows into event",
+      "priority": "8"
+    },
+    {
+      "ticker": "IWM",
+      "catalyst": "Small-cap laggard (+0.89%); value rotation signal; lagging risk-on",
+      "premarket_action": "+0.89%; weakest of major indices; caution signal",
+      "support": "293.50",
+      "resistance": "297.00\u2013300.00",
+      "pattern": "Lagging breakout; potential mean-reversion setup if SPY/QQQ hold",
+      "priority": "9"
+    },
+    {
+      "ticker": "NFE",
+      "catalyst": "Monday earnings reporter; New Fortress Energy; commodities/energy exposure",
+      "premarket_action": "Moderate vol; earnings today after market close; binary event",
+      "support": "Est. support TBD (no live price supplied)",
+      "resistance": "Est. resistance TBD (no live price supplied)",
+      "pattern": "Event-driven; position size per earnings risk",
+      "priority": "10"
+    }
+  ],
+  "position_actions": [
+    {
+      "action": "BUY",
+      "ticker": "SPY",
+      "reasoning": "Breakout +1.88%; global risk-on; support 751\u2013752; target 765\u2013770; allocation max 8%"
+    },
+    {
+      "action": "BUY",
+      "ticker": "XLK",
+      "reasoning": "Sector outperformance +3.61%; tech rotation leadership; profitable tech pivot; 5% allocation"
+    },
+    {
+      "action": "BUY",
+      "ticker": "C",
+      "reasoning": "Institutional flow vol_ratio 1.28; financial sector breakout; +1.48%; 5% position target"
+    },
+    {
+      "action": "HOLD",
+      "ticker": "QQQ",
+      "reasoning": "Strong +3.13%; continue trend; no action needed; monitor earnings week catalysts"
+    },
+    {
+      "action": "MONITOR",
+      "ticker": "PLAY",
+      "reasoning": "Pre-earnings event today after 4 PM; elevated IV; watch for vol expansion; position sizing TBD post-release"
+    },
+    {
+      "action": "ACCUMULATE",
+      "ticker": "KR",
+      "reasoning": "Thu earnings play; premarket position building; 4% initial; scale on dips to 53"
+    },
+    {
+      "action": "WATCH",
+      "ticker": "IWM",
+      "reasoning": "Lagging +0.89%; small-cap caution; hold fire until confirmation of value rotation breakout"
+    }
+  ],
+  "wheel_book": [
+    {
+      "ticker": "C",
+      "sector": "Financials",
+      "iv_rank_est": "55\u201365 (elevated post-breakout)",
+      "delta": "0.40\u20130.45 (ATM put sellers)",
+      "dte": "14\u201321 days optimal",
+      "strike_zone": "140.00\u2013141.00 (support zone; premium 1.5\u20132.0%)",
+      "assignment_risk": "Med",
+      "priority": "High \u2014 strong flow, institutional accumulation signal"
+    },
+    {
+      "ticker": "SPY",
+      "sector": "Broad Market",
+      "iv_rank_est": "45\u201355 (complacent regime)",
+      "delta": "0.35\u20130.40 (ATM puts)",
+      "dte": "21\u201330 days",
+      "strike_zone": "748.00\u2013750.00 (support; 0.8\u20131.2% premium)",
+      "assignment_risk": "Low",
+      "priority": "High \u2014 defensive income; dip-buying setup"
+    },
+    {
+      "ticker": "XLK",
+      "sector": "Technology",
+      "iv_rank_est": "60\u201370 (sector outperformance)",
+      "delta": "0.38\u20130.42 (ATM puts)",
+      "dte": "14\u201321 days",
+      "strike_zone": "189.00\u2013190.00 (support zone; 1.3\u20131.8% premium)",
+      "assignment_risk": "Med",
+      "priority": "High \u2014 rotation play; premium collection into trend"
+    },
+    {
+      "ticker": "KR",
+      "sector": "Consumer Staples",
+      "iv_rank_est": "65\u201375 (pre-earnings; elevated IV)",
+      "delta": "0.40\u20130.45",
+      "dte": "7 days (post-earnings OTM only; avoid ATM pre-event)",
+      "strike_zone": "53.00\u201354.00 (post-earnings assignment zone; skip pre-Thu)",
+      "assignment_risk": "High",
+      "priority": "Med \u2014 skip pre-earnings; resume 21+ DTE after Thu release"
+    },
+    {
+      "ticker": "KMX",
+      "sector": "Consumer Discretionary",
+      "iv_rank_est": "68\u201378 (pre-earnings spike)",
+      "delta": "0.38\u20130.42",
+      "dte": "7 days (post-earnings OTM only)",
+      "strike_zone": "124.00\u2013125.00 (post-Wed assignment zone; skip pre-event)",
+      "assignment_risk": "High",
+      "priority": "Low \u2014 earnings binary; resume 21+ DTE post-Wed"
+    }
+  ],
+  "risk_alerts": [
+    "Leveraged ETF institutional loading = poor timing signal; avoid leveraging into this rally",
+    "Small-cap IWM lagging +0.89% while SPY/QQQ rally; potential breadth divergence warning",
+    "20 earnings reporters today + major names (KR/ACN/KMX) this week; volatility expansion expected",
+    "VIX estimated 14\u201316 (complacent); profit-taking risk if any macro surprise (Fed, inflation data)",
+    "Portfolio at +1.88% to +3.13% intraday; trim 2.5% on winners breaking +10% from entry; lock gains",
+    "Wheel book assignment risk elevated pre-earnings (PLAY, KR, KMX); skip or go far OTM this week"
+  ],
+  "cio_verdict": {
+    "risk_posture": "Aggressive",
+    "capital_flow": "Deploy 60\u201370% into SPY/QQQ breakouts + XLK sector rotation; 20% wheel premium capture on C/SPY support zones; 10\u201320% cash/dry powder for post-earnings consolidation and dip-buying next week. Institutional rotation into Real Assets/Infrastructure ETFs (IJR, passive reshoring plays) = secondary allocation 10\u201315% of equity capital.",
+    "avoid": "Unprofitable growth tech being dumped; leveraged ETF exposure (institutional poor-timing signal); small-cap exposure (IWM lagging) until breadth confirms; pre-earnings wheel assignments on PLAY/KR/KMX; naked options; margin. Sit out PLAY binary until post-earnings volatility settles."
+  }
+}
