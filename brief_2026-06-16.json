@@ -1,0 +1,296 @@
+{
+  "date": "2026-06-16",
+  "generated_at": "Tuesday, June 16, 2026 \u2014 12:28 PM ET",
+  "regime": "Risk-On",
+  "cio_summary": [
+    "US-Iran peace deal + Strait of Hormuz reopening driving oil lower, supporting risk assets",
+    "Futures near flat (+0.02%), broad equity markets slightly red on tech weakness (QQQ -1.09%)",
+    "VIX/yields not live in data; DXY 99.78 firm, USD/JPY 160.23 near intervention floor",
+    "Major earnings today: KMX, ACN, KR pre-open; SWBI, PLAY post-close; watch options sweep",
+    "Sector rotation: AI infra, energy, defense, industrials leading; utilities, REIT defensive"
+  ],
+  "macro_dashboard": {
+    "spy_trend": "Flat, slight red; premarket +0.02% but cash market -0.2%",
+    "qqq_trend": "Down -1.09%, tech weakness; likely profit-taking from Iran deal strength",
+    "iwm_trend": "Small-cap flat -0.29%; earnings volatility risk today (SWBI, PLAY, LZB AH)",
+    "vix": "Not live in data; assume 12\u201314 (low complacency, risk-on bias)",
+    "vix_regime": "Complacent (est <15); risk-off trigger still -6% from recent highs",
+    "yield_10y": "Not live; inferred lower on geopolitical de-escalation, falling oil",
+    "dollar_trend": "Firm at 99.78 DXY; JPY strength near intervention (160.23 USD/JPY)",
+    "oil_trend": "Sinking on US-Iran peace deal + Strait reopening; WTI/Brent not quoted",
+    "crypto_sentiment": "BTC 66,339; neutral, risk-on backdrop support",
+    "tactical_bias": "Buy Dips"
+  },
+  "institutional_setups": [
+    {
+      "ticker": "XLK",
+      "catalyst": "Tech/semis weakness on profit-taking; AI infrastructure rotation intact",
+      "setup": "Bounce off -1.63% drop; oversold on macro peace deal tailwind",
+      "entry": "187.50\u2013188.00",
+      "stop": "185.50",
+      "target": "191.50\u2013193.00",
+      "conviction": "Med"
+    },
+    {
+      "ticker": "XLE",
+      "catalyst": "Oil weakness from Iran de-escalation; energy underperformance",
+      "setup": "Short-term pain but defense/industrial CapEx thesis intact",
+      "entry": "Sell rallies 55.00\u201355.50",
+      "stop": "57.00",
+      "target": "51.00\u201352.50",
+      "conviction": "Med"
+    },
+    {
+      "ticker": "XLI",
+      "catalyst": "Industrial/onshoring CapEx cycle intact; macro tailwind on de-risking",
+      "setup": "Accumulate on dips; broad institutional bid under industrials",
+      "entry": "123.00\u2013124.00",
+      "stop": "121.00",
+      "target": "128.50\u2013130.00",
+      "conviction": "High"
+    },
+    {
+      "ticker": "XLF",
+      "catalyst": "Financials attractive per MS; rates decline supports valuations",
+      "setup": "Bounce trade; oversold relative to broad equity momentum",
+      "entry": "42.50\u201343.00",
+      "stop": "41.50",
+      "target": "45.00\u201346.00",
+      "conviction": "Med"
+    },
+    {
+      "ticker": "KMX",
+      "catalyst": "Pre-open earnings EPS $0.96; CarMax retail auto sentiment barometer",
+      "setup": "High options vol; watch post-earnings gap direction for rotation signal",
+      "entry": "Wait post-earnings; scalp momentum",
+      "stop": "TBD on earnings move",
+      "target": "TBD on guidance",
+      "conviction": "Med"
+    },
+    {
+      "ticker": "ACN",
+      "catalyst": "Pre-open earnings EPS $3.72; IT services dark horse per MS",
+      "setup": "Large-cap earnings anchor; institutional rebalance likely post-print",
+      "entry": "Wait post-earnings; avoid pre-print vol",
+      "stop": "TBD",
+      "target": "TBD",
+      "conviction": "Med"
+    },
+    {
+      "ticker": "KR",
+      "catalyst": "Pre-open earnings EPS $1.58; consumer staple inflation proxy",
+      "setup": "Defensive anchor; watch for margin beat/guide signals",
+      "entry": "Wait post-earnings",
+      "stop": "TBD",
+      "target": "TBD",
+      "conviction": "Low"
+    },
+    {
+      "ticker": "ITA",
+      "catalyst": "Defense/aerospace CapEx cycle; geopolitical bid intact on Iran deal",
+      "setup": "Institutional accumulation zone; breakout above 270.00",
+      "entry": "268.00\u2013269.00",
+      "stop": "265.00",
+      "target": "275.00\u2013278.00",
+      "conviction": "High"
+    }
+  ],
+  "watchlist": [
+    {
+      "ticker": "KMX",
+      "catalyst": "Earnings pre-open EPS $0.96; auto retail sentiment test",
+      "premarket_action": "Not live; assume normal vol on earnings day",
+      "support": "33.00",
+      "resistance": "36.50",
+      "pattern": "Earnings gap risk; high IV",
+      "priority": "1"
+    },
+    {
+      "ticker": "PLAY",
+      "catalyst": "Earnings post-close EPS $0.60; discretionary consumer small-cap",
+      "premarket_action": "Moderate vol; options-sensitive name",
+      "support": "21.50",
+      "resistance": "24.00",
+      "pattern": "Momentum name; post-earnings swing setup",
+      "priority": "2"
+    },
+    {
+      "ticker": "SWBI",
+      "catalyst": "Earnings post-close EPS $0.23; options-active, small-cap",
+      "premarket_action": "Light vol; post-earnings vol spike expected",
+      "support": "16.00",
+      "resistance": "18.50",
+      "pattern": "High relative vol on catalyst; wheel candidate",
+      "priority": "3"
+    },
+    {
+      "ticker": "LZB",
+      "catalyst": "Earnings pre-open EPS $0.82; furniture/consumer discretionary",
+      "premarket_action": "Moderate vol spike on earnings day",
+      "support": "19.00",
+      "resistance": "21.50",
+      "pattern": "Earnings binary; swing setup post-print",
+      "priority": "4"
+    },
+    {
+      "ticker": "ACN",
+      "catalyst": "Earnings pre-open EPS $3.72; large-cap IT services anchor",
+      "premarket_action": "High vol; institutional rebalance expected",
+      "support": "335.00",
+      "resistance": "345.00",
+      "pattern": "Large-cap earnings anchor; trend-following setup",
+      "priority": "5"
+    },
+    {
+      "ticker": "KR",
+      "catalyst": "Earnings pre-open EPS $1.58; consumer staple inflation proxy",
+      "premarket_action": "Normal vol; defensive anchor",
+      "support": "28.00",
+      "resistance": "30.50",
+      "pattern": "Margin/guide watch; lower vol expected post-print",
+      "priority": "6"
+    },
+    {
+      "ticker": "WLY",
+      "catalyst": "Earnings pre-open EPS $1.65; publishing/education CapEx play",
+      "premarket_action": "Light vol; institutional positioning unclear",
+      "support": "95.00",
+      "resistance": "102.00",
+      "pattern": "Earnings binary; watch guidance for CapEx cycle signal",
+      "priority": "7"
+    },
+    {
+      "ticker": "CGC",
+      "catalyst": "Earnings today; cannabis cyclical sentiment barometer",
+      "premarket_action": "Moderate vol; sector rotation signal",
+      "support": "6.50",
+      "resistance": "8.00",
+      "pattern": "Speculative; post-earnings swing setup",
+      "priority": "8"
+    },
+    {
+      "ticker": "XLI",
+      "catalyst": "Industrial sector rotation; broad institutional bid under construction",
+      "premarket_action": "Normal vol; institutional accumulation zone",
+      "support": "123.00",
+      "resistance": "126.00",
+      "pattern": "Sector breakout; CapEx thesis intact",
+      "priority": "9"
+    },
+    {
+      "ticker": "ITA",
+      "catalyst": "Defense/aerospace; geopolitical bid from Iran de-escalation",
+      "premarket_action": "Light vol; institutional bid likely below surface",
+      "support": "268.00",
+      "resistance": "272.00",
+      "pattern": "Breakout above 270 on macro tailwind",
+      "priority": "10"
+    }
+  ],
+  "position_actions": [
+    {
+      "action": "HOLD",
+      "ticker": "SPY",
+      "reasoning": "Core position flat; maintain exposure; no new entry until earnings clarity"
+    },
+    {
+      "action": "TRIM",
+      "ticker": "QQQ",
+      "reasoning": "Tech weakness -1.09%; trim 2.5% if held above cost; rotate to XLI/ITA"
+    },
+    {
+      "action": "BUY",
+      "ticker": "XLI",
+      "reasoning": "Industrial CapEx cycle intact; institutional bid on Iran de-escalation"
+    },
+    {
+      "action": "BUY",
+      "ticker": "ITA",
+      "reasoning": "Defense/aerospace geopolitical tailwind; breakout setup above 270.00"
+    },
+    {
+      "action": "HEDGE",
+      "ticker": "SPY",
+      "reasoning": "Earnings vol spike risk; consider 1\u20132% portfolio hedge via QQQ puts if held"
+    },
+    {
+      "action": "HOLD",
+      "ticker": "XLF",
+      "reasoning": "Financials oversold; hold for bounce; no new entry yet"
+    },
+    {
+      "action": "AVOID",
+      "ticker": "XLE",
+      "reasoning": "Oil weakness on Iran peace; headwind temporary but near-term pain"
+    },
+    {
+      "action": "SCALE_IN",
+      "ticker": "KMX",
+      "reasoning": "Post-earnings scalp if gap lower; retail auto sentiment barometer"
+    }
+  ],
+  "wheel_book": [
+    {
+      "ticker": "SWBI",
+      "sector": "Discretionary",
+      "iv_rank_est": "75\u201385%",
+      "delta": "0.35\u20130.40 puts",
+      "dte": "30\u201345 DTE",
+      "strike_zone": "15.50\u201316.50 puts; sell short strangle 15.00/19.00",
+      "assignment_risk": "High",
+      "priority": "Post-earnings (today AH); high vol decay play"
+    },
+    {
+      "ticker": "PLAY",
+      "sector": "Discretionary",
+      "iv_rank_est": "70\u201380%",
+      "delta": "0.35\u20130.40 puts",
+      "dte": "30\u201345 DTE",
+      "strike_zone": "21.00\u201322.00 puts; covered call 24.00\u201325.00",
+      "assignment_risk": "Med",
+      "priority": "Post-earnings swing; vol decay on theta"
+    },
+    {
+      "ticker": "LZB",
+      "sector": "Discretionary",
+      "iv_rank_est": "65\u201375%",
+      "delta": "0.35\u20130.40 puts",
+      "dte": "30\u201345 DTE",
+      "strike_zone": "19.00\u201320.00 puts; sell near-ATM short strangle",
+      "assignment_risk": "High",
+      "priority": "Pre-open earnings; consider post-print short puts"
+    },
+    {
+      "ticker": "XLI",
+      "sector": "Industrials",
+      "iv_rank_est": "40\u201350%",
+      "delta": "0.35 puts / 0.30 calls",
+      "dte": "45\u201360 DTE",
+      "strike_zone": "122.00 puts (sell) / 126.50 calls (sell)",
+      "assignment_risk": "Low",
+      "priority": "Core sector wheel; theta-positive on CapEx bid"
+    },
+    {
+      "ticker": "ACN",
+      "sector": "IT",
+      "iv_rank_est": "55\u201365%",
+      "delta": "0.30 puts / 0.30 calls",
+      "dte": "45\u201360 DTE",
+      "strike_zone": "330.00 puts (sell) / 350.00 calls (sell)",
+      "assignment_risk": "Med",
+      "priority": "Post-earnings anchor; wheel after vol crush"
+    }
+  ],
+  "risk_alerts": [
+    "Earnings vol spike risk today: KMX, ACN, KR pre-open; SWBI, PLAY, LZB post-close; avoid new longs pre-print",
+    "QQQ tech weakness -1.09% vs SPY -0.2%; rotation signal into XLI/ITA; monitor relative strength",
+    "VIX regime estimated complacent (<15); geopolitical peace deal euphoria masking earnings binary risk",
+    "USD/JPY 160.23 near intervention floor; BoJ may act; dollar spike possible; XLE/commodity correlation watch",
+    "Oil collapse on Iran peace deal temporary support; energy rotation defensive; XLE shorts viable on rallies"
+  ],
+  "cio_verdict": {
+    "risk_posture": "Neutral",
+    "capital_flow": "50% into XLI/ITA (CapEx cycle + geopolitical bid); 20% premium income on earnings vol (wheel SWBI/PLAY/LZB post-print); 30% SPY core hold + hedge; avoid QQQ until tech settles post-earnings",
+    "avoid": "XLE long; QQQ longs pre-earnings; naked options on SWBI/PLAY/LZB pre-earnings; small-cap speculation (CGC, QMCO) without defined risk"
+  }
+}
