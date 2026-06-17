@@ -1,0 +1,296 @@
+{
+  "date": "2026-06-17",
+  "generated_at": "Wednesday, June 17, 2026 \u2014 10:56 AM ET",
+  "regime": "Neutral",
+  "cio_summary": [
+    "Fed decision imminent; tech profit-taking headwind vs institutional infrastructure/defense accumulation",
+    "SPY flat, QQQ+IWM outperform; small-cap breadth positive but macro caution warranted",
+    "ACN/KMX earnings pre-open; PLAY/SWBI after-close; elevated event risk into FOMC",
+    "Sector rotation: INTO tech-electronics/semiconductors, infrastructure, defense; OUT of cyclicals/office REIT",
+    "Wheel strategy optimal; limited new longs; focus income generation + semiconductor hedges"
+  ],
+  "macro_dashboard": {
+    "spy_trend": "Neutral, -0.12% | Premarket +0.06% futures",
+    "qqq_trend": "Outperformer +0.30% | Nasdaq 100 futures +0.50%",
+    "iwm_trend": "Small-cap bid +0.64% | Breadth positive",
+    "vix": "Not live-quoted; implied elevated <20 range",
+    "vix_regime": "Caution (15-20 est.) | FOMC event risk",
+    "yield_10y": "Not live-quoted; upside risk into FOMC",
+    "dollar_trend": "Not live-quoted; bid support expected",
+    "oil_trend": "Slightly lower on Iran-deal optimism; geopolitical bid remains",
+    "crypto_sentiment": "Not live-quoted; likely neutral to risk-off bias",
+    "tactical_bias": "Fade Strength | Buy Dips (infrastructure/semis)"
+  },
+  "institutional_setups": [
+    {
+      "ticker": "SMH",
+      "catalyst": "Institutional hedge accumulation + electronics subsector rotation",
+      "setup": "Semiconductor ETF; dark pool block trades 5-10x volume overnight; institutions protecting long exposure vs tech pullback",
+      "entry": "$487-492 on dip | Accum pattern",
+      "stop": "$475 (-2.5% hard)",
+      "target": "$510 (+4.7%) | $525 (+7.8%)",
+      "conviction": "High"
+    },
+    {
+      "ticker": "PAVE",
+      "catalyst": "Infrastructure dark pool rotation; fiscal Q next; stable cash flow demand",
+      "setup": "Infrastructure ETF; massive institutional inflows into waste-to-energy + grid modernization subsectors",
+      "entry": "$72.80-74.20 breakout | Support hold",
+      "stop": "$70.50 (-3.5%)",
+      "target": "$77.50 (+6.2%) | $81.00 (+11.0%)",
+      "conviction": "High"
+    },
+    {
+      "ticker": "XLK",
+      "catalyst": "Tech Select performing +1.05% YTD; AI/electronics subsector leadership; beating SPY",
+      "setup": "Sector outperformance; institutions rotating INTO electronics vs general tech weakness",
+      "entry": "$188.00-189.50 on support",
+      "stop": "$184.50 (-2.5%)",
+      "target": "$195.00 (+3.7%) | $200.00 (+6.4%)",
+      "conviction": "Med"
+    },
+    {
+      "ticker": "ACN",
+      "catalyst": "Pre-open earnings; EPS $3.10 exp vs $8.61B revenue; IT services disruption narrative",
+      "setup": "Institutional AI/IT services dark horse; post-earnings breakout or breakdown; high gamma",
+      "entry": "Post-earnings gap fill or support",
+      "stop": "2% below open gap",
+      "target": "4-6% post-earnings move",
+      "conviction": "Med"
+    },
+    {
+      "ticker": "KMX",
+      "catalyst": "Pre-open earnings; consumer cyclical proxy; tariff sensitivity test",
+      "setup": "Auto retail; proxy for discretionary demand; earnings beat could crack resistance",
+      "entry": "Post-earnings support level",
+      "stop": "2% stop below gap",
+      "target": "3-5% bounce target",
+      "conviction": "Med"
+    },
+    {
+      "ticker": "IYR",
+      "catalyst": "Office REIT sector; institutions rotating OUT; bearish crowding signal",
+      "setup": "Retail rotation out; short or hedge via puts; low institutional support",
+      "entry": "Short breakdown or put debit spreads",
+      "stop": "Support +2.5%",
+      "target": "Support -3 to -5%",
+      "conviction": "Low"
+    },
+    {
+      "ticker": "XLI",
+      "catalyst": "Industrials lagging; tariff rotation OUT signal; institutional selling",
+      "setup": "Cyclical sector rotation; profit-taking pressure; avoid longs",
+      "entry": "No new long positions",
+      "stop": "N/A",
+      "target": "Hold cash",
+      "conviction": "Low"
+    },
+    {
+      "ticker": "ICLN",
+      "catalyst": "Clean energy + grid modernization infrastructure rotation; institutional inflows",
+      "setup": "Paired play with PAVE; waste-to-energy subsector strength",
+      "entry": "$73.50-75.00 breakout",
+      "stop": "$71.00 (-2.5%)",
+      "target": "$78.50 (+5.3%)",
+      "conviction": "Med"
+    }
+  ],
+  "watchlist": [
+    {
+      "ticker": "ACN",
+      "catalyst": "Pre-open earnings; AI/IT services theme",
+      "premarket_action": "Not yet quoted; earnings >7% gamma",
+      "support": "$342.00",
+      "resistance": "$355.00",
+      "pattern": "Earnings breakout setup",
+      "priority": "1"
+    },
+    {
+      "ticker": "KMX",
+      "catalyst": "Pre-open earnings; consumer cyclical test",
+      "premarket_action": "Not yet quoted; auto retail sector pressure",
+      "support": "$128.00",
+      "resistance": "$138.00",
+      "pattern": "Earnings breakout",
+      "priority": "2"
+    },
+    {
+      "ticker": "PLAY",
+      "catalyst": "After-close earnings; entertainment discretionary",
+      "premarket_action": "Awaiting open; cyclical sector test",
+      "support": "$28.50",
+      "resistance": "$31.50",
+      "pattern": "Intraday range",
+      "priority": "3"
+    },
+    {
+      "ticker": "SWBI",
+      "catalyst": "After-close earnings; defense/firearms cyclical",
+      "premarket_action": "Pre-open; defense sector bid",
+      "support": "$16.80",
+      "resistance": "$18.50",
+      "pattern": "Defense rotation uptrend",
+      "priority": "4"
+    },
+    {
+      "ticker": "SMH",
+      "catalyst": "Semiconductor outflow hedge + dark pool accumulation",
+      "premarket_action": "Awaiting; major block trades overnight",
+      "support": "$485.00",
+      "resistance": "$510.00",
+      "pattern": "Institutional accumulation",
+      "priority": "5"
+    },
+    {
+      "ticker": "PAVE",
+      "catalyst": "Infrastructure dark pool rotation; fiscal Q positioning",
+      "premarket_action": "Positive institutional flow",
+      "support": "$72.00",
+      "resistance": "$77.00",
+      "pattern": "Breakout accumulation",
+      "priority": "6"
+    },
+    {
+      "ticker": "XLK",
+      "catalyst": "Tech Select leadership +1.05%; sector outperformance",
+      "premarket_action": "Positive; leading SPY",
+      "support": "$187.50",
+      "resistance": "$191.00",
+      "pattern": "Higher-high setup",
+      "priority": "7"
+    },
+    {
+      "ticker": "KIC",
+      "catalyst": "Insurance financials; defense/protection sector institutional demand",
+      "premarket_action": "Neutral; low retail volume",
+      "support": "$42.50",
+      "resistance": "$46.00",
+      "pattern": "Institutional accumulation",
+      "priority": "8"
+    },
+    {
+      "ticker": "IYR",
+      "catalyst": "Office REIT rotation OUT; bearish institutional signal",
+      "premarket_action": "Weak; sector crowding risk",
+      "support": "$84.00",
+      "resistance": "$88.00",
+      "pattern": "Lower-low breakdown",
+      "priority": "9"
+    },
+    {
+      "ticker": "SOXX",
+      "catalyst": "Semiconductor subsector + tech electronics institutional buying",
+      "premarket_action": "Awaiting; paired with SMH",
+      "support": "$614.00",
+      "resistance": "$635.00",
+      "pattern": "Block trade accumulation",
+      "priority": "10"
+    }
+  ],
+  "position_actions": [
+    {
+      "action": "HOLD",
+      "ticker": "SPY",
+      "reasoning": "Neutral regime; avoid new long risk before FOMC; trim if +8% above entry"
+    },
+    {
+      "action": "ACCUMULATE",
+      "ticker": "SMH",
+      "reasoning": "Dark pool institutional hedge accumulation; semiconductor subsector rotation; dip-buy on support $475"
+    },
+    {
+      "action": "ACCUMULATE",
+      "ticker": "PAVE",
+      "reasoning": "Infrastructure dark pool flow + fiscal Q setup; highest conviction institutional rotation signal"
+    },
+    {
+      "action": "ADD",
+      "ticker": "XLK",
+      "reasoning": "Tech outperformance +1.05% vs SPY flat; electronics subsector leadership; support-level accumulation"
+    },
+    {
+      "action": "HEDGE",
+      "ticker": "XLI",
+      "reasoning": "Cyclical rotation OUT signal; buy puts or reduce cyclical exposure; tariff overhang"
+    },
+    {
+      "action": "HEDGE",
+      "ticker": "XLRE",
+      "reasoning": "Office REIT crowding; short or put spreads; low institutional support; avoid longs"
+    },
+    {
+      "action": "WATCH",
+      "ticker": "ACN",
+      "reasoning": "Pre-open earnings gamma; post-earnings entry setup; monitor gap fill + Vol crush"
+    },
+    {
+      "action": "WATCH",
+      "ticker": "KMX",
+      "reasoning": "Earnings volatility play; consumer cyclical proxy; breakout target post-beat"
+    }
+  ],
+  "wheel_book": [
+    {
+      "ticker": "SPY",
+      "sector": "Broad Market",
+      "iv_rank_est": "35-40%",
+      "delta": "0.30-0.35",
+      "dte": "45 days (monthly)",
+      "strike_zone": "$740 Put | $760 Call",
+      "assignment_risk": "Med",
+      "priority": "Sell $740P | Collect 0.40-0.50 delta premium; covered call $760C if assigned"
+    },
+    {
+      "ticker": "SMH",
+      "sector": "Technology-Semiconductors",
+      "iv_rank_est": "55-65%",
+      "delta": "0.25-0.30",
+      "dte": "30 days",
+      "strike_zone": "$475 Put | $510 Call",
+      "assignment_risk": "Med",
+      "priority": "Sell $475P on support; roll if assigned; +4.7% call target = wheel optimal"
+    },
+    {
+      "ticker": "PAVE",
+      "sector": "Infrastructure",
+      "iv_rank_est": "40-50%",
+      "delta": "0.28-0.32",
+      "dte": "45 days",
+      "strike_zone": "$72 Put | $77.50 Call",
+      "assignment_risk": "Low",
+      "priority": "Sell $72P (support level); hold if assigned for infrastructure income"
+    },
+    {
+      "ticker": "XLK",
+      "sector": "Technology Select",
+      "iv_rank_est": "48-55%",
+      "delta": "0.30-0.35",
+      "dte": "30 days",
+      "strike_zone": "$187.50 Put | $195 Call",
+      "assignment_risk": "Low",
+      "priority": "Sell $187.50P on support; roll $195C on strength; stable income"
+    },
+    {
+      "ticker": "KIC",
+      "sector": "Financials-Insurance",
+      "iv_rank_est": "35-42%",
+      "delta": "0.25-0.30",
+      "dte": "45 days",
+      "strike_zone": "$42.50 Put | $46 Call",
+      "assignment_risk": "Low",
+      "priority": "Sell $42.50P (support); institutional demand supports assignment; hold for dividend"
+    }
+  ],
+  "risk_alerts": [
+    "FOMC decision imminent; event risk elevated; vol crush post-announcement likely",
+    "Tech profit-taking headwind; AI/semiconductor rotation OUT from retail; institutional hedge positioning indicates pullback risk",
+    "ACN/KMX pre-open earnings; KMX consumer cyclical proxy tests tariff sensitivity; earnings gap risk >2%",
+    "Office REIT crowding signal; institutional money rotating OUT of XLRE; avoid new long positions; short opportunity",
+    "Cyclicals (XLI, XLY) institutional rotation OUT; tariff overhang remains; hedging critical for exposed portfolios"
+  ],
+  "cio_verdict": {
+    "risk_posture": "Neutral",
+    "capital_flow": "60% wheel/income (SMH short puts, PAVE puts, XLK puts, SPY collar); 30% infrastructure accumulation (PAVE, ICLN breakout dips); 10% cash reserve for ACN/KMX post-earnings entry or volatility hedges",
+    "avoid": "New long positions in cyclicals (XLI, XLY); office REITs (XLRE, IYR); high-yield sponsor-crowded credit; avoid naked exposure to ACN/KMX until post-earnings volatility settles; do NOT short semis (SMH) into dark pool institutional accumulation"
+  }
+}
