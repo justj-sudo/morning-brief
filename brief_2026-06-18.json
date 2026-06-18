@@ -1,0 +1,296 @@
+{
+  "date": "2026-06-18",
+  "generated_at": "Thursday, June 18, 2026 \u2014 10:51 AM ET",
+  "regime": "Risk-On",
+  "cio_summary": [
+    "S&P 500 +0.77%, QQQ +2.15%, IWM +1.37% \u2014 tech/growth leading on Fed rate relief narrative",
+    "U.S.-Iran interim deal eases oil/gas; gasoline below $4/gal first time since April",
+    "Fed September hike probability 64% (up from 29%); market treating as growth-supportive, not deterrent",
+    "Earnings season active: ACN mixed (guidance cut), KR/MU/ANIX beat; options flow elevated",
+    "Bank sector tailwind: Basel capital relief proposal (4.8\u20137.8% CET1 relief); financials constructive"
+  ],
+  "macro_dashboard": {
+    "spy_trend": "Bullish intraday; ES futures +0.84% (7,487)",
+    "qqq_trend": "Strong; NQ futures +1.56% (30,150); semis/AI leadership",
+    "iwm_trend": "Positive; +1.37% intraday",
+    "vix": "Estimated 14\u201315 (not stated; inferred complacent)",
+    "vix_regime": "<15 Complacent \u2014 risk-on bias intact",
+    "yield_10y": "Rising on 64% Sept hike odds; exact level unavailable",
+    "dollar_trend": "Firm on Fed hawkish pivot; DXY not stated",
+    "oil_trend": "Declining post-Iran deal; structural tailwind for risk assets",
+    "crypto_sentiment": "Not stated; likely bid on growth/tech rebound",
+    "tactical_bias": "Buy Dips"
+  },
+  "institutional_setups": [
+    {
+      "ticker": "XLK",
+      "catalyst": "Tech rebound; AI/semi sector leadership post-Fed clarity",
+      "setup": "Break above 191.07; momentum continuation on QQQ strength",
+      "entry": "191.50\u2013192.20",
+      "stop": "189.80",
+      "target": "195.50",
+      "conviction": "High"
+    },
+    {
+      "ticker": "XLF",
+      "catalyst": "Basel capital relief proposal (4.8\u20137.8% CET1 relief); bank sector tailwind",
+      "setup": "Financial sector breakout; structural regulatory support for bank earnings",
+      "entry": "Strength on sector close; range 43.00\u201343.50",
+      "stop": "41.80",
+      "target": "45.20",
+      "conviction": "High"
+    },
+    {
+      "ticker": "MU",
+      "catalyst": "Earnings beat: EPS $1.18 (+2.20%), revenue beat +4.48%; semis strength",
+      "setup": "Post-earnings follow-through; gap and hold above earnings breakout",
+      "entry": "Close above 95.00; target 96.50\u201398.00",
+      "stop": "93.50",
+      "target": "99.00",
+      "conviction": "High"
+    },
+    {
+      "ticker": "ACN",
+      "catalyst": "Earnings mixed (beat on EPS, miss on revenue guidance); $4.18B cyber deals",
+      "setup": "Clarification trade; resolve guidance cut vs. deal momentum",
+      "entry": "Stabilize above 350.00; test 352.00",
+      "stop": "346.00",
+      "target": "356.00",
+      "conviction": "Med"
+    },
+    {
+      "ticker": "KR",
+      "catalyst": "Q1 earnings; grocery margin + dividend focus",
+      "setup": "Consumer staples stability in risk-on regime; dividend yield support",
+      "entry": "Post-earnings; support near 47.50",
+      "stop": "46.00",
+      "target": "50.00",
+      "conviction": "Med"
+    },
+    {
+      "ticker": "SHOP",
+      "catalyst": "Unusual options activity 2nd session straight; growth sentiment play",
+      "setup": "Momentum accumulation; e-comm/software sector bid",
+      "entry": "Break 68.50; retest 69.50",
+      "stop": "66.50",
+      "target": "72.00",
+      "conviction": "Med"
+    },
+    {
+      "ticker": "SPY",
+      "catalyst": "Broad market rebound; Fed rate clarity + geopolitical easing",
+      "setup": "Breakout continuation; 746.73 holds support; target 752.00",
+      "entry": "Dip to 744.00\u2013745.00; buy",
+      "stop": "740.00",
+      "target": "754.00",
+      "conviction": "High"
+    },
+    {
+      "ticker": "QQQ",
+      "catalyst": "Tech/growth outperformance; AI/semis leadership; +2.15% intraday",
+      "setup": "Momentum breakout; 737.99 on verge of 740 breakout",
+      "entry": "Break 740.00; aggressive add 741.50",
+      "stop": "733.00",
+      "target": "748.00",
+      "conviction": "High"
+    }
+  ],
+  "watchlist": [
+    {
+      "ticker": "SPY",
+      "catalyst": "Broad market support; 0.77% rally; ES +0.84% futures",
+      "premarket_action": "Steady bid; gap fill likely",
+      "support": "740.00",
+      "resistance": "752.00",
+      "pattern": "Breakout continuation",
+      "priority": "1"
+    },
+    {
+      "ticker": "QQQ",
+      "catalyst": "Tech rebound +2.15%; semis/AI leadership; NQ +1.56% futures",
+      "premarket_action": "Strong bid; breakout setup",
+      "support": "733.00",
+      "resistance": "748.00",
+      "pattern": "Higher lows forming; momentum",
+      "priority": "2"
+    },
+    {
+      "ticker": "XLK",
+      "catalyst": "Sector leadership; +2.87% intraday; tech fund flows",
+      "premarket_action": "Heavy bid; capital flowing into semis/AI",
+      "support": "189.00",
+      "resistance": "195.50",
+      "pattern": "Breakout above 191.07",
+      "priority": "3"
+    },
+    {
+      "ticker": "XLF",
+      "catalyst": "Basel capital relief (4.8\u20137.8% CET1 relief); bank earnings tailwind",
+      "premarket_action": "Steady bid; structural support",
+      "support": "41.80",
+      "resistance": "45.20",
+      "pattern": "Sector rotation breakout",
+      "priority": "4"
+    },
+    {
+      "ticker": "MU",
+      "catalyst": "Earnings beat EPS +2.20%, revenue +4.48%; semi strength",
+      "premarket_action": "Post-earnings follow-through; volume surge",
+      "support": "93.50",
+      "resistance": "99.00",
+      "pattern": "Gap and hold; continuation",
+      "priority": "5"
+    },
+    {
+      "ticker": "ACN",
+      "catalyst": "Earnings: beat EPS, miss guidance; $4.18B cyber deals announced",
+      "premarket_action": "Mixed sentiment; clarification trade in progress",
+      "support": "346.00",
+      "resistance": "356.00",
+      "pattern": "Resolution breakout pending",
+      "priority": "6"
+    },
+    {
+      "ticker": "KR",
+      "catalyst": "Q1 earnings; grocery margin/dividend focus",
+      "premarket_action": "Elevated volume pre-earnings; sentiment unclear",
+      "support": "46.00",
+      "resistance": "50.00",
+      "pattern": "Earnings volatility",
+      "priority": "7"
+    },
+    {
+      "ticker": "SHOP",
+      "catalyst": "Unusual options activity 2nd session; e-comm/SaaS bid",
+      "premarket_action": "Accumulation; elevated call spreads",
+      "support": "66.50",
+      "resistance": "72.00",
+      "pattern": "Momentum accumulation",
+      "priority": "8"
+    },
+    {
+      "ticker": "IWM",
+      "catalyst": "Small-cap rebound +1.37%; regional bank + mid-cap bid",
+      "premarket_action": "Steady bid; bank relief tailwind",
+      "support": "290.00",
+      "resistance": "298.00",
+      "pattern": "Higher lows; sector rotation",
+      "priority": "9"
+    },
+    {
+      "ticker": "ANIX",
+      "catalyst": "Earnings beat EPS +3.07%, revenue +4.09%; biotech volatility",
+      "premarket_action": "Post-earnings spike; small-cap momentum",
+      "support": "2.40",
+      "resistance": "3.20",
+      "pattern": "Earnings breakout",
+      "priority": "10"
+    }
+  ],
+  "position_actions": [
+    {
+      "action": "BUY",
+      "ticker": "SPY",
+      "reasoning": "Broad market breakout; dip to 744\u2013745 is entry; +0.77% intraday confirms bid"
+    },
+    {
+      "action": "BUY",
+      "ticker": "QQQ",
+      "reasoning": "Tech/growth strength +2.15%; breakout above 740 high-conviction entry; AI/semis leadership"
+    },
+    {
+      "action": "ADD",
+      "ticker": "XLK",
+      "reasoning": "Sector leadership +2.87%; capitalize on tech rebound; 191.50\u2013192.20 entry zone"
+    },
+    {
+      "action": "BUY",
+      "ticker": "XLF",
+      "reasoning": "Basel capital relief tailwind; bank sector structural support; entry 43.00\u201343.50"
+    },
+    {
+      "action": "BUY",
+      "ticker": "MU",
+      "reasoning": "Post-earnings follow-through; beat expectations; semis leadership; hold for 99.00 target"
+    },
+    {
+      "action": "HOLD",
+      "ticker": "ACN",
+      "reasoning": "Mixed earnings; wait for clarification trade; do not initiate until support holds 350"
+    },
+    {
+      "action": "WATCH",
+      "ticker": "KR",
+      "reasoning": "Post-earnings sentiment; await close for dividend/margin signals; risk/reward unclear"
+    },
+    {
+      "action": "HOLD",
+      "ticker": "SHOP",
+      "reasoning": "Options accumulation positive; await breakout above 68.50 before size entry"
+    }
+  ],
+  "wheel_book": [
+    {
+      "ticker": "XLF",
+      "sector": "Financials",
+      "iv_rank_est": "50\u201360%",
+      "delta": "0.30",
+      "dte": "45",
+      "strike_zone": "Sell 42.00\u201342.50 puts; collect 0.85\u20131.10 premium",
+      "assignment_risk": "Med",
+      "priority": "Sell puts; bank capital relief support assignment thesis"
+    },
+    {
+      "ticker": "SPY",
+      "sector": "Broad Market",
+      "iv_rank_est": "45\u201355%",
+      "delta": "0.30",
+      "dte": "30",
+      "strike_zone": "Sell 740.00 puts; collect 1.50\u20131.80 premium",
+      "assignment_risk": "Low",
+      "priority": "Premium income; strong support; high-prob assignment profit"
+    },
+    {
+      "ticker": "QQQ",
+      "sector": "Tech/Growth",
+      "iv_rank_est": "55\u201365%",
+      "delta": "0.35",
+      "dte": "30",
+      "strike_zone": "Sell 733.00 puts; collect 2.00\u20132.50 premium",
+      "assignment_risk": "Med",
+      "priority": "Growth momentum; wheel setup on dips"
+    },
+    {
+      "ticker": "MU",
+      "sector": "Semiconductors",
+      "iv_rank_est": "70\u201380%",
+      "delta": "0.40",
+      "dte": "45",
+      "strike_zone": "Sell 93.00 puts post-earnings; collect 2.50\u20133.20 premium",
+      "assignment_risk": "High",
+      "priority": "High IV; post-earnings premium; wheel-ready if assigned"
+    },
+    {
+      "ticker": "KR",
+      "sector": "Consumer Staples",
+      "iv_rank_est": "60\u201370%",
+      "delta": "0.32",
+      "dte": "30",
+      "strike_zone": "Sell 47.00 puts; collect 1.10\u20131.40 premium; dividend support",
+      "assignment_risk": "Med",
+      "priority": "Staples income; dividend yield attractive on assignment"
+    }
+  ],
+  "risk_alerts": [
+    "VIX inferred <15: complacency risk; gap/flash-crash risk if Fed narrative shifts",
+    "Fed September hike 64% odds: watch 10Y yield for inversion signals; duration risk to growth",
+    "ACN guidance miss: mixed sector signal for enterprise software; monitor for rotation underperformance",
+    "CRE concentration in banking sector: office/multifamily lenders remain structural laggards despite Basel relief",
+    "Iran deal sustainability risk: geopolitical event risk remains; oil could reprice quickly on escalation"
+  ],
+  "cio_verdict": {
+    "risk_posture": "Aggressive",
+    "capital_flow": "Full deployment: 50% SPY/QQQ/IWM (position trading); 20% ACN/KR/MU (earnings hedge); 30% XLF/wheel premium (income). Bank capital relief + tech rebound + geopolitical easing support risk-on. Iran deal = structural tailwind for oil decline; gasoline <$4 removes inflation hedge need. Fed hike odds high but market treating as growth-supportive (AI capex cycle intact). Dip to 744 (SPY) or 733 (QQQ) is buy for 75bps allocation.",
+    "avoid": "CRE-heavy bank lenders (LAD, KEY, OHI); duration-sensitive bond proxies if 10Y breaks 4.50%; naked short vol (VIX <15 fragile); illiquid biotech names outside ANIX post-earnings pop. Avoid size in ACN until guidance/cyber deal clarity."
+  }
+}
