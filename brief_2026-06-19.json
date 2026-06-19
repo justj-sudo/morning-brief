@@ -1,0 +1,296 @@
+{
+  "date": "2026-06-19",
+  "generated_at": "Friday, June 19, 2026 \u2014 10:47 AM ET",
+  "regime": "Risk-On",
+  "cio_summary": [
+    "US-Iran peace deal fuels de-risk: oil selloff (-3.5mo low), yields down 4bp to 4.45%, equity futures +0.67-1.26%",
+    "Tech rotation intact: QQQ +2.4%, XLK +3.0%; AI infrastructure & semis leading despite Nvidia -6.2%, Broadcom -8%",
+    "ACN/KR/PGR premarket earnings critical \u2014 ACN drives enterprise AI spending narrative, KR inflation read, PGR insurance cycle",
+    "Energy sector flush: LMT -3.97%, NOC -5.15%, COP -3.11%, HAL -3.63% on geopolitical de-escalation; defensive play",
+    "Semis bifurcated: TSM +6.95%, MU +8.49%, SMCI +10.31% vs NVDA weakness \u2014 supply/demand divergence, not macro"
+  ],
+  "macro_dashboard": {
+    "spy_trend": "Up +0.77% | Futures +0.67% | Breakout bias",
+    "qqq_trend": "Up +2.4% | Nasdaq 100 +1.26% | Tech resilience",
+    "iwm_trend": "Up +1.94% | Small-cap participation",
+    "vix": "Not quoted in feed; volatility futures referenced",
+    "vix_regime": "Likely <15 (complacent) given peace deal euphoria",
+    "yield_10y": "4.45% -4bp | Lower inflation expectations",
+    "dollar_trend": "Softer: EUR/USD 1.1461 +0.03% | DXY not quoted",
+    "oil_trend": "3.5-month low | Iran deal reopens Hormuz speculation",
+    "crypto_sentiment": "Not in feed; monitor BTC for risk-on confirmation",
+    "tactical_bias": "Buy Dips | Tech/semis resilient; energy capitulation exhaustion"
+  },
+  "institutional_setups": [
+    {
+      "ticker": "TSM",
+      "catalyst": "Peace deal oil shock; TSMC supply diversification re-rated",
+      "setup": "Breakout above 462 on geopolitical de-risk; semis rotating into gap-fill",
+      "entry": "464-468 | Pullback to 458",
+      "stop": "452",
+      "target": "485-495",
+      "conviction": "High"
+    },
+    {
+      "ticker": "MU",
+      "catalyst": "Memory demand AI capex cycle; earnings upside if guidance raised",
+      "setup": "Cleared 1100 on volume surge +1.54x; momentum above 1130",
+      "entry": "1125-1135 on any dip",
+      "stop": "1085",
+      "target": "1180-1210",
+      "conviction": "High"
+    },
+    {
+      "ticker": "SMCI",
+      "catalyst": "AI server/infra capex; recovery play post-audit FUD clearance",
+      "setup": "+10.31% breakout; micro-cap volatility; potential double on continued drift",
+      "entry": "30.50-31.50 (add on pull)",
+      "stop": "28.00",
+      "target": "38-42",
+      "conviction": "Med"
+    },
+    {
+      "ticker": "AMD",
+      "catalyst": "AI processor demand; counter-narrative to NVDA weakness; rival strength",
+      "setup": "+4.87% on volume; clearing resistance 537; AI chip set narrative",
+      "entry": "535-540 (add on dip)",
+      "stop": "520",
+      "target": "560-575",
+      "conviction": "High"
+    },
+    {
+      "ticker": "ACN",
+      "catalyst": "PREMARKET EARNINGS: Enterprise AI adoption, consulting capex, FY outlook",
+      "setup": "Implied vol spike on earnings print; guidance beat = tech sentiment pivot",
+      "entry": "Post-earnings support (depends on print)",
+      "stop": "Prior day low",
+      "target": "Earnings play +4-6% if beat",
+      "conviction": "High"
+    },
+    {
+      "ticker": "ENPH",
+      "catalyst": "Clean energy rerating on Iran peace = lower oil; renewable capex tailwind",
+      "setup": "+9.39% on volume; breaking above 52; energy transition play",
+      "entry": "51.50-52.50",
+      "stop": "49.00",
+      "target": "56-60",
+      "conviction": "Med"
+    },
+    {
+      "ticker": "LMT",
+      "catalyst": "Geopolitical de-escalation = defense capex repricing lower",
+      "setup": "-3.97% selloff; vol 2.97x; potential value trap or bounce",
+      "entry": "500-505 (add on support)",
+      "stop": "490",
+      "target": "525-535",
+      "conviction": "Med"
+    },
+    {
+      "ticker": "COP",
+      "catalyst": "Oil shock de-risk; Iran deal = Hormuz reopening risk; energy rebalance",
+      "setup": "-3.11% but macro tailwind (lower rates); high relative vol",
+      "entry": "105-107 (support test)",
+      "stop": "102",
+      "target": "115-120",
+      "conviction": "Med"
+    }
+  ],
+  "watchlist": [
+    {
+      "ticker": "ACN",
+      "catalyst": "EARNINGS PRE-OPEN: Enterprise AI, consulting cycle, FY guidance",
+      "premarket_action": "High volume expected; critical for tech sentiment tone",
+      "support": "Prior 355-360 range",
+      "resistance": "Recent 385 highs",
+      "pattern": "Earnings event; IV expansion; binary catalyst",
+      "priority": "1"
+    },
+    {
+      "ticker": "KR",
+      "catalyst": "EARNINGS PRE-OPEN: Consumer spend, food inflation, grocery margins",
+      "premarket_action": "Heavy volume on consumer health read",
+      "support": "Prior 50-52 range",
+      "resistance": "Recent 58-60 highs",
+      "pattern": "Earnings play; staples rotation signal",
+      "priority": "2"
+    },
+    {
+      "ticker": "PGR",
+      "catalyst": "EARNINGS PRE-OPEN: Insurance cycle, auto pricing, demand update",
+      "premarket_action": "Options vol spike; financial sector mover",
+      "support": "Prior 35-37 range",
+      "resistance": "Recent 42-44 levels",
+      "pattern": "Monthly update flavor; rate sensitivity",
+      "priority": "3"
+    },
+    {
+      "ticker": "TSM",
+      "catalyst": "Semis outperform on peace deal; supply chain & geopolitical rerating",
+      "premarket_action": "Up +6.95% on volume 1.65x; Taiwan policy easing",
+      "support": "458-460",
+      "resistance": "470-475",
+      "pattern": "Breakout continuation; momentum play",
+      "priority": "4"
+    },
+    {
+      "ticker": "MU",
+      "catalyst": "Memory capex cycle; AI server buildout demand; earnings upside",
+      "premarket_action": "Up +8.49% on 1.54x volume; clearing 1130 resistance",
+      "support": "1085-1095",
+      "resistance": "1150-1160",
+      "pattern": "Trending higher; supply crunch narrative",
+      "priority": "5"
+    },
+    {
+      "ticker": "AMD",
+      "catalyst": "AI chip competition vs NVDA; console/server ramp; analyst rehab",
+      "premarket_action": "Up +4.87%; breakout above 537 on volume",
+      "support": "520-525",
+      "resistance": "555-565",
+      "pattern": "Trend continuation; relative strength play",
+      "priority": "6"
+    },
+    {
+      "ticker": "SMCI",
+      "catalyst": "AI server/infrastructure capex; micro-cap volatility; recovery play",
+      "premarket_action": "Up +10.31% on 1.42x volume; 2.7M shares; potential squeeze",
+      "support": "28-29",
+      "resistance": "32-35",
+      "pattern": "Micro-cap volatility; double potential",
+      "priority": "7"
+    },
+    {
+      "ticker": "ENPH",
+      "catalyst": "Clean energy rerating on lower oil/rates; renewable capex tailwind",
+      "premarket_action": "Up +9.39% on 1.64x volume; energy transition play",
+      "support": "49-50",
+      "resistance": "53-55",
+      "pattern": "Breakout; sector rotation into renewables",
+      "priority": "8"
+    },
+    {
+      "ticker": "LMT",
+      "catalyst": "Defense capex repricing lower on geopolitical de-escalation; value test",
+      "premarket_action": "Down -3.97% on 2.97x volume; flush or capitulation",
+      "support": "500-505",
+      "resistance": "535-540",
+      "pattern": "Reversal setup; potential oversold bounce",
+      "priority": "9"
+    },
+    {
+      "ticker": "DDOG",
+      "catalyst": "Cloud/security capex; earnings sensitivity; enterprise adoption tape",
+      "premarket_action": "Down -1.66% on 2.16x volume; tech momentum play",
+      "support": "215-218",
+      "resistance": "228-235",
+      "pattern": "Consolidation; watch for ACN earnings spillover",
+      "priority": "10"
+    }
+  ],
+  "position_actions": [
+    {
+      "action": "BUY",
+      "ticker": "TSM",
+      "reasoning": "Breakout +6.95% on geopolitical peace catalyst; semis leading; entry 464-468 with stop 452"
+    },
+    {
+      "action": "BUY",
+      "ticker": "MU",
+      "reasoning": "Memory demand AI capex; +8.49% momentum; entry 1125-1135 with stop 1085"
+    },
+    {
+      "action": "BUY",
+      "ticker": "AMD",
+      "reasoning": "Rival strength to NVDA weakness; +4.87% trend; entry 535-540 with stop 520"
+    },
+    {
+      "action": "ADD",
+      "ticker": "ACN",
+      "reasoning": "Post-earnings play; wait for print then add dips; high conviction on enterprise AI narrative"
+    },
+    {
+      "action": "TRIM",
+      "ticker": "SMCI",
+      "reasoning": "Micro-cap volatility; take 25% off winners if hits 35-36; lock profit on squeeze"
+    },
+    {
+      "action": "HEDGE",
+      "ticker": "NVDA",
+      "reasoning": "Weakness -6.2% despite semis rally; consider short put spreads or trim if overheld"
+    },
+    {
+      "action": "AVOID",
+      "ticker": "LMT",
+      "reasoning": "Geopolitical de-escalation headwind; value trap setup; skip despite flush; wait for stabilization"
+    },
+    {
+      "action": "AVOID",
+      "ticker": "COP,CVX,HAL",
+      "reasoning": "Energy sector capitulation on Iran deal; oil shock not stabilized; wait for support hold"
+    }
+  ],
+  "wheel_book": [
+    {
+      "ticker": "TSM",
+      "sector": "Semiconductors",
+      "iv_rank_est": "65-70%",
+      "delta": "25-30 (call)",
+      "dte": "30-45",
+      "strike_zone": "470-480 calls (sell CC if assigned); Support 458",
+      "assignment_risk": "Low (uptrend)",
+      "priority": "1 | Sell near 470; buy back on dip to 462"
+    },
+    {
+      "ticker": "MU",
+      "sector": "Semiconductors",
+      "iv_rank_est": "60-65%",
+      "delta": "20-25 (call)",
+      "dte": "30-45",
+      "strike_zone": "1150-1160 calls (sell CC); Support 1085",
+      "assignment_risk": "Low (trending)",
+      "priority": "2 | Sell 1150 calls; wheel on dips"
+    },
+    {
+      "ticker": "AMD",
+      "sector": "Semiconductors",
+      "iv_rank_est": "58-62%",
+      "delta": "20-25 (call)",
+      "dte": "30-45",
+      "strike_zone": "555-565 calls (sell CC); Support 520",
+      "assignment_risk": "Low (momentum)",
+      "priority": "3 | Premium sell near resistance"
+    },
+    {
+      "ticker": "ACN",
+      "sector": "Software",
+      "iv_rank_est": "75-80% (post-earnings)",
+      "delta": "Avoid or high delta (35+) (call)",
+      "dte": "30-45 post-earnings",
+      "strike_zone": "370-380 calls only if earnings beat spike",
+      "assignment_risk": "Med (earnings volatility)",
+      "priority": "4 | Wait for earnings stabilization; then wheel"
+    },
+    {
+      "ticker": "DDOG",
+      "sector": "Software",
+      "iv_rank_est": "55-60%",
+      "delta": "20-25 (call)",
+      "dte": "30-45",
+      "strike_zone": "230-240 calls (sell CC); Support 215",
+      "assignment_risk": "Med (post-earnings risk)",
+      "priority": "5 | Premium income play; monitor ACN spillover"
+    }
+  ],
+  "risk_alerts": [
+    "ACN/KR/PGR premarket earnings binary catalysts: high vol intraday; position size accordingly",
+    "Energy sector capitulation flush (LMT -3.97%, NOC -5.15%, HAL -3.63%): May trigger reversal; avoid selling oversold names into recovery",
+    "NVDA -6.2% weakness vs. TSM/MU/AMD strength = bifurcated semis narrative; not a broad sector capitulation; stay long quality",
+    "SMCI +10.31% micro-cap volatility: Potential squeeze exhaustion above 35; lock profits; do NOT chase",
+    "Tech earnings season concentration: ACN print will heavily influence QQQ/XLK follow-through; Broadcom -8% + Nvidia -6.2% remain headwinds"
+  ],
+  "cio_verdict": {
+    "risk_posture": "Aggressive",
+    "capital_flow": "Deploy 70% into TSM/MU/AMD semis breakouts + ACN post-earnings dips; Reserve 20% for ACN earnings surprise pivot; Hold 10% dry powder for LMT/energy oversold reversals",
+    "avoid": "LMT, NOC, COP, CVX, HAL (defense/energy capitulation on peace deal); Avoid chasing SMCI above 35; Skip NVDA until stabilizes above 408-410; Avoid bottom-fishing ACN before earnings clarity"
+  }
+}
