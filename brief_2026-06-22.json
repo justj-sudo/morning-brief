@@ -1,0 +1,296 @@
+{
+  "date": "2026-06-22",
+  "generated_at": "Monday, June 22, 2026 \u2014 12:41 PM ET",
+  "regime": "Neutral",
+  "cio_summary": [
+    "SPY -0.36%, QQQ -0.66% signal gentle risk-off drift; IWM +0.61% hints small-cap resilience",
+    "US-Iran de-escalation narrative driving crude lower (3.5-month lows) & yields easing to 4.45%",
+    "MU earnings this week is dominant single-stock catalyst with heavy options interest; FDX bellwether Tue AM",
+    "Institutional rotation favors AI/semi/industrials/infrastructure over real estate & defensive financials",
+    "Quarter-end rebalancing pressure in large-cap tech noted; VIX regime unconfirmed but macro supportive"
+  ],
+  "macro_dashboard": {
+    "spy_trend": "Slight Bearish Bias | -0.36% | Support 742.00",
+    "qqq_trend": "Slight Bearish Bias | -0.66% | Tech Weakness",
+    "iwm_trend": "Small Cap Resilience | +0.61% | Risk-On Signal",
+    "vix": "Unconfirmed Live | Est 14.5-15.5",
+    "vix_regime": "Complacent-to-Healthy (15-20 range implied)",
+    "yield_10y": "4.45% | Down 4 bp | Crude Crash Driver",
+    "dollar_trend": "Unconfirmed | Iran Peace Narrative Supportive",
+    "oil_trend": "Sharp Selloff | 3.5-Month Lows | De-escalation Bid",
+    "crypto_sentiment": "Neutral | No Live Print Available",
+    "tactical_bias": "Fade Strength in Tech | Buy IWM Dips | Monitor Earnings Volatility"
+  },
+  "institutional_setups": [
+    {
+      "ticker": "MU",
+      "catalyst": "Earnings Tue/Wed | Largest Implied Move This Week",
+      "setup": "Semis outperformance in AI capex theme; heavy options interest signals binary event",
+      "entry": "Pre-earnings long bias on dip to 242.50 or call spread 245/255 short",
+      "stop": "240.00",
+      "target": "260.00 post-earnings",
+      "conviction": "High"
+    },
+    {
+      "ticker": "FDX",
+      "catalyst": "Earnings Tue After Close | Bellwether Logistics",
+      "setup": "Industrials / infrastructure institutional demand; CapEx spending macro support",
+      "entry": "Long 335.00 before print; sell 350/365 call spread for premium",
+      "stop": "325.00",
+      "target": "360.00",
+      "conviction": "High"
+    },
+    {
+      "ticker": "IWM",
+      "catalyst": "Small-Cap Relative Strength | Earnings Rotation",
+      "setup": "Outperforming SPY/QQQ; institutional bias to AI industrials play",
+      "entry": "297.50 breakout | Add on 295.00 dip",
+      "stop": "292.00",
+      "target": "305.00",
+      "conviction": "Med"
+    },
+    {
+      "ticker": "XLK",
+      "catalyst": "Tech Sector Consolidation | Q2 Earnings Mixed",
+      "setup": "Flat -0.12% suggests chop; AI infra winners vs stagnant mega-cap risk",
+      "entry": "190.50 support; favor semi/infra over broad XLK",
+      "stop": "187.50",
+      "target": "195.00",
+      "conviction": "Med"
+    },
+    {
+      "ticker": "SMCI",
+      "catalyst": "AI Infrastructure Play | Data Center Capex Bid",
+      "setup": "Institutional favorite in BlackRock/State Street AI allocations",
+      "entry": "Long 425.00 breakout on earnings anticipation",
+      "stop": "410.00",
+      "target": "450.00",
+      "conviction": "Med"
+    },
+    {
+      "ticker": "CCL",
+      "catalyst": "Earnings Tue | Travel Sentiment Proxy",
+      "setup": "Post-Iran peace rally; consumer discretionary rotation candidate",
+      "entry": "Long 33.00 on oversold setup; defensive play if macro weakens",
+      "stop": "31.00",
+      "target": "36.50",
+      "conviction": "Med"
+    },
+    {
+      "ticker": "PAYX",
+      "catalyst": "Earnings This Week | Payroll/HR Beneficiary",
+      "setup": "Quality defensive; less capex-sensitive than industrials",
+      "entry": "Long 198.00 support; wheel short puts 195 strike",
+      "stop": "193.00",
+      "target": "210.00",
+      "conviction": "Low"
+    },
+    {
+      "ticker": "DRI",
+      "catalyst": "Restaurant Earnings | Consumer Discretionary Barometer",
+      "setup": "Post-Iran demand thesis; watch for margin pressure vs revenue",
+      "entry": "Long 310.00 if macro sentiment holds",
+      "stop": "302.00",
+      "target": "325.00",
+      "conviction": "Low"
+    }
+  ],
+  "watchlist": [
+    {
+      "ticker": "MU",
+      "catalyst": "Earnings Announcement | AI Capex Supercycle",
+      "premarket_action": "Monitoring vol expansion ahead of Tue/Wed event",
+      "support": "242.50",
+      "resistance": "252.00",
+      "pattern": "Cup-and-handle formation; consolidation before breakout",
+      "priority": "1"
+    },
+    {
+      "ticker": "FDX",
+      "catalyst": "Earnings Tue PM | Logistics Bellwether",
+      "premarket_action": "Quiet premarket; watch for cross-market strength cues",
+      "support": "335.00",
+      "resistance": "345.00",
+      "pattern": "Symmetrical triangle; breakout imminent",
+      "priority": "2"
+    },
+    {
+      "ticker": "SMCI",
+      "catalyst": "AI Data Center Supercycle Play",
+      "premarket_action": "Riding AI infrastructure bid; strong relative strength",
+      "support": "425.00",
+      "resistance": "438.50",
+      "pattern": "Rounding bottom | Institutional accumulation",
+      "priority": "3"
+    },
+    {
+      "ticker": "IWM",
+      "catalyst": "Small Cap Rotation Signal | Outperformance vs SPY/QQQ",
+      "premarket_action": "Up 0.61% vs indices down; follow-through key",
+      "support": "295.00",
+      "resistance": "302.00",
+      "pattern": "Bullish breakaway gap; momentum continuation likely",
+      "priority": "4"
+    },
+    {
+      "ticker": "CCL",
+      "catalyst": "Earnings Tue | Iran Peace Rally Play",
+      "premarket_action": "Light volume premarket; watch for cruise/travel sector lift",
+      "support": "33.00",
+      "resistance": "35.00",
+      "pattern": "Inverse head-and-shoulders; recovery in progress",
+      "priority": "5"
+    },
+    {
+      "ticker": "XLK",
+      "catalyst": "Tech Sector Equilibrium | Mega-Cap Risk Mgmt",
+      "premarket_action": "Flat consolidation; look for sector rotation cues",
+      "support": "190.00",
+      "resistance": "192.50",
+      "pattern": "Sideways flag | Break needed for trend confirmation",
+      "priority": "6"
+    },
+    {
+      "ticker": "SPY",
+      "catalyst": "Macro Backdrop | Earnings Season Ramp",
+      "premarket_action": "Slight weakness -0.36%; support hold critical",
+      "support": "742.00",
+      "resistance": "748.00",
+      "pattern": "Consolidation range-bound; pivot on macro data/Fed speak",
+      "priority": "7"
+    },
+    {
+      "ticker": "QQQ",
+      "catalyst": "Tech Weakness | Rebalancing Pressure Noted",
+      "premarket_action": "Lagging SPY by 30 bps; mega-cap risk-off signal",
+      "support": "730.00",
+      "resistance": "740.00",
+      "pattern": "Downtrend establishing; watch for breakdown below 725",
+      "priority": "8"
+    },
+    {
+      "ticker": "TCOM",
+      "catalyst": "Earnings This Week | China ADR Play",
+      "premarket_action": "Light flow; monitor China macro sentiment",
+      "support": "115.00",
+      "resistance": "125.00",
+      "pattern": "Breakout attempt; ADR vol can spike on earnings",
+      "priority": "9"
+    },
+    {
+      "ticker": "AYI",
+      "catalyst": "Earnings Tue AM | Industrials Theme",
+      "premarket_action": "Light premarket; niche play in industrial capex theme",
+      "support": "195.00",
+      "resistance": "205.00",
+      "pattern": "Consolidating; watch for industrial strength continuation",
+      "priority": "10"
+    }
+  ],
+  "position_actions": [
+    {
+      "action": "BUY",
+      "ticker": "MU",
+      "reasoning": "High-conviction earnings catalyst; options vol suggests major move; long before Tue event"
+    },
+    {
+      "action": "BUY",
+      "ticker": "FDX",
+      "reasoning": "Bellwether logistics print; industrials institutional bid strong; setup prior to Tue close"
+    },
+    {
+      "action": "ADD",
+      "ticker": "IWM",
+      "reasoning": "Relative strength vs SPY/QQQ is green flag; small-cap rotation thesis intact"
+    },
+    {
+      "action": "HOLD",
+      "ticker": "SPY",
+      "reasoning": "Slight weakness not panic; macro support from lower oil; await earnings clarity"
+    },
+    {
+      "action": "TRIM",
+      "ticker": "QQQ",
+      "reasoning": "Lagging indices; mega-cap risk-off signal; reduce exposure until momentum returns"
+    },
+    {
+      "action": "BUY",
+      "ticker": "SMCI",
+      "reasoning": "AI infra play aligns with institutional capex theme; dip-buying opportunity"
+    },
+    {
+      "action": "HOLD",
+      "ticker": "XLK",
+      "reasoning": "Sector in equilibrium; wait for clear directional bias before adds"
+    },
+    {
+      "action": "HEDGE",
+      "ticker": "SPY",
+      "reasoning": "VIX regime complacent but earnings volatility rising; buy June 27 746 call spread for protection"
+    }
+  ],
+  "wheel_book": [
+    {
+      "ticker": "MU",
+      "sector": "Technology/Semiconductors",
+      "iv_rank_est": "78-82",
+      "delta": "0.35",
+      "dte": "14",
+      "strike_zone": "Short 240 put (assign risk Med) | Sell 245/255 call spread (premium capture)",
+      "assignment_risk": "Med",
+      "priority": "Earnings event risk too high this week; defer until post-announcement"
+    },
+    {
+      "ticker": "FDX",
+      "sector": "Industrials/Logistics",
+      "iv_rank_est": "72-76",
+      "delta": "0.40",
+      "dte": "14",
+      "strike_zone": "Short 330 put | Sell 345/360 call spread (collect premium ahead of print)",
+      "assignment_risk": "Med",
+      "priority": "Strong fundamental backdrop; short put assignment acceptable for wheel"
+    },
+    {
+      "ticker": "PAYX",
+      "sector": "Financials/Payroll Software",
+      "iv_rank_est": "55-60",
+      "delta": "0.38",
+      "dte": "21",
+      "strike_zone": "Short 195 put (IV modest) | Sell 210/220 call spread (income bias)",
+      "assignment_risk": "Low",
+      "priority": "Quality name; low IV means sell premium at wider intervals"
+    },
+    {
+      "ticker": "SMCI",
+      "sector": "Technology/Infrastructure",
+      "iv_rank_est": "75-80",
+      "delta": "0.42",
+      "dte": "14",
+      "strike_zone": "Short 420 put | Sell 440/460 call spread (ride AI wave with defined risk)",
+      "assignment_risk": "Med",
+      "priority": "High conviction but IV extreme; tighter strike zones warranted"
+    },
+    {
+      "ticker": "DRI",
+      "sector": "Consumer Discretionary/Restaurants",
+      "iv_rank_est": "58-62",
+      "delta": "0.36",
+      "dte": "21",
+      "strike_zone": "Short 305 put | Sell 320/335 call spread (balanced income)",
+      "assignment_risk": "Low",
+      "priority": "Lower IV; good for consistent wheel turns if assigned"
+    }
+  ],
+  "risk_alerts": [
+    "Earnings season volatility spike: MU, FDX, CCL, PAYX this week will drive gamma/vega; position sizing critical",
+    "Tech mega-cap rebalancing pressure noted (JPM); QQQ showing weakness vs SPY; trim if breakdown below 725 confirmed",
+    "Iran de-escalation narrative may reverse on geopolitical re-escalation; crude rally would pressure yields/equities upward",
+    "VIX regime unconfirmed at 12:41 PM; if implied vol spikes above 18, shift to defensive posture immediately",
+    "Quarter-end institutional selling noted in large-cap tech; watch for block prints in XLK/QQQ into Jun 27 close"
+  ],
+  "cio_verdict": {
+    "risk_posture": "Neutral-to-Cautious",
+    "capital_flow": "50% Position Trade: MU long + FDX long + IWM add on dips | 20% Income: Wheel premium on PAYX/DRI before earnings | 30% Hedge: Jun 27 SPY call spreads 746/755 for tail-risk protection. Avoid broad QQQ shorts until breakdown confirmed.",
+    "avoid": "Real estate sector (explicit negative rating); broad financials (rate-cut delays); mega-cap mega-cap offsides in XLK (rebalancing pressure); naked short calls in MU/FDX this week (earnings gamma)"
+  }
+}
