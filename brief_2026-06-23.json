@@ -1,0 +1,296 @@
+{
+  "date": "2026-06-23",
+  "generated_at": "Tuesday, June 23, 2026 \u2014 10:32 AM ET",
+  "regime": "Risk-Off",
+  "cio_summary": [
+    "Geopolitical escalation (Iran/Israel, Strait of Hormuz threat) driving oil spike >2%, equities red across tech",
+    "Megacap tech selloff led by GOOGL (-5%) on DeepMind VP departure to Anthropic; QQQ -2.37%",
+    "VIX regime rising into 20-25 caution zone; dollar strong (EUR/USD 1.1426), 10Y yield pressure from inflation/geo risk",
+    "FDX, CCL, CBRS earnings today; MU explosive expectations tomorrow (EPS $20.05 vs $1.91 YoY)",
+    "Portfolio posture: REDUCE exposure, raise cash, pivot to energy/defensive, avoid tech concentration"
+  ],
+  "macro_dashboard": {
+    "spy_trend": "Down -0.84%; support 730, resistance 745",
+    "qqq_trend": "Down -2.37%; tech weakness; support 710, resistance 735",
+    "iwm_trend": "Down -0.56%; resilient vs mega-cap",
+    "vix": "Est. 22-24 (trending higher)",
+    "vix_regime": "Caution (20-25): Geo risk premium active",
+    "yield_10y": "Rising (est. 4.35-4.45%) on inflation/geo concerns",
+    "dollar_trend": "Strong (DXY rising; EUR/USD 1.1426)",
+    "oil_trend": "WTI +2.0% to ~$90; Hormuz threat",
+    "crypto_sentiment": "Mixed risk-off pressure; BTC declining overnight",
+    "tactical_bias": "Fade Strength - sell rallies, build dry powder"
+  },
+  "institutional_setups": [
+    {
+      "ticker": "XLE",
+      "catalyst": "Oil supply risk (Hormuz); geopolitical premium",
+      "setup": "Energy sector rotation; breakout above $92 WTI",
+      "entry": "$78.50-79.50 (dip buy on 200ma support)",
+      "stop": "$76.00",
+      "target": "$85.00-87.00",
+      "conviction": "High"
+    },
+    {
+      "ticker": "ICLN",
+      "catalyst": "Infrastructure/AI power demand supercycle",
+      "setup": "Clean energy ETF; energy infrastructure rotation",
+      "entry": "$52.00-53.00 (support)",
+      "stop": "$49.50",
+      "target": "$58.00-60.00",
+      "conviction": "High"
+    },
+    {
+      "ticker": "XLV",
+      "catalyst": "Healthcare M&A activity; defensive rotation",
+      "setup": "Sector strength in risk-off; pharma outperformance",
+      "entry": "$166.00-167.00",
+      "stop": "$162.00",
+      "target": "$172.00-174.00",
+      "conviction": "Med"
+    },
+    {
+      "ticker": "FDX",
+      "catalyst": "Earnings today after close; logistics cycle",
+      "setup": "Support at 180; pre-earnings dip-buy if beat",
+      "entry": "$175.00-177.00",
+      "stop": "$170.00",
+      "target": "$190.00-195.00",
+      "conviction": "Med"
+    },
+    {
+      "ticker": "CIBR",
+      "catalyst": "Cybersecurity/AI adoption acceleration",
+      "setup": "Cloud/security rotation signal; defensive",
+      "entry": "$55.00-56.00",
+      "stop": "$52.50",
+      "target": "$62.00-65.00",
+      "conviction": "Med"
+    },
+    {
+      "ticker": "SMH",
+      "catalyst": "Semiconductor demand (AI infrastructure)",
+      "setup": "Dip-buy near 200ma ($235); avoid overbought",
+      "entry": "$233.00-235.00",
+      "stop": "$225.00",
+      "target": "$250.00-260.00",
+      "conviction": "Med"
+    },
+    {
+      "ticker": "SOXL",
+      "catalyst": "3x leveraged semis ETF; volatility compounding",
+      "setup": "High risk/reward in trend; vol ratio 1.58",
+      "entry": "$235.00-240.00 (risk-adjusted position only)",
+      "stop": "$220.00",
+      "target": "$270.00+",
+      "conviction": "Low"
+    },
+    {
+      "ticker": "CCL",
+      "catalyst": "Earnings before open; cruise recovery cycle",
+      "setup": "Pre-earnings volatility; sector exposure",
+      "entry": "$28.50-29.50 (if miss)",
+      "stop": "$26.50",
+      "target": "$32.00-34.00",
+      "conviction": "Med"
+    }
+  ],
+  "watchlist": [
+    {
+      "ticker": "GOOGL",
+      "catalyst": "DeepMind VP departure to Anthropic; -5% premarket",
+      "premarket_action": "Down 5%+ on talent loss signal",
+      "support": "$188.00",
+      "resistance": "$210.00",
+      "pattern": "Breakdown below 200d MA ($205)",
+      "priority": "1"
+    },
+    {
+      "ticker": "MU",
+      "catalyst": "Explosive earnings tomorrow (EPS $20.05 vs $1.91 YoY); memory cycle inflection",
+      "premarket_action": "High implied vol; positioning for gap",
+      "support": "$165.00",
+      "resistance": "$185.00",
+      "pattern": "Cup-and-handle; breakout risk",
+      "priority": "2"
+    },
+    {
+      "ticker": "FDX",
+      "catalyst": "Earnings today after close; logistics/macro sensitive",
+      "premarket_action": "Normal premarket; dip-buy setup",
+      "support": "$178.00",
+      "resistance": "$188.00",
+      "pattern": "Support hold above 178",
+      "priority": "3"
+    },
+    {
+      "ticker": "CCL",
+      "catalyst": "Earnings before open; cruise cycle recovery",
+      "premarket_action": "High volume; gap up/down risk",
+      "support": "$28.00",
+      "resistance": "$31.00",
+      "pattern": "Consolidation; breakout pending",
+      "priority": "4"
+    },
+    {
+      "ticker": "CBRS",
+      "catalyst": "Cerebras earnings today; AI chip competitive threat",
+      "premarket_action": "High vol premarket",
+      "support": "$42.00",
+      "resistance": "$52.00",
+      "pattern": "Gap up momentum possible",
+      "priority": "5"
+    },
+    {
+      "ticker": "XLK",
+      "catalyst": "Tech sector weakness drag (-3.17%); earnings rotation",
+      "premarket_action": "Sector downtrend",
+      "support": "$180.00",
+      "resistance": "$190.00",
+      "pattern": "Breakdown below 20d MA",
+      "priority": "6"
+    },
+    {
+      "ticker": "IYM",
+      "catalyst": "Transportation/logistics cycle; oil exposure",
+      "premarket_action": "Mixed; tracking oil vol",
+      "support": "$285.00",
+      "resistance": "$300.00",
+      "pattern": "Support test",
+      "priority": "7"
+    },
+    {
+      "ticker": "USO",
+      "catalyst": "Oil ETF; WTI +2% on Hormuz threat",
+      "premarket_action": "Up +2% with crude",
+      "support": "$72.00",
+      "resistance": "$78.00",
+      "pattern": "Breakout above $75",
+      "priority": "8"
+    },
+    {
+      "ticker": "EEM",
+      "catalyst": "Risk-off rotation; emerging market pressure",
+      "premarket_action": "Lagging US markets",
+      "support": "$38.50",
+      "resistance": "$41.00",
+      "pattern": "Breakdown risk",
+      "priority": "9"
+    },
+    {
+      "ticker": "IWM",
+      "catalyst": "Small-cap resilience; contrarian bounce",
+      "premarket_action": "Down -0.56%; oversold",
+      "support": "$294.00",
+      "resistance": "$302.00",
+      "pattern": "Support hold; dip-buy",
+      "priority": "10"
+    }
+  ],
+  "position_actions": [
+    {
+      "action": "TRIM",
+      "ticker": "QQQ",
+      "reasoning": "Tech down -2.37%; reduce concentration risk to 8% of portfolio; lock profits, raise cash"
+    },
+    {
+      "action": "TRIM",
+      "ticker": "GOOGL",
+      "reasoning": "Down 5% on talent loss (DeepMind departure); take profits, reset entry point"
+    },
+    {
+      "action": "HOLD",
+      "ticker": "XLV",
+      "reasoning": "Healthcare defensive; outperforming tech; support at 166 holds; keep full position"
+    },
+    {
+      "action": "ADD",
+      "ticker": "XLE",
+      "reasoning": "Oil +2% on geopolitical premium; energy rotation signal; buy $78.50-79.50 dip; 5% position"
+    },
+    {
+      "action": "BUY",
+      "ticker": "ICLN",
+      "reasoning": "Supercycle rotation to energy infra; AI power demand; entry $52.00-53.00; 6% position"
+    },
+    {
+      "action": "BUY",
+      "ticker": "CIBR",
+      "reasoning": "Cybersecurity/cloud rotation; defensive; entry $55.00-56.00; 5% position"
+    },
+    {
+      "action": "HOLD",
+      "ticker": "FDX",
+      "reasoning": "Pre-earnings dip-buy at $175.00-177.00; logistics cycle intact; event risk today after close"
+    },
+    {
+      "action": "HEDGE",
+      "ticker": "SPY",
+      "reasoning": "VIX rising (20-25 caution zone); buy OTM put spread (2-3 weeks out) 5% portfolio hedge"
+    }
+  ],
+  "wheel_book": [
+    {
+      "ticker": "XLE",
+      "sector": "Energy",
+      "iv_rank_est": "72",
+      "delta": "0.30",
+      "dte": "21",
+      "strike_zone": "$76.00-77.00 put sell",
+      "assignment_risk": "High",
+      "priority": "1 - Sell puts, collect premium on dip-buy thesis"
+    },
+    {
+      "ticker": "CCL",
+      "sector": "Consumer Discretionary",
+      "iv_rank_est": "68",
+      "delta": "0.25",
+      "dte": "7",
+      "strike_zone": "$28.00-29.00 put sell (pre-earnings)",
+      "assignment_risk": "High",
+      "priority": "2 - High vol pre-earnings; 30-45 DTE safer"
+    },
+    {
+      "ticker": "FDX",
+      "sector": "Industrials",
+      "iv_rank_est": "65",
+      "delta": "0.35",
+      "dte": "14",
+      "strike_zone": "$175.00-176.00 put sell (post-earnings)",
+      "assignment_risk": "Med",
+      "priority": "3 - Post-earnings vol crush; 21+ DTE"
+    },
+    {
+      "ticker": "CIBR",
+      "sector": "Technology",
+      "iv_rank_est": "58",
+      "delta": "0.25",
+      "dte": "28",
+      "strike_zone": "$53.00-54.00 put sell",
+      "assignment_risk": "Low",
+      "priority": "4 - Steady sector; low assignment risk"
+    },
+    {
+      "ticker": "IWM",
+      "sector": "Broad Market",
+      "iv_rank_est": "48",
+      "delta": "0.30",
+      "dte": "35",
+      "strike_zone": "$293.00-294.00 put sell",
+      "assignment_risk": "Med",
+      "priority": "5 - Small-cap dip-buy opportunity; longer DTE"
+    }
+  ],
+  "risk_alerts": [
+    "GEOPOLITICAL ESCALATION: Iran threatens Hormuz closure; oil spike +2%; supply shock tail risk active",
+    "TECH CONCENTRATION: GOOGL -5%, QQQ -2.37%; reduce mega-cap exposure to <8% per position",
+    "VIX REGIME SHIFT: Estimate 22-24 (caution zone); portfolio -6% trigger approaching; raise cash to 15-20%",
+    "EARNINGS VOLATILITY: FDX, CCL, CBRS today; MU massive beat expectations tomorrow; pre-earnings hedges recommended",
+    "DOLLAR STRENGTH: EUR/USD 1.1426; emerging markets under pressure; reduce EEM, add developed market hedges"
+  ],
+  "cio_verdict": {
+    "risk_posture": "Defensive",
+    "capital_flow": "RAISE CASH: trim QQQ, GOOGL; deploy into energy (XLE), clean infra (ICLN), defensive sectors (XLV, CIBR). Target 15-20% dry powder for geo shock absorption.",
+    "avoid": "Software (IGV, XSD), IT Services (JKR), mega-cap tech concentration >10%, naked earnings exposure, leverage (reduce SOXL), EEM/EM without hedge"
+  }
+}
