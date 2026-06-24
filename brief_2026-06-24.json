@@ -1,0 +1,296 @@
+{
+  "date": "2026-06-24",
+  "generated_at": "Wednesday, June 24, 2026 \u2014 10:11 AM ET",
+  "regime": "Risk-Off",
+  "cio_summary": [
+    "SPX futures down -1.33% overnight; VIX elevated on macro tightening + tech volatility fears",
+    "Iran ceasefire breakthrough eases geopolitical risk; oil +3% but equities still under pressure",
+    "MU earnings after close is primary catalyst; 12% intraday drop pre-earnings volatility spike expected",
+    "Energy + AI capex sectors leading; Consumer Discretionary, Real Estate, Healthcare lagging hard",
+    "Fed stress test results 4 PM ET today = potential bank/systemic volatility catalyst"
+  ],
+  "macro_dashboard": {
+    "spy_trend": "Weak; +0.31% but SPX futures -1.33% overnight pressure",
+    "qqq_trend": "Weakening; +0.19% but chip concentration risk (Intel -6%, Broadcom weak)",
+    "iwm_trend": "Relative strength +0.58%; small-cap resilience vs. mega-cap tech",
+    "vix": "Elevated; Week 1 VIX futures high; market pricing fear",
+    "vix_regime": "20-25 (Caution)",
+    "yield_10y": "Firm; rate hike expectations for 2026 keep bonds heavy",
+    "dollar_trend": "Strong; DXY supported, EUR/USD -0.41% weaker",
+    "oil_trend": "Bullish +3%; Iran ceasefire eases supply fears, WTI ~$90",
+    "crypto_sentiment": "Risk-off correlated; tracking equity volatility downward",
+    "tactical_bias": "Fade Strength"
+  },
+  "institutional_setups": [
+    {
+      "ticker": "MU",
+      "catalyst": "Q3 earnings after close; supply-demand imbalance; YTD +270%",
+      "setup": "Straddle play; 12% intraday drop pre-earnings = elevated IV; expect 8-12% move post-report",
+      "entry": "Buy 155/165 straddle or ATM iron condor if IV > 65",
+      "stop": "Close if move occurs before 4 PM; exit 30min post-earnings if no thesis",
+      "target": "Directional breakout >8% OR IV crush fade into close",
+      "conviction": "High"
+    },
+    {
+      "ticker": "XLE",
+      "catalyst": "Energy sector breadth rally; Iran ceasefire +geopolitical relief",
+      "setup": "Institutional inflows into Energy; only sector with 'notable breadth'; +3% oil tailwind",
+      "entry": "Buy dip to 200-day MA; target sector rotation allocation 5%",
+      "stop": "$82 (2% below current trend)",
+      "target": "$95-100 (Oil spike narrative + cap allocation relief)",
+      "conviction": "High"
+    },
+    {
+      "ticker": "QQQ",
+      "catalyst": "Tech volatility; Intel -6%, Broadcom weak, Nvidia uncertainty",
+      "setup": "Fade strength into Fed stress test 4 PM; concentration risk in mega-caps",
+      "entry": "Short call spreads 710/720 (5 DTE) OR buy puts at resistance",
+      "stop": "QQQ breaks $720 (conviction cut)",
+      "target": "Retest $700 or lower by EOW if stress test hawkish",
+      "conviction": "Med"
+    },
+    {
+      "ticker": "GLD",
+      "catalyst": "Risk-off hedge; macro tightening + geopolitical relief = gold outperformance",
+      "setup": "Buy gold on VIX elevation; flight-to-safety play; hedge against rate shock",
+      "entry": "Buy $200-202 zone; target 3% portfolio hedge allocation",
+      "stop": "$195 (technical break)",
+      "target": "$210-215 (risk-off extension)",
+      "conviction": "Med"
+    },
+    {
+      "ticker": "TSLA",
+      "catalyst": "Mega-cap concentration unwind; relative weakness vs. IWM",
+      "setup": "TSLA likely to underperform if SPX corrects; high beta down risk",
+      "entry": "Short $315 calls or buy $305 puts (DTE 10+)",
+      "stop": "$330 (conviction invalidated)",
+      "target": "$290-300 (mega-cap mean reversion)",
+      "conviction": "Med"
+    },
+    {
+      "ticker": "KRE",
+      "catalyst": "Regional bank pre-stress test positioning; Fed results 4 PM = vol driver",
+      "setup": "Light long or neutral; stress test results potential catalyst for +/-5%",
+      "entry": "Watch $82-84 for dip-buy if results positive",
+      "stop": "$80 (downside breach)",
+      "target": "$90 (post-stress relief rally)",
+      "conviction": "Low"
+    },
+    {
+      "ticker": "CPI",
+      "catalyst": "IWM relative strength; small-cap rotation into lagging sectors",
+      "setup": "Infrastructure play; lagging Healthcare/Industrials rotation upside",
+      "entry": "Buy $130 zone; 2-3% position for rotation hedge",
+      "stop": "$127",
+      "target": "$138-140",
+      "conviction": "Low"
+    },
+    {
+      "ticker": "PAYX",
+      "catalyst": "Pre-open earnings; routine payroll processor report",
+      "setup": "Low volatility; defensive long if market stabilizes post-stress test",
+      "entry": "$145.50 dip-buy",
+      "stop": "$142",
+      "target": "$152",
+      "conviction": "Low"
+    }
+  ],
+  "watchlist": [
+    {
+      "ticker": "MU",
+      "catalyst": "Earnings after close; supply-demand imbalance narrative",
+      "premarket_action": "Down 12% intraday; elevated IV; near 200-day MA test",
+      "support": "$145 (50-day MA)",
+      "resistance": "$165 (52-week high proximity)",
+      "pattern": "Breakdown into support pre-earnings; straddle setup",
+      "priority": "1"
+    },
+    {
+      "ticker": "XLE",
+      "catalyst": "Energy sector institutional inflows; oil +3% on Iran ceasefire",
+      "premarket_action": "Steady; accumulation zone; breadth leader today",
+      "support": "$87 (10-day MA)",
+      "resistance": "$92 (50-day MA target)",
+      "pattern": "Bullish breakout continuation; sector rotation play",
+      "priority": "2"
+    },
+    {
+      "ticker": "QQQ",
+      "catalyst": "Tech sector concentration risk; Intel -6% warning",
+      "premarket_action": "Weak +0.19%; mega-cap drag",
+      "support": "$700 (200-day MA)",
+      "resistance": "$720 (recent high)",
+      "pattern": "Failed breakout; consolidation into stress test decision",
+      "priority": "3"
+    },
+    {
+      "ticker": "NVDA",
+      "catalyst": "Nvidia PC chip strength vs. Intel collapse; AI capex narrative intact",
+      "premarket_action": "Implied flat; watching for late-session strength post-stress test",
+      "support": "$140 (50-day MA)",
+      "resistance": "$155 (resistance zone)",
+      "pattern": "Consolidation; breadth leader if market stabilizes",
+      "priority": "4"
+    },
+    {
+      "ticker": "GLD",
+      "catalyst": "Risk-off hedge; VIX elevated; macro tightening tailwind",
+      "premarket_action": "Steady; flight-to-safety accumulation expected if SPX breaks",
+      "support": "$195 (50-day MA)",
+      "resistance": "$210 (52-week high)",
+      "pattern": "Potential breakout into safe-haven mode",
+      "priority": "5"
+    },
+    {
+      "ticker": "TSLA",
+      "catalyst": "Mega-cap unwind risk; relative weakness vs. equal-weight",
+      "premarket_action": "Weak; underperforming SPY on tech sector drag",
+      "support": "$305 (50-day MA)",
+      "resistance": "$330 (20-day MA)",
+      "pattern": "Potential breakdown if SPX rolls over post-stress test",
+      "priority": "6"
+    },
+    {
+      "ticker": "XLV",
+      "catalyst": "Healthcare lagging sector; avoidance candidate per rotation guidance",
+      "premarket_action": "Flat; lower relative strength vs. Energy/Tech",
+      "support": "$145 (200-day MA)",
+      "resistance": "$155 (50-day MA)",
+      "pattern": "Bearish relative; sector outflow signal",
+      "priority": "7"
+    },
+    {
+      "ticker": "KRE",
+      "catalyst": "Regional banks pre-stress test; Fed 4 PM catalyst watch",
+      "premarket_action": "Flat; positioning ahead of results",
+      "support": "$80 (50-day MA)",
+      "resistance": "$90 (recent high)",
+      "pattern": "Volatility expected post-4 PM Fed announcement",
+      "priority": "8"
+    },
+    {
+      "ticker": "TCOM",
+      "catalyst": "Pre-open earnings; Trip.com ADR routine report",
+      "premarket_action": "Not moving materially; low market cap impact",
+      "support": "$65 (50-day MA est.)",
+      "resistance": "$75 (technical zone)",
+      "pattern": "Post-earnings gap risk; monitor open",
+      "priority": "9"
+    },
+    {
+      "ticker": "USO",
+      "catalyst": "Oil rally continuation; Iran ceasefire structural tailwind",
+      "premarket_action": "Implied strong; +3% crude = energy ETF inflow",
+      "support": "$85 (50-day MA)",
+      "resistance": "$98 (52-week high vicinity)",
+      "pattern": "Breakout setup; sector rotation accelerant",
+      "priority": "10"
+    }
+  ],
+  "position_actions": [
+    {
+      "action": "HEDGE",
+      "ticker": "QQQ",
+      "reasoning": "Tech concentration risk + stress test catalyst 4 PM; buy $710 puts (5 DTE) to hedge mega-cap exposure"
+    },
+    {
+      "action": "ADD",
+      "ticker": "XLE",
+      "reasoning": "Energy breadth leader; Iran ceasefire + institutional inflows; target 5% position allocation"
+    },
+    {
+      "action": "HOLD",
+      "ticker": "GLD",
+      "reasoning": "VIX elevated; macro tightening intact; safe-haven positioning profitable; no exit signal"
+    },
+    {
+      "action": "TRIM",
+      "ticker": "TSLA",
+      "reasoning": "Mega-cap unwind risk; relative weakness vs. equal-weight; trim 50% exposure into any bounces"
+    },
+    {
+      "action": "EXIT",
+      "ticker": "XLU",
+      "reasoning": "Utilities underperforming sector rotation; lagging defensive play; no conviction in this regime"
+    },
+    {
+      "action": "BUY",
+      "ticker": "MU",
+      "reasoning": "Straddle play; 12% drop pre-earnings = volatility setup; buy ATM straddle if IV > 65, manage post-earnings"
+    },
+    {
+      "action": "HOLD",
+      "ticker": "SPY",
+      "reasoning": "Core portfolio; stress test 4 PM is key decision point; no action until results"
+    },
+    {
+      "action": "HEDGE",
+      "ticker": "IWM",
+      "reasoning": "Small-cap resilience; potential hedge against mega-cap concentration unwind; add 2% allocation"
+    }
+  ],
+  "wheel_book": [
+    {
+      "ticker": "XLE",
+      "sector": "Energy",
+      "iv_rank_est": "55-60%",
+      "delta": "0.30",
+      "dte": "30",
+      "strike_zone": "Sell $82-84 puts; buy $90 calls (diagonal spread)",
+      "assignment_risk": "Low",
+      "priority": "Highest; sector inflow tailwind + institutional breadth signal"
+    },
+    {
+      "ticker": "GLD",
+      "sector": "Precious Metals",
+      "iv_rank_est": "45-50%",
+      "delta": "0.25",
+      "dte": "30",
+      "strike_zone": "Sell $195 puts; collect 1.5% premium; assignment likely = long hedge",
+      "assignment_risk": "Med",
+      "priority": "High; risk-off setup supports assignment, hedge allocation justifies it"
+    },
+    {
+      "ticker": "PAYX",
+      "sector": "Business Services",
+      "iv_rank_est": "35-40%",
+      "delta": "0.20",
+      "dte": "45",
+      "strike_zone": "Sell $142 puts; post-earnings premium decay play",
+      "assignment_risk": "Low",
+      "priority": "Med; defensive income if market stabilizes post-stress test"
+    },
+    {
+      "ticker": "KRE",
+      "sector": "Financials",
+      "iv_rank_est": "50-55%",
+      "delta": "0.35",
+      "dte": "30",
+      "strike_zone": "Monitor post-stress test 4 PM; sell $80 puts ONLY if results positive",
+      "assignment_risk": "High",
+      "priority": "Low (conditional); wait for stress test catalyst clarity"
+    },
+    {
+      "ticker": "TCOM",
+      "sector": "Travel",
+      "iv_rank_est": "40-45%",
+      "delta": "0.25",
+      "dte": "30",
+      "strike_zone": "Avoid pre-earnings; reassess post-close if gap is contained",
+      "assignment_risk": "Med",
+      "priority": "Low; earnings risk premium not compensating today"
+    }
+  ],
+  "risk_alerts": [
+    "Fed stress test results 4 PM ET = potential +/-500 SPX basis point swing; position accordingly before close",
+    "MU earnings after close = headline risk; elevated IV (straddle profitable but gamma risk pre-earnings high)",
+    "Tech mega-cap concentration (NVDA, MSFT, TSLA, GOOGL) = liquidation risk if SPX rolls; QQQ hedges critical",
+    "Iran ceasefire = oil rally tailwind but geopolitical reversal risk (40-60 day memorandum); avoid size in XLE >5%",
+    "VIX elevation + negative SPX futures momentum overnight = morning washout likely; avoid FOMO longs into stress test"
+  ],
+  "cio_verdict": {
+    "risk_posture": "Defensive",
+    "capital_flow": "Deploy 40% into Energy (XLE/USO) on breadth + Iran tailwind; 30% into Gold/TLT hedges (VIX + tightening support); 20% into small-cap IWM rotation; 10% cash for MU earnings + stress test volatility window",
+    "avoid": "Consumer Discretionary, Real Estate, Healthcare (lagging, lower earnings); mega-cap concentration unwind plays (TSLA, NFLX); avoid naked short calls into stress test catalyst; no margin or leverage"
+  }
+}
