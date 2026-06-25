@@ -1,0 +1,296 @@
+{
+  "date": "2026-06-25",
+  "generated_at": "Thursday, June 25, 2026 \u2014 10:08 AM ET",
+  "regime": "Risk-On",
+  "cio_summary": [
+    "Micron earnings beat (+1.15% NQ futes) reignites AI capex cycle; Tech/Semis in genuine uptrend",
+    "Geopolitical relief: US-Iran Strait of Hormuz deal deflates oil to $69, reduces inflation pressure",
+    "VIX 18.66 = healthy trend regime; no capitulation, no complacency \u2014 ideal for directional longs",
+    "PCE data + earnings flow (DRI/MKC/BB pre-market) key volatility catalysts; position ahead of 2:30p PCE",
+    "Sector rotation: Private debt institutional inflows vs liquid alt outflows; Energy/Semis/Tech lead"
+  ],
+  "macro_dashboard": {
+    "spy_trend": "Up +0.46% PM; breakout above 734 intact",
+    "qqq_trend": "Up +0.21% PM; Micron beat fuels NQ 100 +1.15% futes",
+    "iwm_trend": "Up +0.93% PM; small-cap insider accumulation in Financials/MREITs",
+    "vix": "18.66 (down -0.83%)",
+    "vix_regime": "Healthy trend (15-20); supports directional longs with defined risk",
+    "yield_10y": "4.411% (stable); no inflation surprise priced in yet",
+    "dollar_trend": "Weak -0.24% (DXY 1.1359); supports commodities/EM rotation",
+    "oil_trend": "Down -1.1% to $69 (Hormuz deal relief); energy stocks consolidate",
+    "crypto_sentiment": "BTC $108.5k +1.2% overnight; correlated to Tech/AI euphoria not direct catalyst",
+    "tactical_bias": "Buy Dips; AI capex cycle genuine, VIX supports risk-on, macro benign"
+  },
+  "institutional_setups": [
+    {
+      "ticker": "CRWD",
+      "catalyst": "Cybersecurity earnings Wed PM; AI-driven endpoint demand",
+      "setup": "Breakout above 200-MA on Micron coattails; chart setup bullish",
+      "entry": "Buy 392-396 zone on dip; stop below 380",
+      "stop": "380",
+      "target": "420-435 (12-15% upside)",
+      "conviction": "High"
+    },
+    {
+      "ticker": "PANW",
+      "catalyst": "Earnings Wed PM; enterprise AI/cloud security tailwinds",
+      "setup": "Consolidating 295-310 range; institutional accumulation pattern",
+      "entry": "Buy 298-302 zone on PCE-driven dip if CPI benign",
+      "stop": "288",
+      "target": "335-350 (13-18% upside)",
+      "conviction": "High"
+    },
+    {
+      "ticker": "AVGO",
+      "catalyst": "Broadcom earnings Wed after-hours; AI infrastructure capex guide",
+      "setup": "Weekly uptrend intact; quarterly seasonality bullish June-July",
+      "entry": "Buy 215-220 on any PCE weakness; stop 205",
+      "stop": "205",
+      "target": "245-255 (15-18% upside)",
+      "conviction": "High"
+    },
+    {
+      "ticker": "XLE",
+      "catalyst": "Energy sector tail risk hedge + Hormuz deal = stabilization",
+      "setup": "Oversold vs SPY on geopolitical premium unwind; accumulation pattern",
+      "entry": "Buy 88-90 zone; stop 84",
+      "stop": "84",
+      "target": "98-102 (11-15% upside)",
+      "conviction": "Medium"
+    },
+    {
+      "ticker": "RBRK",
+      "catalyst": "Backup/cyber earnings this week; AI workload automation tailwind",
+      "setup": "Recent IPO; institutional rotation into AI data infrastructure",
+      "entry": "Buy 35-37 zone on PCE-triggered dip; stop 32",
+      "stop": "32",
+      "target": "42-46 (15-20% upside)",
+      "conviction": "Medium"
+    },
+    {
+      "ticker": "CIEN",
+      "catalyst": "Networking/optical earnings this week; data center buildout ongoing",
+      "setup": "Weekly cup-and-handle; AI capex cycle provides multi-quarter tailwind",
+      "entry": "Buy 78-81 zone; stop 72",
+      "stop": "72",
+      "target": "92-98 (17-22% upside)",
+      "conviction": "Medium"
+    },
+    {
+      "ticker": "DRI",
+      "catalyst": "Fiscal Q4 earnings pre-market today; consumer dining trends",
+      "setup": "Post-earnings volatility; watch guidance for pricing power vs labor costs",
+      "entry": "Buy 195-200 post-earnings if beat + guide up; stop 185",
+      "stop": "185",
+      "target": "215-225 (10-15% upside if positive surprise)",
+      "conviction": "Medium"
+    },
+    {
+      "ticker": "MKC",
+      "catalyst": "Pre-market earnings today; food sector input cost management",
+      "setup": "Watch EPS surprise +0.90% forecast; input inflation relief bullish",
+      "entry": "Buy 92-95 post-earnings if beat; stop 85",
+      "stop": "85",
+      "target": "105-110 (12-18% upside if positive)",
+      "conviction": "Low"
+    }
+  ],
+  "watchlist": [
+    {
+      "ticker": "CRWD",
+      "catalyst": "Earnings Wed PM; enterprise AI/cloud security demand",
+      "premarket_action": "Up +0.5% on Micron coattails; volume above 3M avg",
+      "support": "380 (10-MA), 365 (50-MA)",
+      "resistance": "405 (recent resistance), 420 (52wk high area)",
+      "pattern": "Breakout above 200-MA; institutional accumulation",
+      "priority": "1"
+    },
+    {
+      "ticker": "PANW",
+      "catalyst": "Earnings Wed PM; enterprise AI/security capex cycle",
+      "premarket_action": "Flat; awaiting PCE data sensitivity trigger",
+      "support": "288 (50-MA), 275 (200-MA)",
+      "resistance": "310 (resistance), 335 (12-month target)",
+      "pattern": "Consolidation; ready to breakout on earnings",
+      "priority": "2"
+    },
+    {
+      "ticker": "AVGO",
+      "catalyst": "Earnings Wed after-close; AI infrastructure guide critical",
+      "premarket_action": "Up +0.3% on Micron sentiment; semis bid overall",
+      "support": "205 (key support), 198 (200-MA)",
+      "resistance": "225 (recent high), 245 (target)",
+      "pattern": "Weekly uptrend; quarterly seasonality bullish",
+      "priority": "3"
+    },
+    {
+      "ticker": "RBRK",
+      "catalyst": "Backup/cyber earnings this week; data protection AI demand",
+      "premarket_action": "Post-IPO volatility; institutional entry phase expected",
+      "support": "32 (psychological), 30 (IPO floor)",
+      "resistance": "40 (round number), 46 (target)",
+      "pattern": "Recent IPO breakout; accumulation into earnings",
+      "priority": "4"
+    },
+    {
+      "ticker": "CIEN",
+      "catalyst": "Networking earnings this week; optical/data center buildout",
+      "premarket_action": "Flat; awaiting earnings catalyst + PCE reaction",
+      "support": "72 (50-MA), 65 (200-MA)",
+      "resistance": "85 (recent high), 98 (target)",
+      "pattern": "Cup-and-handle; multi-quarter AI tailwind intact",
+      "priority": "5"
+    },
+    {
+      "ticker": "DRI",
+      "catalyst": "Fiscal Q4 earnings pre-market today; consumer health barometer",
+      "premarket_action": "Down -0.2% pre-earnings; watch for volume spike at open",
+      "support": "185 (50-MA), 175 (200-MA)",
+      "resistance": "205 (recent high), 225 (target if beat+guide)",
+      "pattern": "Pre-earnings consolidation; watch for gap move",
+      "priority": "6"
+    },
+    {
+      "ticker": "MKC",
+      "catalyst": "Pre-market earnings today; food inflation/pricing power",
+      "premarket_action": "Flat; earnings volatility expected at open",
+      "support": "85 (key support), 78 (200-MA)",
+      "resistance": "100 (resistance), 110 (target if beat)",
+      "pattern": "Range-bound; EPS surprise +0.90% sets tone",
+      "priority": "7"
+    },
+    {
+      "ticker": "BB",
+      "catalyst": "Before-open earnings today; IoT/cybersecurity enterprise pivot",
+      "premarket_action": "Flat; post-earnings volatility expected",
+      "support": "8.50 (50-MA), 7.50 (200-MA)",
+      "resistance": "10.00 (psychological), 12.00 (52wk range)",
+      "pattern": "Spec/turnaround play; watch execution on guidance",
+      "priority": "8"
+    },
+    {
+      "ticker": "XLE",
+      "catalyst": "Hormuz deal relief + energy stabilization; sector tail risk hedge",
+      "premarket_action": "Up +0.8% on oil strength; geopolitical premium unwinding",
+      "support": "84 (50-MA), 78 (200-MA)",
+      "resistance": "95 (recent high), 102 (target)",
+      "pattern": "Oversold vs SPY; technical bounce + fundamental support",
+      "priority": "9"
+    },
+    {
+      "ticker": "SPY",
+      "catalyst": "PCE data 2:30p ET; Fed preferred inflation gauge critical",
+      "premarket_action": "Up +0.16% PM; technicals support continuation to 740+",
+      "support": "730 (50-MA), 720 (200-MA)",
+      "resistance": "740 (recent high), 750 (all-time high area)",
+      "pattern": "Breakout above 734 intact; macro backdrop benign",
+      "priority": "10"
+    }
+  ],
+  "position_actions": [
+    {
+      "action": "BUY",
+      "ticker": "CRWD",
+      "reasoning": "High-conviction institutional setup; earnings catalyst Wed PM; chart bullish breakout; add 4-5% position on any PCE dip"
+    },
+    {
+      "action": "BUY",
+      "ticker": "PANW",
+      "reasoning": "Enterprise AI/security capex tailwind; earnings Wed PM; institutional accumulation pattern; wait for PCE reaction, buy 298-302"
+    },
+    {
+      "action": "BUY",
+      "ticker": "AVGO",
+      "reasoning": "Broadcom earnings Wed after-hours; AI infrastructure capex guide critical; buy 215-220 on dip; 15-18% target"
+    },
+    {
+      "action": "HOLD",
+      "ticker": "XLE",
+      "reasoning": "Energy hedge against tail risk; Hormuz deal relief + oversold technicals; accumulate 88-90 zone for 11-15% upside"
+    },
+    {
+      "action": "ADD",
+      "ticker": "RBRK",
+      "reasoning": "Recent IPO; AI data infrastructure institutional entry phase; buy 35-37 on PCE dip; 15-20% upside target"
+    },
+    {
+      "action": "MONITOR",
+      "ticker": "DRI",
+      "reasoning": "Fiscal Q4 earnings pre-market today; watch for beat + guide; buy post-earnings on strength if positive surprise"
+    },
+    {
+      "action": "MONITOR",
+      "ticker": "MKC",
+      "reasoning": "Pre-market earnings today; food sector input cost relief potential; monitor EPS surprise +0.90% vs forecast"
+    },
+    {
+      "action": "EXIT",
+      "ticker": "LOSS_POSITIONS",
+      "reasoning": "If portfolio down -6% or more, de-risk; no naked options or margin; trim 2.5% on any +8% gains above +10%"
+    }
+  ],
+  "wheel_book": [
+    {
+      "ticker": "XLE",
+      "sector": "Energy",
+      "iv_rank_est": "65-70",
+      "delta": "0.25-0.30",
+      "dte": "30-45",
+      "strike_zone": "Sell $86 puts; buy $80 puts (45 DTE)",
+      "assignment_risk": "Medium",
+      "priority": "Sell 2-3 contracts; $3-4 credit premium; hedge tail risk"
+    },
+    {
+      "ticker": "SPY",
+      "sector": "Broad Market",
+      "iv_rank_est": "48-52",
+      "delta": "0.20-0.25",
+      "dte": "30-45",
+      "strike_zone": "Sell $722 puts; buy $710 puts (45 DTE)",
+      "assignment_risk": "Low",
+      "priority": "Income strategy; 1-2 contracts; $2-3 credit per contract"
+    },
+    {
+      "ticker": "QQQ",
+      "sector": "Nasdaq 100",
+      "iv_rank_est": "55-60",
+      "delta": "0.25-0.30",
+      "dte": "30-45",
+      "strike_zone": "Sell $700 puts; buy $680 puts (45 DTE)",
+      "assignment_risk": "Low",
+      "priority": "Premium income on tech uptrend; 1-2 contracts; $2.50-3.50"
+    },
+    {
+      "ticker": "CRWD",
+      "sector": "Cybersecurity",
+      "iv_rank_est": "72-78",
+      "delta": "0.30-0.35",
+      "dte": "15-30",
+      "strike_zone": "Sell $385 puts (post-earnings); buy $370 puts",
+      "assignment_risk": "High",
+      "priority": "High IV post-earnings; use as hedge if buying calls; 1 contract max"
+    },
+    {
+      "ticker": "PANW",
+      "sector": "Cybersecurity",
+      "iv_rank_est": "65-72",
+      "delta": "0.25-0.30",
+      "dte": "30-45",
+      "strike_zone": "Sell $295 puts; buy $280 puts (45 DTE)",
+      "assignment_risk": "Medium",
+      "priority": "Premium on enterprise AI tailwind; 1 contract; $2.50-3.00"
+    }
+  ],
+  "risk_alerts": [
+    "PCE data 2:30p ET critical: If CPI surprise +0.3% or higher, risk-off trigger may activate; tighten stops on Tech longs",
+    "Earnings volatility (DRI/MKC/BB pre-market + CRWD/PANW/AVGO Wed): Position size into earnings; max 8% per ticker",
+    "Micron rally may be exhaustion in semis; watch for distribution in AVGO/BROADCOM Wed earnings; take profits at targets",
+    "Oil +0.5% or more on any geopolitical re-escalation would reverse Hormuz deal relief; energy hedge may be needed",
+    "IWM insider accumulation in small-cap Financials/MREITs may be layering; watch for forced deleveraging if rates spike"
+  ],
+  "cio_verdict": {
+    "risk_posture": "Aggressive",
+    "capital_flow": "Deploy 60-70% of cash on AI/Cyber/Energy dips; 30-40% held for post-PCE entry if volatility spikes; wheel premium on XLE/SPY/QQQ for 5-7% annualized income",
+    "avoid": "Consumer Discretionary (DG/FIVE below); Liquid Alternatives; Real Estate; Staples; low-conviction small-cap spec plays outside insider-accumulation zones"
+  }
+}
