@@ -1,0 +1,301 @@
+{
+  "date": "2026-06-26",
+  "generated_at": "Friday, June 26, 2026 \u2014 10:08 AM ET",
+  "regime": "Neutral",
+  "cio_summary": [
+    "VIX stabilizing near 15-18 zone; tech rebound after liquidation; SpaceX IPO catalyst TODAY",
+    "Micron (MU) earnings + NNOX 50% IV imply setup; XAIR +107% rev growth; flight-to-quality into AI/HC",
+    "10Y at 4.49%, DXY weak (-0.09%), oil -0.78%; macro backdrop supportive for equities",
+    "Iran-Israel ceasefire eases geopolitical tail risk; Fed hold priced 96.2% (no rate surprise)",
+    "Sector rotation: XLK, SOXX, IBB, XLF leading; avoid XLY, XLP, XLRE\u2014focus tech/HC/Fin"
+  ],
+  "macro_dashboard": {
+    "spy_trend": "Stabilizing after liquidation; 7415 support holding",
+    "qqq_trend": "Rebound mode +1.5% futs; Nasdaq-100 strength post-dump",
+    "iwm_trend": "Slight +0.12%; small-cap consolidation; wait for rotation signal",
+    "vix": "Futures down slightly; stabilizing 15-18 zone",
+    "vix_regime": "Healthy Trend (15-20); complacency easing",
+    "yield_10y": "4.49%; flat; no Fed shock priced",
+    "dollar_trend": "DXY -0.09% to 99.44; USD weakness supports equities",
+    "oil_trend": "WTI -0.78% to $95.27; energy soft but stable",
+    "crypto_sentiment": "BTC -5.09% to $63.5k; risk-off micro-print; watch for bounce",
+    "tactical_bias": "Buy Dips into tech/AI strength; fade strength in defensive XLP/XLY"
+  },
+  "institutional_setups": [
+    {
+      "ticker": "MU",
+      "catalyst": "Q3 earnings TODAY post-bell; largest vol setup week",
+      "setup": "Options imply 6-8% move; earnings pin risk 732-738 strike",
+      "entry": "Straddle sell 730/735 or directional call spread if breakout confirmed",
+      "stop": "7% above entry; hard stop if earnings miss guidance",
+      "target": "Target upside 745+ if beat; downside 710 if miss",
+      "conviction": "High"
+    },
+    {
+      "ticker": "XAIR",
+      "catalyst": "Q4 rev +107% YoY to $7.7M; 110%+ growth guidance 2027",
+      "setup": "Post-earnings pop/fade setup; monitor 10:30 AM ET action",
+      "entry": "Dip-buy if red open; scale in 25-50% near 8.50 support",
+      "stop": "Close below 8.20; risk 3%",
+      "target": "12.50-13.50 if guidance holds; medium-term 15+",
+      "conviction": "High"
+    },
+    {
+      "ticker": "NNOX",
+      "catalyst": "Options imply >50% move; speculative biotech earnings play",
+      "setup": "Extreme IV rank; straddle short or calendar spread if flat open",
+      "entry": "Sell 15 delta puts 4.50-5.00 strike; cap loss 2%",
+      "stop": "Earnings break below 4.00 or above 8.00",
+      "target": "Theta decay; target 50-75 bps premium capture post-ER",
+      "conviction": "Med"
+    },
+    {
+      "ticker": "TTAN",
+      "catalyst": "ServiceTitan premarket +15.7%; earnings beat + guidance",
+      "setup": "Continuation play; momentum confirmation above 42.00",
+      "entry": "Buy limit 42.50 if red dip; scale 5k max (8% portfolio)",
+      "stop": "Hard stop 40.50; 3% risk",
+      "target": "46.00-47.50 near-term; 50+ medium term",
+      "conviction": "High"
+    },
+    {
+      "ticker": "FAF",
+      "catalyst": "First American +12.9% premarket; earnings surprise",
+      "setup": "Institutional demand signal; watch 10:30 AM ES move",
+      "entry": "Dip-buy if any red continuation; scale 8% position",
+      "stop": "Close below 89.00; risk 3%",
+      "target": "98.00-102.00; double-bottom breakout play",
+      "conviction": "Med"
+    },
+    {
+      "ticker": "SNX",
+      "catalyst": "SYNNEX Q2 earnings +$4.85 EPS vs $3.42 est; huge beat",
+      "setup": "Earnings surprise momentum; follow-through setup",
+      "entry": "Scale buy on any morning weakness; 8% max",
+      "stop": "Stop 198.00; risk 3%",
+      "target": "220.00-230.00 if beat holds and guidance up",
+      "conviction": "High"
+    },
+    {
+      "ticker": "DRI",
+      "catalyst": "Darden Restaurants Q4 earnings; $3.66 EPS vs $3.59 est",
+      "setup": "Consumer discr play; beat-and-raise signal",
+      "entry": "Buy if red open dips into 202.00; scale 5k",
+      "stop": "201.00 hard stop; 3% risk",
+      "target": "215.00-218.00 if guidance +4-6%",
+      "conviction": "Med"
+    },
+    {
+      "ticker": "PAYX",
+      "catalyst": "Paychex Q4 earnings today; HCM sector strength play",
+      "setup": "Defensive HC play; should benefit from macro stability",
+      "entry": "Scale buy near 180.00 support; 5k position max",
+      "stop": "179.00; risk 2%",
+      "target": "195.00-198.00 medium term",
+      "conviction": "Med"
+    }
+  ],
+  "watchlist": [
+    {
+      "ticker": "SOXX",
+      "catalyst": "AI chip ETF; Sandisk, Micron, Broadcom momentum play",
+      "premarket_action": "XLK -1.07%; semiconductor strength into MU ER",
+      "support": "187.50",
+      "resistance": "194.00",
+      "pattern": "Breakout above 191 on MU beat; await confirmation",
+      "priority": "1"
+    },
+    {
+      "ticker": "XLF",
+      "catalyst": "Financials rotation; IB growth, capital markets heat",
+      "premarket_action": "Stable; waiting for SPY confirmation",
+      "support": "82.50",
+      "resistance": "85.00",
+      "pattern": "Higher lows building; rotate into on weakness",
+      "priority": "2"
+    },
+    {
+      "ticker": "IBB",
+      "catalyst": "Biotech/HC IPO wave; Medline, XAIR momentum",
+      "premarket_action": "Consolidating; awaiting earnings catalysts",
+      "support": "142.00",
+      "resistance": "147.50",
+      "pattern": "Bullish bias if healthcare sector confirms",
+      "priority": "3"
+    },
+    {
+      "ticker": "QQQ",
+      "catalyst": "Tech rebound +1.5% futs; AI capex, Nvidia/Broadcom",
+      "premarket_action": "-0.67% early; red to green setup targeting 715+",
+      "support": "710.00",
+      "resistance": "718.00",
+      "pattern": "Double-bottom forming; buy dips if SPY holds",
+      "priority": "4"
+    },
+    {
+      "ticker": "XLE",
+      "catalyst": "Energy sector; oil stable $95+; earnings beat cycle",
+      "premarket_action": "Commodity soft; watch for stabilization signal",
+      "support": "78.00",
+      "resistance": "82.00",
+      "pattern": "Consolidation; breakout if crude holds 94+",
+      "priority": "5"
+    },
+    {
+      "ticker": "BB",
+      "catalyst": "BlackBerry Q1 earnings PM; high implied vol >50%",
+      "premarket_action": "PM earnings; extreme IV setup for premium seller",
+      "support": "6.50",
+      "resistance": "8.00",
+      "pattern": "Straddle short setup; theta decay play",
+      "priority": "6"
+    },
+    {
+      "ticker": "AYI",
+      "catalyst": "Acuity Brands Q3 earnings; light industrial play",
+      "premarket_action": "Waiting for 4:30 PM ER; modest beat expected",
+      "support": "315.00",
+      "resistance": "325.00",
+      "pattern": "Neutral; small cap earnings follow-through",
+      "priority": "7"
+    },
+    {
+      "ticker": "SPY",
+      "catalyst": "Index stability; 7415 support holding; Fed backdrop",
+      "premarket_action": "-0.09%; awaiting MU/earnings confirmation",
+      "support": "728.00",
+      "resistance": "735.00",
+      "pattern": "Consolidation after liquidation; buy on dips",
+      "priority": "8"
+    },
+    {
+      "ticker": "XLK",
+      "catalyst": "Tech sector; -1.07% early; watch for rebound",
+      "premarket_action": "Weakness into ER confidence; dip-buy setup",
+      "support": "179.00",
+      "resistance": "184.00",
+      "pattern": "Support hold = bullish; break below = risk-off",
+      "priority": "9"
+    },
+    {
+      "ticker": "IWM",
+      "catalyst": "Small-cap rotation; +0.12% steady; value setup",
+      "premarket_action": "Outperforming SPY/QQQ; potential leader",
+      "support": "296.00",
+      "resistance": "302.00",
+      "pattern": "Small-cap strength if tech holds; watch breadth",
+      "priority": "10"
+    }
+  ],
+  "position_actions": [
+    {
+      "action": "BUY",
+      "ticker": "MU",
+      "reasoning": "Earnings catalyst TODAY; options imply 6-8% move; setup asymmetric if beat with 745+ target; enter scaled 4% now, scale 4% post-ER confirmation"
+    },
+    {
+      "action": "BUY",
+      "ticker": "TTAN",
+      "reasoning": "ServiceTitan premarket +15.7% on earnings beat; institutional demand signal; buy dips near 42.50; 8% position max; target 46-47.50"
+    },
+    {
+      "action": "BUY",
+      "ticker": "SNX",
+      "reasoning": "Massive EPS beat ($4.85 vs $3.42); earnings surprise momentum; scale 8% near support; target 220-230 if guidance raised"
+    },
+    {
+      "action": "BUY",
+      "ticker": "XAIR",
+      "reasoning": "Q4 rev +107% YoY, guidance 110%+ growth; post-ER pop setup; scale 5-6% near 8.50 support; target 12.50+"
+    },
+    {
+      "action": "BUY",
+      "ticker": "SPY",
+      "reasoning": "Index stabilizing after liquidation; 7415 support holding; dip-buy setup if red continues; target 735+ on earnings beats"
+    },
+    {
+      "action": "SELL_TO_OPEN",
+      "ticker": "NNOX",
+      "reasoning": "Straddle/strangle short: sell 15-delta puts 4.50 + calls 7.00; cap loss 2% portfolio; target theta decay post-ER; IV rank 80%+"
+    },
+    {
+      "action": "HOLD",
+      "ticker": "QQQ",
+      "reasoning": "Tech rebound +1.5% futs post-liquidation; hold core 10% position; add on any red dips toward 710 support; MU ER confirmation bullish"
+    },
+    {
+      "action": "TRIM",
+      "ticker": "XLY",
+      "reasoning": "Consumer discretionary lagging earnings revisions; avoid rotation; trim existing 2.5% if held; reallocate to XLK/XLF/IBB"
+    },
+    {
+      "action": "HOLD",
+      "ticker": "IBB",
+      "reasoning": "Biotech momentum on IPO wave + XAIR upside; hold 6% position; add if healthcare sector confirms; target 147.50 resistance"
+    }
+  ],
+  "wheel_book": [
+    {
+      "ticker": "TTAN",
+      "sector": "Software/SaaS",
+      "iv_rank_est": "65%",
+      "delta": "-0.35",
+      "dte": "30",
+      "strike_zone": "Sell 40 put (=$4,000 cap req); buy 38 put",
+      "assignment_risk": "Low",
+      "priority": "High - earnings beat momentum shields assignment"
+    },
+    {
+      "ticker": "XAIR",
+      "sector": "Medical Devices",
+      "iv_rank_est": "70%",
+      "delta": "-0.30",
+      "dte": "45",
+      "strike_zone": "Sell 8.00 put (=$800 cap); buy 7.00 put; roll if assigned",
+      "assignment_risk": "Med",
+      "priority": "Med - watch guidance hold; potential assign week 1 July"
+    },
+    {
+      "ticker": "NNOX",
+      "sector": "Biotech",
+      "iv_rank_est": "85%",
+      "delta": "-0.25",
+      "dte": "30",
+      "strike_zone": "Sell 5.00 put naked (cap $500); target 50-75 bps premium",
+      "assignment_risk": "High",
+      "priority": "High - extreme IV; premium decay fast; close before ER"
+    },
+    {
+      "ticker": "DRI",
+      "sector": "Restaurants",
+      "iv_rank_est": "55%",
+      "delta": "-0.40",
+      "dte": "30",
+      "strike_zone": "Sell 200 put (=$2,000 cap); buy 195 put",
+      "assignment_risk": "Med",
+      "priority": "Med - consumer setup; take assignment if beat holds"
+    },
+    {
+      "ticker": "MU",
+      "sector": "Semiconductors",
+      "iv_rank_est": "75%",
+      "delta": "-0.30",
+      "dte": "30",
+      "strike_zone": "Sell 710 put (post-ER, if call assigned); buy 705 put",
+      "assignment_risk": "High",
+      "priority": "Med - ER volatility extreme; wait for post-ER settl before wheel"
+    }
+  ],
+  "risk_alerts": [
+    "MU earnings TODAY post-bell: >6% IV move possible; hard stop losses at 7% above entry; manage ER gap risk",
+    "NNOX >50% IV imply; extreme speculation; cap position 2% risk; close straddle short 2 days before ER if ITM",
+    "SpaceX IPO today may pull retail bid from equities late PM; watch for liquidity squeeze 3-4 PM ET",
+    "10Y yield at 4.49% stable; if yield spikes 15+ bps intraday = risk-off trigger; monitor DXY for USD strength reversal",
+    "Tech sector (-1.07% XLK early) showing weakness; if MU misses, expect -3% QQQ reversal into defensive rotation; watch XLP/XLY bid"
+  ],
+  "cio_verdict": {
+    "risk_posture": "Neutral-to-Aggressive into earnings catalysts; take profits if +8% above 10% baseline; scale size 4-5k per name max",
+    "capital_flow": "Deploy 60% into earnings beat plays (MU, TTAN, SNX, XAIR, DRI); hold 25% dry powder for post-ER dips; reserve 15% wheel income reinvest",
+    "avoid": "Avoid XLY, XLP, XLRE\u2014low estimate revision. Avoid naked long gamma (NNOX, BB) without straddle hedge. Avoid size above 8% single ticker. Avoid chasing SpaceX IPO retail bid late PM. Avoid breakeven trades\u2014require 3% min edge."
+  }
+}
