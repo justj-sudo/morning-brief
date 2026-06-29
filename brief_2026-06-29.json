@@ -1,0 +1,297 @@
+{
+  "date": "2026-06-29",
+  "generated_at": "Monday, June 29, 2026 \u2014 11:34 AM ET",
+  "regime": "Neutral",
+  "cio_summary": [
+    "Tech rebound strong: QQQ +1.67%, Nasdaq 100 +1.02% premarket on ARM/MRVL recovery",
+    "U.S.-Iran pause in hostilities creates fragile geopolitical truce; oil stable at $70 WTI",
+    "VIX 18.43 elevated but containable; 10Y yield 4.38% stable vs. Friday",
+    "Polymarket assigns 54% prob to SPY finishing DOWN despite premarket strength\u2014fade rip",
+    "CMCSA +24% on media/tech separation; SpaceX Nasdaq-100 inclusion; monitor earnings week"
+  ],
+  "macro_dashboard": {
+    "spy_trend": "Up +1.15% intraday, premarket +0.69%; resistance 7,475 | support 7,405",
+    "qqq_trend": "Up +1.67% intraday; tech recovery mode post-Friday selloff",
+    "iwm_trend": "Down -0.5% lagging; small-cap rotation stalled; watch 295 support",
+    "vix": "18.43 (+0.01%)",
+    "vix_regime": "Healthy Trend (15-20): monitor 20 for shift to caution",
+    "yield_10y": "4.38% stable; minimal move vs Friday; refinance pressure contained",
+    "dollar_trend": "DXY -0.1% to 101.24; weak dollar supports commodities/EM",
+    "oil_trend": "WTI +1% to $70; Brent $72.50; U.S.-Iran pause = geopolitical premium intact",
+    "crypto_sentiment": "BTC $60k post-recovery from $58.9k overnight low; weak structure",
+    "tactical_bias": "Buy Dips | Tech strength sustainable if earnings hold"
+  },
+  "institutional_setups": [
+    {
+      "ticker": "CMCSA",
+      "catalyst": "Media/tech separation announced; spin potential",
+      "setup": "Breakout post-24% premarket gap; consolidate 45.50-46.75 before institutional entry",
+      "entry": "46.00 limit (dip below open) | 46.80 breakout confirmation",
+      "stop": "44.80 (max 2.6%)",
+      "target": "50.00 (8.7%) | 53.00 (14.1%)",
+      "conviction": "High"
+    },
+    {
+      "ticker": "ARM",
+      "catalyst": "Tech recovery lead; AI chip demand intact post-Friday",
+      "setup": "Breakout +3.46% premarket; support 195.00 | resistance 210.00",
+      "entry": "197.50 limit | 200.00 breakout aggressive",
+      "stop": "191.00 (hard stop)",
+      "target": "215.00 (8.7%) | 228.00 (15.3%)",
+      "conviction": "High"
+    },
+    {
+      "ticker": "MRVL",
+      "catalyst": "Semiconductor strength; AI/data center tailwind",
+      "setup": "Gap up +2.16%; test 145.00-150.00 support range",
+      "entry": "146.50 limit | 151.00 breakout",
+      "stop": "140.00 (hard)",
+      "target": "165.00 (12.3%) | 178.00 (21.2%)",
+      "conviction": "Med"
+    },
+    {
+      "ticker": "REPL",
+      "catalyst": "FDA BLA resubmission accepted; Q4 earnings beat",
+      "setup": "Binary catalyst; watch for 15-20% reversal extension post-earnings",
+      "entry": "12.50 breakout (if closes above 12.00)",
+      "stop": "10.50",
+      "target": "16.00 (28%) | 19.00 (52%)",
+      "conviction": "Med"
+    },
+    {
+      "ticker": "NKE",
+      "catalyst": "Earnings Tuesday 6/30; guidance reset expected",
+      "setup": "Premarket weakness likely ahead of call; accumulate dips",
+      "entry": "75.00-77.00 range",
+      "stop": "71.50",
+      "target": "85.00 (+10.5%) | 92.00 (+19.5%)",
+      "conviction": "Med"
+    },
+    {
+      "ticker": "SPX",
+      "catalyst": "Jobs data Friday; Fed pivot hopes fade into reality",
+      "setup": "Support 7,405 | resistance 7,475-7,510; consolidation week likely",
+      "entry": "7,425 mean reversion (if gap fills)",
+      "stop": "7,385",
+      "target": "7,550 (+1.9%) | 7,620 (+2.9%)",
+      "conviction": "Med"
+    },
+    {
+      "ticker": "QQQ",
+      "catalyst": "Tech earnings week (AAPL, MSFT, NVDA in pipeline); rotation pressure",
+      "setup": "Breakout attempt +1.67%; watch 715.00 resistance",
+      "entry": "710.00 dip | 720.00 breakout",
+      "stop": "700.00 hard",
+      "target": "750.00 (+4.6%) | 785.00 (+9.5%)",
+      "conviction": "Med"
+    },
+    {
+      "ticker": "IWM",
+      "catalyst": "Small-cap lagging; potential reversal if macro softens",
+      "setup": "Down -0.5% vs. indices; support 291.50 | resistance 300.00",
+      "entry": "293.00 dip buy",
+      "stop": "285.00",
+      "target": "310.00 (+5.8%) | 325.00 (+11%)",
+      "conviction": "Low"
+    }
+  ],
+  "watchlist": [
+    {
+      "ticker": "CMCSA",
+      "catalyst": "Spin separation catalyst; media valuation reset",
+      "premarket_action": "+24% gap up; institutional accumulation expected",
+      "support": "44.50 | 45.00",
+      "resistance": "46.80 | 48.00",
+      "pattern": "Breakout continuation",
+      "priority": "1"
+    },
+    {
+      "ticker": "ARM",
+      "catalyst": "AI chip recovery; earnings beat expectations",
+      "premarket_action": "+3.46% gap up; test 200.00 resistance",
+      "support": "195.00 | 190.00",
+      "resistance": "210.00 | 220.00",
+      "pattern": "Continuation breakout",
+      "priority": "2"
+    },
+    {
+      "ticker": "NKE",
+      "catalyst": "Earnings Tuesday 6/30; margin/guidance focus",
+      "premarket_action": "Consolidating pre-earnings; watch for volatility expansion",
+      "support": "74.00 | 71.50",
+      "resistance": "80.00 | 85.00",
+      "pattern": "Triangle consolidation",
+      "priority": "3"
+    },
+    {
+      "ticker": "REPL",
+      "catalyst": "FDA BLA acceptance; Q4 beat; binary event",
+      "premarket_action": "Post-earnings momentum; test 13.00 resistance",
+      "support": "11.00 | 9.50",
+      "resistance": "13.50 | 15.00",
+      "pattern": "Gap fill potential",
+      "priority": "4"
+    },
+    {
+      "ticker": "MRVL",
+      "catalyst": "Semiconductor tailwind; data center demand",
+      "premarket_action": "+2.16% premarket; consolidate 146-150 range",
+      "support": "140.00 | 135.00",
+      "resistance": "155.00 | 165.00",
+      "pattern": "Accumulation",
+      "priority": "5"
+    },
+    {
+      "ticker": "SPY",
+      "catalyst": "Macro backdrop; geopolitical premium from Iran pause",
+      "premarket_action": "+1.15% on tech strength; test 740.00 resistance",
+      "support": "735.00 | 730.00",
+      "resistance": "740.00 | 745.00",
+      "pattern": "Consolidation breakout",
+      "priority": "6"
+    },
+    {
+      "ticker": "QQQ",
+      "catalyst": "Tech earnings week; IV crush risk post-results",
+      "premarket_action": "+1.67% premarket; 715.00 key resistance",
+      "support": "705.00 | 700.00",
+      "resistance": "720.00 | 730.00",
+      "pattern": "Breakout attempt",
+      "priority": "7"
+    },
+    {
+      "ticker": "AVAV",
+      "catalyst": "Earnings Monday 6/29; drone/defense space tailwind",
+      "premarket_action": "Monitor post-earnings volatility; watch 120.00 level",
+      "support": "110.00 | 105.00",
+      "resistance": "130.00 | 140.00",
+      "pattern": "Earnings binary",
+      "priority": "8"
+    },
+    {
+      "ticker": "STZ",
+      "catalyst": "Earnings Tuesday 6/30; beverage sector strength",
+      "premarket_action": "Consolidate pre-earnings; watch 26.00 resistance",
+      "support": "23.50 | 21.00",
+      "resistance": "27.00 | 29.00",
+      "pattern": "Accumulation",
+      "priority": "9"
+    },
+    {
+      "ticker": "IWM",
+      "catalyst": "Small-cap rotation reversal; watch for macro softness",
+      "premarket_action": "-0.5% lagging; test 291.50 support",
+      "support": "291.50 | 285.00",
+      "resistance": "300.00 | 310.00",
+      "pattern": "Accumulation near support",
+      "priority": "10"
+    }
+  ],
+  "position_actions": [
+    {
+      "action": "BUY",
+      "ticker": "CMCSA",
+      "reasoning": "Spin catalyst high-conviction; 24% premarket breakout justified; enter 46.00 dip limit"
+    },
+    {
+      "action": "BUY",
+      "ticker": "ARM",
+      "reasoning": "Tech recovery confirmation; AI chip strength; entry 197.50-200.00 range"
+    },
+    {
+      "action": "ADD",
+      "ticker": "SPY",
+      "reasoning": "Dip to 7,425 support on weakness; maintain core long; consolidation week"
+    },
+    {
+      "action": "HOLD",
+      "ticker": "QQQ",
+      "reasoning": "Tech recovery intact; earnings week volatility ahead; trim 2.5% if +12% from entry"
+    },
+    {
+      "action": "HOLD",
+      "ticker": "IWM",
+      "reasoning": "Small-cap lagging; hold for potential reversal; no new capital yet"
+    },
+    {
+      "action": "WATCH",
+      "ticker": "NKE",
+      "reasoning": "Earnings Tuesday; accumulate dips 75-77 range; wait for call clarity"
+    },
+    {
+      "action": "WATCH",
+      "ticker": "REPL",
+      "reasoning": "FDA catalyst binary; post-earnings extension possible; scale in 12.50+"
+    }
+  ],
+  "wheel_book": [
+    {
+      "ticker": "CMCSA",
+      "sector": "Media/Telecom",
+      "iv_rank_est": "68%",
+      "delta": "0.55 call | 0.45 put",
+      "dte": "45 DTE (Aug expiry)",
+      "strike_zone": "Sell 48.00 calls (8% above entry) | Buy 43.00 puts (6% below)",
+      "assignment_risk": "Med",
+      "priority": "Sell calls post-gap stabilization"
+    },
+    {
+      "ticker": "ARM",
+      "sector": "Semiconductors",
+      "iv_rank_est": "72%",
+      "delta": "0.50 call | 0.50 put",
+      "dte": "45 DTE",
+      "strike_zone": "Sell 215.00 calls (7.5% above) | Buy 185.00 puts (6% below)",
+      "assignment_risk": "Med",
+      "priority": "Premium income via covered call after entry"
+    },
+    {
+      "ticker": "SPY",
+      "sector": "Broad Market",
+      "iv_rank_est": "55%",
+      "delta": "0.45 call | 0.55 put",
+      "dte": "30 DTE (Jul expiry)",
+      "strike_zone": "Sell 750.00 calls (1.7% above) | Buy 725.00 puts (1.5% below)",
+      "assignment_risk": "Low",
+      "priority": "Core wheel; premium decay play"
+    },
+    {
+      "ticker": "QQQ",
+      "sector": "Tech",
+      "iv_rank_est": "65%",
+      "delta": "0.50 call | 0.50 put",
+      "dte": "45 DTE",
+      "strike_zone": "Sell 750.00 calls (4.5% above) | Buy 680.00 puts (5% below)",
+      "assignment_risk": "Med",
+      "priority": "Secondary income; wide strikes on vol expansion"
+    },
+    {
+      "ticker": "MRVL",
+      "sector": "Semiconductors",
+      "iv_rank_est": "70%",
+      "delta": "0.55 call | 0.45 put",
+      "dte": "45 DTE",
+      "strike_zone": "Sell 170.00 calls (16% above) | Buy 130.00 puts (11% below)",
+      "assignment_risk": "Med",
+      "priority": "Opportunistic; wide premium zone"
+    }
+  ],
+  "risk_alerts": [
+    "U.S.-Iran 'pause' is fragile; geopolitical black swan risk remains; oil premium sustainable but trigger-ready at $75 WTI",
+    "Polymarket 54% down probability vs. strong premarket = institutional selling into strength; fade rip discipline required",
+    "Tech earnings week (Tue-Wed) introduces IV crush risk; trim call positions before Thu morning into expiry",
+    "Small-cap (IWM) lagging indices; rotation risk if macro data softens; watch 285.00 support for capitulation",
+    "Crypto weakness (BTC $60k near lows) signals risk-off undercurrent; monitor as leading indicator vs. equities"
+  ],
+  "cio_verdict": {
+    "risk_posture": "Neutral | Light Aggressive",
+    "capital_flow": "80% deployed into CMCSA/ARM breakouts + SPY core | 20% cash for NKE/REPL earnings week dips",
+    "avoid": "Naked short options on volatility; avoid small-cap (IWM) longs pre-data; skip illiquid biotech outside REPL; do NOT chase QQQ >720 without earnings clarity"
+  },
+  "portfolio_allocation": {
+    "position_trading": "CMCSA 5% | ARM 5% | SPY core 8% | total 18% deployed",
+    "income_trading": "QQQ wheel 4% | SPY wheel 3% | wheel premium roll 3% | total 10%",
+    "wheel_premium": "MRVL covered call 2% | CMCSA put sell 3% | ARM put sell 3% | total 8%",
+    "cash_reserve": "64% available for dips/earnings volatility"
+  }
+}
