@@ -1,0 +1,296 @@
+{
+  "date": "2026-06-30",
+  "generated_at": "Tuesday, June 30, 2026 \u2014 10:02 AM ET",
+  "regime": "Risk-On",
+  "cio_summary": [
+    "SPY/QQQ positive on geopolitical relief (US-Iran truce); VIX 17.59 (healthy trend regime)",
+    "Nike & Constellation Brands earnings after-close: high options vol, expect 1.79% move (NKE)",
+    "Sector rotation: Asia-Pac/Europe favored over US; Consumer Disc/Staples lagging (institutional)",
+    "Treasury 10Y stable 4.376%; DXY weaker; oil +0.33% on Strait of Hormuz normalization",
+    "Portfolio: Neutral bias into earnings; trim consumer longs; hold tech strength; avoid new shorts"
+  ],
+  "macro_dashboard": {
+    "spy_trend": "Bullish micro (+0.37%); SPX futures -0.04% premarket; consolidating strength",
+    "qqq_trend": "Bullish (+0.95%); tech outperforming; Mag7 rebound momentum intact",
+    "iwm_trend": "Flat (+0.02%); small-cap lagging; rotation to large-cap growth",
+    "vix": "17.59 (-0.06%)",
+    "vix_regime": "Healthy Trend (15-20 zone); low volatility supports risk-on",
+    "yield_10y": "4.376% (+0.004%); stable; Fed quiet ahead of Friday jobs",
+    "dollar_trend": "Weaker (EUR/USD 1.1421); soft DXY reflects geopolitical relief",
+    "oil_trend": "WTI +0.33% to $70.98; Strait of Hormuz reopening bullish for supply",
+    "crypto_sentiment": "Not explicitly tracked; Mag7 rebound supports risk appetite",
+    "tactical_bias": "Buy Dips on Earnings Beats; Fade Weakness in Consumer; Neutral US vs Intl"
+  },
+  "institutional_setups": [
+    {
+      "ticker": "NKE",
+      "catalyst": "Earnings after close (EPS $0.13e, Rev $10.85Be); options implying 1.79% move",
+      "setup": "IV crush play + mean reversion if beat; watch premarket for directional bias",
+      "entry": "$155.50-$157.00 (stalk dip ahead of bell)",
+      "stop": "$152.75 (hard; 1.8% risk)",
+      "target": "$160.00 (+3.2%) if beat; $150.00 (-4.2%) if miss",
+      "conviction": "Med"
+    },
+    {
+      "ticker": "STZ",
+      "catalyst": "Earnings after close (EPS $3.23e, Rev $2.39Be); less vol than NKE",
+      "setup": "Consumer staples headwind; beat likely overpriced; consider short gamma fade",
+      "entry": "$42.00-$42.75 (short setup if rips on open)",
+      "stop": "$43.50 (tight; 1.7%)",
+      "target": "$40.00 (-4.7%) if sentiment rolls; $44.50 (+6.0%) if beat strong",
+      "conviction": "Med"
+    },
+    {
+      "ticker": "PRGS",
+      "catalyst": "Earnings after close (EPS $1.49e); lower impact than NKE/STZ",
+      "setup": "Software play in late-cycle; listen for margin guidance; IV expansion opportunity",
+      "entry": "$78.00-$79.50 (technical setup; monitor premarket vol)",
+      "stop": "$76.00 (2.5% risk)",
+      "target": "$82.50 (+4.5%) on beat; $75.00 (-4.1%) on miss",
+      "conviction": "Low"
+    },
+    {
+      "ticker": "XLK",
+      "catalyst": "Sector rotation tailwind; up 1.73% today; Mag7 rebound momentum",
+      "setup": "Tech strength consolidating; dip-buy setup into any earnings volatility",
+      "entry": "$187.50-$189.00 (add on pullback)",
+      "stop": "$185.00 (1.3% risk)",
+      "target": "$195.00 (+4.2%); let winners run",
+      "conviction": "High"
+    },
+    {
+      "ticker": "SPY",
+      "catalyst": "Geopolitical relief (US-Iran truce); jobs report Friday; earnings digest",
+      "setup": "Bullish breakout above 745; support 740; consolidating strength in healthy VIX",
+      "entry": "$742.00-$745.00 (add core long on dips)",
+      "stop": "$735.00 (hard portfolio stop; -6% = risk-off trigger)",
+      "target": "$755.00 (+1.6%); $770.00 (+3.6%) on jobs beat",
+      "conviction": "High"
+    },
+    {
+      "ticker": "QQQ",
+      "catalyst": "Mag7 strength; AI narrative + rebound momentum; earnings season",
+      "setup": "Breakout mode; support 725; resistance 740; buy dips into earnings vol",
+      "entry": "$728.00-$732.00 (add on 1-2% pull)",
+      "stop": "$715.00 (hard; 2.1%)",
+      "target": "$745.00 (+2.0%); $760.00 (+4.1%) on jobs beat",
+      "conviction": "High"
+    },
+    {
+      "ticker": "IWM",
+      "catalyst": "Small-cap lagging (flat +0.02%); rotation away; fiscal strain headwind",
+      "setup": "Fade strength; avoid; rotation thesis favors large-cap growth over small-cap value",
+      "entry": "AVOID",
+      "stop": "N/A",
+      "target": "AVOID - shorts risky; fade weakness instead",
+      "conviction": "Low"
+    },
+    {
+      "ticker": "DBC",
+      "catalyst": "Oil +0.33%; commodities bid on geopolitical relief + supply normalization",
+      "setup": "Dip-buy setup into inflation hedge; Strait of Hormuz reopening bullish",
+      "entry": "$18.50-$19.00 (add on dip)",
+      "stop": "$17.75 (4.0% risk)",
+      "target": "$20.00 (+5.3%); inflation hedge into Q3",
+      "conviction": "Med"
+    }
+  ],
+  "watchlist": [
+    {
+      "ticker": "NKE",
+      "catalyst": "Earnings after close; options vol 1.79% move; consumer headwind risk",
+      "premarket_action": "Monitor vol spike 9:30-10:15 for directional bias pre-bell",
+      "support": "$152.75",
+      "resistance": "$158.50",
+      "pattern": "Earnings straddle; IV crush expected post-close",
+      "priority": "1"
+    },
+    {
+      "ticker": "STZ",
+      "catalyst": "Earnings after close; consumer staples concern; institutional short interest",
+      "premarket_action": "Watch for gap-up on open; consider short gamma fade if rips",
+      "support": "$40.50",
+      "resistance": "$43.75",
+      "pattern": "Potential short setup on strength; bear sector thesis",
+      "priority": "2"
+    },
+    {
+      "ticker": "PRGS",
+      "catalyst": "Earnings after close; software margin guidance key",
+      "premarket_action": "Monitor for unusual vol spike into close",
+      "support": "$76.00",
+      "resistance": "$80.00",
+      "pattern": "Binary event; lower priority than NKE/STZ",
+      "priority": "3"
+    },
+    {
+      "ticker": "XLK",
+      "catalyst": "Tech sector outperform +1.73%; Mag7 rebound momentum",
+      "premarket_action": "Consolidating strength; dip-buy entry into earnings vol",
+      "support": "$185.00",
+      "resistance": "$192.00",
+      "pattern": "Bullish continuation; add on any 1-2% pullback",
+      "priority": "4"
+    },
+    {
+      "ticker": "QQQ",
+      "catalyst": "Nasdaq leadership; AI narrative intact; earnings season digest",
+      "premarket_action": "Strong +0.95%; test 740 resistance intraday",
+      "support": "$725.00",
+      "resistance": "$740.00",
+      "pattern": "Bullish consolidation; dip-buy setup on any 2% pullback",
+      "priority": "5"
+    },
+    {
+      "ticker": "SPY",
+      "catalyst": "Geopolitical relief (US-Iran truce); jobs data Friday; earnings filter",
+      "premarket_action": "Stable +0.37%; consolidating 740-745 range",
+      "support": "$740.00",
+      "resistance": "$748.00",
+      "pattern": "Bullish bias; hold core long through earnings",
+      "priority": "6"
+    },
+    {
+      "ticker": "IWM",
+      "catalyst": "Small-cap lag (-0.02%); rotation away from value; avoid",
+      "premarket_action": "Weak breadth; stay on sideline; no new longs",
+      "support": "$296.00",
+      "resistance": "$302.00",
+      "pattern": "Bearish relative; avoid; large-cap growth preferred",
+      "priority": "7"
+    },
+    {
+      "ticker": "DBC",
+      "catalyst": "Commodities bid; WTI +0.33%; Strait of Hormuz reopening bullish",
+      "premarket_action": "Monitor oil vol; inflation hedge entry opportunity",
+      "support": "$17.75",
+      "resistance": "$20.00",
+      "pattern": "Uptrend dip-buy; inflation hedge into Q3",
+      "priority": "8"
+    },
+    {
+      "ticker": "TSLA",
+      "catalyst": "Mag7 rebound momentum; Monday +8.5%; watch for profit-taking",
+      "premarket_action": "Expect consolidation after strong Monday; trim on +2% strength",
+      "support": "$285.00",
+      "resistance": "$310.00",
+      "pattern": "Overbought intraday; take gains into earnings season",
+      "priority": "9"
+    },
+    {
+      "ticker": "NVDA",
+      "catalyst": "AI leadership; Monday +1.3%; stable Mag7 constituent",
+      "premarket_action": "Consolidating; buy dips; hold core long",
+      "support": "$148.00",
+      "resistance": "$158.00",
+      "pattern": "Bullish bias; add 1-2% pullback; let winners run",
+      "priority": "10"
+    }
+  ],
+  "position_actions": [
+    {
+      "action": "HOLD",
+      "ticker": "XLK",
+      "reasoning": "Tech strength +1.73%; Mag7 rebound intact; dip-buy bias; let winners run"
+    },
+    {
+      "action": "HOLD",
+      "ticker": "QQQ",
+      "reasoning": "Bullish +0.95%; consolidating strength; add on 2% pullback; earnings season tailwind"
+    },
+    {
+      "action": "HOLD",
+      "ticker": "SPY",
+      "reasoning": "Core long; geopolitical relief tailwind; consolidating 740-745; trim 2.5% if +10% above"
+    },
+    {
+      "action": "TRIM",
+      "ticker": "TSLA",
+      "reasoning": "Mag7 rebound +8.5% Monday; overbought; take 50% profit; hold 50% core; lock gains"
+    },
+    {
+      "action": "AVOID",
+      "ticker": "NKE",
+      "reasoning": "Earnings binary event after-close; high vol; wait for post-earnings print; no pre-bell"
+    },
+    {
+      "action": "AVOID",
+      "ticker": "STZ",
+      "reasoning": "Earnings after-close; consumer staples headwind; avoid long; consider short gamma fade"
+    },
+    {
+      "action": "AVOID",
+      "ticker": "IWM",
+      "reasoning": "Small-cap lagging; rotation away; no new longs; wait for large-cap breadth improvement"
+    },
+    {
+      "action": "EXIT",
+      "ticker": "Consumer Discretionary longs",
+      "reasoning": "Institutional view: Consumer Disc only 18% likely to outperform in 2026; rotate to Tech/Staples"
+    }
+  ],
+  "wheel_book": [
+    {
+      "ticker": "XLK",
+      "sector": "Technology",
+      "iv_rank_est": "45-50%",
+      "delta": "0.35-0.40 call",
+      "dte": "45-60 DTE",
+      "strike_zone": "$192.00-$195.00 call (sell); $185.00 put (buy support)",
+      "assignment_risk": "Low",
+      "priority": "Sell $194 call 45-DTE; 0.30-0.35 delta; collect 1.8-2.2% premium"
+    },
+    {
+      "ticker": "QQQ",
+      "sector": "Technology",
+      "iv_rank_est": "40-45%",
+      "delta": "0.35-0.40 call",
+      "dte": "45-60 DTE",
+      "strike_zone": "$745.00-$750.00 call (sell); $725.00 put (support)",
+      "assignment_risk": "Low",
+      "priority": "Sell $748 call 45-DTE; 0.30-0.35 delta; collect 1.5-2.0% premium"
+    },
+    {
+      "ticker": "SPY",
+      "sector": "Broad Market",
+      "iv_rank_est": "35-40%",
+      "delta": "0.35-0.40 call",
+      "dte": "45-60 DTE",
+      "strike_zone": "$755.00-$760.00 call (sell); $740.00 put (support)",
+      "assignment_risk": "Med",
+      "priority": "Sell $758 call 45-DTE; 0.30-0.35 delta; collect 1.2-1.8% premium; hold through jobs"
+    },
+    {
+      "ticker": "DBC",
+      "sector": "Commodities",
+      "iv_rank_est": "50-55%",
+      "delta": "0.35-0.40 call",
+      "dte": "30-45 DTE",
+      "strike_zone": "$20.00-$20.50 call (sell); $18.00 put (support)",
+      "assignment_risk": "Med",
+      "priority": "Sell $20.25 call 30-DTE; 0.35-0.40 delta; collect 2.0-2.5% premium; inflation hedge"
+    },
+    {
+      "ticker": "NVDA",
+      "sector": "Technology",
+      "iv_rank_est": "42-47%",
+      "delta": "0.35-0.40 call",
+      "dte": "45-60 DTE",
+      "strike_zone": "$158.00-$162.00 call (sell); $148.00 put (support)",
+      "assignment_risk": "Med",
+      "priority": "Sell $160 call 45-DTE; 0.30-0.35 delta; collect 1.5-2.0% premium; hold core long"
+    }
+  ],
+  "risk_alerts": [
+    "NKE & STZ earnings binary events after-close; IV crush risk; avoid straddles; tight stops",
+    "Consumer Discretionary/Staples sector lagging (institutional thesis); trim long exposure",
+    "VIX 17.59 (healthy); but portfolio at 45% equity vol risk (2026 outlook); scale into dips",
+    "IWM flat (+0.02%); small-cap breadth weak; rotation away; avoid new small-cap longs",
+    "Jobs report Friday (July 4 holiday week); expect vol spike; avoid large overnight shorts"
+  ],
+  "cio_verdict": {
+    "risk_posture": "Neutral",
+    "capital_flow": "Hold core SPY/QQQ longs; trim Mag7 on +2% spike (TSLA); sell premium (wheel 45-DTE); avoid NKE/STZ binary events; rotate away from consumer discretionary (institutional headwind); add commodities (DBC) on dip as inflation hedge; cash 10-15% for jobs report and potential pullback post-earnings",
+    "avoid": "IWM (small-cap lagging); Consumer Discretionary/Staples longs (18-22% likely to underperform); NKE straddles (binary event); naked shorts into jobs report; overleveraged commodity shorts (geopolitical relief tailwind); margin in late-cycle test"
+  }
+}
