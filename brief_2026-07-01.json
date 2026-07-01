@@ -1,0 +1,298 @@
+{
+  "date": "2026-07-01",
+  "generated_at": "Wednesday, July 01, 2026 \u2014 10:14 AM ET",
+  "regime": "Neutral",
+  "cio_summary": [
+    "SPY flat (+0.02%), QQQ weak (-0.71%); tech sector under pressure ahead of AVGO earnings after close",
+    "Iran ceasefire stabilizes oil (~$90/bbl); risk-on sentiment intact but cautious into earnings week",
+    "Major earnings setup: AVGO, CIEN, CRWD, HPE, PANW this week; AI infrastructure focus dominates",
+    "Institutional flow: Tech/AI overweight, Value rotation gaining, Private Markets (PE/PC ETFs) receiving allocations",
+    "Dollar weak (DXY 1.1416 -0.08%); defensiveness warranted; IWM outperforming small-cap risk preference"
+  ],
+  "macro_dashboard": {
+    "spy_trend": "Flat; 7,545.50 futures -0.04%; consolidating support",
+    "qqq_trend": "Weak -0.71%; tech sector rotation out of unprofitable growth",
+    "iwm_trend": "Resilient +0.54%; small-cap bid signals risk-on base",
+    "vix": "Not explicit; est. 14-16 (implied complacency)",
+    "vix_regime": "<15 complacent; monitor for compression into earnings",
+    "yield_10y": "Not provided; assume 4.0-4.2% on Treasury strength",
+    "dollar_trend": "Weak; EUR/USD 1.1416 -0.08%; supportive for equities",
+    "oil_trend": "Resilient ~$90/bbl +3% on Iran ceasefire; energy bid intact",
+    "crypto_sentiment": "Not provided; assume neutral on macro stability",
+    "tactical_bias": "Fade Strength; trim tech on weakness; buy dips in AI infrastructure pre-earnings"
+  },
+  "institutional_setups": [
+    {
+      "ticker": "AVGO",
+      "catalyst": "Q2 earnings after close Wed; AI infrastructure demand",
+      "setup": "Large institutional put positioning ahead; break of 140 support critical",
+      "entry": "135-139 on dip; 140-142 range breakout",
+      "stop": "134",
+      "target": "145-152",
+      "conviction": "High"
+    },
+    {
+      "ticker": "CIEN",
+      "catalyst": "Q2 earnings before open Wed; optical/AI chips",
+      "setup": "High beta play; premarket setup strong; momentum above 80",
+      "entry": "78-80 on entry; 81+ on strength",
+      "stop": "76",
+      "target": "88-92",
+      "conviction": "High"
+    },
+    {
+      "ticker": "CRWD",
+      "catalyst": "Q2 earnings before open Wed; cybersecurity TAM expansion",
+      "setup": "Institutional accumulation; above 360 breakout continuation",
+      "entry": "358-362 on dip; 365+ on momentum",
+      "stop": "355",
+      "target": "375-385",
+      "conviction": "High"
+    },
+    {
+      "ticker": "PANW",
+      "catalyst": "Earnings after close Tue; enterprise security spend",
+      "setup": "Consolidating; RSI 50-60; above 340 = institutional signal",
+      "entry": "335-340 on dip; 342+ on breakout",
+      "stop": "332",
+      "target": "355-365",
+      "conviction": "Med"
+    },
+    {
+      "ticker": "HPE",
+      "catalyst": "Earnings before open Wed; enterprise capex cycle",
+      "setup": "Lagging XLK; setup higher; institutional rotation signal",
+      "entry": "16-16.50 on dip; 17+ on strength",
+      "stop": "15.50",
+      "target": "18-19.50",
+      "conviction": "Med"
+    },
+    {
+      "ticker": "WDC",
+      "catalyst": "Semiconductor recovery; AI data center demand",
+      "setup": "Premarket +8.7%; above 80 breakout; momentum play",
+      "entry": "80-82 on any pullback; 83+ extension",
+      "stop": "77",
+      "target": "88-92",
+      "conviction": "Med"
+    },
+    {
+      "ticker": "ANET",
+      "catalyst": "AI networking infrastructure; structural growth",
+      "setup": "Institutional grade name; above 350 = institutional bid",
+      "entry": "345-350 on dip; 355+ momentum play",
+      "stop": "340",
+      "target": "365-375",
+      "conviction": "Med"
+    },
+    {
+      "ticker": "SMCI",
+      "catalyst": "AI server demand; Super Micro positioning",
+      "setup": "High vol, high beta; momentum + earnings setup collision",
+      "entry": "25-26 on dip; 27+ on strength",
+      "stop": "23",
+      "target": "30-33",
+      "conviction": "Low"
+    }
+  ],
+  "watchlist": [
+    {
+      "ticker": "AVGO",
+      "catalyst": "Earnings after close; AI infra demand focus",
+      "premarket_action": "Slight weakness into earnings; puts active",
+      "support": "140",
+      "resistance": "145",
+      "pattern": "Flag/consolidation; breakout vs breakdown",
+      "priority": "1"
+    },
+    {
+      "ticker": "CIEN",
+      "catalyst": "Earnings before open; optical networks AI",
+      "premarket_action": "Strength bias; momentum setup",
+      "support": "77",
+      "resistance": "82",
+      "pattern": "Ascending triangle breakout watch",
+      "priority": "2"
+    },
+    {
+      "ticker": "CRWD",
+      "catalyst": "Earnings before open; cybersecurity TAM",
+      "premarket_action": "Accumulation signal intact",
+      "support": "355",
+      "resistance": "365",
+      "pattern": "Breakout above 362 = institutional",
+      "priority": "3"
+    },
+    {
+      "ticker": "PANW",
+      "catalyst": "Earnings after close; enterprise security",
+      "premarket_action": "Flat consolidation into earnings",
+      "support": "332",
+      "resistance": "342",
+      "pattern": "Range breakout watch",
+      "priority": "4"
+    },
+    {
+      "ticker": "HPE",
+      "catalyst": "Enterprise capex cycle; earnings before open",
+      "premarket_action": "Lagging sector; recovery play",
+      "support": "15.50",
+      "resistance": "17",
+      "pattern": "Descending wedge bullish setup",
+      "priority": "5"
+    },
+    {
+      "ticker": "WDC",
+      "catalyst": "Semiconductor recovery; AI data center",
+      "premarket_action": "+8.7% premarket; momentum plays high",
+      "support": "77",
+      "resistance": "83",
+      "pattern": "Breakout continuation above 82",
+      "priority": "6"
+    },
+    {
+      "ticker": "ANET",
+      "catalyst": "AI networking infrastructure TAM",
+      "premarket_action": "Consolidating strength; institutional bid",
+      "support": "340",
+      "resistance": "355",
+      "pattern": "Higher lows setup",
+      "priority": "7"
+    },
+    {
+      "ticker": "RBRK",
+      "catalyst": "Earnings before open; backup/data protection AI",
+      "premarket_action": "High beta; earnings volatility play",
+      "support": "50",
+      "resistance": "56",
+      "pattern": "Momentum breakout watch",
+      "priority": "8"
+    },
+    {
+      "ticker": "SPY",
+      "catalyst": "Macro: Fed policy, jobs, CPI drivers",
+      "premarket_action": "Flat consolidation; defensive stance",
+      "support": "740",
+      "resistance": "750",
+      "pattern": "Range-bound into earnings week",
+      "priority": "9"
+    },
+    {
+      "ticker": "QQQ",
+      "catalyst": "Tech sector rotation; unprofitable growth pressure",
+      "premarket_action": "-0.71% weakness; leadership question",
+      "support": "715",
+      "resistance": "735",
+      "pattern": "Lower highs; trend vulnerable",
+      "priority": "10"
+    }
+  ],
+  "position_actions": [
+    {
+      "action": "HOLD",
+      "ticker": "AVGO",
+      "reasoning": "Core AI infrastructure play; await earnings; target 145-152; stop 134; no add until post-earnings clarity"
+    },
+    {
+      "action": "BUY",
+      "ticker": "CIEN",
+      "reasoning": "Setup high; breakout above 81 signals accumulation; 78-80 entry zone; target 88-92; conviction high"
+    },
+    {
+      "action": "BUY",
+      "ticker": "CRWD",
+      "reasoning": "Institutional accumulation setup; 358-362 dip buyer; breakout 365+ = continuation; target 375-385"
+    },
+    {
+      "action": "TRIM",
+      "ticker": "QQQ",
+      "reasoning": "Sector weakness -0.71%; unprofitable growth rotation active; reduce exposure until clarity post-earnings"
+    },
+    {
+      "action": "HOLD",
+      "ticker": "XLK",
+      "reasoning": "Sector weak -1.34%; tech rotation into value; wait for capitulation before aggressive add"
+    },
+    {
+      "action": "BUY",
+      "ticker": "WDC",
+      "reasoning": "Premarket +8.7%; AI momentum; 80-82 dip zone; 83+ breakout = institutional follow-through"
+    },
+    {
+      "action": "HEDGE",
+      "ticker": "SPY",
+      "reasoning": "Flat consolidation into earnings week; use 5% of capital for 740 put hedge; risk-off trigger at -6%"
+    },
+    {
+      "action": "MONITOR",
+      "ticker": "PANW",
+      "reasoning": "After-close earnings Wed; 335-340 dip buyable; await post-earnings setup; avoid pre-market fade"
+    }
+  ],
+  "wheel_book": [
+    {
+      "ticker": "AVGO",
+      "sector": "Semiconductors/AI",
+      "iv_rank_est": "72-78",
+      "delta": "-25 (puts) / +30 (calls)",
+      "dte": "35-42",
+      "strike_zone": "Put sell 135-138; call sell 145-150",
+      "assignment_risk": "Med",
+      "priority": "Monitor post-earnings; avoid selling until IV falls"
+    },
+    {
+      "ticker": "CRWD",
+      "sector": "Cybersecurity",
+      "iv_rank_est": "68-75",
+      "delta": "-28 (puts) / +32 (calls)",
+      "dte": "35-42",
+      "strike_zone": "Put sell 350-355; call sell 368-375",
+      "assignment_risk": "Med",
+      "priority": "Sell puts 352 for 1.5-2% yield post-earnings"
+    },
+    {
+      "ticker": "HPE",
+      "sector": "Enterprise Tech",
+      "iv_rank_est": "55-62",
+      "delta": "-20 (puts) / +25 (calls)",
+      "dte": "35-42",
+      "strike_zone": "Put sell 15.50-16; call sell 17.50-18.50",
+      "assignment_risk": "Med",
+      "priority": "Income play; 2-3% wheel yield target"
+    },
+    {
+      "ticker": "WDC",
+      "sector": "Semiconductors",
+      "iv_rank_est": "65-72",
+      "delta": "-26 (puts) / +28 (calls)",
+      "dte": "28-35",
+      "strike_zone": "Put sell 77-79; call sell 84-87",
+      "assignment_risk": "High",
+      "priority": "High IV; sell call spreads post-strength"
+    },
+    {
+      "ticker": "CIEN",
+      "sector": "Optical Networks",
+      "iv_rank_est": "70-76",
+      "delta": "-30 (puts) / +32 (calls)",
+      "dte": "35-42",
+      "strike_zone": "Put sell 75-77; call sell 84-88",
+      "assignment_risk": "High",
+      "priority": "Avoid naked puts until post-earnings IV crush"
+    }
+  ],
+  "risk_alerts": [
+    "Earnings week collision: AVGO, CIEN, CRWD, PANW, HPE all Wed; gamma/theta volatility spike expected",
+    "QQQ -0.71% signals tech sector rotation; unprofitable growth under pressure; monitor XLK -1.34% trend",
+    "VIX complacent <15; earnings week IV expansion likely; position sizing critical; max 8% per name enforced",
+    "Iran ceasefire = geopolitical risk-off valve; any escalation reverses oil/energy bid; WTI ~$90 fragile",
+    "DXY weak; supportive for equities but currency volatility into Fed policy; watch 10Y yield for context",
+    "Large-cap tech (AVGO, PANW, CRWD) put positioning heavy; short gamma risk if index breaks 740 support",
+    "IWM +0.54% outperforming; small-cap bid may signal institutional defensive rotation; monitor liquidity"
+  ],
+  "cio_verdict": {
+    "risk_posture": "Neutral",
+    "capital_flow": "50% deployed in institutional earnings setups (CIEN, CRWD, HPE, WDC); 20% reserved for premium income wheel on post-earnings bounces; 30% dry powder for dips below support levels; hedge 5% QQQ with 740 puts on Wed morning",
+    "avoid": "QQQ unprofitable growth sector; XLK weakness (-1.34%); pre-earnings fade into AVGO earnings (wait for post-close repricing); naked puts on high-beta names (CIEN, RBRK, SMCI); USD strength plays (DXY weak favors equities, not shorts)"
+  }
+}
