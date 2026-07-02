@@ -1,0 +1,266 @@
+{
+  "date": "2026-07-02",
+  "generated_at": "Thursday, July 02, 2026 \u2014 09:42 AM ET",
+  "regime": "Neutral",
+  "cio_summary": [
+    "SPY +0.49% but SPX futures -0.08%; mixed open ahead of July 4 holiday closure",
+    "VIX low w/ pathetic premiums; sector rotation favors Energy/Defense/Industrials over Cons Disc",
+    "Geopolitical risk: Iran-Israel tensions, Strait of Hormuz threat; Brent $71, WTI $90.82",
+    "ADP jobs surprise -33k; July 9 tariff deadline adds uncertainty; macro sensitivity high",
+    "NASDAQ +0.40% (NVDA +1.6%, WDC +8.7%, A +7.5%); AI/chip consolidation narrative persists"
+  ],
+  "macro_dashboard": {
+    "spy_trend": "Neutral; +0.49% but futures -0.08%; 7,537\u20137,540 range",
+    "qqq_trend": "Positive; +0.22% but futures +0.40%; NVDA leading",
+    "iwm_trend": "Positive; +0.48% on AI-driven gains; Russell outperforming",
+    "vix": "Low; exact level not quoted; premiums described as pathetic",
+    "vix_regime": "Complacent (<15); low volatility = low premium income",
+    "yield_10y": "4.30%; +5bps on geopolitical/inflation concerns",
+    "dollar_trend": "Strong; DXY 97.00 +0.2%; safe-haven bid despite Tuesday lows",
+    "oil_trend": "Volatile; Brent $71, WTI $90.82; Strait risk premium embedded",
+    "crypto_sentiment": "Strong; BTC $107.8k +$2.7k overnight from $105.1k",
+    "tactical_bias": "Buy Dips"
+  },
+  "institutional_setups": [
+    {
+      "ticker": "XLE",
+      "catalyst": "Geopolitical premium; Iran tensions; Brent $71; Strait of Hormuz risk",
+      "setup": "Sector rotation into Energy; $5B inflows in Mar; breakout above $85 resistance",
+      "entry": "$84.50\u2013$85.20",
+      "stop": "$82.50",
+      "target": "$88.00\u2013$90.00",
+      "conviction": "High"
+    },
+    {
+      "ticker": "ITA",
+      "catalyst": "Aerospace & Defense bid; geopolitical escalation; $3B inflows Mar",
+      "setup": "Breakout; record inflows; contrarian to consumer weakness",
+      "entry": "$298\u2013$302",
+      "stop": "$288",
+      "target": "$320\u2013$330",
+      "conviction": "High"
+    },
+    {
+      "ticker": "NVDA",
+      "catalyst": "Meta cloud narrative; AI capacity oversupply fears; +1.6% premarket",
+      "setup": "Oversold on Meta FUD; support at $137; oversold RSI; dip-buy setup",
+      "entry": "$137\u2013$140",
+      "stop": "$130",
+      "target": "$155\u2013$162",
+      "conviction": "Med"
+    },
+    {
+      "ticker": "SMH",
+      "catalyst": "Chip consolidation; WDC +8.7%, A +7.5% premarket; sector rebalance",
+      "setup": "Sector strength despite Meta narrative; momentum breakout $265+",
+      "entry": "$260\u2013$265",
+      "stop": "$250",
+      "target": "$280\u2013$290",
+      "conviction": "Med"
+    },
+    {
+      "ticker": "TLT",
+      "catalyst": "10Y yield 4.30% +5bps; defensive duration positioning; holiday week",
+      "setup": "Yield bounce; short-term bonds favored; tactical hedge position",
+      "entry": "$95\u2013$96",
+      "stop": "$92",
+      "target": "$99\u2013$101",
+      "conviction": "Low"
+    }
+  ],
+  "watchlist": [
+    {
+      "ticker": "XLE",
+      "catalyst": "Iran-Israel tension; Brent $71; Strait of Hormuz blockade threat",
+      "premarket_action": "Not quoted; sector bid expected at open",
+      "support": "$82.50",
+      "resistance": "$85.20",
+      "pattern": "Breakout attempt above $85 resistance on volume",
+      "priority": 1
+    },
+    {
+      "ticker": "ITA",
+      "catalyst": "Geopolitical escalation; defense spending bid; $3B flows",
+      "premarket_action": "Not quoted; institutional bid likely",
+      "support": "$288",
+      "resistance": "$302",
+      "pattern": "Breakout above $302; record inflows support higher",
+      "priority": 2
+    },
+    {
+      "ticker": "NVDA",
+      "catalyst": "Meta cloud FUD; oversold reversal; AI consolidation narrative",
+      "premarket_action": "+1.6% premarket; leading NASDAQ",
+      "support": "$137",
+      "resistance": "$148",
+      "pattern": "Dip-buy; oversold RSI; strong trendline support",
+      "priority": 3
+    },
+    {
+      "ticker": "SMH",
+      "catalyst": "Chip sector strength; WDC +8.7%, A +7.5%; consolidation",
+      "premarket_action": "Not quoted; sector momentum positive",
+      "support": "$250",
+      "resistance": "$265",
+      "pattern": "Sector momentum breakout; accumulation above $260",
+      "priority": 4
+    },
+    {
+      "ticker": "SPY",
+      "catalyst": "Jobs report today; July 9 tariff deadline; macro flex point",
+      "premarket_action": "+0.49%; futures -0.08%; range-bound",
+      "support": "$745",
+      "resistance": "$752",
+      "pattern": "Consolidation; macro data sensitivity high; holiday week",
+      "priority": 5
+    },
+    {
+      "ticker": "QQQ",
+      "catalyst": "NASDAQ strength; NVDA lead; AI sector rotation themes",
+      "premarket_action": "+0.22%; futures +0.40%; outperforming SPY",
+      "support": "$720",
+      "resistance": "$735",
+      "pattern": "Positive divergence vs SPY; tech bias intact",
+      "priority": 6
+    },
+    {
+      "ticker": "EEM",
+      "catalyst": "Geopolitical risk; emerging market volatility on Iran tensions",
+      "premarket_action": "Not quoted; safe-haven bid into DXY headwind",
+      "support": "$38.50",
+      "resistance": "$40.00",
+      "pattern": "Risk-off pressure; underperforming on dollar strength",
+      "priority": 7
+    },
+    {
+      "ticker": "GLD",
+      "catalyst": "Geopolitical premium; 10Y yield +5bps; inflation hedge demand",
+      "premarket_action": "Not quoted; inflation/risk-off bid expected",
+      "support": "$199",
+      "resistance": "$204",
+      "pattern": "Safe-haven accumulation; breakout above $204",
+      "priority": 8
+    },
+    {
+      "ticker": "USO",
+      "catalyst": "Oil volatility; WTI $90.82; Brent $71; Strait risk embedded",
+      "premarket_action": "Not quoted; sector bid expected with XLE",
+      "support": "$72.00",
+      "resistance": "$76.50",
+      "pattern": "Volatile; geopolitical bid; momentum breakout setup",
+      "priority": 9
+    },
+    {
+      "ticker": "TLT",
+      "catalyst": "Duration defense; 10Y 4.30%; short-term bonds favored; holiday week",
+      "premarket_action": "Not quoted; duration rebalance expected",
+      "support": "$92.00",
+      "resistance": "$96.50",
+      "pattern": "Yield-driven; tactical hedge accumulation",
+      "priority": 10
+    }
+  ],
+  "position_actions": [
+    {
+      "action": "HOLD",
+      "ticker": "SPY",
+      "reasoning": "Core holding; neutral regime; holiday week; await jobs report data"
+    },
+    {
+      "action": "ADD",
+      "ticker": "XLE",
+      "reasoning": "Sector rotation signal; geopolitical premium; energy inflows resume"
+    },
+    {
+      "action": "BUY",
+      "ticker": "ITA",
+      "reasoning": "Defense bid; $3B inflows; contrarian to consumer weakness; breakout setup"
+    },
+    {
+      "action": "BUY",
+      "ticker": "NVDA",
+      "reasoning": "Oversold dip on Meta FUD; support $137; AI consolidation theme; reversal setup"
+    },
+    {
+      "action": "HEDGE",
+      "ticker": "SPY",
+      "reasoning": "July 9 tariff deadline risk; geopolitical tension; buy TLT duration or VIX calls"
+    },
+    {
+      "action": "TRIM",
+      "ticker": "IWM",
+      "reasoning": "Small-cap strength +0.48% but stretched; take 2.5% profit on AI-driven rally"
+    },
+    {
+      "action": "HOLD",
+      "ticker": "QQQ",
+      "reasoning": "NASDAQ strength; +0.40% futures; NVDA lead; neutral regime; no action"
+    }
+  ],
+  "wheel_book": [
+    {
+      "ticker": "SPY",
+      "sector": "Broad Market",
+      "iv_rank_est": "Low; premiums pathetic",
+      "delta": "0.30\u20130.35 (30-delta puts)",
+      "dte": "7\u201314 days until expiration",
+      "strike_zone": "$740\u2013$745 puts",
+      "assignment_risk": "Low",
+      "priority": "Low income; skip until VIX spike; holiday week suppresses premiums"
+    },
+    {
+      "ticker": "XLE",
+      "sector": "Energy",
+      "iv_rank_est": "Med\u2013High; geopolitical premium",
+      "delta": "0.25\u20130.30",
+      "dte": "7 days (weekly); 14 days (standard)",
+      "strike_zone": "$82\u2013$84 puts; 0.30-delta optimal",
+      "assignment_risk": "Med",
+      "priority": "High income; IV elevated on Strait risk; sell 0.30-delta puts weekly"
+    },
+    {
+      "ticker": "ITA",
+      "sector": "Aerospace & Defense",
+      "iv_rank_est": "Med; geopolitical bid",
+      "delta": "0.25\u20130.30",
+      "dte": "14 days",
+      "strike_zone": "$290\u2013$295 puts; sell 0.25-delta for assignment cushion",
+      "assignment_risk": "Med",
+      "priority": "Med\u2013High; assign if support $288 holds; bullish stance"
+    },
+    {
+      "ticker": "NVDA",
+      "sector": "Semiconductors",
+      "iv_rank_est": "Low\u2013Med; Meta FUD compressed",
+      "delta": "0.30\u20130.35",
+      "dte": "7\u201314 days",
+      "strike_zone": "$132\u2013$135 puts; avoid naked short; covered calls $155+ if assigned",
+      "assignment_risk": "Med\u2013High",
+      "priority": "Low; skip premium selling until IV recovery; focus on position trading"
+    },
+    {
+      "ticker": "GLD",
+      "sector": "Commodities / Safe Haven",
+      "iv_rank_est": "Low; inflation hedge demand",
+      "delta": "0.25\u20130.30",
+      "dte": "14 days",
+      "strike_zone": "$195\u2013$199 puts; sell 0.25-delta for upside bias",
+      "assignment_risk": "Low",
+      "priority": "Low income; assign if $199 support holds; longer-dated better than weeklies"
+    }
+  ],
+  "risk_alerts": [
+    "VIX low, premiums pathetic: income strategies suffer; avoid premium selling until IV spike",
+    "July 9 tariff deadline: Trump re-imposing duties if no trade agreement; equities at risk -2% to -4%",
+    "Iran-Israel escalation: Strait of Hormuz blockade threat; oil upside surprise; inflation risk",
+    "ADP jobs -33k surprise: July payroll report today; if weak, sell-off risk; if strong, hawkish Fed risk",
+    "Holiday week: July 4 closure; Friday is dark; volume & liquidity compressed; wider spreads expected",
+    "Meta cloud FUD: Chip sector volatility persists; NVDA oversold but sector breadth weakening",
+    "DXY 97.00 strong: Headwind on EEM, commodities, crypto; emerging market outflows risk"
+  ],
+  "cio_verdict": {
+    "risk_posture": "Neutral",
+    "capital_flow": "Allocate 40% to Energy (XLE) sector rotation on geopolitical premium + Aerospace (ITA) on defense bid; 30% to NVDA dip-buy on oversold reversal; 20% to duration hedge (TLT calls or long bonds) on July 9 tariff risk; 10% cash reserve for macro volatility",
+    "avoid": "Consumer Discretionary (institutional lag signal); naked premium selling (VIX too low); EEM (dollar headwind); oversized chip / AI positions until Meta FUD clears; margin strategies ahead of tariff deadline"
+  }
+}
